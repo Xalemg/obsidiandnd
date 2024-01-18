@@ -15,11 +15,13 @@ Oficios:
 Ideal: 
 Vinculo: 
 Defecto: 
-Interpretacion: 
+Interpretacion: Siri de The Witcher
 Rango:
   - Dragona (Lider)
 Mundo: Aretries
 fileClass: NPC
+tags:
+  - NPC
 ---
 
 > [!infobox| background-black ]+
