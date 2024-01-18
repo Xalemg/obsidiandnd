@@ -1,0 +1,34 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": true,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "useUsDateInputOrder": false,
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000,
+  "enableJs": true,
+  "viewFieldDisplayNullAsEmpty": true,
+  "enableSyntaxHighlighting": true,
+  "inputFieldTemplates": [
+    {
+      "name": "tipoLugarTemplate",
+      "declaration": "INPUT[inlineSelect(option(Plano),option(Continente),option(Subcontinente), option(Reino), option(Region), option(Ciudad), option(Pueblo) , option(Mazmorra), option(Punto de Interes), option(Servicio))]"
+    },
+    {
+      "name": "rangoDeidadTemplate",
+      "declaration": "INPUT[inlineSelect( option(Deidad Principal),option(Deidad Intermedia), option(Deidad Menor),option(Semidios) )]"
+    },
+    {
+      "name": "alineamiento",
+      "declaration": "INPUT[inlineSelect( option(LB, LB),option(NB, NB),option(CB, CB),option(LN, LN),option(N),option(CN),option(LM),option(NM),option(CM))]"
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ]
+}

@@ -1,0 +1,12 @@
+Federación
+Magocracia
+Autocracia
+Monarquía
+Aristocracia
+Oligarquía
+Democracia
+República
+Tribal
+Consejo
+Matriarcado
+Agentes secretos

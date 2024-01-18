@@ -1,0 +1,14 @@
+{
+  "accentColor": "#4058ba",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "MyCallouts",
+    "supercharged-links-gen",
+    "SlimHorizontalLine",
+    "BetterLeafletIcons",
+    "imageSuggester"
+  ],
+  "theme": "obsidian",
+  "baseFontSizeAction": false,
+  "baseFontSize": 15
+}

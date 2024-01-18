@@ -1,0 +1,211 @@
+{
+  "addToDefaultIfMissing": true,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "calendars": [
+    {
+      "id": "ID_fbd88a383ac8",
+      "name": "Shamaliano",
+      "description": null,
+      "static": {
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Lunes",
+            "id": "ID_5998f8ead97b"
+          },
+          {
+            "type": "day",
+            "name": "Martes",
+            "id": "ID_f9891bdbeb68"
+          },
+          {
+            "type": "day",
+            "name": "Miercoles",
+            "id": "ID_e94a3a8bd9c9"
+          },
+          {
+            "type": "day",
+            "name": "Jueves",
+            "id": "ID_2afa9a5b7a3b"
+          },
+          {
+            "type": "day",
+            "name": "Viernes",
+            "id": "ID_6ab99baaa97a"
+          },
+          {
+            "type": "day",
+            "name": "Sabado",
+            "id": "ID_2a09c9d85ac8"
+          },
+          {
+            "type": "day",
+            "name": "Domingo",
+            "id": "ID_1a9aa89a4828"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Evrilan",
+            "id": "ID_fa18686bbada",
+            "length": 30,
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Fernes",
+            "id": "ID_882b78aa2a4a",
+            "length": 30,
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Marl",
+            "id": "ID_984b895a8bc9",
+            "length": 30,
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Alin",
+            "id": "ID_89fb5ac88988",
+            "length": 30,
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mualin",
+            "id": "ID_59ea08eb1b79",
+            "length": 30,
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Juabos",
+            "id": "ID_c93a09fa0a89",
+            "length": 30,
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Yule",
+            "id": "ID_fbbbaae878fa",
+            "length": 30,
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Agura",
+            "id": "ID_6a8b492a78cb",
+            "length": 30,
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Seruna",
+            "id": "ID_daaa5a894ab9",
+            "length": 30,
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ocul",
+            "id": "ID_a8688b1a2b4b",
+            "length": 30,
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Norival",
+            "id": "ID_eac9aa28c8fb",
+            "length": 30,
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Duocimes",
+            "id": "ID_8acb98dbdbab",
+            "length": 30,
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "leapDays": [],
+        "moons": [
+          {
+            "name": "Maeran",
+            "cycle": 30,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#ffffff",
+            "id": "ID_b88b094a3b2b"
+          },
+          {
+            "name": "Maloc",
+            "cycle": 0,
+            "offset": 0,
+            "faceColor": "#f1fa00",
+            "shadowColor": "#000000",
+            "id": "ID_b9ab78984879"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "eras": [],
+        "incrementDay": false
+      },
+      "current": {
+        "year": 783,
+        "month": 0,
+        "day": 7
+      },
+      "events": [],
+      "categories": [],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events",
+      "showIntercalarySeparately": true
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "debug": false,
+  "defaultCalendar": "ID_fbd88a383ac8",
+  "deletedCalendars": [],
+  "eventFrontmatter": false,
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "inlineEventsTag": null,
+  "parseDates": false,
+  "syncBehavior": "Always",
+  "paths": [],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0,
+    "beta": 30
+  }
+}

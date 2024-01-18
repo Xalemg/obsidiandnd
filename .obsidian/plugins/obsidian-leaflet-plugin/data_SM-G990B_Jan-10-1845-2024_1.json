@@ -1,0 +1,175 @@
+{
+  "mapMarkers": [
+    {
+      "id": "TBD",
+      "locked": true,
+      "lastAccessed": 1704815025445,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 132.7012933146301,
+              "lng": 195.38244247660793,
+              "id": "ID_da88798b2baa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 128.45865262751082,
+              "lng": 202.98384037436333,
+              "id": "ID_b97ac8596828",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 123.33212846390835,
+              "lng": 210.58523827211872,
+              "id": "ID_1a2b48ab09fb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 125.27667211217135,
+              "lng": 218.716966255764,
+              "id": "ID_68c9fb69e9f9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 132.8125,
+              "lng": 211.75,
+              "id": "ID_b9d8c9687b8a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 136.9439340017494,
+              "lng": 204.22127724143976,
+              "id": "ID_89291b6a7988",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 137.12071069704604,
+              "lng": 197.32698612487093,
+              "id": "ID_caaa1ad97aa8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 132.34773992403683,
+              "lng": 195.38244247660793,
+              "id": "ID_69b9bbe9fa98",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "z_Templates/Plantilla- Lugares.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.1",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 2.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Islas.webp]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Islas.webp]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 6.5,
+    "minZoom": 0,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 10,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "TBD",
+    "lock": true,
+    "recenter": true,
+    "noScrollZoom": false,
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        86.2,
+        121.8
+      ]
+    ],
+    "lat": 430.64,
+    "long": 609.03,
+    "unit": "Kms",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

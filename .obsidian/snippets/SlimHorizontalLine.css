@@ -1,0 +1,6 @@
+hr {
+  background: none!important;
+  border-top: 2px solid var(--hr)!important;
+  height: 10px!important;
+  margin: 1em 0!important;,
+}

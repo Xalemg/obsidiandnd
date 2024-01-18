@@ -1,0 +1,99 @@
+.buttons .block-language-button .button-default {
+  /* This is a google font */
+  font-family: "Vollkorn SC", serif;
+  text-transform: uppercase;
+  color: #d2c8ae;
+  border-width: 52px 54px;
+  border-style: solid;
+  border-color: #000;
+  /* can and probably should download this locally */
+  border-image-source: url("https://i.imgur.com/GZ2ESHp.png");
+  border-image-slice: 52 54 fill;
+  padding: 0;
+  /* could remove this negative margin with some very minor edits to the button image */
+  margin: 0px;
+  background-color: transparent;
+  box-shadow: none;
+  
+}
+
+.buttons .block-language-button .button-default:hover {
+  transform: none ;
+  background-color: transparent ;
+  border-style: solid ;
+ border-color: #000 ;
+ margin: 0px;
+    border-width: 52px 54px;
+  border-image-source: url("https://i.imgur.com/GZ2ESHp.png") ;
+  border-image-slice: 50 50 fill ;
+  box-shadow: none ; 
+}
+
+.buttons .block-language-button {
+  position: absolute;
+  z-index: 1;
+}
+
+.buttons .banner img{
+  position: relative;
+  height: 100px !important;
+  width: 100%;
+  object-fit: cover;
+  object-position: 0 10%;
+}
+
+.buttons .block-language-button:has(.asentamiento){
+  position: absolute;
+  left: 0px;
+  top: 100px;
+}
+.buttons .block-language-button:has(.mazmorra){
+  position: absolute;
+  left: 250px;
+  top: 100px;
+}
+.buttons .block-language-button:has(.territorio){
+  position: absolute;
+  left:480px;
+  top: 100px;
+}
+.buttons .block-language-button:has(.punto){
+  position: absolute;
+  left: 0px;
+  top: 239px;
+}
+.buttons .block-language-button:has(.npc){
+  position: absolute;
+  left:290px;
+  top: 239px;
+}
+.buttons .block-language-button:has(.faccion){
+  position: absolute;
+  left:480px;
+  top: 239px;
+}
+.buttons .block-language-button:has(.deidad){
+  position: absolute;
+  left:700px;
+  top: 239px;
+}
+.buttons .block-language-button:has(.item){
+  position: absolute;
+  left:0px;
+  top: 170px;
+}
+.buttons .block-language-button:has(.material){
+  position: absolute;
+  left:190px;
+  top: 170px;
+}
+.buttons .block-language-button:has(.evento){
+  position: absolute;
+  left:420px;
+  top: 170px;
+}
+.buttons .block-language-button:has(.sesion){
+  position: absolute;
+  left:640px;
+  top: 170px;
+}

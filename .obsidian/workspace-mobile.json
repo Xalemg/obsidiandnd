@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "fd5933b184114628",
+    "type": "split",
+    "children": [
+      {
+        "id": "04e5ade76ac147c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ca6d04e530976b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Campañas/El desencadenamiento/Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa31005fceb5e646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Campañas/El legado de plata/El legado de plata_SM-G990B_Jan-16-1939-2024_1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c22ac4f9c380785",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "64e5be416568e869",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "21df6d2d020b51fd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "5f58492daeb9de9f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b8cc1a6c15c5e89e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "695aefc1c8349cbd",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dcd97ae7bbf02671",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ffe6c66e74800a8f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "0.Campañas/El legado de plata/El legado de plata_SM-G990B_Jan-16-1939-2024_1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a1f84390350acd2f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "0.Campañas/El legado de plata/El legado de plata_SM-G990B_Jan-16-1939-2024_1.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5557b0c9504f34dd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "0.Campañas/El legado de plata/El legado de plata_SM-G990B_Jan-16-1939-2024_1.md"
+          }
+        }
+      },
+      {
+        "id": "523ded095b3958ce",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {}
+        }
+      },
+      {
+        "id": "888039b84c09ed39",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "e01a100ec73fd109",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_fbd88a383ac8",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "year": 783,
+                "month": 0,
+                "day": 7
+              },
+              "displayDayNumber": false,
+              "displayMoons": true
+            }
+          }
+        }
+      }
+    ],
+    "currentTab": 5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "aa31005fceb5e646",
+  "lastOpenFiles": [
+    "3.Lugares/3.Lugares.md",
+    "0.Campañas/El legado de plata/El legado de plata.md",
+    "0.Campañas/El legado de plata",
+    "3.Lugares/Crestafria.md",
+    "3.Lugares/Aretries.md",
+    "0.Campañas/El desencadenamiento/Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
+    "3.Lugares/Isla de Altalos.md",
+    "⭐Hub.md",
+    "0.Campañas/0.Campañas.md",
+    "z_Templates/Plantilla - Sesión.md",
+    "5.NPCs/Rufus.md",
+    "7.Pantalla del Master/7.Pantalla del Master.md",
+    "0.Campañas/Generadores/Aventuras/Ciudad/Ciudad.md",
+    "0.Campañas/Generadores/Aventuras/Ciudad/Eventos fantasticos.md",
+    "0.Campañas/Generadores/Aventuras/Ciudad/Eventos mundanos.md",
+    "0.Campañas/Generadores/Aventuras/Ciudad/Sentimiento.md",
+    "0.Campañas/Generadores/Aventuras/Mazmorras/Camaras.md",
+    "0.Campañas/Generadores/Aventuras/Mazmorras/Encuentros.md",
+    "0.Campañas/Generadores/Aventuras/Mazmorras/Habitaciones.md",
+    "0.Campañas/Generadores/Aventuras/Mazmorras/Trampas.md",
+    "0.Campañas/Generadores/Aventuras/Tesoro/Consumibles.md",
+    "0.Campañas/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 1.md",
+    "0.Campañas/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
+    "0.Campañas/Generadores/Aventuras/Tesoro/Oro por nivel.md",
+    "0.Campañas/Aventuras/Precios/Armadura.md",
+    "0.Campañas/Aventuras/Precios/Armas.md",
+    "0.Campañas/Aventuras/Precios/Comercio.md",
+    "0.Campañas/Generadores/Aventuras/Ciudad",
+    "0.Campañas/Generadores/Aventuras/Mazmorras",
+    "0.Campañas/Generadores/Aventuras/Tesoro",
+    "0.Campañas/Aventuras/Precios",
+    "0.Campañas/Aventuras/Viaje",
+    "0.Campañas/Combate/Estados",
+    "0.Campañas/Generadores/Aventuras",
+    "0.Campañas/Generadores/Encuentros",
+    "0.Campañas/Generadores/Nombre"
+  ]
+}

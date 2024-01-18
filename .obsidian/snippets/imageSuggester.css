@@ -1,0 +1,20 @@
+.mb-image-suggest-footer > span {
+    display: none;
+}
+.card-images .table-view-table img{
+    width: 75px !important;
+    height: 100%;
+    aspect-ratio: 1; /* will make width equal to height (500px container) */
+    object-fit: scale-down !important; /* use the one you need */
+}
+
+.card-images .callout .table-view-table img{
+    width: 100% !important;
+    height: 100%;
+    aspect-ratio: 1; /* will make width equal to height (500px container) */
+    object-fit: scale-down !important; /* use the one you need */
+}
+
+.callout[data-callout~=cards][data-callout-metadata~=dataview] .dataview.table-view-table tbody tr{
+    padding: 3px 1px !important;
+}

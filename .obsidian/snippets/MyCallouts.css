@@ -1,0 +1,125 @@
+.callout.callout.callout[data-callout-metadata="characters"] {
+   --callout-icon: users;
+   --callout-color: 173, 121, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="pois"] {
+   --callout-icon: map-pin;
+   --callout-color: 225, 225, 102;
+}
+
+.callout.callout.callout[data-callout-metadata="shops"] {
+   --callout-icon: shopping-cart;
+   --callout-color: 90, 225, 120;
+}
+
+.callout.callout.callout[data-callout-metadata="map"] {
+   --callout-icon: map;
+   --callout-color: 102, 255, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="districts"] {
+   --callout-icon: locate;
+   --callout-color: 255, 102, 192;
+}
+
+.callout.callout.callout[data-callout-metadata="overview"] {
+   --callout-icon: search;
+   --callout-color: 255, 255, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="landmarks"] {
+   --callout-icon: landmark;
+   --callout-color: 165, 205, 262;
+}
+
+.callout.callout.callout[data-callout-metadata="settlements"] {
+   --callout-icon: building-2;
+   --callout-color: 240, 195, 140;
+}
+
+.callout.callout.callout[data-callout-metadata="sessionlogs"] {
+   --callout-icon: album;
+   --callout-color: 255, 255, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="quests"] {
+   --callout-icon: alert-circle;
+   --callout-color: 225, 225, 102;
+}
+
+.callout.callout.callout[data-callout-metadata="sidequests"] {
+   --callout-icon: help-circle;
+   --callout-color: 225, 178, 102;
+}
+
+.callout.callout.callout[data-callout-metadata="servicerequests"] {
+   --callout-icon: tag;
+   --callout-color: 102, 255, 102;
+}
+
+.callout.callout.callout[data-callout-metadata="letters"] {
+   --callout-icon: mail;
+   --callout-color: 255, 102, 192;
+}
+
+.callout.callout.callout[data-callout-metadata="party"] {
+   --callout-icon: users;
+   --callout-color: 102, 178, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="friend"] {
+   --callout-icon: thumbs-up;
+   --callout-color: 80, 250, 57;
+}
+
+.callout.callout.callout[data-callout-metadata="foe"] {
+   --callout-icon: thumbs-down;
+   --callout-color: 250, 42, 42;
+}
+
+.callout.callout.callout[data-callout-metadata="holdings"] {
+   --callout-icon: warehouse;
+   --callout-color: 45, 260, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="story"] {
+   --callout-icon: clipboard-edit;
+   --callout-color: 142, 89, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="misc"] {
+   --callout-icon: help-circle;
+   --callout-color: 255, 255, 255;
+}
+
+.callout.callout.callout[data-callout-metadata="places"] {
+   --callout-icon: landmark;
+   --callout-color: 165, 205, 262;
+}
+
+.callout.callout.callout[data-callout-metadata="groups"] {
+   --callout-icon: component;
+   --callout-color: 255, 168, 102;
+}
+
+.callout.callout.callout[data-callout-metadata="rolltable"] {
+   --callout-icon: dices;
+   --callout-color: 195, 65, 55;
+}
+
+.callout.callout.callout[data-callout-metadata="goals"] {
+   --callout-icon: target;
+   --callout-color: 255, 204, 153;
+}
+
+.callout.callout.callout[data-callout-metadata="history"] {
+   --callout-icon: scroll-text;
+   --callout-color: 255, 204, 255;
+}
+.callout.callout.callout[data-callout-metadata="notes"] {
+   --callout-icon: pencil;
+   --callout-color: 230, 230, 230;
+}
+
+/* https://lucide.dev */

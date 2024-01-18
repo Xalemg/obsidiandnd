@@ -1,0 +1,7 @@
+.heatmap-calendar-graph ul, .heatmap-calendar-graph ol, ul.heatmap-calendar-graph, ol.heatmap-calendar-graph {
+    display:grid !important;
+    flex-direction: none;
+    border-radius: 0;
+    flex-wrap: none;
+    padding-inline-start: 0px;
+}

@@ -1,0 +1,48 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "1.Lore",
+      "tag": "#lore",
+      "pattern": ""
+    },
+    {
+      "folder": "2.Panteón",
+      "tag": "#deidad",
+      "pattern": ""
+    },
+    {
+      "folder": "3.Lugares",
+      "tag": "#lugar",
+      "pattern": ""
+    },
+    {
+      "folder": "4.Facciones",
+      "tag": "#faccion",
+      "pattern": ""
+    },
+    {
+      "folder": "5.NPCs",
+      "tag": "#NPC",
+      "pattern": ""
+    },
+    {
+      "folder": "6.Literatura",
+      "tag": "#literatura",
+      "pattern": ""
+    },
+    {
+      "folder": "8.Notas varias",
+      "tag": "#notas",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "z_Templates"
+    }
+  ]
+}

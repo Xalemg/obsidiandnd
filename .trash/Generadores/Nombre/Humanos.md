@@ -1,0 +1,114 @@
+### Humano
+**Hombre**: `dice: [[Humanos#^Hombre]]`
+
+| d100  | Name      |
+| ----- | --------- |
+| 01-02 | Alexandre |
+| 03-04 | Alfonso   |
+| 05-06 | Alonso    |
+| 07-08 | Anthon    |
+| 09-10 | Arcos     |
+| 11-12 | Arnaut    |
+| 13-14 | Arturo    |
+| 15-16 | Bartoleme |
+| 17-18 | Benito    |
+| 19-20 | Bernat    |
+| 21-22 | Blasco    |
+| 23-24 | Carlos    |
+| 25-26 | Damian    |
+| 27-28 | Diego     |
+| 29-30 | Domingo   |
+| 31-32 | Enrique   |
+| 33-34 | Escobar   |
+| 35-36 | Ettor     |
+| 37-38 | Fernando  |
+| 39-40 | Franciso  |
+| 41-42 | Gabriel   |
+| 43-44 | Garcia    |
+| 45-46 | Gaspar    |
+| 47-48 | Gil       |
+| 49-50 | Gomes     |
+| 51-52 | Goncalo   |
+| 53-54 | Gostantin |
+| 55-56 | Jayme     |
+| 57-58 | Joan      |
+| 59-60 | Jorge     |
+| 61-62 | Jose      |
+| 63-64 | Juan      |
+| 65-66 | Machin    |
+| 67-68 | Martin    |
+| 69-70 | Mateu     |
+| 71-72 | Miguel    |
+| 73-74 | Nicolas   |
+| 75-76 | Pascual   |
+| 77-78 | Pedro     |
+| 79-80 | Porico    |
+| 81-82 | Ramiro    |
+| 83-84 | Ramon     |
+| 85-86 | Rodrigo   |
+| 87-88 | Sabastian |
+| 89-90 | Salvador  |
+| 91-92 | Simon     |
+| 93-94 | Tomas     |
+| 95-96 | Tristan   |
+| 97-98 | Valeriano |
+| 99-00 | Ynigo     |
+
+^Hombre
+
+**Mujer** `dice: [[Gnomos#^Mujer|noform]]`
+
+| d100  | Name      |
+| ----- | --------- |
+| 01-02 | Abella    |
+| 03-04 | Adalina   |
+| 05-06 | Adora     |
+| 07-08 | Adriana   |
+| 09-10 | Ana       |
+| 11-12 | Antonia   |
+| 13-14 | Basilia   |
+| 15-16 | Beatriz   |
+| 17-18 | Bonita    |
+| 19-20 | Camila    |
+| 21-22 | Cande     |
+| 23-24 | Carmen    |
+| 25-26 | Catlina   |
+| 27-28 | Dolores   |
+| 29-30 | Dominga   |
+| 31-32 | Dorotea   |
+| 33-34 | Elena     |
+| 35-36 | Elicia    |
+| 37-38 | Esmerelda |
+| 39-40 | Felipina  |
+| 41-42 | Francisca |
+| 43-44 | Gabriela  |
+| 45-46 | Imelda    |
+| 47-48 | Ines      |
+| 49-50 | Isabel    |
+| 51-52 | Juana     |
+| 53-54 | Leocadia  |
+| 55-56 | Leonor    |
+| 57-58 | Leta      |
+| 59-60 | Lucinda   |
+| 61-62 | Maresol   |
+| 63-64 | Maria     |
+| 65-66 | Maricela  |
+| 67-68 | Matilde   |
+| 69-70 | Melania   |
+| 71-72 | Monica    |
+| 73-74 | Neva      |
+| 75-76 | Nilda     |
+| 77-78 | Petrona   |
+| 79-80 | Rafaela   |
+| 81-82 | Ramira    |
+| 83-84 | Rosario   |
+| 85-86 | Sofia     |
+| 87-88 | Suelo     |
+| 89-90 | Teresa    |
+| 91-92 | Tomasa    |
+| 93-94 | Valentia  |
+| 95-96 | Veronica  |
+| 97-98 | Ynes      |
+| 99-00 | Ysabel    |
+
+^Mujer

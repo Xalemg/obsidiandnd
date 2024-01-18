@@ -1,0 +1,309 @@
+{
+  "main": {
+    "id": "ff13853cd880cd70",
+    "type": "split",
+    "children": [
+      {
+        "id": "bafc2e9179dde8b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "825bc976518c6eb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.Facciones/4.Facciones.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6567840c6c30487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.Facciones/La Mancomunidad del Viento.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5f23bb565a59332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "caf56b80082346bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.NPCs/Emir Sander.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "420676fb70a5ff68",
+    "type": "split",
+    "children": [
+      {
+        "id": "68d169e2f47fa8b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59369172aaba219c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01c245aacb8c2073",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#personaje",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "55899e3c055c4d95",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cc70ceb331cfaefc",
+    "type": "split",
+    "children": [
+      {
+        "id": "66e141e4c5c2be88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "785ab9631e1f7755",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5305f3790e19a54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ca9bbb8cbaed2db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b4fec93070d724c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Campañas/0.Campañas.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2b4290b2a206ded4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md"
+              }
+            }
+          },
+          {
+            "id": "8c6f6c034f5e85a1",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7c59265677dbc4e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "36647f2dee74b912",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_fbd88a383ac8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "year": 783,
+                    "month": 0,
+                    "day": 7
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                }
+              }
+            }
+          },
+          {
+            "id": "bd145fc7d68d9413",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_fbd88a383ac8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "year": 783,
+                    "month": 0,
+                    "day": 7
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "templater-obsidian:Templater": false,
+      "open-vscode:VSCode": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian42-brat:BRAT": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "f5f23bb565a59332",
+  "lastOpenFiles": [
+    "Nueva carpeta",
+    "2.Panteón/2.Panteón.md",
+    "0.Campañas/Personajes/Kas.md",
+    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
+    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones/Sesión 0 El desencadenamiento, El legado de plata (Kiera)( 2024-01-23).md",
+    "5.NPCs/Emir Sander.md",
+    "z_Assets/Arte/Emir Snader.png",
+    "3.Lugares/Puerto Kalabor.md",
+    "z_Assets/Arte/Puerto Kalabor.png",
+    "⭐Hub.md",
+    "0.Campañas/0.Campañas.md",
+    "4.Facciones/Concilio del Caparazón.md",
+    "4.Facciones/4.Facciones.md",
+    "0.Campañas/El desencadenamiento/El desencadenamiento.md",
+    "Shield of Missile Attraction.md",
+    "3.Lugares/3.Lugares.md",
+    "0.Campañas/Personajes/Personajes.md",
+    "4.Facciones/La Mancomunidad del Viento.md",
+    "4.Facciones/La sombra que fue.md",
+    "3.Lugares/Isla de Altalos.md",
+    "4.Facciones/La escama plateada.md",
+    "4.Facciones/Corona de Altalos.md",
+    "z_Classes/Classes/Faccion.md",
+    "8.Notas varias/Fragmentos de Dataview.md",
+    "z_Templates/Plantilla - Sesión.md",
+    "5.NPCs/5.NPCs.md",
+    "0.Campañas/Personajes/Kiera/Kiera.md",
+    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesión 0 El desencadenamiento, El legado de plata (Kiera )( 2024-01-23).md",
+    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones",
+    "z_Assets/Arte/Dioses/Lolthwebp.webp",
+    "z_Assets/Arte/Dioses/Lolthwebp.webp.crdownload",
+    "z_Assets/Emblemas/59188df2f0da25a850ae2b3760f5615f.png.crdownload",
+    "z_Assets/Emblemas/La escama plateada.png",
+    "z_Assets/Emblemas/emblema mancomunidad.png",
+    "z_Assets/Arte/Material_Plane.webp",
+    "z_Assets/Arte/Material_Plane.webp.crdownload",
+    "z_Assets/Arte/infraoscuridad.jpeg",
+    "z_Assets/Emblemas/altalos.png",
+    "z_Classes/Classes",
+    "z_Classes/Options",
+    "z_Assets/Misc/PlaceholderImage.png",
+    "0.Campañas/El desencadenamiento/Ideas",
+    "z_Assets/Emblemas/cnocilio caparazón (1).png"
+  ]
+}
