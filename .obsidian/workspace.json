@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Classes/Classes/NPC.md",
+                "file": "Lisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Classes/Classes/NPC.md",
+                "file": "Lisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Classes/Classes/NPC.md"
+                "file": "Lisa.md"
               }
             }
           },
@@ -270,11 +270,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "01f2b696b181bc67",
+  "active": "3029ee9ff3ff353a",
   "lastOpenFiles": [
+    "z_Classes/Options/Alineamiento.md",
+    "z_Classes/Classes/NPC.md",
+    "Lisa.md",
     "z_Templates/Plantilla - NPC.md",
     "5.NPCs/5.NPCs.md",
-    "Lisa.md",
     "0.Campañas/0.Campañas.md",
     "5.NPCs/---.md",
     "5.NPCs/Lisa.jpg",
@@ -300,8 +302,6 @@
     "4.Facciones/La sombra que fue.md",
     "3.Lugares/Isla de Altalos.md",
     "4.Facciones/Corona de Altalos.md",
-    "z_Classes/Classes/Faccion.md",
-    "8.Notas varias/Fragmentos de Dataview.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones",
     "z_Assets/Arte/Dioses/Lolthwebp.webp",
     "z_Assets/Arte/Dioses/Lolthwebp.webp.crdownload",

@@ -1,12 +1,13 @@
 ---
 icon: "![[Lisa.jpg]]"
 Ubicacion: "[[Crestafria]]"
-Religiones: "[[Bahamut]]"
+Religiones:
+  - "[[Bahamut]]"
 Estado: Vivo
-Alineamiento: 
-Sexo: 
+Alineamiento: LB
+Sexo: Mujer
 Raza: 
-Facciones: 
+Facciones: "[[La escama plateada]]"
 Edad: 
 Oficios: 
 Ideal: 
