@@ -87,7 +87,7 @@
     {
       "id": "Islas",
       "locked": false,
-      "lastAccessed": 1705596993304,
+      "lastAccessed": 1705597052011,
       "markers": [
         {
           "id": "ID_0a78cae98b58",
@@ -196,7 +196,7 @@
     {
       "id": "Crestafria",
       "locked": true,
-      "lastAccessed": 1705596993304,
+      "lastAccessed": 1705597052011,
       "markers": [
         {
           "id": "ID_c9788a3919bb",
@@ -210,6 +210,38 @@
           "command": false,
           "percent": null,
           "description": "Catedral del Martillo\n\nEl mayor edificio de rezo de Tyr. Aqui se producen los juicios mas importantes del Reino",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a8696a48493b",
+          "type": "Fortaleza",
+          "loc": [
+            62,
+            197
+          ],
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Fortaleza de Norias.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69383b6a18bb",
+          "type": "default",
+          "loc": [
+            175,
+            126
+          ],
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -303,7 +335,7 @@
     {
       "type": "Fortaleza",
       "iconName": "shield-alt",
-      "color": "#dddddd",
+      "color": "#c8bf50",
       "alpha": 1,
       "layer": false,
       "transform": {
