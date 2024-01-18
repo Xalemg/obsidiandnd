@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.NPCs/5.NPCs.md",
+                "file": "z_Classes/Classes/NPC.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3029ee9ff3ff353a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lisa.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/5.NPCs.md",
+                "file": "z_Classes/Classes/NPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/5.NPCs.md",
+                "file": "z_Classes/Classes/NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/5.NPCs.md"
+                "file": "z_Classes/Classes/NPC.md"
               }
             }
           },
@@ -260,12 +272,13 @@
   },
   "active": "01f2b696b181bc67",
   "lastOpenFiles": [
-    "0.Campañas/0.Campañas.md",
+    "z_Templates/Plantilla - NPC.md",
     "5.NPCs/5.NPCs.md",
+    "Lisa.md",
+    "0.Campañas/0.Campañas.md",
     "5.NPCs/---.md",
     "5.NPCs/Lisa.jpg",
     "⭐Hub.md",
-    "z_Templates/Plantilla - NPC.md",
     "3.Lugares/Crestafria.md",
     "4.Facciones/La escama plateada.md",
     "4.Facciones/4.Facciones.md",
@@ -289,7 +302,6 @@
     "4.Facciones/Corona de Altalos.md",
     "z_Classes/Classes/Faccion.md",
     "8.Notas varias/Fragmentos de Dataview.md",
-    "z_Templates/Plantilla - Sesión.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones",
     "z_Assets/Arte/Dioses/Lolthwebp.webp",
     "z_Assets/Arte/Dioses/Lolthwebp.webp.crdownload",
