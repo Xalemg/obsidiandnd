@@ -52,7 +52,7 @@ El incumplimiento de estos puntos está castigado con sanciones comerciales y en
 
 # 📜 Historia
 
-#TBD
+El nacimiento de [[La Mancomunidad del Viento]] fue uno de los eventos más importantes de la
 
 # ✏️ Notas
 

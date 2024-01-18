@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "4.Facciones/La Mancomunidad del Viento.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "4.Facciones/La Mancomunidad del Viento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "4.Facciones/La Mancomunidad del Viento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Campañas/0.Campañas.md"
+                "file": "4.Facciones/La Mancomunidad del Viento.md"
               }
             }
           },
@@ -246,10 +246,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f5f23bb565a59332",
+  "active": "a6567840c6c30487",
   "lastOpenFiles": [
-    "4.Facciones/La Mancomunidad del Viento.md",
     "0.Campañas/0.Campañas.md",
+    "4.Facciones/La Mancomunidad del Viento.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
     "Nueva carpeta",
     "2.Panteón/2.Panteón.md",
