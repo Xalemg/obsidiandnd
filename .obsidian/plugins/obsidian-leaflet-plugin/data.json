@@ -87,7 +87,7 @@
     {
       "id": "Islas",
       "locked": false,
-      "lastAccessed": 1705597089650,
+      "lastAccessed": 1705597167656,
       "markers": [
         {
           "id": "ID_0a78cae98b58",
@@ -195,8 +195,8 @@
     },
     {
       "id": "Crestafria",
-      "locked": true,
-      "lastAccessed": 1705597089650,
+      "locked": false,
+      "lastAccessed": 1705597167656,
       "markers": [
         {
           "id": "ID_c9788a3919bb",
@@ -226,6 +226,25 @@
           "command": false,
           "percent": null,
           "description": "Fortaleza de Norias.",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cae8fb7868aa",
+          "type": "Punto de interes",
+          "loc": [
+            170.5,
+            124
+          ],
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            2.7400387770978716,
+            -5.023404424679431
+          ],
+          "description": "El broquel de los caballeros",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
@@ -320,6 +339,22 @@
       "type": "Fortaleza",
       "iconName": "shield-alt",
       "color": "#c8bf50",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Punto de interes",
+      "iconName": "map-marker-alt",
+      "color": "#9b557a",
       "alpha": 1,
       "layer": false,
       "transform": {
