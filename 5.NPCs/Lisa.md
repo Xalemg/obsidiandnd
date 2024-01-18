@@ -1,23 +1,25 @@
 ---
-tags:
-  - NPC
-icon: "![[z_Assets/Misc/PlaceholderImage.png]]"
-Ideal: ""
-fileClass: NPC
-Raza:
-Ubicacion: 
-Religiones: 
-Estado: 
-Alineamiento: 
-Sexo: 
-Facciones: 
-Edad: 
-Oficios: 
+icon: "![[Lisa.jpg]]"
+Ubicacion: "[[Crestafria]]"
+Religiones:
+  - "[[Bahamut]]"
+Estado: Vivo
+Alineamiento: LB
+Sexo: Mujer
+Raza: 
+Facciones: "[[La escama plateada]]"
+Edad:
+  - Joven, equivalente a 23 años
+Oficios:
+  - Reina
+Ideal: 
 Vinculo: 
 Defecto: 
 Interpretacion: 
-Rango: 
-Mundo: 
+Rango:
+  - Dragona (Lider)
+Mundo: Aretries
+fileClass: NPC
 ---
 
 > [!infobox| background-black ]+

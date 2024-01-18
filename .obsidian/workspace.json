@@ -49,19 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Classes/Classes/NPC.md",
-                "mode": "preview",
+                "file": "5.NPCs/Lisa.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3029ee9ff3ff353a",
+            "id": "2cdabfb45a41830b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lisa.md",
+                "file": "5.NPCs/Lisa.md",
                 "mode": "preview",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lisa.md",
+                "file": "5.NPCs/Lisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lisa.md",
+                "file": "5.NPCs/Lisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lisa.md"
+                "file": "5.NPCs/Lisa.md"
               }
             }
           },
@@ -270,17 +270,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3029ee9ff3ff353a",
+  "active": "2cdabfb45a41830b",
   "lastOpenFiles": [
-    "z_Classes/Options/Alineamiento.md",
-    "z_Classes/Classes/NPC.md",
-    "Lisa.md",
-    "z_Templates/Plantilla - NPC.md",
     "5.NPCs/5.NPCs.md",
-    "0.Campañas/0.Campañas.md",
     "5.NPCs/---.md",
-    "5.NPCs/Lisa.jpg",
+    "z_Templates/Plantilla - NPC.md",
     "⭐Hub.md",
+    "0.Campañas/Personajes/Personajes.md",
+    "5.NPCs/Lisa.md",
+    "z_Classes/Classes/NPC.md",
+    "z_Classes/Options/Alineamiento.md",
+    "0.Campañas/0.Campañas.md",
+    "5.NPCs/Lisa.jpg",
     "3.Lugares/Crestafria.md",
     "4.Facciones/La escama plateada.md",
     "4.Facciones/4.Facciones.md",
@@ -298,7 +299,6 @@
     "4.Facciones/Concilio del Caparazón.md",
     "0.Campañas/El desencadenamiento/El desencadenamiento.md",
     "Shield of Missile Attraction.md",
-    "0.Campañas/Personajes/Personajes.md",
     "4.Facciones/La sombra que fue.md",
     "3.Lugares/Isla de Altalos.md",
     "4.Facciones/Corona de Altalos.md",
