@@ -185,7 +185,7 @@
               "type": "markdown",
               "state": {
                 "file": "0.Campañas/0.Campañas.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -272,8 +272,9 @@
   },
   "active": "2cdabfb45a41830b",
   "lastOpenFiles": [
-    "5.NPCs/Rey Kemdal.md",
+    "0.Campañas/0.Campañas.md",
     "5.NPCs/Lisa.md",
+    "5.NPCs/Rey Kemdal.md",
     "5.NPCs/5.NPCs.md",
     "5.NPCs/---.md",
     "z_Templates/Plantilla - NPC.md",
@@ -281,7 +282,6 @@
     "0.Campañas/Personajes/Personajes.md",
     "z_Classes/Classes/NPC.md",
     "z_Classes/Options/Alineamiento.md",
-    "0.Campañas/0.Campañas.md",
     "5.NPCs/Lisa.jpg",
     "3.Lugares/Crestafria.md",
     "4.Facciones/La escama plateada.md",
