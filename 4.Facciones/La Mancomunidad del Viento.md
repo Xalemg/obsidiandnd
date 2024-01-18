@@ -52,7 +52,7 @@ El incumplimiento de estos puntos está castigado con sanciones comerciales y en
 
 # 📜 Historia
 
-El nacimiento de [[La Mancomunidad del Viento]] fue uno de los eventos más importantes de la
+El nacimiento de [[La Mancomunidad del Viento]] fue uno de los eventos más importantes de las [[Islas Shamal]]. Esta unión de la necesidad de defender sus costas de la invasión del por 
 
 # ✏️ Notas
 
