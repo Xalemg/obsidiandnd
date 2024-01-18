@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Islas Shamal.md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Islas Shamal.md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Islas Shamal.md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -270,8 +270,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "55d45c75a320efaf",
+  "active": "845c684d98d4358d",
   "lastOpenFiles": [
+    "3.Lugares/Islas Shamal.md",
     "⭐Hub.md",
     "5.NPCs/Lisa.md",
     "3.Lugares/Crestafria.md",
@@ -301,7 +302,6 @@
     "0.Campañas/El desencadenamiento/El desencadenamiento.md",
     "Shield of Missile Attraction.md",
     "4.Facciones/La sombra que fue.md",
-    "3.Lugares/Isla de Altalos.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones",
     "z_Assets/Arte/Dioses/Lolthwebp.webp",
     "z_Assets/Arte/Dioses/Lolthwebp.webp.crdownload",
