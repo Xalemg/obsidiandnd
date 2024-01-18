@@ -44,31 +44,19 @@
             }
           },
           {
-            "id": "9fbef3f562186744",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⭐Hub.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "845c684d98d4358d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "3.Lugares/Crestafria.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "5.NPCs/Emir Sander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "5.NPCs/Emir Sander.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⭐Hub.md"
+                "file": "5.NPCs/Emir Sander.md"
               }
             }
           },
@@ -270,10 +258,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "845c684d98d4358d",
+  "active": "caf56b80082346bc",
   "lastOpenFiles": [
-    "5.NPCs/Emir Sander.md",
+    "3.Lugares/Crestafria.md",
+    "3.Lugares/3.Lugares.md",
     "⭐Hub.md",
+    "5.NPCs/Emir Sander.md",
     "0.Campañas/0.Campañas.md",
     "4.Facciones/La Mancomunidad del Viento.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
@@ -288,7 +278,6 @@
     "4.Facciones/4.Facciones.md",
     "0.Campañas/El desencadenamiento/El desencadenamiento.md",
     "Shield of Missile Attraction.md",
-    "3.Lugares/3.Lugares.md",
     "0.Campañas/Personajes/Personajes.md",
     "4.Facciones/La sombra que fue.md",
     "3.Lugares/Isla de Altalos.md",
