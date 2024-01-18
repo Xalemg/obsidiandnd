@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "f5f23bb565a59332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "caf56b80082346bc",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
+                "file": "0.Campañas/0.Campañas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
+                "file": "0.Campañas/0.Campañas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,26 +145,24 @@
             }
           },
           {
-            "id": "3b4fec93070d724c",
+            "id": "2b4290b2a206ded4",
             "type": "leaf",
-            "pinned": true,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.Campañas/0.Campañas.md"
+              }
+            }
+          },
+          {
+            "id": "f5f23bb565a59332",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "0.Campañas/0.Campañas.md",
                 "mode": "preview",
                 "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2b4290b2a206ded4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md"
               }
             }
           },
@@ -237,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -262,24 +248,24 @@
   },
   "active": "f5f23bb565a59332",
   "lastOpenFiles": [
+    "4.Facciones/La Mancomunidad del Viento.md",
+    "0.Campañas/0.Campañas.md",
+    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
     "Nueva carpeta",
     "2.Panteón/2.Panteón.md",
     "0.Campañas/Personajes/Kas.md",
-    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones/Sesión 0 El desencadenamiento, El legado de plata (Kiera)( 2024-01-23).md",
     "5.NPCs/Emir Sander.md",
     "z_Assets/Arte/Emir Snader.png",
     "3.Lugares/Puerto Kalabor.md",
     "z_Assets/Arte/Puerto Kalabor.png",
     "⭐Hub.md",
-    "0.Campañas/0.Campañas.md",
     "4.Facciones/Concilio del Caparazón.md",
     "4.Facciones/4.Facciones.md",
     "0.Campañas/El desencadenamiento/El desencadenamiento.md",
     "Shield of Missile Attraction.md",
     "3.Lugares/3.Lugares.md",
     "0.Campañas/Personajes/Personajes.md",
-    "4.Facciones/La Mancomunidad del Viento.md",
     "4.Facciones/La sombra que fue.md",
     "3.Lugares/Isla de Altalos.md",
     "4.Facciones/La escama plateada.md",
