@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "0.Campañas/0.Campañas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "0.Campañas/0.Campañas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Lisa.md"
+                "file": "0.Campañas/0.Campañas.md"
               }
             }
           },
@@ -270,10 +270,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2cdabfb45a41830b",
+  "active": "f5f23bb565a59332",
   "lastOpenFiles": [
-    "0.Campañas/0.Campañas.md",
     "5.NPCs/Lisa.md",
+    "0.Campañas/0.Campañas.md",
     "5.NPCs/Rey Kemdal.md",
     "5.NPCs/5.NPCs.md",
     "5.NPCs/---.md",
