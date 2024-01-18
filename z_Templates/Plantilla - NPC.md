@@ -15,6 +15,7 @@ Defecto:
 Interpretacion: 
 Rango: 
 Mundo: 
+fileClass: NPC
 ---
 ---
 tags:

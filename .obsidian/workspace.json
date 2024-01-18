@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Plantilla - NPC.md",
+                "file": "5.NPCs/5.NPCs.md",
                 "mode": "preview",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla - NPC.md",
+                "file": "5.NPCs/5.NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla - NPC.md",
+                "file": "5.NPCs/5.NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla - NPC.md"
+                "file": "5.NPCs/5.NPCs.md"
               }
             }
           },
@@ -173,7 +173,7 @@
               "type": "markdown",
               "state": {
                 "file": "0.Campañas/0.Campañas.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -260,15 +260,16 @@
   },
   "active": "01f2b696b181bc67",
   "lastOpenFiles": [
+    "0.Campañas/0.Campañas.md",
+    "5.NPCs/5.NPCs.md",
+    "5.NPCs/---.md",
+    "5.NPCs/Lisa.jpg",
     "⭐Hub.md",
     "z_Templates/Plantilla - NPC.md",
-    "5.NPCs/---.md",
-    "0.Campañas/0.Campañas.md",
+    "3.Lugares/Crestafria.md",
     "4.Facciones/La escama plateada.md",
-    "5.NPCs/Lisa.jpg",
     "4.Facciones/4.Facciones.md",
     "5.NPCs/Emir Sander.md",
-    "3.Lugares/Crestafria.md",
     "3.Lugares/3.Lugares.md",
     "4.Facciones/La Mancomunidad del Viento.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
@@ -289,7 +290,6 @@
     "z_Classes/Classes/Faccion.md",
     "8.Notas varias/Fragmentos de Dataview.md",
     "z_Templates/Plantilla - Sesión.md",
-    "5.NPCs/5.NPCs.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones",
     "z_Assets/Arte/Dioses/Lolthwebp.webp",
     "z_Assets/Arte/Dioses/Lolthwebp.webp.crdownload",
