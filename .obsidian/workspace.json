@@ -42,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "01f2b696b181bc67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/Plantilla - NPC.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Facciones/La escama plateada.md",
+                "file": "z_Templates/Plantilla - NPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Facciones/La escama plateada.md",
+                "file": "z_Templates/Plantilla - NPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Facciones/La escama plateada.md"
+                "file": "z_Templates/Plantilla - NPC.md"
               }
             }
           },
@@ -245,15 +258,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "825bc976518c6eb7",
+  "active": "01f2b696b181bc67",
   "lastOpenFiles": [
-    "4.Facciones/4.Facciones.md",
-    "4.Facciones/La escama plateada.md",
+    "⭐Hub.md",
+    "z_Templates/Plantilla - NPC.md",
+    "5.NPCs/---.md",
     "0.Campañas/0.Campañas.md",
+    "4.Facciones/La escama plateada.md",
+    "5.NPCs/Lisa.jpg",
+    "4.Facciones/4.Facciones.md",
     "5.NPCs/Emir Sander.md",
     "3.Lugares/Crestafria.md",
     "3.Lugares/3.Lugares.md",
-    "⭐Hub.md",
     "4.Facciones/La Mancomunidad del Viento.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
     "Nueva carpeta",
@@ -274,8 +290,6 @@
     "8.Notas varias/Fragmentos de Dataview.md",
     "z_Templates/Plantilla - Sesión.md",
     "5.NPCs/5.NPCs.md",
-    "0.Campañas/Personajes/Kiera/Kiera.md",
-    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesión 0 El desencadenamiento, El legado de plata (Kiera )( 2024-01-23).md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones",
     "z_Assets/Arte/Dioses/Lolthwebp.webp",
     "z_Assets/Arte/Dioses/Lolthwebp.webp.crdownload",
@@ -289,7 +303,6 @@
     "z_Classes/Classes",
     "z_Classes/Options",
     "z_Assets/Misc/PlaceholderImage.png",
-    "0.Campañas/El desencadenamiento/Ideas",
-    "z_Assets/Emblemas/cnocilio caparazón (1).png"
+    "0.Campañas/El desencadenamiento/Ideas"
   ]
 }
