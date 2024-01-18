@@ -8,8 +8,8 @@ Alineamiento: LB
 Sexo: Mujer
 Raza: 
 Facciones: "[[La escama plateada]]"
-Edad: 
-Oficios: 
+Edad: Joven, equivalente a 23 años
+Oficios: [Reina]
 Ideal: 
 Vinculo: 
 Defecto: 
