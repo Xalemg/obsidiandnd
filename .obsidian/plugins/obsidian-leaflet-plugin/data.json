@@ -85,9 +85,37 @@
       ]
     },
     {
+      "id": "Crestafria",
+      "locked": true,
+      "lastAccessed": 1705596866668,
+      "markers": [
+        {
+          "id": "ID_c9788a3919bb",
+          "type": "Edificio",
+          "loc": [
+            148.84597743976826,
+            223.44574285494903
+          ],
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "3.Lugares/Crestafria.md"
+      ]
+    },
+    {
       "id": "Islas",
       "locked": false,
-      "lastAccessed": 1705596807180,
+      "lastAccessed": 1705596872103,
       "markers": [
         {
           "id": "ID_0a78cae98b58",
@@ -255,6 +283,22 @@
       "tags": [],
       "minZoom": null,
       "maxZoom": 0.5
+    },
+    {
+      "type": "Edificio",
+      "iconName": "building",
+      "color": "#c84646",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",
