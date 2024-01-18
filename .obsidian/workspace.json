@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "3.Lugares/Islas Shamal.md",
                 "mode": "preview",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "3.Lugares/Islas Shamal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "3.Lugares/Islas Shamal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⭐Hub.md"
+                "file": "3.Lugares/Islas Shamal.md"
               }
             }
           },
@@ -272,6 +272,7 @@
   },
   "active": "55d45c75a320efaf",
   "lastOpenFiles": [
+    "⭐Hub.md",
     "5.NPCs/Lisa.md",
     "3.Lugares/Crestafria.md",
     "0.Campañas/0.Campañas.md",
@@ -279,7 +280,6 @@
     "5.NPCs/5.NPCs.md",
     "5.NPCs/---.md",
     "z_Templates/Plantilla - NPC.md",
-    "⭐Hub.md",
     "0.Campañas/Personajes/Personajes.md",
     "z_Classes/Classes/NPC.md",
     "z_Classes/Options/Alineamiento.md",
