@@ -72,7 +72,7 @@
     {
       "id": "TBD",
       "locked": true,
-      "lastAccessed": 1705659298734,
+      "lastAccessed": 1705659358358,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -156,7 +156,7 @@
     {
       "id": "Islas",
       "locked": false,
-      "lastAccessed": 1705659298734,
+      "lastAccessed": 1705659358358,
       "markers": [
         {
           "id": "ID_0a78cae98b58",
@@ -278,7 +278,7 @@
     {
       "type": "Ciudad",
       "iconName": "city",
-      "color": "#dddddd",
+      "color": "#000000",
       "alpha": 1,
       "layer": false,
       "transform": {
@@ -409,7 +409,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": false,
-    "defaultZoom": 2.5,
+    "defaultZoom": 0,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
@@ -430,7 +430,7 @@
     "markerFile": [],
     "markerFolder": [],
     "markerTag": [],
-    "maxZoom": 6.5,
+    "maxZoom": 3,
     "minZoom": 0,
     "osmLayer": true,
     "overlay": [],

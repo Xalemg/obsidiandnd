@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "825bc976518c6eb7",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
-            }
-          },
-          {
             "id": "d1cae656d44fb093",
             "type": "leaf",
             "state": {
@@ -46,8 +38,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8a31f82e99c7617",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,7 +250,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "825bc976518c6eb7",
+  "active": "abcfc6a24faf3fd6",
   "lastOpenFiles": [
     "z_Templates/Plantilla- Punto de Interes.md",
     "4.Facciones/La escama plateada.md",
