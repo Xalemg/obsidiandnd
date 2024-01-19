@@ -11,6 +11,8 @@ Defensas:
 Religion: 
 Ubicacion:
 Mundo: [Aretries]
+Poblacion: 
+Terreno: 
 ---
 
 

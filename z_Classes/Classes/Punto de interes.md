@@ -6,11 +6,13 @@ tagNames:
   - PuntoDeInteres
 filesPaths: 
 bookmarksGroups: 
-excludes: 
+excludes:
+  - Poblacion
+  - Terreno
 extends: Lugar
 savedViews: []
 favoriteView: 
-version: "2.7"
+version: "2.13"
 fieldsOrder:
   - uySHWq
 fields:
