@@ -435,7 +435,7 @@
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
-    "scale": 1,
+    "scale": 2,
     "showAllMarkers": false,
     "tileServer": [],
     "verbose": false,
