@@ -72,7 +72,7 @@
     {
       "id": "TBD",
       "locked": true,
-      "lastAccessed": 1705659358358,
+      "lastAccessed": 1705659413059,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -156,7 +156,7 @@
     {
       "id": "Islas",
       "locked": false,
-      "lastAccessed": 1705659358358,
+      "lastAccessed": 1705659413059,
       "markers": [
         {
           "id": "ID_0a78cae98b58",
@@ -409,7 +409,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": false,
-    "defaultZoom": 0,
+    "defaultZoom": 0.5,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
