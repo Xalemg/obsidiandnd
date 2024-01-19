@@ -2,12 +2,14 @@
 limit: 20
 mapWithTag: false
 icon: map-pin
-tagNames: 
+tagNames:
+  - PuntoDeInteres
 filesPaths: 
 bookmarksGroups: 
 excludes: 
 extends: 
 savedViews: []
 favoriteView: 
-version: "2.2"
+version: "2.4"
+fieldsOrder: []
 ---

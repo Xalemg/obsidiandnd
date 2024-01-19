@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "55d45c75a320efaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Lugares/Islas Shamal.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "191e71bb4c2e59d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Classes/Classes/Punto de interes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d1cae656d44fb093",
             "type": "leaf",
             "state": {
@@ -280,21 +256,25 @@
   },
   "active": "01f2b696b181bc67",
   "lastOpenFiles": [
-    "5.NPCs/Lisa.md",
+    "3.Lugares/Crestafria.md",
+    "2.Panteón/Tyr.md",
+    "3.Lugares/Islas Shamal.md",
+    "z_Classes/Classes/Area.md",
+    "z_Classes/Classes/Asentamiento.md",
+    "z_Classes/Options/Oficios.md",
     "z_Classes/Classes/Punto de interes.md",
-    "z_Classes/Options/Clases de Puntos de Interes.md",
     "z_Templates/Plantilla- Punto de Interes.md",
+    "5.NPCs/Lisa.md",
+    "z_Classes/Options/Clases de Puntos de Interes.md",
     "3.Lugares/3.Lugares.md",
     "9.Puntos de interes",
     "Personajes de el desencadenamiento.md",
     "Shield of Missile Attraction.md",
     "5.NPCs/Emir Sander.md",
     "4. Punto",
-    "3.Lugares/Crestafria.md",
     "⭐Hub.md",
     "4.Facciones/La escama plateada.md",
     "0.Campañas/0.Campañas.md",
-    "3.Lugares/Islas Shamal.md",
     "5.NPCs/Rey Kemdal.md",
     "5.NPCs/5.NPCs.md",
     "5.NPCs/---.md",
@@ -305,11 +285,7 @@
     "5.NPCs/Lisa.jpg",
     "4.Facciones/4.Facciones.md",
     "4.Facciones/La Mancomunidad del Viento.md",
-    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
     "Nueva carpeta",
-    "2.Panteón/2.Panteón.md",
-    "0.Campañas/Personajes/Kas.md",
-    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones/Sesión 0 El desencadenamiento, El legado de plata (Kiera)( 2024-01-23).md",
     "z_Assets/Arte/Emir Snader.png",
     "z_Assets/Arte/Puerto Kalabor.png",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones",
