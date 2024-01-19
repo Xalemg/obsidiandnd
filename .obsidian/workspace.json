@@ -16,15 +16,11 @@
             }
           },
           {
-            "id": "9eed5842b4d6e8c3",
+            "id": "90cdf452403c77f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
             }
           }
         ],
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md",
+                "file": "0.Campañas/0.Campañas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md",
+                "file": "0.Campañas/0.Campañas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md"
+                "file": "0.Campañas/0.Campañas.md"
               }
             }
           },
@@ -230,12 +226,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9eed5842b4d6e8c3",
+  "active": "90cdf452403c77f4",
   "lastOpenFiles": [
-    "3.Lugares/Islas Shamal.md",
     "z_Templates/Plantilla- Punto de Interes.md",
-    "4.Facciones/La escama plateada.md",
     "⭐Hub.md",
+    "0.Campañas/0.Campañas.md",
+    "z_Classes/Options/Tematica.md",
+    "3.Lugares/Islas Shamal.md",
+    "4.Facciones/La escama plateada.md",
     "z_Classes/Options/Clases de Puntos de Interes.md",
     "3.Lugares/Crestafria.md",
     "2.Panteón/Tyr.md",
@@ -250,7 +248,6 @@
     "Shield of Missile Attraction.md",
     "5.NPCs/Emir Sander.md",
     "4. Punto",
-    "0.Campañas/0.Campañas.md",
     "5.NPCs/Rey Kemdal.md",
     "5.NPCs/5.NPCs.md",
     "5.NPCs/---.md",
@@ -260,7 +257,6 @@
     "z_Classes/Options/Alineamiento.md",
     "5.NPCs/Lisa.jpg",
     "4.Facciones/4.Facciones.md",
-    "4.Facciones/La Mancomunidad del Viento.md",
     "Nueva carpeta",
     "z_Assets/Arte/Emir Snader.png",
     "z_Assets/Arte/Puerto Kalabor.png",

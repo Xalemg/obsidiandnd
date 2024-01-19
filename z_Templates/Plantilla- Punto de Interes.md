@@ -37,7 +37,7 @@ Mundo:
 #TBD
 
 # Otros
-> [!metadata|map]+ Map
+> [!metadata|map]- Map
 > ```leaflet
 > 
 > 
