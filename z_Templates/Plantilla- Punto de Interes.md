@@ -1,10 +1,9 @@
 ---
-fileClass: Asentamiento
+fileClass: Punto de interes
 tags:
   - PuntoDeInteres
 aliases: 
 icon: "![[PlaceholderImage.png]]"
-  - z_Assets/Misc/PlaceholderImage.png
 Tematica:
   - ""
 Tipo: Punto de Interes
@@ -13,8 +12,7 @@ Mundo: Aretries
 Gobierno: 
 Defensas: 
 Religion: 
-Ubicacion: 
-Terreno:
+Ubicacion:
 ---
 
 

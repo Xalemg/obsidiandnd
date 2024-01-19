@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "z_Templates/Plantilla- Punto de Interes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,14 +69,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md",
+                "file": "z_Classes/Options/Clases de Puntos de Interes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,9 +278,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9eed5842b4d6e8c3",
+  "active": "01f2b696b181bc67",
   "lastOpenFiles": [
+    "5.NPCs/Lisa.md",
     "z_Classes/Classes/Punto de interes.md",
+    "z_Classes/Options/Clases de Puntos de Interes.md",
+    "z_Templates/Plantilla- Punto de Interes.md",
     "3.Lugares/3.Lugares.md",
     "9.Puntos de interes",
     "Personajes de el desencadenamiento.md",
@@ -292,7 +295,6 @@
     "4.Facciones/La escama plateada.md",
     "0.Campañas/0.Campañas.md",
     "3.Lugares/Islas Shamal.md",
-    "5.NPCs/Lisa.md",
     "5.NPCs/Rey Kemdal.md",
     "5.NPCs/5.NPCs.md",
     "5.NPCs/---.md",
@@ -309,9 +311,7 @@
     "0.Campañas/Personajes/Kas.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones/Sesión 0 El desencadenamiento, El legado de plata (Kiera)( 2024-01-23).md",
     "z_Assets/Arte/Emir Snader.png",
-    "3.Lugares/Puerto Kalabor.md",
     "z_Assets/Arte/Puerto Kalabor.png",
-    "4.Facciones/Concilio del Caparazón.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones",
     "z_Assets/Arte/Dioses/Lolthwebp.webp",
     "z_Assets/Arte/Dioses/Lolthwebp.webp.crdownload",
