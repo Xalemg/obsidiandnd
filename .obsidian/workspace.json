@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +249,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "abcfc6a24faf3fd6",
+  "active": "825bc976518c6eb7",
   "lastOpenFiles": [
     "z_Templates/Plantilla- Punto de Interes.md",
     "4.Facciones/La escama plateada.md",
