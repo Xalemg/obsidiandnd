@@ -12,8 +12,9 @@ excludes:
 extends: Lugar
 savedViews: []
 favoriteView: 
-version: "2.13"
+version: "2.14"
 fieldsOrder:
+  - Y2LbBs
   - uySHWq
 fields:
   - name: Tipo
@@ -25,4 +26,9 @@ fields:
       valuesFromDVQuery: ""
     path: ""
     id: uySHWq
+  - name: Defensas
+    type: Input
+    options: {}
+    path: ""
+    id: Y2LbBs
 ---
