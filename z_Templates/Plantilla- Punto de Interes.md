@@ -3,15 +3,12 @@ fileClass: Asentamiento
 tags:
   - PuntoDeInteres
 aliases: 
-icon:
-  - - z_Assets/Misc/PlaceholderImage.png
-Poblacion: ""
-Nacion: "-"
+icon: "![[PlaceholderImage.png]]"
+  - z_Assets/Misc/PlaceholderImage.png
 Tematica:
   - ""
 Tipo: Punto de Interes
 Prosperidad: 1
-Importaciones: 
 Mundo: Aretries
 Gobierno: 
 Defensas: 
