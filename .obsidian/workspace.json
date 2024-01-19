@@ -26,29 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "abcfc6a24faf3fd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Lugares/Islas Shamal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8a31f82e99c7617",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Islas Shamal.md",
+                "file": "z_Templates/Plantilla- Punto de Interes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Islas Shamal.md",
+                "file": "z_Templates/Plantilla- Punto de Interes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Islas Shamal.md"
+                "file": "z_Templates/Plantilla- Punto de Interes.md"
               }
             }
           },
@@ -250,11 +230,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "abcfc6a24faf3fd6",
+  "active": "9eed5842b4d6e8c3",
   "lastOpenFiles": [
+    "3.Lugares/Islas Shamal.md",
     "z_Templates/Plantilla- Punto de Interes.md",
     "4.Facciones/La escama plateada.md",
-    "3.Lugares/Islas Shamal.md",
     "⭐Hub.md",
     "z_Classes/Options/Clases de Puntos de Interes.md",
     "3.Lugares/Crestafria.md",
