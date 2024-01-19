@@ -47,7 +47,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md",
+                "file": "3.Lugares/Islas Shamal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md",
+                "file": "3.Lugares/Islas Shamal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md"
+                "file": "3.Lugares/Islas Shamal.md"
               }
             }
           },
@@ -249,10 +250,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "825bc976518c6eb7",
+  "active": "abcfc6a24faf3fd6",
   "lastOpenFiles": [
-    "4.Facciones/La escama plateada.md",
     "z_Templates/Plantilla- Punto de Interes.md",
+    "4.Facciones/La escama plateada.md",
     "3.Lugares/Islas Shamal.md",
     "⭐Hub.md",
     "z_Classes/Options/Clases de Puntos de Interes.md",
