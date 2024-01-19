@@ -49,14 +49,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Lugares/3.Lugares.md",
+                "file": "z_Classes/Classes/Punto de interes.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d1cae656d44fb093",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Punto de interes",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/3.Lugares.md",
+                "file": "z_Classes/Classes/Punto de interes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/3.Lugares.md",
+                "file": "z_Classes/Classes/Punto de interes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/3.Lugares.md"
+                "file": "z_Classes/Classes/Punto de interes.md"
               }
             }
           },
@@ -258,11 +266,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59369172aaba219c",
+  "active": "d1cae656d44fb093",
   "lastOpenFiles": [
+    "3.Lugares/3.Lugares.md",
+    "9.Puntos de interes",
     "Personajes de el desencadenamiento.md",
     "Shield of Missile Attraction.md",
-    "3.Lugares/3.Lugares.md",
     "5.NPCs/Emir Sander.md",
     "4. Punto",
     "3.Lugares/Crestafria.md",
@@ -290,7 +299,6 @@
     "3.Lugares/Puerto Kalabor.md",
     "z_Assets/Arte/Puerto Kalabor.png",
     "4.Facciones/Concilio del Caparazón.md",
-    "0.Campañas/El desencadenamiento/El desencadenamiento.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones",
     "z_Assets/Arte/Dioses/Lolthwebp.webp",
     "z_Assets/Arte/Dioses/Lolthwebp.webp.crdownload",
