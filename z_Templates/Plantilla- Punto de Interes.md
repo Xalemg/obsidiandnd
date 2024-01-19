@@ -1,19 +1,23 @@
 ---
 fileClass: Asentamiento
 tags:
-  - Lugar
-aliases: []
-icon: ![[z_Assets/Misc/PlaceholderImage.png
+  - PuntoDeInteres
+aliases: 
+icon:
+  - - z_Assets/Misc/PlaceholderImage.png
 Poblacion: ""
 Nacion: "-"
-Gobernantes:
-  - "-"
 Tematica:
   - ""
 Tipo: Punto de Interes
 Prosperidad: 1
-Importaciones: []
+Importaciones: 
 Mundo: Aretries
+Gobierno: 
+Defensas: 
+Religion: 
+Ubicacion: 
+Terreno:
 ---
 
 
