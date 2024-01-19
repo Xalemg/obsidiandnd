@@ -4,13 +4,13 @@ tags:
   - PuntoDeInteres
 aliases: 
 icon: "![[PlaceholderImage.png]]"
-Tematica:
-  - ""
+Tematica: []
 Tipo: Punto de Interes
 Prosperidad: 1
 Defensas: 
 Religion: 
 Ubicacion:
+Mundo: [Aretries]
 ---
 
 

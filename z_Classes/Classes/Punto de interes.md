@@ -7,10 +7,10 @@ tagNames:
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: 
+extends: Lugar
 savedViews: []
 favoriteView: 
-version: "2.5"
+version: "2.7"
 fieldsOrder:
   - uySHWq
 fields:
