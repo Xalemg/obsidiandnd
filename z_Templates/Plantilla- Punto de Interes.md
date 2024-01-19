@@ -8,8 +8,6 @@ Tematica:
   - ""
 Tipo: Punto de Interes
 Prosperidad: 1
-Mundo: Aretries
-Gobierno: 
 Defensas: 
 Religion: 
 Ubicacion:
