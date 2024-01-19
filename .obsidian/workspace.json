@@ -1,39 +1,76 @@
 {
   "main": {
-    "id": "f3c23023052e9538",
+    "id": "ff13853cd880cd70",
     "type": "split",
     "children": [
       {
-        "id": "45096b71e7895374",
+        "id": "bafc2e9179dde8b7",
         "type": "tabs",
         "children": [
           {
-            "id": "b605a63f8c6a1f9d",
+            "id": "825bc976518c6eb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.Facciones/La escama plateada.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6567840c6c30487",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Campañas/0.Campañas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "845c684d98d4358d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Lugares/Crestafria.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cdabfb45a41830b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "5.NPCs/Lisa.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9d64cafeddde0081",
+    "id": "420676fb70a5ff68",
     "type": "split",
     "children": [
       {
-        "id": "afba28176048bb5d",
+        "id": "68d169e2f47fa8b4",
         "type": "tabs",
         "children": [
           {
-            "id": "52a295786c68e676",
+            "id": "59369172aaba219c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +80,12 @@
             }
           },
           {
-            "id": "e0fe260bf4022a04",
+            "id": "01c245aacb8c2073",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#personaje",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +95,7 @@
             }
           },
           {
-            "id": "a1b52881cfef69ef",
+            "id": "55899e3c055c4d95",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +109,20 @@
     "width": 300
   },
   "right": {
-    "id": "9f41ce169fbdec5b",
+    "id": "cc70ceb331cfaefc",
     "type": "split",
     "children": [
       {
-        "id": "50762d7619ca4909",
+        "id": "66e141e4c5c2be88",
         "type": "tabs",
         "children": [
           {
-            "id": "d06dd64fd48190c8",
+            "id": "785ab9631e1f7755",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "0.Campañas/0.Campañas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +134,19 @@
             }
           },
           {
-            "id": "d51e82883a7cb04a",
+            "id": "a5305f3790e19a54",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "0.Campañas/0.Campañas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "62d98c4ae0b965c0",
+            "id": "7ca9bbb8cbaed2db",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +157,29 @@
             }
           },
           {
-            "id": "9822d41eebbac7b5",
+            "id": "2b4290b2a206ded4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Lisa.md"
+                "file": "0.Campañas/0.Campañas.md"
               }
             }
           },
           {
-            "id": "cfb11c980622a4fe",
+            "id": "f5f23bb565a59332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Campañas/0.Campañas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c6f6c034f5e85a1",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -138,7 +187,7 @@
             }
           },
           {
-            "id": "14b39635f2aa7170",
+            "id": "b7c59265677dbc4e",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -146,7 +195,27 @@
             }
           },
           {
-            "id": "2596887ccb9909a6",
+            "id": "36647f2dee74b912",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_fbd88a383ac8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "year": 783,
+                    "month": 0,
+                    "day": 7
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                }
+              }
+            }
+          },
+          {
+            "id": "bd145fc7d68d9413",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -166,7 +235,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -174,24 +243,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "open-vscode:VSCode": false,
       "obsidian42-brat:BRAT": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b605a63f8c6a1f9d",
+  "active": "a6567840c6c30487",
   "lastOpenFiles": [
-    "2024-01-23.md",
-    "Personajes de el desencadenamiento.md"
+    "3.Lugares/Crestafria.md",
+    "5.NPCs/Lisa.md",
+    "conflict-files-obsidian-git.md",
+    "0.Campañas/0.Campañas.md",
+    "5.NPCs/Rey Kemdal.md",
+    "5.NPCs/5.NPCs.md",
+    "5.NPCs/---.md",
+    "z_Templates/Plantilla - NPC.md",
+    "⭐Hub.md",
+    "0.Campañas/Personajes/Personajes.md",
+    "z_Classes/Classes/NPC.md",
+    "z_Classes/Options/Alineamiento.md",
+    "5.NPCs/Lisa.jpg",
+    "4.Facciones/La escama plateada.md",
+    "4.Facciones/4.Facciones.md",
+    "5.NPCs/Emir Sander.md",
+    "3.Lugares/3.Lugares.md",
+    "4.Facciones/La Mancomunidad del Viento.md",
+    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
+    "Nueva carpeta",
+    "2.Panteón/2.Panteón.md",
+    "0.Campañas/Personajes/Kas.md",
+    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones/Sesión 0 El desencadenamiento, El legado de plata (Kiera)( 2024-01-23).md",
+    "z_Assets/Arte/Emir Snader.png",
+    "3.Lugares/Puerto Kalabor.md",
+    "z_Assets/Arte/Puerto Kalabor.png",
+    "4.Facciones/Concilio del Caparazón.md",
+    "0.Campañas/El desencadenamiento/El desencadenamiento.md",
+    "Shield of Missile Attraction.md",
+    "4.Facciones/La sombra que fue.md",
+    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones",
+    "z_Assets/Arte/Dioses/Lolthwebp.webp",
+    "z_Assets/Arte/Dioses/Lolthwebp.webp.crdownload",
+    "z_Assets/Emblemas/59188df2f0da25a850ae2b3760f5615f.png.crdownload",
+    "z_Assets/Emblemas/La escama plateada.png",
+    "z_Assets/Emblemas/emblema mancomunidad.png",
+    "z_Assets/Arte/Material_Plane.webp",
+    "z_Assets/Arte/Material_Plane.webp.crdownload",
+    "z_Assets/Arte/infraoscuridad.jpeg",
+    "z_Assets/Emblemas/altalos.png",
+    "z_Classes/Classes",
+    "z_Classes/Options",
+    "z_Assets/Misc/PlaceholderImage.png",
+    "0.Campañas/El desencadenamiento/Ideas"
   ]
 }
