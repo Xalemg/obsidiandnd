@@ -16,18 +16,6 @@
             }
           },
           {
-            "id": "abf3e467cf8d9906",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.NPCs/Lisa.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7301b0d4334a519d",
             "type": "leaf",
             "state": {
@@ -70,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e532a94ca30921e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Lugares/Crestafria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Lisa.md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -274,11 +274,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "abf3e467cf8d9906",
+  "active": "e532a94ca30921e5",
   "lastOpenFiles": [
     "9.Puntos de interes/Fortaleza de Norias.md",
-    "5.NPCs/Lisa.md",
     "3.Lugares/Crestafria.md",
+    "5.NPCs/Lisa.md",
     "5.NPCs/Julio Altalos.md",
     "0.Campañas/0.Campañas.md",
     "9.Puntos de interes/Catedral del Martillo.md",
