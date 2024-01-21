@@ -42,5 +42,5 @@ El mayor edificio de rezo de Tyr. Aquí se producen los juicios mas importantes 
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, join(Oficios, ", ") AS "Oficios", Alienamiento
 FROM #NPC
-WHERE  contains(Ubicacion, [[]])
+WHERE  contains(Ubicacion, [[]]) AND !contains(Estado, "Muerto" )
 SORT file.name ASC
