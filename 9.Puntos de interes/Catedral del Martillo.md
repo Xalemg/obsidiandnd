@@ -8,8 +8,8 @@ icon: "![[PlaceholderImage.png]]"
 Tematica: [Religiosa, Reflexion, Deber]
 Tipo: Templo
 Prosperidad: Medio
-Defensas: Paladines y clerigos de [[Tyr]]
-Ubicacion: 
+Defensas: Paladines y clerigos de Tyr
+Ubicacion: "[[Crestafria]]"
 Mundo:
   - Aretries
 ---
