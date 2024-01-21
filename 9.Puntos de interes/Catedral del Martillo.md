@@ -27,7 +27,7 @@ Mundo:
 
 # 🔍 A simple vista
 
-Enromes Un martillo gigante se encuentra incustrado en el centro de la catedral.
+Enormes techos adornan la Un martillo gigante se encuentra incrustado en el centro de la catedral.
 # 📜 Historia
 
 #TBD
