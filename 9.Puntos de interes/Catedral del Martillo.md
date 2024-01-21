@@ -5,10 +5,10 @@ tags:
   - "#Lugar"
 aliases: 
 icon: "![[PlaceholderImage.png]]"
-Tematica: [Religiosa]
-Tipo: 
+Tematica: [Religiosa, Reflexion, Deber]
+Tipo: Templo
 Prosperidad: Medio
-Defensas: 
+Defensas: Paladines y clerigos de [[Tyr]]
 Ubicacion: 
 Mundo:
   - Aretries
