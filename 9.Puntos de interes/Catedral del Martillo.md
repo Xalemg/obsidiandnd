@@ -27,7 +27,7 @@ Mundo:
 
 # 🔍 A simple vista
 
-Un martillo gigante se encuentra incustrado en el centro de la catedral. El martillo pertenece a 
+Un martillo gigante se encuentra incustrado en el centro de la catedral. El martillo pertenece a la caballera Flida, Una de las mallores 
 
 # 📜 Historia
 
