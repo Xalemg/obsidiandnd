@@ -54,6 +54,12 @@ Con más de 2 millones de habitantes se trata de la ciudad más habitada del rei
 Se sitúa en el punto estratégico más importante de la isla, su centro físico y un cruce entre las 3 principales zonas del reino, controlando de esta forma las dos únicas vías de comunicación terrestres seguras del reino. Es por esto que las principales familias nobles y gobernantes del reino construyen sus mayores fortalezas aquí. Durante las múltiples guerras civiles que han asolado esta nación, sus calles tienden a convertirse en un campo de batalla más. En la que la nobleza, tele transportando a sus tropas a sus fortalezas, luchan calle a calle por hacerse con la cima. Los ciudadanos suelen acabar uniéndose a alguno de los bandos, por defender su propiedad, adueñarse de la del vecino o acabar con la tiranía de su señor. Eso es lo que da a la ciudad su aspecto tan militar, no es de extrañar encontrarse panaderías con fosos, molinos con barricadas o casas con saeteras y torres.
 
 Durante estas ocasiones las partes altas solo son capaz de sustentarse gracias a los múltiples templos y a la importantísima y renombrada torre de magia de Crestafria, ya que al hallarse a más de 2 kilómetros de altura la agricultura es prácticamente inexistente.
+### Sitios de Interes
+Tabernas kalberin 1 y 2 mas decoradas con pinturas caballerescas
+Posada del caballero descansado
+Taberna los coros de la redencion: Un paladin con lazos con la iglesia de [[Tyr]] regenta la taberna los clerigos cantan en tramontes todos los dias dando 2d6+2 puntos de golpe temporales a los parroquia que escuchan
+El emporium imperium: Tienda de armas mas variadas, encantadas y
+
 
 # Información detallada
 

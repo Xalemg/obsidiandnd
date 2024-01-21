@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1cae656d44fb093",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Punto de interes",
-              "state": {}
-            }
-          },
-          {
             "id": "90cdf452403c77f4",
             "type": "leaf",
             "state": {
@@ -34,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abf3e467cf8d9906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Lugares/Crestafria.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,21 +238,21 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "open-vscode:VSCode": false,
       "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "76f15d369c87dca7",
   "lastOpenFiles": [
-    "3.Lugares/3.Lugares.md",
+    "3.Lugares/Crestafria.md",
     "⭐Hub.md",
     "0.Campañas/0.Campañas.md",
+    "3.Lugares/Islas Shamal.md",
+    "3.Lugares/3.Lugares.md",
     "z_Templates/Plantilla- Punto de Interes.md",
     "z_Classes/Options/Tematica.md",
-    "3.Lugares/Islas Shamal.md",
     "4.Facciones/La escama plateada.md",
     "z_Classes/Options/Clases de Puntos de Interes.md",
-    "3.Lugares/Crestafria.md",
     "2.Panteón/Tyr.md",
     "z_Classes/Classes/Area.md",
     "z_Classes/Classes/Asentamiento.md",
