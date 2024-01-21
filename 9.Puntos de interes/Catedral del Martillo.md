@@ -27,15 +27,14 @@ Mundo:
 
 # 🔍 A simple vista
 
-Un martillo gigante se encuentra incustrado en el centro de la catedral. El martillo pertenece a la caballera Flida, Una de las mallores caballeras del primer Rey de Altalos, Julio Altalos
-
+Enromes Un martillo gigante se encuentra incustrado en el centro de la catedral.
 # 📜 Historia
 
 #TBD
 
 # ✏️ Notas
 
-#TBD
+ El martillo pertenece a la caballera Filda, Una de las mallores caballeras del primer Rey de Altalos, Julio Altalos
 
 # Otros
 > [!metadata|map]- Map
