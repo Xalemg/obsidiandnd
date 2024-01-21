@@ -26,7 +26,6 @@ Mundo:
 > **Temática** | `=this.Tematica` |
 
 # 🔍 A simple vista
-
 Enormes paredes de  Un martillo gigante se encuentra incrustado en el centro de la catedral. Catedral del Martillo
 El mayor edificio de rezo de Tyr. Aquí se producen los juicios mas importantes del Reino
 # 📜 Historia
@@ -34,21 +33,10 @@ El mayor edificio de rezo de Tyr. Aquí se producen los juicios mas importantes 
 
 # ✏️ Notas
  El martillo pertenece a la caballera Filda, Una de las mayores caballeras del primer Rey de Altalos, [[Julio Altalos]]
-# Otros
 
-> [!metadata|pois]+ Localizaciones
-> ```dataview
-table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Tematica
-FROM #Lugar
-WHERE  contains(Ubicacion, [[]])
-SORT file.name ASC
+# Ubicaciones
 
-> [!metadata|groups]+ Facciones
-> ```dataview
-table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Influencia
-FROM #Faccion
-WHERE  contains(Ubicacion, [[]])
-SORT file.name ASC
+
 
 > [!metadata|characters]+ NPCs
 > ```dataview
