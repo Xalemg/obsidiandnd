@@ -14,8 +14,11 @@ Vinculo:
 Defecto: 
 Interpretacion: 
 Rango: 
-Mundo: [Aretries]
+Mundo:
+  - Aretries
 fileClass: NPC
+tags:
+  - NPC
 ---
 
 

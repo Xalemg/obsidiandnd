@@ -9,14 +9,17 @@ Sexo: Hombre
 Raza:
   - Humano
 Facciones: "[[Corona de Altalos]]"
-Edad: 
-Oficios: 
+Edad:
+  - Muerto
+Oficios:
+  - Rey
 Ideal: 
 Vinculo: 
 Defecto: 
 Interpretacion: 
 Rango: 
-Mundo: 
+Mundo:
+  - Aretries
 fileClass: NPC
 tags:
   - NPC
