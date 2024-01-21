@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
-                "mode": "source",
+                "file": "5.NPCs/Julio Altalos.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "5.NPCs/Julio Altalos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "5.NPCs/Julio Altalos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Crestafria.md"
+                "file": "5.NPCs/Julio Altalos.md"
               }
             }
           },
@@ -276,9 +276,10 @@
   },
   "active": "abf3e467cf8d9906",
   "lastOpenFiles": [
-    "9.Puntos de interes/Fortaleza de Norias.md",
-    "5.NPCs/Julio Altalos.md",
     "3.Lugares/Crestafria.md",
+    "5.NPCs/Julio Altalos.md",
+    "5.NPCs/Lisa.md",
+    "9.Puntos de interes/Fortaleza de Norias.md",
     "0.Campañas/0.Campañas.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "z_Templates/Plantilla - NPC.md",
@@ -297,7 +298,6 @@
     "z_Classes/Classes/Area.md",
     "z_Classes/Classes/Asentamiento.md",
     "z_Classes/Options/Oficios.md",
-    "5.NPCs/Lisa.md",
     "9.Puntos de interes",
     "Personajes de el desencadenamiento.md",
     "Shield of Missile Attraction.md",

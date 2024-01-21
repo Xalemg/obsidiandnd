@@ -158,7 +158,7 @@ SORT file.name ASC
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, join(Oficios, ", ") AS "Oficios", Alienamiento
 FROM #NPC
-WHERE  contains(Ubicacion, [[]])
+WHERE  contains(Ubicacion, [[]]) AND !contains(Estado, Muerto )
 SORT file.name ASC
 
 > [!metadata]- Encuentros Aleatorios
