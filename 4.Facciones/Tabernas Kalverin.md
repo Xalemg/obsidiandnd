@@ -26,7 +26,7 @@ Mundo: Aretries
 
 # 🔍 A simple vista
 
-Una cadena de Tabernas establecidas a lo largo de todas las [[Islas Shamal]] 
+Una cadena de Tabernas establecidas a lo largo de todas las [[Islas Shamal]]. Estan todas dirigidas por Warforged llamados Kevin
 
 # 📜 Historia
 
