@@ -26,7 +26,7 @@ Mundo:
 > **Temática** | `=this.Tematica` |
 
 # 🔍 A simple vista
-Gignatesca Catedral con forma de martillo. Hace a los vio andantes sentirse pequeños. Parece tener varias plantas y esta decorado con distintas vidrieras con escenas de la [[Corona de Altalos| ]] de un martillo gigante se encuentra incrustado en el centro de la catedral. Catedral del Martillo
+Gignatesca Catedral con forma de martillo. Hace a los vio andantes sentirse pequeños. Parece tener varias plantas y esta decorado con distintas vidrieras con escenas de la [[Corona de Altalos#📜 Historia| Historia de Altalos]] de un martillo gigante se encuentra incrustado en el centro de la catedral. Catedral del Martillo
 El mayor edificio de rezo de Tyr. Aquí se producen los juicios mas importantes del Reino
 # 📜 Historia
 #TBD

@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "4.Facciones/Corona de Altalos.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "4.Facciones/Corona de Altalos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "4.Facciones/Corona de Altalos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md"
+                "file": "4.Facciones/Corona de Altalos.md"
               }
             }
           },
@@ -268,6 +268,7 @@
   },
   "active": "2ea80099506bd87a",
   "lastOpenFiles": [
+    "9.Puntos de interes/Catedral del Martillo.md",
     "⭐Hub.md",
     "z_Templates/Plantilla- Punto de Interes.md",
     "5.NPCs/Julio Altalos.md",
@@ -278,7 +279,6 @@
     "9.Puntos de interes/Fortaleza de Norias.md",
     "5.NPCs/Lisa.md",
     "0.Campañas/0.Campañas.md",
-    "9.Puntos de interes/Catedral del Martillo.md",
     "z_Assets/Arte/Catedral de Tyr.png",
     "z_Classes/Classes/Punto de interes.md",
     "z_Classes/Classes/Tienda o servicio.md",

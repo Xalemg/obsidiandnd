@@ -40,7 +40,7 @@ Alineamiento: LB
 
 # 📜 Historia
 
-#TBD
+La corona de altalos expulso a los Elfos cuando los humanos llegaron a la la [[Isla]]
 
 # ✏️ Notas
 
