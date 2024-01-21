@@ -52,7 +52,7 @@ tags:
 
 # 🔍 A simple vista
 
-#TBD
+Primer Rey de la [[Corona de Altalos]].
 
 # 🎯Objetivos
 

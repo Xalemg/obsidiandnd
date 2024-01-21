@@ -28,16 +28,13 @@ Mundo:
 # 🔍 A simple vista
 
 Enormes paredes de  Un martillo gigante se encuentra incrustado en el centro de la catedral. Catedral del Martillo
-El mayor edificio de rezo de Tyr. Aqui se producen los juicios mas importantes del Reino
+El mayor edificio de rezo de Tyr. Aquí se producen los juicios mas importantes del Reino
 # 📜 Historia
-
 #TBD
 
 # ✏️ Notas
-
  El martillo pertenece a la caballera Filda, Una de las mayores caballeras del primer Rey de Altalos, [[Julio Altalos]]
 # Otros
-
 
 > [!metadata|pois]+ Localizaciones
 > ```dataview

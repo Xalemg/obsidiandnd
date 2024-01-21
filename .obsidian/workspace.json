@@ -66,13 +66,13 @@
               "type": "markdown",
               "state": {
                 "file": "5.NPCs/Julio Altalos.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md"
+                "file": "9.Puntos de interes/Catedral del Martillo.md"
               }
             }
           },
@@ -274,11 +274,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f4528a5ac62aa6e1",
+  "active": "b690eda75ac2c440",
   "lastOpenFiles": [
+    "5.NPCs/Julio Altalos.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "z_Templates/Plantilla - NPC.md",
-    "5.NPCs/Julio Altalos.md",
     "z_Assets/Arte/Catedral de Tyr.png",
     "3.Lugares/Crestafria.md",
     "z_Templates/Plantilla- Punto de Interes.md",
