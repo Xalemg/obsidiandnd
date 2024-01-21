@@ -6,7 +6,7 @@ aliases:
 icon: "![[PlaceholderImage.png]]"
 Tematica: 
 Tipo: 
-Prosperidad: 1
+Prosperidad: Medio
 Defensas: 
 Ubicacion: 
 Mundo:

@@ -37,6 +37,11 @@
       "folder": "8.Notas varias",
       "tag": "#notas",
       "pattern": ""
+    },
+    {
+      "folder": "9.Puntos de interes",
+      "tag": "#PuntoDeInteres",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
