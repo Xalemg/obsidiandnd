@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "76467261226ab4f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Julio Altalos.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aaad8ce31c3da85b",
             "type": "leaf",
             "state": {
@@ -72,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "Julio Altalos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "Julio Altalos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md"
+                "file": "Julio Altalos.md"
               }
             }
           },
@@ -274,9 +286,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f832129fa6d2c190",
+  "active": "76467261226ab4f2",
   "lastOpenFiles": [
     "0.Campañas/0.Campañas.md",
+    "Julio Altalos.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "3.Lugares/Crestafria.md",
     "z_Templates/Plantilla- Punto de Interes.md",
@@ -303,7 +316,6 @@
     "5.NPCs/---.md",
     "z_Templates/Plantilla - NPC.md",
     "0.Campañas/Personajes/Personajes.md",
-    "z_Classes/Classes/NPC.md",
     "5.NPCs/Lisa.jpg",
     "Nueva carpeta",
     "z_Assets/Arte/Emir Snader.png",
