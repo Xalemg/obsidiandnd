@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -262,10 +262,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b690eda75ac2c440",
+  "active": "abf3e467cf8d9906",
   "lastOpenFiles": [
-    "z_Templates/Plantilla- Asentamiento.md",
     "z_Templates/Plantilla- Punto de Interes.md",
+    "z_Templates/Plantilla- Asentamiento.md",
     "z_Classes/Classes/Punto de interes.md",
     "⭐Hub.md",
     "3.Lugares/Crestafria.md",
