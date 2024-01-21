@@ -55,10 +55,10 @@ Se sitúa en el punto estratégico más importante de la isla, su centro físico
 
 Durante estas ocasiones las partes altas solo son capaz de sustentarse gracias a los múltiples templos y a la importantísima y renombrada torre de magia de Crestafria, ya que al hallarse a más de 2 kilómetros de altura la agricultura es prácticamente inexistente.
 ### Sitios de Interes
-Tabernas kalberin 1 y 2 mas decoradas con pinturas caballerescas
+Tabernas Kalberin 1 y 2 mas decoradas con pinturas caballerescas
 Posada del caballero descansado
 Taberna los coros de la redencion: Un paladin con lazos con la iglesia de [[Tyr]] regenta la taberna los clerigos cantan en tramontes todos los dias dando 2d6+2 puntos de golpe temporales a los parroquia que escuchan
-El emporium imperium: Tienda de armas mas variadas, encantadas y
+El emporium imperium: Tienda de armas mas variada del reino, encantadas y embuidas en distintos efectos magicos.
 
 
 # Información detallada
