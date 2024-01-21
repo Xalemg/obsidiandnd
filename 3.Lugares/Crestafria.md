@@ -143,7 +143,7 @@ FROM #Lugar
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
 ### Sitios de Interes
-#### Tabernas Kalberin 1 y 2
+#### Tabernas Kalberin
 mas decoradas con pinturas caballerescas
 #### Posada del caballero descansado
 #### Taberna los coros de la redencion
