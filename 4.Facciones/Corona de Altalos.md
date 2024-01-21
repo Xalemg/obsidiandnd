@@ -40,8 +40,7 @@ Alineamiento: LB
 
 # 📜 Historia
 
-La corona de altalos llego junto a las migraciones humanas que abandonaron Tramonto tras la plaga gris aproximadamente en el -2000AM. En Altalos expulsaron a los Elfos tras su llegada a las [[Isla de Altalos]]y fundaron la ciudad de [[Crestafria]]. Desde entonces el reino se ha visto rodeado en una serie de guerras, principalmente internas. Desde la llegada a Altalos
-
+La corona de altalos llego junto a las migraciones humanas que abandonaron Tramonto tras la plaga gris aproximadamente en el -2000AM. En Altalos expulsaron a los Elfos tras su llegada a las [[Isla de Altalos]]y fundaron la ciudad de [[Crestafria]]. Desde entonces el reino se ha visto rodeado en una serie de guerras, principalmente internas.
 # ✏️ Notas
 
 #TBD
