@@ -27,7 +27,7 @@ Mundo:
 
 # 🔍 A simple vista
 
-#TBD
+La fortaleza de Norias es la tercera más grande de la ciudad
 
 # 📜 Historia
 
