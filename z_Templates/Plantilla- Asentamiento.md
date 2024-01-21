@@ -129,6 +129,7 @@ table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Tema
 FROM #Lugar
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
+### Sitios de Interes
 
 > [!metadata|groups]+ Facciones
 > ```dataview
@@ -143,6 +144,3 @@ table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, join(Ofici
 FROM #NPC
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
-
-> [!metadata]- Encuentros Aleatorios
-> ![[Encuentros Urbanos]]
