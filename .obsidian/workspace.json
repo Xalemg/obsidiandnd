@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Facciones/Corona de Altalos.md",
+                "file": "z_Templates/Plantilla- Facciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NPC",
+                "query": "tag:#TBD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -256,18 +257,19 @@
   },
   "active": "c1d66a4b7f5a5fa8",
   "lastOpenFiles": [
+    "z_Templates/Plantilla- Facciones.md",
+    "z_Templates/Plantilla - NPC.md",
+    "4.Facciones/Corona de Altalos.md",
+    "4.Facciones/Tabernas Kalverin.md",
     "⭐Hub.md",
     "0.Campañas/0.Campañas.md",
-    "4.Facciones/Tabernas Kalverin.md",
     "3.Lugares/Crestafria.md",
-    "4.Facciones/Corona de Altalos.md",
     "z_Templates/Plantilla- Asentamiento.md",
     "z_Templates/Plantilla- Punto de Interes.md",
     "5.NPCs/Julio Altalos.md",
     "5.NPCs/Rey Kemdal.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "z_Templates/Plantilla- Lugares.md",
-    "z_Templates/Plantilla - NPC.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
     "5.NPCs/Lisa.md",
     "z_Assets/Arte/Catedral de Tyr.png",
@@ -283,7 +285,6 @@
     "z_Classes/Classes/Asentamiento.md",
     "z_Classes/Options/Oficios.md",
     "9.Puntos de interes",
-    "Personajes de el desencadenamiento.md",
     "4. Punto",
     "5.NPCs/Lisa.jpg",
     "Nueva carpeta",
