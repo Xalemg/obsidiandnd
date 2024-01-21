@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "7301b0d4334a519d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.Puntos de interes/Fortaleza de Norias.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aaad8ce31c3da85b",
             "type": "leaf",
             "state": {
@@ -48,18 +60,6 @@
             }
           },
           {
-            "id": "b690eda75ac2c440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f4528a5ac62aa6e1",
             "type": "leaf",
             "state": {
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "9.Puntos de interes/Fortaleza de Norias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "9.Puntos de interes/Fortaleza de Norias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md"
+                "file": "9.Puntos de interes/Fortaleza de Norias.md"
               }
             }
           },
@@ -274,8 +274,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b690eda75ac2c440",
+  "active": "7301b0d4334a519d",
   "lastOpenFiles": [
+    "0.Campañas/0.Campañas.md",
+    "9.Puntos de interes/Fortaleza de Norias.md",
     "3.Lugares/Crestafria.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "5.NPCs/Julio Altalos.md",
@@ -284,7 +286,6 @@
     "z_Templates/Plantilla- Punto de Interes.md",
     "z_Classes/Classes/Punto de interes.md",
     "z_Classes/Classes/Tienda o servicio.md",
-    "0.Campañas/0.Campañas.md",
     "z_Templates/Plantilla- Asentamiento.md",
     "⭐Hub.md",
     "3.Lugares/Islas Shamal.md",
