@@ -40,7 +40,7 @@ Alineamiento: LB
 
 # 📜 Historia
 
-La corona de altalos expulso a los Elfos cuando los humanos llegaron a la la [[Isla]]
+La corona de altalos expulso a los Elfos cuando los humanos llegaron a la la [[Isla de Altalos]]. Fundaron la ciudad de [[Crestafria]] 
 
 # ✏️ Notas
 
