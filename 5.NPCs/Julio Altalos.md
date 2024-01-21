@@ -18,6 +18,8 @@ Interpretacion:
 Rango: 
 Mundo: 
 fileClass: NPC
+tags:
+  - NPC
 ---
 
 
