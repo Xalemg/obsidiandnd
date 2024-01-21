@@ -1,11 +1,13 @@
 ---
-icon: 
+icon: "![[PlaceholderImage.png]]"
 Ubicacion: "[[Crestafria]]"
-Religiones: "[[Tyr]]"
+Religiones:
+  - "[[Tyr]]"
 Estado: Muerto
 Alineamiento: LB
 Sexo: Hombre
-Raza: Humano
+Raza:
+  - Humano
 Facciones: "[[Corona de Altalos]]"
 Edad: 
 Oficios: 

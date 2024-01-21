@@ -1,5 +1,5 @@
 ---
-icon: 
+icon: "![[placeholderImage.png]]"
 Ubicacion: 
 Religiones: 
 Estado: 
@@ -14,17 +14,10 @@ Vinculo:
 Defecto: 
 Interpretacion: 
 Rango: 
-Mundo: 
+Mundo: [Aretries]
 fileClass: NPC
 ---
----
-tags:
-  - NPC
-icon: "![[z_Assets/Misc/PlaceholderImage.png]]"
-Ideal: ""
-fileClass: NPC
-Raza:
----
+
 
 > [!infobox| background-black ]+
 `VIEW[{icon}][text(renderMarkdown)]`

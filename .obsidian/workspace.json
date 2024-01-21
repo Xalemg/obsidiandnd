@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Classes/Classes/Punto de interes.md",
+                "file": "z_Templates/Plantilla - NPC.md",
                 "mode": "preview",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Classes/Classes/Punto de interes.md",
+                "file": "z_Templates/Plantilla- Punto de Interes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Classes/Classes/Punto de interes.md",
+                "file": "z_Templates/Plantilla- Punto de Interes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Classes/Classes/Punto de interes.md"
+                "file": "z_Templates/Plantilla- Punto de Interes.md"
               }
             }
           },
@@ -262,16 +262,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "aaad8ce31c3da85b",
+  "active": "b690eda75ac2c440",
   "lastOpenFiles": [
-    "3.Lugares/Crestafria.md",
+    "z_Templates/Plantilla - NPC.md",
     "Julio Altalos.md",
+    "z_Classes/Classes/Punto de interes.md",
+    "3.Lugares/Crestafria.md",
     "z_Classes/Classes/Tienda o servicio.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "0.Campañas/0.Campañas.md",
     "z_Templates/Plantilla- Punto de Interes.md",
     "z_Templates/Plantilla- Asentamiento.md",
-    "z_Classes/Classes/Punto de interes.md",
     "⭐Hub.md",
     "3.Lugares/Islas Shamal.md",
     "3.Lugares/3.Lugares.md",
@@ -291,7 +292,6 @@
     "5.NPCs/Rey Kemdal.md",
     "5.NPCs/5.NPCs.md",
     "5.NPCs/---.md",
-    "z_Templates/Plantilla - NPC.md",
     "5.NPCs/Lisa.jpg",
     "Nueva carpeta",
     "z_Assets/Arte/Emir Snader.png",
