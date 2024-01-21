@@ -52,7 +52,7 @@ tags:
 
 # 🔍 A simple vista
 
-Primer Rey de la [[Corona de Altalos]]. Expulso a los Elfos de 
+Primer Rey de la [[Corona de Altalos]]. Expulso a los Elfos de la [[Isla de Altalos]]
 
 # 🎯Objetivos
 

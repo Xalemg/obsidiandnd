@@ -22,7 +22,7 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/Plantilla- Asentamiento.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -33,18 +33,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Plantilla- Asentamiento.md",
+                "file": "z_Templates/Plantilla- Punto de Interes.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "e2938b6ef4a37058",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Punto de interes",
-              "state": {}
             }
           },
           {
@@ -54,13 +46,13 @@
               "type": "markdown",
               "state": {
                 "file": "5.NPCs/Julio Altalos.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md",
+                "file": "z_Templates/Plantilla- Punto de Interes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md",
+                "file": "z_Templates/Plantilla- Punto de Interes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md"
+                "file": "z_Templates/Plantilla- Punto de Interes.md"
               }
             }
           },
@@ -262,19 +254,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f4528a5ac62aa6e1",
+  "active": "aaad8ce31c3da85b",
   "lastOpenFiles": [
-    "z_Templates/Plantilla- Lugares.md",
-    "3.Lugares/Crestafria.md",
     "5.NPCs/Julio Altalos.md",
     "z_Templates/Plantilla- Asentamiento.md",
+    "z_Templates/Plantilla- Punto de Interes.md",
+    "z_Templates/Plantilla- Lugares.md",
+    "3.Lugares/Crestafria.md",
     "z_Templates/Plantilla - NPC.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
     "5.NPCs/Lisa.md",
     "0.Campañas/0.Campañas.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "z_Assets/Arte/Catedral de Tyr.png",
-    "z_Templates/Plantilla- Punto de Interes.md",
     "z_Classes/Classes/Punto de interes.md",
     "z_Classes/Classes/Tienda o servicio.md",
     "⭐Hub.md",
