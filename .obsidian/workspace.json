@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "f832129fa6d2c190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aaad8ce31c3da85b",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Crestafria.md"
+                "file": "9.Puntos de interes/Catedral del Martillo.md"
               }
             }
           },
@@ -262,15 +274,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "abf3e467cf8d9906",
+  "active": "f832129fa6d2c190",
   "lastOpenFiles": [
+    "0.Campañas/0.Campañas.md",
+    "9.Puntos de interes/Catedral del Martillo.md",
+    "3.Lugares/Crestafria.md",
     "z_Templates/Plantilla- Punto de Interes.md",
     "z_Templates/Plantilla- Asentamiento.md",
     "z_Classes/Classes/Punto de interes.md",
     "⭐Hub.md",
-    "3.Lugares/Crestafria.md",
     "3.Lugares/Islas Shamal.md",
-    "0.Campañas/0.Campañas.md",
     "3.Lugares/3.Lugares.md",
     "z_Classes/Options/Tematica.md",
     "4.Facciones/La escama plateada.md",
@@ -291,7 +304,6 @@
     "z_Templates/Plantilla - NPC.md",
     "0.Campañas/Personajes/Personajes.md",
     "z_Classes/Classes/NPC.md",
-    "z_Classes/Options/Alineamiento.md",
     "5.NPCs/Lisa.jpg",
     "Nueva carpeta",
     "z_Assets/Arte/Emir Snader.png",
