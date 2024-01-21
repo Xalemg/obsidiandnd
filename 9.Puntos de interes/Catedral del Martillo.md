@@ -27,7 +27,7 @@ Mundo:
 
 # 🔍 A simple vista
 
-#TBD
+Un martillo gigante se encuentra incustrado en el centro de la catedral. El martillo pertenece a 
 
 # 📜 Historia
 
