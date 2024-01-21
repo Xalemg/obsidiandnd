@@ -27,7 +27,7 @@ Mundo:
 
 # 🔍 A simple vista
 
-Enormes paredes  Un martillo gigante se encuentra incrustado en el centro de la catedral. Catedral del Martillo
+Enormes paredes de  Un martillo gigante se encuentra incrustado en el centro de la catedral. Catedral del Martillo
 El mayor edificio de rezo de Tyr. Aqui se producen los juicios mas importantes del Reino
 # 📜 Historia
 
