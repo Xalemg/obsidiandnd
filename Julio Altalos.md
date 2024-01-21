@@ -3,10 +3,10 @@ icon:
 Ubicacion: "[[Crestafria]]"
 Religiones: "[[Tyr]]"
 Estado: Muerto
-Alineamiento: 
-Sexo: 
-Raza: 
-Facciones: 
+Alineamiento: LB
+Sexo: Hombre
+Raza: Humano
+Facciones: "[[Corona de Altalos]]"
 Edad: 
 Oficios: 
 Ideal: 
@@ -17,17 +17,10 @@ Rango:
 Mundo: 
 fileClass: NPC
 ---
----
-tags:
-  - NPC
-icon: "![[z_Assets/Misc/PlaceholderImage.png]]"
-Ideal: ""
-fileClass: NPC
-Raza:
----
+
 
 > [!infobox| background-black ]+
-`VIEW[{icon}][text(renderMarkdown)]`
+>`VIEW[{icon}][text(renderMarkdown)]`
 > ###### Bio
 >  |
 > ---|---|

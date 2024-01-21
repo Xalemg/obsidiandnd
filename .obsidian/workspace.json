@@ -33,18 +33,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76467261226ab4f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Julio Altalos.md",
                 "mode": "preview",
                 "source": false
@@ -84,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -286,11 +274,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "76467261226ab4f2",
+  "active": "f832129fa6d2c190",
   "lastOpenFiles": [
-    "0.Campañas/0.Campañas.md",
-    "Julio Altalos.md",
     "9.Puntos de interes/Catedral del Martillo.md",
+    "Julio Altalos.md",
+    "0.Campañas/0.Campañas.md",
     "3.Lugares/Crestafria.md",
     "z_Templates/Plantilla- Punto de Interes.md",
     "z_Templates/Plantilla- Asentamiento.md",
@@ -335,4 +323,3 @@
     "z_Assets/Misc/PlaceholderImage.png",
     "0.Campañas/El desencadenamiento/Ideas"
   ]
-}

@@ -112,7 +112,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1705851598518,
+      "lastAccessed": 1705852758284,
       "markers": [
         {
           "id": "ID_c9788a3919bb",
@@ -181,7 +181,7 @@
     {
       "id": "TBD",
       "locked": true,
-      "lastAccessed": 1705851598518,
+      "lastAccessed": 1705852758284,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -260,7 +260,8 @@
       ],
       "files": [
         "z_Templates/Plantilla- Punto de Interes.md",
-        "z_Templates/Plantilla- Asentamiento.md"
+        "z_Templates/Plantilla- Asentamiento.md",
+        "9.Puntos de interes/Catedral del Martillo.md"
       ]
     }
   ],
