@@ -5,10 +5,13 @@ tags:
   - "#Lugar"
 aliases: 
 icon: "![[PlaceholderImage.png]]"
-Tematica: [Caballerosidad, Intriga]
+Tematica:
+  - Caballerosidad
+  - Intriga
 Tipo: 
 Prosperidad: Medio
-Defensas: 
+Defensas:
+  - Una guarnición de unos 200 soldados defienden el perimetro de la muralla y de la torre
 Ubicacion: 
 Mundo:
   - Aretries
