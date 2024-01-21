@@ -51,7 +51,7 @@ A simple vista Crestafria destaca su enfoque militar. Las casas tienen murallas 
 
 Con más de 2 millones de habitantes se trata de la ciudad más habitada del reino y la segunda de todas las [[Islas Shamal]]  . Está dividida en tres niveles que están habitados por sus correspondientes estratos sociales, la falda (por el pueblo), la ladera (por la nobleza) y la cima (por la corona y su corte).
 
-Se sitúa en el punto estratégico más importante de la isla, su centro físico y un cruce entre las 3 principales zonas del reino, controlando de esta forma las dos únicas vías de comunicación terrestres seguras del reino. A demas su escarpado acantilado hace casi imposible ningun asalto desde el exterior. Es por esto que las principales familias nobles y gobernantes del reino construyen sus mayores fortalezas aquí. Durante las múltiples guerras civiles que han asolado esta nación, sus calles tienden a convertirse en un campo de batalla más. En la que la nobleza, tele transportando a sus tropas a sus fortalezas, luchan calle a calle por hacerse con la cima. Los ciudadanos suelen acabar uniéndose a alguno de los bandos, por defender su propiedad, adueñarse de la del vecino o acabar con la tiranía de su señor. Eso es lo que da a la ciudad su aspecto tan militar, no es de extrañar encontrarse panaderías con fosos, molinos con barricadas o casas con saeteras y torres.
+Se sitúa en el punto estratégico más importante de la isla, su centro físico y un cruce entre las 3 principales zonas del reino, controlando de esta forma las dos únicas vías de comunicación terrestres seguras del reino. A demás su escarpado acantilado hace casi imposible ningún asalto desde el valle. Es por esto que las principales familias nobles y gobernantes del reino construyen sus mayores fortalezas aquí. Durante las múltiples guerras civiles que han asolado esta nación, sus calles tienden a convertirse en un campo de batalla más. En la que la nobleza, tele transportando a sus tropas a sus fortalezas, luchan calle a calle por hacerse con la cima. Los ciudadanos suelen acabar uniéndose a alguno de los bandos, por defender su propiedad, adueñarse de la del vecino o acabar con la tiranía de su señor. Eso es lo que da a la ciudad su aspecto tan militar, no es de extrañar encontrarse panaderías con fosos, molinos con barricadas o casas con saeteras y torres.
 
 Durante estas ocasiones las partes altas solo son capaz de sustentarse gracias a los múltiples templos y a la importantísima y renombrada torre de magia de Crestafria, ya que al hallarse a más de 2 kilómetros de altura la agricultura es prácticamente inexistente.
 ### Sitios de Interes
@@ -74,7 +74,7 @@ Clerigos de [[Tyr]] tienden a patrullar tambien las calles y cualquier acto deli
 
 ## 💰 Comercio y economía
 
-Crestafria al contrario de la mayoria de las ciudades no es un gran motor económico.
+Crestafria al contrario de la mayoria de las ciudades no es un gran motor económico. Las principales
 
 ## 🧾 Historia
 
