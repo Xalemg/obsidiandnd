@@ -2,6 +2,7 @@
 fileClass: Asentamiento
 tags:
   - Lugar
+  - Asentamiento
 aliases: 
 icon: "![[z_Assets/Misc/PlaceholderImage.png]]"
 Poblacion: 
