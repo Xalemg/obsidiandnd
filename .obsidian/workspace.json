@@ -33,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Plantilla - NPC.md",
-                "mode": "preview",
+                "file": "z_Templates/Plantilla- Asentamiento.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "5.NPCs/Julio Altalos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "5.NPCs/Julio Altalos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Crestafria.md"
+                "file": "5.NPCs/Julio Altalos.md"
               }
             }
           },
@@ -274,11 +274,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e532a94ca30921e5",
+  "active": "f4528a5ac62aa6e1",
   "lastOpenFiles": [
+    "z_Templates/Plantilla- Asentamiento.md",
     "z_Templates/Plantilla - NPC.md",
     "3.Lugares/Crestafria.md",
-    "z_Templates/Plantilla- Asentamiento.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
     "5.NPCs/Lisa.md",
     "5.NPCs/Julio Altalos.md",
