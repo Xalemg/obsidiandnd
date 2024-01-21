@@ -4,7 +4,7 @@ tags:
   - PuntoDeInteres
   - "#Lugar"
 aliases: 
-icon: "![[PlaceholderImage.png]]"
+icon: "![[Catedral de Tyr.png]]"
 Tematica: [Religiosa, Reflexion, Deber]
 Tipo: Templo
 Prosperidad: Medio
