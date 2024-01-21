@@ -20,7 +20,7 @@ fileClass: NPC
 
 
 > [!infobox| background-black ]+
->`VIEW[{icon}][text(renderMarkdown)]`
+`VIEW[{icon}][text(renderMarkdown)]`
 > ###### Bio
 >  |
 > ---|---|
