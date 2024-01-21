@@ -34,8 +34,7 @@ Enormes techos adornan la Un martillo gigante se encuentra incrustado en el cent
 
 # ✏️ Notas
 
- El martillo pertenece a la caballera Filda, Una de las mallores caballeras del primer Rey de Altalos, Julio Altalos
-
+ El martillo pertenece a la caballera Filda, Una de las mallores caballeras del primer Rey de Altalos, [[Julio Altalos]]
 # Otros
 > [!metadata|map]- Map
 > ```leaflet
