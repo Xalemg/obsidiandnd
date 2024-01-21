@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Fortaleza de Norias.md",
+                "file": "5.NPCs/Lisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Fortaleza de Norias.md",
+                "file": "5.NPCs/Lisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Fortaleza de Norias.md"
+                "file": "5.NPCs/Lisa.md"
               }
             }
           },
@@ -274,12 +274,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7301b0d4334a519d",
+  "active": "abf3e467cf8d9906",
   "lastOpenFiles": [
+    "9.Puntos de interes/Fortaleza de Norias.md",
     "5.NPCs/Lisa.md",
     "3.Lugares/Crestafria.md",
     "5.NPCs/Julio Altalos.md",
-    "9.Puntos de interes/Fortaleza de Norias.md",
     "0.Campañas/0.Campañas.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "z_Templates/Plantilla - NPC.md",
