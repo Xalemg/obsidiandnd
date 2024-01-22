@@ -95,7 +95,7 @@
     {
       "id": "TBD",
       "locked": true,
-      "lastAccessed": 1705506078444,
+      "lastAccessed": 1705915880433,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -173,7 +173,7 @@
         }
       ],
       "files": [
-        "z_Templates/Plantilla- Asentamiento.md"
+        "z_Templates/Plantilla- Punto de Interes.md"
       ]
     }
   ],
