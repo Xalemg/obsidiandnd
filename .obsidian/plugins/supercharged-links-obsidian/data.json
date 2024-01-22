@@ -229,9 +229,9 @@
       "selectBackground": false
     },
     {
-      "type": "attribute",
+      "type": "tag",
       "name": "Tipo",
-      "value": "Punto de Interes",
+      "value": "PuntoDeInteres",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "d81b-ce38",

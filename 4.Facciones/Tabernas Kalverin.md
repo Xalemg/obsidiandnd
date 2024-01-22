@@ -26,20 +26,16 @@ Mundo: Aretries
 
 # 🔍 A simple vista
 
-#TBD
-
+Una cadena de Tabernas establecidas a lo largo de todas las [[Islas Shamal]]. Estan todas dirigidas por Warforged llamados Kevin. Cada taverna intenta adapatarse a las costumbres y topicos locales.
 # 🎯Objetivos
 
-#TBD
-
+Ganar money.
 
 # 📜 Historia
 
 #TBD
 
 # ✏️ Notas
-
-#TBD
 
 > [!metadata|characters]+ Miembros
 > ```dataview

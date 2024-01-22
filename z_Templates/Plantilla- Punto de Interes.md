@@ -1,19 +1,17 @@
 ---
-fileClass: Asentamiento
+fileClass: Punto de interes
 tags:
-  - Lugar
-aliases: []
-icon: ![[z_Assets/Misc/PlaceholderImage.png
-Poblacion: ""
-Nacion: "-"
-Gobernantes:
-  - "-"
-Tematica:
-  - ""
-Tipo: Punto de Interes
-Prosperidad: 1
-Importaciones: []
-Mundo: Aretries
+  - PuntoDeInteres
+  - "#Lugar"
+aliases: 
+icon: "![[PlaceholderImage.png]]"
+Tematica: 
+Tipo: 
+Prosperidad: Medio
+Defensas: 
+Ubicacion: 
+Mundo:
+  - Aretries
 ---
 
 
@@ -40,7 +38,7 @@ Mundo: Aretries
 #TBD
 
 # Otros
-> [!metadata|map]+ Map
+> [!metadata|map]- Map
 > ```leaflet
 > 
 > 
@@ -105,6 +103,7 @@ table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Tema
 FROM #Lugar
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
+## Sitios de Interes
 
 > [!metadata|groups]+ Facciones
 > ```dataview
@@ -117,5 +116,5 @@ SORT file.name ASC
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, join(Oficios, ", ") AS "Oficios", Alienamiento
 FROM #NPC
-WHERE  contains(Ubicacion, [[]])
+WHERE  contains(Ubicacion, [[]]) AND !contains(Estado, "Muerto" )
 SORT file.name ASC

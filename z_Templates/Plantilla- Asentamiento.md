@@ -2,6 +2,7 @@
 fileClass: Asentamiento
 tags:
   - Lugar
+  - Asentamiento
 aliases: 
 icon: "![[z_Assets/Misc/PlaceholderImage.png]]"
 Poblacion: 
@@ -128,6 +129,7 @@ table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Tema
 FROM #Lugar
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
+### Sitios de Interes
 
 > [!metadata|groups]+ Facciones
 > ```dataview
@@ -140,8 +142,5 @@ SORT file.name ASC
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, join(Oficios, ", ") AS "Oficios", Alienamiento
 FROM #NPC
-WHERE  contains(Ubicacion, [[]])
+WHERE  contains(Ubicacion, [[]]) AND !contains(Estado, "Muerto" )
 SORT file.name ASC
-
-> [!metadata]- Encuentros Aleatorios
-> ![[Encuentros Urbanos]]

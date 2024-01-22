@@ -42,3 +42,4 @@ Demonio
 Warforged
 Centaurios (Centaurs)
 Minotauros (Minotaurs)
+Humano

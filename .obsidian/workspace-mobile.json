@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Campañas/El legado de plata/El legado de plata_SM-G990B_Jan-16-1939-2024_1.md",
+                "file": "3.Lugares/Crestafria.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,8 +95,7 @@
           }
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "dcd97ae7bbf02671",
@@ -108,7 +107,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0.Campañas/El legado de plata/El legado de plata_SM-G990B_Jan-16-1939-2024_1.md",
+            "file": "3.Lugares/Crestafria.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "0.Campañas/El legado de plata/El legado de plata_SM-G990B_Jan-16-1939-2024_1.md",
+            "file": "3.Lugares/Crestafria.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -137,7 +136,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "0.Campañas/El legado de plata/El legado de plata_SM-G990B_Jan-16-1939-2024_1.md"
+            "file": "3.Lugares/Crestafria.md"
           }
         }
       },

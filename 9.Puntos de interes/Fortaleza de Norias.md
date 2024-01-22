@@ -1,28 +1,20 @@
 ---
-fileClass: Asentamiento
+fileClass: Punto de interes
 tags:
-  - Lugar
+  - PuntoDeInteres
+  - "#Lugar"
 aliases: 
-icon: "![[z_Assets/Arte/Roncor.jpg]]"
-Poblacion: 
-Nacion: "-"
-Gobernantes:
-  - "-"
+icon: "![[PlaceholderImage.png]]"
 Tematica:
-  - Exporación
-  - Agricultura
-  - Descubrimientos
-Tipo: Subcontinente
-Importaciones: 
-Mundo: Aretries
-Ubicacion: "[[3.Lugares/Islas Shamal.md|Islas Shamal]]"
-Terreno:
-  - Isla
-Gobierno: 
-Prosperidad: Bajo
-Defensas: 
-Religión:
-Religion: 
+  - Caballerosidad
+  - Intriga
+Tipo: 
+Prosperidad: Medio
+Defensas:
+  - Una guarnición de unos 200 soldados defienden el perimetro de la muralla y de la torre
+Ubicacion: 
+Mundo:
+  - Aretries
 ---
 
 
@@ -34,13 +26,11 @@ Religion:
 >  **Ubicación** | `VIEW[{Ubicacion}][link]` |
 > **Alias** |`=this.aliases` |
 > **Tipo** | `=this.Tipo` |
-> **Población** | `=this.Poblacion` |
 > **Temática** | `=this.Tematica` |
-> **Terreno** | `=this.Terreno`|
 
 # 🔍 A simple vista
 
-#TBD
+La fortaleza de Norias es la tercera más grande de la ciudad.
 
 # 📜 Historia
 
@@ -51,14 +41,6 @@ Religion:
 #TBD
 
 # Otros
-
-
-> [!metadata|pois]+ Localizaciones
-> ```dataview
-table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Tematica
-FROM #Lugar
-WHERE  contains(Ubicacion, [[]])
-SORT file.name ASC
 
 > [!metadata|groups]+ Facciones
 > ```dataview

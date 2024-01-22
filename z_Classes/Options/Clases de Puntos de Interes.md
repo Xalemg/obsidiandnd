@@ -1,0 +1,3 @@
+
+Edificio
+Templo

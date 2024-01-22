@@ -51,3 +51,4 @@ Ayudante de cocinero del castillo
 
 Emir (Lider)
 Reina
+Rey

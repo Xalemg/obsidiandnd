@@ -10,3 +10,6 @@ Alienigena
 Progreso
 Desigualdad Social
 Ecologismo
+Religiosa
+Reflexion
+Deber

@@ -280,13 +280,13 @@ div[data-id="6788-82cf"] div.setting-item-description::before,
 }
 
 div[data-id="d81b-ce38"] div.setting-item-description,
-[data-link-Tipo="Punto de Interes"  i] {
+[data-link-tags*="PuntoDeInteres" i] {
     color: var(--d81b-ce38-color) !important;
     font-weight: var(--d81b-ce38-weight);
 }
 
 div[data-id="d81b-ce38"] div.setting-item-description::before,
-.data-link-icon[data-link-Tipo="Punto de Interes"  i]::before {
+.data-link-icon[data-link-tags*="PuntoDeInteres" i]::before {
     content: var(--d81b-ce38-before);
 }
 
@@ -1062,7 +1062,7 @@ settings:
         quotes: true
     - 
         id: d81b-ce38
-        title: Tipo is Punto de Interes
+        title: tag is PuntoDeInteres
         description: Example note
         type: heading
         collapsed: true

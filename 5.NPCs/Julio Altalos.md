@@ -1,14 +1,18 @@
 ---
-icon: "![[placeholderImage.png]]"
-Ubicacion: 
-Religiones: 
-Estado: 
-Alineamiento: 
-Sexo: 
-Raza: 
-Facciones: 
-Edad: 
-Oficios: 
+icon: "![[PlaceholderImage.png]]"
+Ubicacion: "[[Crestafria]]"
+Religiones:
+  - "[[Tyr]]"
+Estado: Muerto
+Alineamiento: LB
+Sexo: Hombre
+Raza:
+  - Humano
+Facciones: "[[Corona de Altalos]]"
+Edad:
+  - Muerto
+Oficios:
+  - Rey
 Ideal: 
 Vinculo: 
 Defecto: 
@@ -48,7 +52,7 @@ tags:
 
 # 🔍 A simple vista
 
-#TBD
+Primer Rey de la [[Corona de Altalos]]. Expulso a los Elfos de la [[Isla de Altalos]]
 
 # 🎯Objetivos
 
