@@ -11,7 +11,7 @@ fileClass: Sesion
 NPCs Relevantres: 
 Mundo:
 ---
-# [[Personajes de <% campaña %>]]
+# [[Personajes]]
 >[!cards| dataview 7]
 >```dataview
 >table without id embed(link(icon)) as Icono,
@@ -57,7 +57,7 @@ Mundo:
 
 # 🎥Situaciones probables
 *Situaciones probables que vayan a darse durante la sesión.*
-## Situacion 1
+## Situación 1
 
 
 # ⚔️ Encuentros

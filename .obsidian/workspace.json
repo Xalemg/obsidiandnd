@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,7 +264,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8f3a222a36725503",
+  "active": "794ad6cd91f408f5",
   "lastOpenFiles": [
     "0.Campañas/Campañas.backup.md",
     "z_Classes/Options/Mundos.md",
