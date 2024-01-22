@@ -9,11 +9,9 @@ Tematica:
   - Agricultura
 Tipo: Ciudad
 Prosperidad: Alta
-Importaciones: 
 Mundo: Aretries
 Terreno:
   - Isla
-Lideres: "[[5.NPCs/Rey Kemdal.md|Rey Kemdal]]"
 Gobierno: Monarquia
 Ubicacion: "[[3.Lugares/Isla de Altalos.md|Isla de Altalos]]"
 Defensas:
@@ -40,7 +38,6 @@ Religion:
 > **Lideres** | `=this.Lideres` |
 > **Tipo de gobierno** | `=this.Gobierno` |
 > **Defensas** | `=this.Defensas` |
-> **Religiones** | `=this.Religiones` |
 > **Religiones** | `=this.Religion` |
 > **Prosperidad** | `=this.Prosperidad` |
 

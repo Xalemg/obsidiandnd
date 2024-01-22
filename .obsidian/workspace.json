@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
+                "file": "3.Lugares/Crestafria.md",
                 "mode": "preview",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/Personajes/Personajes.md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/Personajes/Personajes.md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Campañas/Personajes/Personajes.md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -241,11 +241,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b9148b92f1725472",
+  "active": "6b57b0db313e9362",
   "lastOpenFiles": [
+    "3.Lugares/3.Lugares.md",
+    "3.Lugares/Islas Shamal.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
-    "0.Campañas/Personajes/Kiera/Kiera.md",
     "0.Campañas/Personajes/Personajes.md",
+    "0.Campañas/Personajes/Kiera/Kiera.md",
     "⭐Hub.md",
     "0.Campañas/Grupos de aventureros/Grupos de aventureros.md",
     "0.Campañas/0.Campañas.md",
@@ -265,11 +267,9 @@
     "z_Classes/Options/Campañas.md",
     "z_Classes/Classes/Sin título.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El  legado de plata (Kiera ).md",
-    "3.Lugares/3.Lugares.md",
     "1.Lore/1.Lore.md",
     "4.Facciones/4.Facciones.md",
     "4.Facciones/La sombra que fue.md",
-    "z_Templates/Plantilla- Asentamiento.md",
     "z_Assets/NPCs/Obispa Anais.png",
     "z_Assets/Obispa Anais.png",
     "9.Puntos de interes",
