@@ -6,7 +6,7 @@
   "ITS@@select": "none",
   "ITS@@nord": false,
   "ITS@@s-d": false,
-  "ITS@@accent-color": true,
+  "ITS@@accent-color": false,
   "ITS@@paper": false,
   "ITS@@writing": false,
   "ITS@@hide-titlebar": false,
