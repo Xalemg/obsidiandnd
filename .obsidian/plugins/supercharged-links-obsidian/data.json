@@ -13,11 +13,11 @@
   "enableSuggestor": true,
   "selectors": [
     {
-      "type": "tag",
+      "type": "path",
       "name": "Tipo",
-      "value": "personaje",
+      "value": "0.Campañas/Personajes",
       "matchCaseSensitive": false,
-      "match": "exact",
+      "match": "contains",
       "uid": "6d49-9d99",
       "selectText": true,
       "selectAppend": false,
