@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "794ad6cd91f408f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bf8bad435294edc6",
             "type": "leaf",
             "state": {
@@ -58,9 +46,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ecdc04ddab75c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/Plantilla - Sesión.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -264,11 +264,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "794ad6cd91f408f5",
+  "active": "2ecdc04ddab75c8a",
   "lastOpenFiles": [
-    "0.Campañas/Personajes/Personajes.md",
-    "z_Templates/Plantilla - Sesión.md",
+    "⭐Hub.md",
     "0.Campañas/Campañas.backup.md",
+    "z_Templates/Plantilla - Sesión.md",
+    "0.Campañas/Personajes/Personajes.md",
     "z_Classes/Options/Mundos.md",
     "z_Classes/Classes/Global.md",
     "0.Campañas/El desencadenamiento/El desencadenamiento.md",
@@ -277,7 +278,6 @@
     "0.Campañas/0.Campañas.md",
     "5.NPCs/5.NPCs.md",
     "5.NPCs/Rey Kemdal.md",
-    "⭐Hub.md",
     "z_Classes/Classes/Sesion.md",
     "z_Classes/Options/Campañas.md",
     "z_Classes/Classes/Sin título.md",

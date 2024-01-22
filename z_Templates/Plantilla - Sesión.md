@@ -26,8 +26,8 @@ Mundo:
 
 
 
->[!aside | right clean no-t nmg ] #
-># 🏘️[[3.Lugares]] importantes
+>[!dataview  | right clean no-t nmg ]
+># [[3.Lugares]] importantes
 >```dataview
 >list 
 >FROM #Lugar AND #Relevante
