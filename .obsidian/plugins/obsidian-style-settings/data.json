@@ -139,5 +139,7 @@
   "ITS@@callout-block": false,
   "ITS@@embed-clean": true,
   "ITS@@table-text-size": 12,
-  "ITS@@notion": true
+  "ITS@@notion": true,
+  "ITS@@canvas-color-opacity": 0.07,
+  "ITS@@ITS-Table-Alt-Colors": "none"
 }
