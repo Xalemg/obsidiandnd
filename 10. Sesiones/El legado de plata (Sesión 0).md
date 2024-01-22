@@ -10,6 +10,7 @@ banner_y: 0
 fileClass: Sesion
 NPCs Relevantres: 
 Mundo:
+Campañas: 
 ---
 # [[Personajes]]
 >[!cards| dataview 7]
