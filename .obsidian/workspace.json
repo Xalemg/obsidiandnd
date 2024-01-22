@@ -28,39 +28,35 @@
             }
           },
           {
-            "id": "fb75ae75d3542722",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Classes/Classes/Sin título.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99b9accf7a9bf2b1",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Sin título",
-              "state": {}
-            }
-          },
-          {
             "id": "dcf6b216de32474c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Classes/Classes/Sin título 1.md",
+                "file": "z_Classes/Classes/Global.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d7d86bed6d3ef08",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Global",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f3a222a36725503",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Sesion",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Classes/Classes/Sin título 1.md",
+                "file": "z_Classes/Classes/Global.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Classes/Classes/Sin título 1.md",
+                "file": "z_Classes/Classes/Global.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Classes/Classes/Sin título 1.md"
+                "file": "z_Classes/Classes/Global.md"
               }
             }
           },
@@ -262,11 +258,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dcf6b216de32474c",
+  "active": "7d7d86bed6d3ef08",
   "lastOpenFiles": [
-    "z_Classes/Classes/Sin título.md",
-    "z_Classes/Classes/Sin título 1.md",
+    "z_Classes/Classes/Sesion.md",
     "z_Classes/Options/Campañas.md",
+    "z_Classes/Classes/Sin título.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El  legado de plata (Kiera ).md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones/Sesión 0 El desencadenamiento, El legado de plata (Kiera)( 2024-01-23).md",
     "⭐Hub.md",
