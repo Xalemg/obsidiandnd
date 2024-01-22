@@ -2,11 +2,8 @@
 Tipo: Sesion
 tags:
   - Sesion
-Campaña: 
-fecha: ""
-Numero: <% sesionNumber %>
-banner: "![[lazy_dm_workbook_banner.jpg]]"
-banner_y: 0
+fecha: 
+Numero: "0"
 fileClass: Sesion
 Mundo:
   - Aretries
