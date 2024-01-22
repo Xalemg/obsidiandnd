@@ -2,7 +2,7 @@
 fileClass: Faccion
 tags:
   - Faccion
-  - relevante
+  - Relevante
 aliases: 
 icon: "![[la sombra que fue.png]]"
 Mundo: Aretries

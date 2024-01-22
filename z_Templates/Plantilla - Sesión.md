@@ -28,16 +28,17 @@ fileClass: Sesion
 ># 🏘️[[3.Lugares]] importantes
 >```dataview
 >list 
->FROM #Faccion AND #relevante
+>FROM #Lugar AND #Relevante
+>```
 > ## [[4.Facciones]] 
 >```dataview
 >list 
->FROM #Faccion AND #relevante
+>FROM #Faccion AND #Relevante
 >```
 > [[5.NPCs]]
 >```dataview
 >list 
->FROM #NPC AND #relevante
+>FROM #NPC AND #Relevante
 >```
 # 🔐Secretos y pistas
 *Secretos sobre el villano/enemigos, objetivo de los PJs, aliados, lugares que visitan, eventos relevantes, objetos mágicos o la misión.*
