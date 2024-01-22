@@ -22,6 +22,7 @@ Mundo: Aretries
 fileClass: NPC
 tags:
   - NPC
+  - Relevante
 ---
 
 > [!infobox| background-black ]+

@@ -46,6 +46,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bf8bad435294edc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.NPCs/Lisa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -252,6 +264,10 @@
   },
   "active": "794ad6cd91f408f5",
   "lastOpenFiles": [
+    "5.NPCs/Lisa.md",
+    "5.NPCs/5.NPCs.md",
+    "5.NPCs/Rey Kemdal.md",
+    "z_Templates/Plantilla - Sesión.md",
     "⭐Hub.md",
     "z_Classes/Classes/Global.md",
     "z_Classes/Classes/Sesion.md",
@@ -263,8 +279,6 @@
     "1.Lore/1.Lore.md",
     "0.Campañas/0.Campañas.md",
     "4.Facciones/4.Facciones.md",
-    "z_Templates/Plantilla - Sesión.md",
-    "5.NPCs/5.NPCs.md",
     "4.Facciones/La sombra que fue.md",
     "z_Templates/Plantilla- Asentamiento.md",
     "5.NPCs/Anais.md",
@@ -278,8 +292,6 @@
     "z_Assets/NPCs/Obispa Anais.png",
     "z_Assets/Obispa Anais.png",
     "3.Lugares/Islas Shamal.md",
-    "z_Templates/Plantilla- Punto de Interes.md",
-    "z_Classes/Options/Tematica.md",
     "9.Puntos de interes",
     "4. Punto",
     "5.NPCs/Lisa.jpg",
