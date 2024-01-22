@@ -14,7 +14,7 @@ cssClasses: card-images
 >```
 
 ```dataview
-table without id embed(link(icon)) as Icono, file.link as PJ, P_per, ac as AC, Competencias, level
+table without id embed(link(icon)) as Icono, file.link as PJ, P_per as "P.Per", ac as AC, Competencias, level
 FROM #personaje
 WHERE contains(En_curso, "si")
 ```
