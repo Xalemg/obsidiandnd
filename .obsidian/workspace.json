@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "425b7476d630d724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭐Hub.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -258,7 +270,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebc4e168253d41e2",
+  "active": "425b7476d630d724",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "⭐Hub.md",
