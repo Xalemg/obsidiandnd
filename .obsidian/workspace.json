@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "5.NPCs/Lisa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "5.NPCs/Lisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Campañas/0.Campañas.md"
+                "file": "5.NPCs/Lisa.md"
               }
             }
           },
@@ -253,7 +253,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -276,9 +276,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f5f23bb565a59332",
+  "active": "bf8bad435294edc6",
   "lastOpenFiles": [
     "0.Campañas/El desencadenamiento/El desencadenamiento.md",
+    "0.Campañas/0.Campañas.md",
     "z_Templates/Plantilla - Sesión.md",
     "5.NPCs/Lisa.md",
     "5.NPCs/5.NPCs.md",
@@ -292,7 +293,6 @@
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones/Sesión 0 El desencadenamiento, El legado de plata (Kiera)( 2024-01-23).md",
     "3.Lugares/3.Lugares.md",
     "1.Lore/1.Lore.md",
-    "0.Campañas/0.Campañas.md",
     "4.Facciones/4.Facciones.md",
     "4.Facciones/La sombra que fue.md",
     "z_Templates/Plantilla- Asentamiento.md",

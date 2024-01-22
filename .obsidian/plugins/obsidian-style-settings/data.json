@@ -105,7 +105,6 @@
   "ITS@@slrvb-g": false,
   "ITS@@slrvb-b": false,
   "ITS@@t-d": false,
-  "ITS@@scrollbar-width": 10,
   "ITS@@radius-s": 4,
   "ITS@@tab-outline-width": 2,
   "ITS@@ITS-Table-Styling": "tables-style-wikipedia",
@@ -147,5 +146,6 @@
   "supercharged-links@@1f27-21bf-color": "#F2C8F5",
   "ITS@@file-explorer-boldless-hover": true,
   "ITS@@file-explorer-boldless": true,
-  "ITS@@hide-resize-handle": true
+  "ITS@@hide-resize-handle": false,
+  "ITS@@scrollbar-width": 12
 }
