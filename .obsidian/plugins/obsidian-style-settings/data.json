@@ -147,5 +147,6 @@
   "ITS@@file-explorer-boldless-hover": true,
   "ITS@@file-explorer-boldless": true,
   "ITS@@hide-resize-handle": false,
-  "ITS@@scrollbar-width": 12
+  "ITS@@scrollbar-width": 12,
+  "ITS@@file-header-breadcrumb-font-size": 13.5
 }

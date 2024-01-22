@@ -241,8 +241,8 @@
       "open-vscode:VSCode": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false,
-      "audio-recorder:Empezar/Parar de grabar": false
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "f5f23bb565a59332",
