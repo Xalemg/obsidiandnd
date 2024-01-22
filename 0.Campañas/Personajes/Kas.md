@@ -1,12 +1,12 @@
 ---
-Tags:
- - personaje
- - IslasShamal
- - Chumipower
+tags:
+  - personaje
+  - IslasShamal
+  - Chumipower
 Campaña: Chumipower
 En_curso: si
 tipo: Mascota
-icon: ![[chain Kas.png]]
+icon: "![[chain kas]]"
 ---
 
 # Nombre
