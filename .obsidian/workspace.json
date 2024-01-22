@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "51ac01137a2ac223",
+            "id": "4d994c2d671c8be4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -246,9 +246,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "51ac01137a2ac223",
+  "active": "4d994c2d671c8be4",
   "lastOpenFiles": [
     "0.Campañas/0.Campañas.md",
+    "⭐Hub.md",
     "3.Lugares/Crestafria.md",
     "5.NPCs/Lisa.md",
     "conflict-files-obsidian-git.md",
@@ -256,7 +257,6 @@
     "5.NPCs/5.NPCs.md",
     "5.NPCs/---.md",
     "z_Templates/Plantilla - NPC.md",
-    "⭐Hub.md",
     "0.Campañas/Personajes/Personajes.md",
     "z_Classes/Classes/NPC.md",
     "z_Classes/Options/Alineamiento.md",
