@@ -53,6 +53,11 @@ fileClass: Sesion
 - [ ] 
 - [ ] 
 
+# 🎥Situaciones probables
+*Situaciones probables que vayan a darse durante la sesión.*
+## Situacion 1
+
+
 # ⚔️ Encuentros
 *Un encuentro puede ser mortal si la suma total de los valores de desafío de los monstruos es superior a la mitad de la suma total de los niveles de los personajes o a un cuarto de os niveles de los personajes si estos son de 4º nivel o inferior.*
 `encounter: 1: goblin`
@@ -60,21 +65,6 @@ fileClass: Sesion
 Ejemplo
 # ⏯️Grabación
 
-# 🎥Situaciones probables
-*Situaciones probables que vayan a darse durante la sesión.*
-## Situacion 1
 
->[!column | 3 nmg clean txt-c no-i ttl-c] [[4.Facciones]] y [[5.NPCs]]
->>[!note|no-i no-t clean nmg]
->>## ⚔️ Enemigos
->>Enemigo 1
->
->>[!note|no-i no-t clean nmg]
->> ## ✌️Neutrales
->>Neutral 1
->
->>[!note|no-i no-t clean nmg]
->> ## 🛡️Aliados
->>Aliado 1
-___
+
 # 📝 Notas
