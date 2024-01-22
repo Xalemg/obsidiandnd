@@ -2,6 +2,7 @@
 fileClass: Asentamiento
 tags:
   - Lugar
+  - Relevante
 aliases: 
 icon: "![[CrestaFria.png]]"
 Poblacion: ""
