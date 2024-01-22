@@ -260,9 +260,9 @@
       "match": "contains",
       "uid": "1f27-21bf",
       "selectText": true,
-      "selectAppend": true,
+      "selectAppend": false,
       "selectPrepend": true,
-      "selectBackground": true
+      "selectBackground": false
     }
   ]
 }
