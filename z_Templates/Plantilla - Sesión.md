@@ -26,14 +26,19 @@ fileClass: Sesion
 
 >[!aside | right clean no-t nmg ]
 ># 🏘️[[3.Lugares]] importantes
-> *Añadir lugares de importancia para la sesión*
+>```dataview
+>list 
+>FROM #Faccion AND #relevante
 > ## [[4.Facciones]] 
 >```dataview
 >list 
->FROM #NPC AND #relevante 
+>FROM #Faccion AND #relevante
 >```
 > [[5.NPCs]]
-
+>```dataview
+>list 
+>FROM #NPC AND #relevante
+>```
 # 🔐Secretos y pistas
 *Secretos sobre el villano/enemigos, objetivo de los PJs, aliados, lugares que visitan, eventos relevantes, objetos mágicos o la misión.*
 - [ ] 

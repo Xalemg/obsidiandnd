@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.NPCs/Anais.md",
-                "mode": "preview",
+                "file": "z_Templates/Plantilla - Sesión.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#personaje",
+                "query": "tag:#Faccion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Anais.md",
+                "file": "z_Templates/Plantilla - Sesión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Anais.md",
+                "file": "z_Templates/Plantilla - Sesión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Anais.md"
+                "file": "z_Templates/Plantilla - Sesión.md"
               }
             }
           },
@@ -230,11 +231,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8bc6b2324b5c27b8",
+  "active": "01c245aacb8c2073",
   "lastOpenFiles": [
+    "z_Templates/Plantilla- Asentamiento.md",
+    "5.NPCs/Anais.md",
     "z_Templates/Plantilla - Sesión.md",
-    "4.Facciones/4.Facciones.md",
     "4.Facciones/La sombra que fue.md",
+    "4.Facciones/4.Facciones.md",
     "3.Lugares/3.Lugares.md",
     "Personajes de.md",
     "9.Puntos de interes/Catedral del Martillo.md",
@@ -242,7 +245,6 @@
     "9.Puntos de interes/Fortaleza de Norias.md",
     "3.Lugares/Crestafria.md",
     "⭐Hub.md",
-    "5.NPCs/Anais.md",
     "4.Facciones/La iglesia de Tyr.md",
     "z_Classes/Options/Alineamiento.md",
     "0.Campañas/0.Campañas.md",
@@ -260,7 +262,6 @@
     "z_Classes/Classes/Punto de interes.md",
     "5.NPCs/Lisa.md",
     "9.Puntos de interes",
-    "Personajes de el desencadenamiento.md",
     "4. Punto",
     "5.NPCs/Lisa.jpg",
     "Nueva carpeta",
