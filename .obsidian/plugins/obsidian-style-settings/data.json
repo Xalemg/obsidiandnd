@@ -146,5 +146,6 @@
   "supercharged-links@@1f27-21bf-before": "⛰️",
   "supercharged-links@@1f27-21bf-color": "#F2C8F5",
   "ITS@@file-explorer-boldless-hover": true,
-  "ITS@@file-explorer-boldless": true
+  "ITS@@file-explorer-boldless": true,
+  "ITS@@hide-resize-handle": true
 }
