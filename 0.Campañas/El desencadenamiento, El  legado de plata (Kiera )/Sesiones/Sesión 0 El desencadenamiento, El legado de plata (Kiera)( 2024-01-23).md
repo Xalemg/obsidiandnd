@@ -1,6 +1,9 @@
 ---
 banner: "![[lazy_dm_workbook_banner.jpg]]"
 ---
+---
+banner: "![[lazy_dm_workbook_banner.jpg]]"
+---
 
 # [[Personajes de El desencadenamiento, El legado de plata (Kiera)]]
 >[!cards| dataview 7]
