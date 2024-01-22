@@ -54,7 +54,7 @@ cssClasses: card-images
 ## Para hacer
 > [!column|2 no-title]
 >> [!metadata] Short Term
->> - [ ] Actualizar las notas de la [[Chumipower]] 
+>> - [x] Actualizar las notas de la [[Chumipower]] 
 >> - [ ] Migrar las notas de la otra boveda
 >> - [ ] 
 >
