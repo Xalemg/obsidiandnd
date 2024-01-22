@@ -14,15 +14,11 @@ Campañas: El legado de plata
 ---
 # [[Personajes]]
 >[!cards| dataview 7]
->```dataview
->table without id embed(link(icon)) as Icono,
->"**"+file.link +"**",
->"**P.Pasiva: "+P_per+"**",
->"**AC: "+ac+"**",
->"**Max HP: "+hp+"**"
->FROM #personaje
->WHERE contains(En_curso, "si") AND contains(Campaña,this.Campaña)
->```
+```dataview
+table without id embed(link(icon)) as Icono, file.link as PJ, P_per as "P.Per", ac as AC, Competencias, level
+FROM #personaje
+WHERE contains(En_curso, "si") and contains(Campaña, this.Campaña)
+```
 
 
 
