@@ -26,7 +26,7 @@ Mundo:
 
 
 
->[!aside | right clean no-t nmg ]
+>[!aside | right clean no-t nmg ] #
 ># 🏘️[[3.Lugares]] importantes
 >```dataview
 >list 
@@ -37,7 +37,7 @@ Mundo:
 >list 
 >FROM #Faccion AND #Relevante
 >```
-> [[5.NPCs]]
+># [[5.NPCs]]
 >```dataview
 >list 
 >FROM #NPC AND #Relevante
