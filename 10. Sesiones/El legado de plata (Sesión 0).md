@@ -2,7 +2,7 @@
 Tipo: Sesion
 tags:
   - Sesion
-fecha: 
+fecha: 2024-01-25
 Numero: "0"
 fileClass: Sesion
 Mundo:
@@ -18,9 +18,6 @@ table without id embed(link(icon)) as Icono, file.link as PJ, P_per as "P.Per", 
 FROM #personaje
 WHERE contains(En_curso, "si") and contains(Campaña, this.Campañas)
 ```
-
-
-
 
 >[!dataview  | right clean no-t nmg ]
 ># [[3.Lugares]]
