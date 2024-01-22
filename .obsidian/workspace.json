@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "845c684d98d4358d",
+            "id": "51ac01137a2ac223",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cdabfb45a41830b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "⭐Hub.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Campañas/0.Campañas.md"
+                "file": "⭐Hub.md"
               }
             }
           },
@@ -258,12 +246,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a6567840c6c30487",
+  "active": "51ac01137a2ac223",
   "lastOpenFiles": [
+    "0.Campañas/0.Campañas.md",
     "3.Lugares/Crestafria.md",
     "5.NPCs/Lisa.md",
     "conflict-files-obsidian-git.md",
-    "0.Campañas/0.Campañas.md",
     "5.NPCs/Rey Kemdal.md",
     "5.NPCs/5.NPCs.md",
     "5.NPCs/---.md",
