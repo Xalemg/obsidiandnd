@@ -9,7 +9,14 @@ fields:
       valuesFromDVQuery: ""
     path: ""
     id: GfqkLd
-version: "2.7"
+  - name: fecha
+    type: Date
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    path: ""
+    id: rvwN15
+version: "2.8"
 limit: 20
 mapWithTag: true
 icon: scroll
@@ -22,5 +29,6 @@ extends: Global
 savedViews: []
 favoriteView: 
 fieldsOrder:
+  - rvwN15
   - GfqkLd
 ---

@@ -3,13 +3,13 @@ Tipo: Sesion
 tags:
   - Sesion
 Campaña: 
-fecha: 
+fecha: ""
 Numero: <% sesionNumber %>
 banner: "![[lazy_dm_workbook_banner.jpg]]"
 banner_y: 0
 fileClass: Sesion
 NPCs Relevantres: 
-Mundo: 
+Mundo:
 ---
 # [[Personajes de <% campaña %>]]
 >[!cards| dataview 7]
