@@ -1,42 +1,13 @@
 ---
-<%*
-
-const dv = app.plugins.plugins.dataview.api;
-let pages = dv.pages("#sesion");
-const campaña = await tp.system.suggester(["El desencadenamiento", "El desencadenamiento, El legado de plata (Kiera)"], ["El desencadenamiento","El desencadenamiento, El legado de plata (Kiera)"]);
-let sesionNumber =0;
-const filterSessions = (session, campaña)=>{
-    if( session.Campaña==campaña){ 
-	        return true;
-    }
-}
-let sesionesCampaña = pages.file.frontmatter.where(t => filterSessions(t, campaña)).values;
-console.log(sesionesCampaña);
-sesionNumber =sesionesCampaña.reduce((sesionNumber, sesion)=> {
-console.log(sesion);
-if(sesionNumber>sesion.Numero){
-return "" + sesionNumber;
-}
-else{
-return  parseInt(sesion.Numero)+1
-}
-},0);
-//Math.max.apply(null, sesionNumber);
-sesionNumber = await tp.system.prompt("Numero de la sesión","" + sesionNumber, "");
-console.log(sesionNumber);
-const date = await tp.system.prompt("Fecha proxima sesion", tp.date.now("YYYY-MM-DD"), "");
-const title = "Sesión " + sesionNumber+ " " + campaña + "( " + date + ")";
-await tp.file.rename(title);
-
-
-_%>
 Tipo: Sesion
-Tags: Sesion
-Campaña: <% campaña %>
-fecha: <% date %>
-Numero: <% sesionNumber %>
+tags:
+  - Sesion
+Campaña: 
+fecha: 
+Numero: 
 banner: "![[lazy_dm_workbook_banner.jpg]]"
 banner_y: 0
+fileClass: Sesion
 ---
 # [[Personajes de <% campaña %>]]
 >[!cards| dataview 7]
@@ -47,9 +18,8 @@ banner_y: 0
 >"**AC: "+ac+"**",
 >"**Max HP: "+hp+"**"
 >FROM #personaje
->WHERE contains(En_curso, "si") AND contains(Campaña, <% campaña %>)
+>WHERE contains(En_curso, "si") AND contains(Campaña,this.Campaña)
 >```
-
 
 
 
