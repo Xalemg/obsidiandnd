@@ -24,7 +24,7 @@
   "settingsVersion": "5.2",
   "firstDayOfWeek": 1,
   "enableLinks": false,
-  "enableTabHeader": true,
+  "enableTabHeader": false,
   "enableEditor": false,
   "enableBacklinks": true,
   "enableStarred": true,
