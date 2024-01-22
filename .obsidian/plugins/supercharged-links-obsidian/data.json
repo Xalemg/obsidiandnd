@@ -27,7 +27,7 @@
     {
       "type": "path",
       "name": "Tipo",
-      "value": "5.Facciones",
+      "value": "5.NPCs",
       "matchCaseSensitive": false,
       "match": "contains",
       "uid": "0144-ccf5",

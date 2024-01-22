@@ -79,13 +79,13 @@ div[data-id="6d49-9d99"] div.setting-item-description::before,
 }
 
 div[data-id="0144-ccf5"] div.setting-item-description,
-[data-link-path*="5.Facciones" i] {
+[data-link-path*="5.NPCs" i] {
     color: var(--0144-ccf5-color) !important;
     font-weight: var(--0144-ccf5-weight);
 }
 
 div[data-id="0144-ccf5"] div.setting-item-description::before,
-.data-link-icon[data-link-path*="5.Facciones" i]::before {
+.data-link-icon[data-link-path*="5.NPCs" i]::before {
     content: var(--0144-ccf5-before);
 }
 
@@ -347,7 +347,7 @@ settings:
         quotes: true
     - 
         id: 0144-ccf5
-        title: path is 5.Facciones
+        title: path is 5.NPCs
         description: Example note
         type: heading
         collapsed: true
