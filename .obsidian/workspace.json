@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "65ffe91206907947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.NPCs/Rufus.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
+                "file": "5.NPCs/Rufus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
+                "file": "5.NPCs/Rufus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md"
+                "file": "5.NPCs/Rufus.md"
               }
             }
           },
@@ -202,14 +214,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "361d75ceaedca1e2",
+  "active": "65ffe91206907947",
   "lastOpenFiles": [
+    "5.NPCs/5.NPCs.md",
+    "⭐Hub.md",
+    "2.Panteón/2.Panteón.md",
     "0.Campañas/Personajes/Personajes.md",
+    "0.Campañas/Grupos de aventureros/Grupos de aventureros.md",
+    "z_Templates/Plantilla - Sesión.md",
     "0.Campañas/Personajes/AinLaoo/AinLaoo.md",
     "0.Campañas/Personajes/Elentari/Elentari.md",
     "0.Campañas/Personajes/Kas.md",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones/Sesión 0 El desencadenamiento, El legado de plata (Kiera)( 2024-01-23).md",
-    "⭐Hub.md",
     "3.Lugares/3.Lugares.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
     "3.Lugares/Crestafria.md"
