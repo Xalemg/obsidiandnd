@@ -16,7 +16,7 @@
   "ITS@@hide-tab-outline": true,
   "ITS@@hide-note-title": false,
   "ITS@@hide-note-title-icons": false,
-  "ITS@@Inline-Title-Styling": "inline-title-style-heading",
+  "ITS@@Inline-Title-Styling": "none",
   "ITS@@metadata-value-background": true,
   "ITS@@its-d": false,
   "ITS@@drwn": false,
@@ -132,12 +132,13 @@
   "ITS@@h5-size": 16,
   "ITS@@h6-size": 14,
   "ITS@@heading-color-override": false,
-  "ITS@@heading-spacing": 10,
-  "ITS@@header-border-line-height": 4,
-  "ITS@@header-weight": 700,
   "ITS@@dataview-table-auto": true,
   "ITS@@callout-outline": false,
   "ITS@@callout-block": false,
   "ITS@@embed-clean": true,
-  "ITS@@table-text-size": 12
+  "ITS@@table-text-size": 12,
+  "ITS@@heading-indicator": false,
+  "ITS@@header-border-line-height": 4,
+  "ITS@@header-weight": 700,
+  "ITS@@heading-spacing": 10
 }
