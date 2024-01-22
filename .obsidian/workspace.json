@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Crestafria.md"
+                "file": "9.Puntos de interes/Catedral del Martillo.md"
               }
             }
           },
@@ -244,8 +244,9 @@
   },
   "active": "85e60a521e7f8f5b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "9.Puntos de interes/Fortaleza de Norias.md",
     "3.Lugares/Crestafria.md",
+    "conflict-files-obsidian-git.md",
     "⭐Hub.md",
     "5.NPCs/Anais.md",
     "4.Facciones/La iglesia de Tyr.md",
@@ -273,7 +274,6 @@
     "4. Punto",
     "5.NPCs/Rey Kemdal.md",
     "5.NPCs/5.NPCs.md",
-    "5.NPCs/---.md",
     "5.NPCs/Lisa.jpg",
     "Nueva carpeta",
     "z_Assets/Arte/Emir Snader.png",

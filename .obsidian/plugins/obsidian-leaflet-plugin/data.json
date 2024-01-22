@@ -87,11 +87,7 @@
     {
       "id": "Islas",
       "locked": false,
-<<<<<<< HEAD
       "lastAccessed": 1705874027857,
-=======
-      "lastAccessed": 1705417549460,
->>>>>>> origin/main
       "markers": [
         {
           "id": "ID_0a78cae98b58",
@@ -172,6 +168,23 @@
           "minZoom": null,
           "maxZoom": 0.5,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_dbe92afb2a38",
+          "type": "Ciudad",
+          "loc": [
+            278.5448290702196,
+            283.5498192558056
+          ],
+          "link": "Puerto Kalabor",
+          "layer": "%5B%5BIslas%20Shamal%20Upscale%2050.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -181,7 +194,6 @@
       ]
     },
     {
-<<<<<<< HEAD
       "id": "Crestafria",
       "locked": false,
       "lastAccessed": 1705917595566,
@@ -248,89 +260,6 @@
       "shapes": [],
       "files": [
         "3.Lugares/Crestafria.md"
-=======
-      "id": "TBD",
-      "locked": true,
-      "lastAccessed": 1705506078444,
-      "markers": [],
-      "overlays": [],
-      "shapes": [
-        {
-          "type": "polyline",
-          "color": "#3388FF",
-          "vertices": [
-            {
-              "lat": 132.7012933146301,
-              "lng": 195.38244247660793,
-              "id": "ID_da88798b2baa",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 128.45865262751082,
-              "lng": 202.98384037436333,
-              "id": "ID_b97ac8596828",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 123.33212846390835,
-              "lng": 210.58523827211872,
-              "id": "ID_1a2b48ab09fb",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 125.27667211217135,
-              "lng": 218.716966255764,
-              "id": "ID_68c9fb69e9f9",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 132.8125,
-              "lng": 211.75,
-              "id": "ID_b9d8c9687b8a",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 136.9439340017494,
-              "lng": 204.22127724143976,
-              "id": "ID_89291b6a7988",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 137.12071069704604,
-              "lng": 197.32698612487093,
-              "id": "ID_caaa1ad97aa8",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 132.34773992403683,
-              "lng": 195.38244247660793,
-              "id": "ID_69b9bbe9fa98",
-              "targets": {
-                "vertexIds": []
-              }
-            }
-          ],
-          "arrows": false,
-          "reversed": false
-        }
-      ],
-      "files": [
-        "z_Templates/Plantilla- Asentamiento.md"
->>>>>>> origin/main
       ]
     }
   ],
@@ -349,7 +278,7 @@
     {
       "type": "Ciudad",
       "iconName": "city",
-      "color": "#dddddd",
+      "color": "#000000",
       "alpha": 1,
       "layer": false,
       "transform": {
@@ -395,6 +324,70 @@
       "tags": [],
       "minZoom": null,
       "maxZoom": 0.5
+    },
+    {
+      "type": "Edificio",
+      "iconName": "building",
+      "color": "#c84646",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Fortaleza",
+      "iconName": "shield-alt",
+      "color": "#c8bf50",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Punto de interes",
+      "iconName": "map-marker-alt",
+      "color": "#9b557a",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "edificio religioso",
+      "iconName": "church",
+      "color": "#8d3535",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",
@@ -416,7 +409,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": false,
-    "defaultZoom": 2.5,
+    "defaultZoom": 0.5,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
@@ -428,7 +421,7 @@
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[Islas.webp]]"
+      "[[Islas Shamal Upscale 50.jpg]]"
     ],
     "linksFrom": [],
     "linksTo": [],
@@ -437,18 +430,18 @@
     "markerFile": [],
     "markerFolder": [],
     "markerTag": [],
-    "maxZoom": 6.5,
+    "maxZoom": 3,
     "minZoom": 0,
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
-    "scale": 10,
+    "scale": 2,
     "showAllMarkers": false,
     "tileServer": [],
     "verbose": false,
     "zoomDelta": 0.5,
     "zoomFeatures": false,
-    "id": "TBD",
+    "id": "Islas",
     "lock": true,
     "recenter": true,
     "noScrollZoom": false,
@@ -458,12 +451,12 @@
         0
       ],
       [
-        86.2,
-        121.8
+        429.15,
+        606.92
       ]
     ],
-    "lat": 430.64,
-    "long": 609.03,
+    "lat": 214,
+    "long": 303,
     "unit": "Kms",
     "filterTag": []
   },
