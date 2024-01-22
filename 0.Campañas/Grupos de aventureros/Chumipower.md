@@ -1,4 +1,7 @@
 ---
+banner: "![[ultimo dia de los dioses.jpg]]"
+---
+---
 tags: partida
 banner: "![[ultimo dia de los dioses.jpg]]"
 banner_y: 0.51232

@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "0.Campañas/Campañas.backup.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "0.Campañas/Campañas.backup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "0.Campañas/Campañas.backup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Lisa.md"
+                "file": "0.Campañas/Campañas.backup.md"
               }
             }
           },
@@ -278,10 +278,12 @@
   },
   "active": "bf8bad435294edc6",
   "lastOpenFiles": [
+    "0.Campañas/Grupos de aventureros/Chumipower.md",
+    "0.Campañas/Campañas.backup.md",
+    "5.NPCs/Lisa.md",
     "0.Campañas/El desencadenamiento/El desencadenamiento.md",
     "0.Campañas/0.Campañas.md",
     "z_Templates/Plantilla - Sesión.md",
-    "5.NPCs/Lisa.md",
     "5.NPCs/5.NPCs.md",
     "5.NPCs/Rey Kemdal.md",
     "⭐Hub.md",
@@ -302,8 +304,6 @@
     "conflict-files-obsidian-git.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
     "3.Lugares/Crestafria.md",
-    "4.Facciones/La iglesia de Tyr.md",
-    "z_Classes/Options/Alineamiento.md",
     "z_Assets/NPCs/Obispa Anais.png",
     "z_Assets/Obispa Anais.png",
     "9.Puntos de interes",
