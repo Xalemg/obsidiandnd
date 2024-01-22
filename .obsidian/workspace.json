@@ -26,21 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "85e60a521e7f8f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
+                "file": "5.NPCs/Anais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
+                "file": "5.NPCs/Anais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md"
+                "file": "5.NPCs/Anais.md"
               }
             }
           },
@@ -242,10 +230,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "85e60a521e7f8f5b",
+  "active": "8bc6b2324b5c27b8",
   "lastOpenFiles": [
-    "3.Lugares/3.Lugares.md",
     "z_Templates/Plantilla - Sesión.md",
+    "4.Facciones/4.Facciones.md",
+    "4.Facciones/La sombra que fue.md",
+    "3.Lugares/3.Lugares.md",
     "Personajes de.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "conflict-files-obsidian-git.md",
@@ -271,8 +261,6 @@
     "5.NPCs/Lisa.md",
     "9.Puntos de interes",
     "Personajes de el desencadenamiento.md",
-    "Shield of Missile Attraction.md",
-    "5.NPCs/Emir Sander.md",
     "4. Punto",
     "5.NPCs/Lisa.jpg",
     "Nueva carpeta",

@@ -2,6 +2,7 @@
 fileClass: Faccion
 tags:
   - Faccion
+  - relevante
 aliases: 
 icon: "![[la sombra que fue.png]]"
 Mundo: Aretries
@@ -10,7 +11,9 @@ Tipo:
 Alineamiento: CM
 Influencia: Baja
 Ubicacion: 
-Rangos: [Padre(Lider), Hija menor]
+Rangos:
+  - Padre(Lider)
+  - Hija menor
 ---
 
 

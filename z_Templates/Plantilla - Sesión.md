@@ -30,7 +30,7 @@ fileClass: Sesion
 > ## [[4.Facciones]] 
 >```dataview
 >list 
->FROM #NPC AND #EnCurso
+>FROM #NPC AND #relevante 
 >```
 > [[5.NPCs]]
 
