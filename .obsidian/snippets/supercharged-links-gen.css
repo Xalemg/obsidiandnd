@@ -170,13 +170,13 @@ div[data-id="21fa-63ec"] div.setting-item-description::before,
 }
 
 div[data-id="911d-dfda"] div.setting-item-description,
-[data-link-path*="2.Deidad" i] {
+[data-link-path*="2.Panteón" i] {
     color: var(--911d-dfda-color) !important;
     font-weight: var(--911d-dfda-weight);
 }
 
 div[data-id="911d-dfda"] div.setting-item-description::before,
-.data-link-icon[data-link-path*="2.Deidad" i]::before {
+.data-link-icon[data-link-path*="2.Panteón" i]::before {
     content: var(--911d-dfda-before);
 }
 
@@ -689,7 +689,7 @@ settings:
         quotes: true
     - 
         id: 911d-dfda
-        title: path is 2.Deidad
+        title: path is 2.Panteón
         description: Example note
         type: heading
         collapsed: true
