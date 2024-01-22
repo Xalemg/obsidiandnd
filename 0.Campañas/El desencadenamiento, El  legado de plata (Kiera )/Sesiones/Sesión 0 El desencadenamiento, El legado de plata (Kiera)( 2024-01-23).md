@@ -14,7 +14,9 @@ banner: "![[lazy_dm_workbook_banner.jpg]]"
 >WHERE contains(En_curso, "si") AND contains(Campaña,"El desencadenamiento, El legado de plata (Kiera)")
 >```
 
-
+# 🎥Situaciones probables
+*Situaciones probables que vayan a darse durante la sesión.*
+## Situacion 1
 
 
 >[!aside | right clean no-t nmg ]
@@ -42,9 +44,7 @@ banner: "![[lazy_dm_workbook_banner.jpg]]"
 - [ ] 
 
 
-# 🎥Situaciones probables
-*Situaciones probables que vayan a darse durante la sesión.*
-## Situacion 1
+
 
 >[!column | 3 nmg clean txt-c no-i ttl-c] [[4.Facciones]] y [[5.NPCs]]
 >>[!note|no-i no-t clean nmg]
