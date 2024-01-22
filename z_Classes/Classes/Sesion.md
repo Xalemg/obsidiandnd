@@ -1,6 +1,6 @@
 ---
 fields: []
-version: "2.1"
+version: "2.2"
 limit: 20
 mapWithTag: false
 icon: package
@@ -9,7 +9,7 @@ tagNames:
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: 
+extends: Global
 savedViews: []
 favoriteView: 
 fieldsOrder: []

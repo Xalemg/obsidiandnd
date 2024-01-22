@@ -40,14 +40,6 @@
             }
           },
           {
-            "id": "7d7d86bed6d3ef08",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Global",
-              "state": {}
-            }
-          },
-          {
             "id": "8f3a222a36725503",
             "type": "leaf",
             "state": {
@@ -56,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -258,7 +250,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7d7d86bed6d3ef08",
+  "active": "dcf6b216de32474c",
   "lastOpenFiles": [
     "z_Classes/Classes/Sesion.md",
     "z_Classes/Options/Campañas.md",
