@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
+                "file": "4.Facciones/4.Facciones.md",
                 "mode": "preview",
                 "source": false
               }
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
+                "file": "4.Facciones/4.Facciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
+                "file": "4.Facciones/4.Facciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md"
+                "file": "4.Facciones/4.Facciones.md"
               }
             }
           },
@@ -233,8 +232,8 @@
   },
   "active": "8bc6b2324b5c27b8",
   "lastOpenFiles": [
-    "5.NPCs/5.NPCs.md",
     "z_Templates/Plantilla - Sesión.md",
+    "5.NPCs/5.NPCs.md",
     "⭐Hub.md",
     "4.Facciones/4.Facciones.md",
     "4.Facciones/La sombra que fue.md",

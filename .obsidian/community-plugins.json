@@ -25,5 +25,6 @@
   "calendarium",
   "note-gallery",
   "obsidian-meta-bind-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-show-file-path"
 ]
