@@ -307,6 +307,21 @@ settings:
         id: file-explorer-flat
         type: class-toggle
     -
+        title: Display Folder Arrow On Hover
+        id: folder-arrow
+        type: class-toggle
+        default: false
+    - 
+        title: Disable Bold Folder & Hover 
+        description: Remove bold styling from folders & hovering on items
+        id: file-explorer-boldless
+        type: class-toggle
+    - 
+        title: Disable Bold on Hover
+        description: Remove bold styling from hovering on items
+        id: file-explorer-boldless-hover
+        type: class-toggle
+    -
         title: Folder Icon
         id: folder-icon
         type: variable-text
@@ -321,11 +336,6 @@ settings:
         id: file-icon
         type: variable-text
         default: '"\e800"'
-    -
-        title: Display Folder Arrow On Hover
-        id: folder-arrow
-        type: class-toggle
-        default: true
     -
         title: File Font Family
         id: file-f
@@ -1448,7 +1458,7 @@ settings:
         type: variable-text
         default: '"ITS"'
 	-
-		title: List Line Width
+		title: List Line Thickness
 		id: indentation-guide-width
 		type: variable-number-slider
         default: 2
@@ -3536,6 +3546,7 @@ body {
   --nav-indentation-guide-width: 2px;
   --nav-indentation-guide-color: var(--lines);
   --folder-weight: 700;
+  --folder-weight-hover: var(--folder-weight);
 }
 
 .nav-folder-collapse-indicator,
@@ -3545,6 +3556,10 @@ body {
 
 .nav-folder-title {
   --nav-item-weight: var(--folder-weight);
+}
+
+.nav-folder-title:hover {
+  --nav-item-weight-hover: var(--folder-weight-hover);
 }
 
 .nav-folder.mod-root > .nav-folder-title:hover {
@@ -4084,12 +4099,13 @@ h6 .heading-collapse-indicator, h6 .cm-fold-indicator.cm-fold-indicator, .is-liv
 h1,
 .markdown-rendered h1,
 .is-live-preview .HyperMD-header-1.cm-line {
-  display: block;
+  display: flow-root;
   background: var(--h1-background);
   text-align: var(--h1-text-align);
   padding: var(--h1-padding);
   border: var(--h1-border-width) solid;
   border-radius: var(--radius-m);
+  margin-top: var(--heading-spacing-top) !important;
   margin-block-start: var(--heading-spacing-top);
   margin-block-end: var(--heading-spacing-bottom);
   word-wrap: normal;
@@ -4099,12 +4115,13 @@ h1,
 h2,
 .markdown-rendered h2,
 .is-live-preview .HyperMD-header-2.cm-line {
-  display: block;
+  display: flow-root;
   background: var(--h2-background);
   text-align: var(--h2-text-align);
   padding: var(--h2-padding);
   border: var(--h2-border-width) solid;
   border-radius: var(--radius-m);
+  margin-top: var(--heading-spacing-top) !important;
   margin-block-start: var(--heading-spacing-top);
   margin-block-end: var(--heading-spacing-bottom);
   word-wrap: normal;
@@ -4114,12 +4131,13 @@ h2,
 h3,
 .markdown-rendered h3,
 .is-live-preview .HyperMD-header-3.cm-line {
-  display: block;
+  display: flow-root;
   background: var(--h3-background);
   text-align: var(--h3-text-align);
   padding: var(--h3-padding);
   border: var(--h3-border-width) solid;
   border-radius: var(--radius-m);
+  margin-top: var(--heading-spacing-top) !important;
   margin-block-start: var(--heading-spacing-top);
   margin-block-end: var(--heading-spacing-bottom);
   word-wrap: normal;
@@ -4129,12 +4147,13 @@ h3,
 h4,
 .markdown-rendered h4,
 .is-live-preview .HyperMD-header-4.cm-line {
-  display: block;
+  display: flow-root;
   background: var(--h4-background);
   text-align: var(--h4-text-align);
   padding: var(--h4-padding);
   border: var(--h4-border-width) solid;
   border-radius: var(--radius-m);
+  margin-top: var(--heading-spacing-top) !important;
   margin-block-start: var(--heading-spacing-top);
   margin-block-end: var(--heading-spacing-bottom);
   word-wrap: normal;
@@ -4144,12 +4163,13 @@ h4,
 h5,
 .markdown-rendered h5,
 .is-live-preview .HyperMD-header-5.cm-line {
-  display: block;
+  display: flow-root;
   background: var(--h5-background);
   text-align: var(--h5-text-align);
   padding: var(--h5-padding);
   border: var(--h5-border-width) solid;
   border-radius: var(--radius-m);
+  margin-top: var(--heading-spacing-top) !important;
   margin-block-start: var(--heading-spacing-top);
   margin-block-end: var(--heading-spacing-bottom);
   word-wrap: normal;
@@ -4159,12 +4179,13 @@ h5,
 h6,
 .markdown-rendered h6,
 .is-live-preview .HyperMD-header-6.cm-line {
-  display: block;
+  display: flow-root;
   background: var(--h6-background);
   text-align: var(--h6-text-align);
   padding: var(--h6-padding);
   border: var(--h6-border-width) solid;
   border-radius: var(--radius-m);
+  margin-top: var(--heading-spacing-top) !important;
   margin-block-start: var(--heading-spacing-top);
   margin-block-end: var(--heading-spacing-bottom);
   word-wrap: normal;
@@ -4680,7 +4701,7 @@ body {
 body {
   --hr-icon-symbol: "";
   --hr-icon-font: var(--its);
-  --hr-icon-background: transparent;
+  --hr-icon-background: var(--note);
   --hr-icon-padding-x: 4px;
   --hr-icon-color: var(--headers);
   --hr-color: var(--hr);
@@ -5575,6 +5596,10 @@ body {
   --dataview-table-width: 100%;
 }
 
+.dataview.dataview {
+  --root-list-spacing: 0;
+}
+
 .table-view-table {
   width: var(--dataview-table-width);
 }
@@ -5607,13 +5632,6 @@ body {
   padding-left: 0;
 }
 
-.dataview.result-group > .contains-task-list {
-  padding-inline-start: 0;
-}
-.dataview.result-group > .contains-task-list .task-list-item.is-checked .task-list-item-checkbox {
-  margin-left: 0;
-}
-
 .is-live-preview .block-language-dataviewjs > :is(p, span) {
   line-height: var(--lh);
 }
@@ -5639,7 +5657,7 @@ body {
 .dataview.dataview.inline-field-value {
   background-color: var(--td);
 }
-.dataview.dataview.inline-field-value a.tag:first-child {
+.dataview.dataview.inline-field-value a.tag:first-child:empty {
   display: none;
 }
 
@@ -5647,12 +5665,6 @@ body {
   display: none;
 }
 
-body:not(.list-default-bullet) .dataview.dataview ul > li:not(.task-list-item)::before, body:not(.list-default-bullet) .dataview.dataview ul > li .task-list-item-checkbox {
-  margin-left: 0;
-}
-body:not(.list-default-bullet) .dataview.dataview ul > li ul::before {
-  left: 0.4em;
-}
 body:not(.list-default-bullet) .dataview.dataview div div > ul {
   padding-inline-start: 0;
 }
@@ -6667,6 +6679,15 @@ body.folder-arrow .nav-files-container .tree-item-self.is-active .collapse-icon 
 }
 body.folder-arrow .nav-files-container .nav-folder-children .nav-folder-title:hover .nav-folder-title-content::before {
   margin-left: var(--file-icon-margin);
+}
+
+.file-explorer-boldless {
+  --folder-weight: 500;
+  --nav-item-weight-hover: 500;
+}
+
+.file-explorer-boldless-hover {
+  --nav-item-weight-hover: inherit;
 }
 
 body {
@@ -9500,6 +9521,13 @@ body:not(.check-color, .check-text) ul > li.task-list-item[data-task][data-task=
 }
 .callout[data-callout*=column][data-callout-metadata~=list-global] .callout > .callout-content > ul .list-bullet::after, .callout[data-callout*=column][data-callout-metadata~=list] > .callout-content > ul .list-bullet::after {
   position: relative;
+}
+.callout[data-callout*=column][data-callout-metadata~=list-x] > .callout-content {
+  grid-template-columns: unset;
+}
+.callout[data-callout*=column][data-callout-metadata~=list-x] > .callout-content > ul {
+  display: grid;
+  grid-template-columns: repeat(var(--columns), 1fr);
 }
 
 /*Kanban*/
