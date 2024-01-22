@@ -9,7 +9,7 @@ excludes:
 extends: Global
 savedViews: []
 favoriteView: 
-version: "2.23"
+version: "2.26"
 fields:
   - name: aliases
     type: Input
@@ -76,6 +76,9 @@ fields:
       "6": Padre
       "7": Padre(Lider)
       "8": Hija menor
+      "9": Obispo Supremo
+      "10": Obispo
+      "11": Hermano
     path: ""
     id: s7c817
   - name: Lider

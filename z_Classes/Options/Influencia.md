@@ -3,3 +3,4 @@ Alta
 Media
 Baja
 Muy Baja
+Alta
