@@ -1,17 +1,15 @@
 ---
 fields:
-  - name: NPCs Relevantres
-    type: Lookup
+  - name: Campañas
+    type: Select
     options:
-      autoUpdate: false
-      outputType: LinksList
-      builtinSummarizingFunction: Count
-      customListFunction: page.file.name
-      customSummarizingFunction: return pages.length
-      dvQueryString: dv.pages('#NPC' && '#Relevante')
+      valuesList: {}
+      sourceType: ValuesListNotePath
+      valuesListNotePath: z_Classes/Options/Campañas.md
+      valuesFromDVQuery: ""
     path: ""
-    id: U8n5UG
-version: "2.5"
+    id: GfqkLd
+version: "2.7"
 limit: 20
 mapWithTag: true
 icon: scroll
@@ -24,5 +22,5 @@ extends: Global
 savedViews: []
 favoriteView: 
 fieldsOrder:
-  - U8n5UG
+  - GfqkLd
 ---
