@@ -11,13 +11,15 @@ fileClass: Sesion
 Mundo:
   - Aretries
 Campañas: El legado de plata
+cssclasses:
+  - card-images
 ---
 # [[Personajes]]
 >[!cards| dataview 7]
 ```dataview
 table without id embed(link(icon)) as Icono, file.link as PJ, P_per as "P.Per", ac as AC, Competencias, level
 FROM #personaje
-WHERE contains(En_curso, "si") and contains(Campaña, this.Campaña)
+WHERE contains(En_curso, "si") and contains(Campaña, this.Campañas)
 ```
 
 
