@@ -28,7 +28,7 @@
   "enableEditor": false,
   "enableBacklinks": true,
   "enableStarred": true,
-  "enableFileExplorer": false,
+  "enableFileExplorer": true,
   "enableSearch": true,
   "enableProperties": true,
   "tableViewMaxRecords": 20,
