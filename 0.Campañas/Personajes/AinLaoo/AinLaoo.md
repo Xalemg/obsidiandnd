@@ -4,13 +4,15 @@ ac: 16
 modifier: 4
 level: 8
 P_per: 10
-Tags: jugador, personaje
+tags:
+  - jugador
+  - personaje
 Campaña: Chumipower
-date updated: "2021-12-13 10:18"
+date updated: 2021-12-13 10:18
 Competencias: Acrobacias, Arcano, Historia, Investigación, Naturaleza, Actuación, Religión, Sigilo
 En_curso: si
 tipo: jugador
-icon: ![[ainlaoo framed.png]]
+icon: "![[ainlaoo framed.png]]"
 ---
 
    <iframe

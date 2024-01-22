@@ -7,5 +7,6 @@
     "imageSuggester",
     "BetterLeafletIcons",
     "SlimHorizontalLine"
-  ]
+  ],
+  "showViewHeader": true
 }

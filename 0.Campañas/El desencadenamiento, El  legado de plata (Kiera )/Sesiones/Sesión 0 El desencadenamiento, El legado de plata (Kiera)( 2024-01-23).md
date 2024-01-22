@@ -1,12 +1,7 @@
 ---
-Tipo: Sesion
-Tags: Sesion
-Campaña: El desencadenamiento, El legado de plata (Kiera)
-fecha: 2024-01-23
-Numero: 0
 banner: "![[lazy_dm_workbook_banner.jpg]]"
-banner_y: 0
 ---
+
 # [[Personajes de El desencadenamiento, El legado de plata (Kiera)]]
 >[!cards| dataview 7]
 >```dataview
@@ -19,7 +14,9 @@ banner_y: 0
 >WHERE contains(En_curso, "si") AND contains(Campaña,"El desencadenamiento, El legado de plata (Kiera)")
 >```
 
-
+# 🎥Situaciones probables
+*Situaciones probables que vayan a darse durante la sesión.*
+## Situacion 1
 
 
 >[!aside | right clean no-t nmg ]
@@ -47,9 +44,7 @@ banner_y: 0
 - [ ] 
 
 
-# 🎥Situaciones probables
-*Situaciones probables que vayan a darse durante la sesión.*
-## Situacion 1
+
 
 >[!column | 3 nmg clean txt-c no-i ttl-c] [[4.Facciones]] y [[5.NPCs]]
 >>[!note|no-i no-t clean nmg]
