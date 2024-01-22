@@ -1,61 +1,39 @@
 {
   "main": {
-    "id": "ff13853cd880cd70",
+    "id": "ab0ce658d503fcbd",
     "type": "split",
     "children": [
       {
-        "id": "bafc2e9179dde8b7",
+        "id": "ca09e1657eb35200",
         "type": "tabs",
         "children": [
           {
-            "id": "90cdf452403c77f4",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "8bc6b2324b5c27b8",
+            "id": "3aeff30e843f9ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.NPCs/Anais.md",
+                "file": "⭐Hub.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "b1baffbfffb04e5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "420676fb70a5ff68",
+    "id": "c4fbc3840d48b9de",
     "type": "split",
     "children": [
       {
-        "id": "68d169e2f47fa8b4",
+        "id": "0ab01d7efae3d519",
         "type": "tabs",
         "children": [
           {
-            "id": "59369172aaba219c",
+            "id": "9218aad9f1e12fba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,12 +43,12 @@
             }
           },
           {
-            "id": "01c245aacb8c2073",
+            "id": "04a0da4ae4ceed97",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#personaje",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +58,7 @@
             }
           },
           {
-            "id": "55899e3c055c4d95",
+            "id": "db58b4920ee0ff1e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -94,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "cc70ceb331cfaefc",
+    "id": "4edd3d6b5a6d1e5f",
     "type": "split",
     "children": [
       {
-        "id": "66e141e4c5c2be88",
+        "id": "f17c18853d5037fc",
         "type": "tabs",
         "children": [
           {
-            "id": "785ab9631e1f7755",
+            "id": "fc7fdc0285208506",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,19 +97,19 @@
             }
           },
           {
-            "id": "a5305f3790e19a54",
+            "id": "768d7d94bee9d248",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7ca9bbb8cbaed2db",
+            "id": "b9ec5d7abe63c9b7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,29 +120,17 @@
             }
           },
           {
-            "id": "2b4290b2a206ded4",
+            "id": "9c052e25e40bb10f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "⭐Hub.md"
               }
             }
           },
           {
-            "id": "f5f23bb565a59332",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.Campañas/0.Campañas.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c6f6c034f5e85a1",
+            "id": "cff73f4fa52995dc",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -172,7 +138,7 @@
             }
           },
           {
-            "id": "b7c59265677dbc4e",
+            "id": "ee2aa249b15a542f",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -180,27 +146,7 @@
             }
           },
           {
-            "id": "36647f2dee74b912",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_fbd88a383ac8",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "year": 783,
-                    "month": 0,
-                    "day": 7
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                }
-              }
-            }
-          },
-          {
-            "id": "bd145fc7d68d9413",
+            "id": "0ba9de850c78288f",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -220,7 +166,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -228,66 +174,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "open-vscode:VSCode": false,
       "obsidian42-brat:BRAT": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b1baffbfffb04e5d",
-  "lastOpenFiles": [
-    "⭐Hub.md",
-    "conflict-files-obsidian-git.md",
-    "3.Lugares/Crestafria.md",
-    "z_Assets/NPCs/Obispa Anais.png",
-    "5.NPCs/Anais.md",
-    "4.Facciones/La iglesia de Tyr.md",
-    "z_Templates/Plantilla- Facciones.md",
-    "z_Classes/Options/Clases de Puntos de Interes.md",
-    "z_Assets/Arte/Catedral de Tyr.png",
-    "9.Puntos de interes/Fortaleza de Norias.md",
-    "9.Puntos de interes/Catedral del Martillo.md",
-    "9.Puntos de interes",
-    "5.NPCs/Julio Altalos.md",
-    "4.Facciones/Tabernas Kalverin.md",
-    "4.Facciones/4.Facciones.md",
-    "0.Campañas/0.Campañas.md",
-    "5.NPCs/Lisa.md",
-    "5.NPCs/Rey Kemdal.md",
-    "5.NPCs/5.NPCs.md",
-    "5.NPCs/---.md",
-    "z_Templates/Plantilla - NPC.md",
-    "0.Campañas/Personajes/Personajes.md",
-    "z_Classes/Classes/NPC.md",
-    "z_Classes/Options/Alineamiento.md",
-    "5.NPCs/Lisa.jpg",
-    "4.Facciones/La escama plateada.md",
-    "5.NPCs/Emir Sander.md",
-    "3.Lugares/3.Lugares.md",
-    "4.Facciones/La Mancomunidad del Viento.md",
-    "Nueva carpeta",
-    "z_Assets/Arte/Emir Snader.png",
-    "z_Assets/Arte/Puerto Kalabor.png",
-    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones",
-    "z_Assets/Arte/Dioses/Lolthwebp.webp",
-    "z_Assets/Arte/Dioses/Lolthwebp.webp.crdownload",
-    "z_Assets/Emblemas/59188df2f0da25a850ae2b3760f5615f.png.crdownload",
-    "z_Assets/Emblemas/La escama plateada.png",
-    "z_Assets/Emblemas/emblema mancomunidad.png",
-    "z_Assets/Arte/Material_Plane.webp",
-    "z_Assets/Arte/Material_Plane.webp.crdownload",
-    "z_Assets/Arte/infraoscuridad.jpeg",
-    "z_Classes/Classes",
-    "z_Classes/Options",
-    "0.Campañas/El desencadenamiento/Ideas"
-  ]
+  "active": "3aeff30e843f9ea5",
+  "lastOpenFiles": []
 }
