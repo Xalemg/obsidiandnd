@@ -42,6 +42,11 @@
       "folder": "8.Notas varias",
       "tag": "#notas",
       "pattern": ""
+    },
+    {
+      "folder": "10. Sesiones",
+      "tag": "#Sesion",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
