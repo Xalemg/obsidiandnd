@@ -8,55 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "825bc976518c6eb7",
+            "id": "90cdf452403c77f4",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bc6b2324b5c27b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Facciones/La escama plateada.md",
+                "file": "5.NPCs/Anais.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "a6567840c6c30487",
+            "id": "b1baffbfffb04e5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d994c2d671c8be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⭐Hub.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebc4e168253d41e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Lugares/Crestafria.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
         "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Crestafria.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -258,12 +243,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ebc4e168253d41e2",
+  "active": "b1baffbfffb04e5d",
   "lastOpenFiles": [
     "⭐Hub.md",
-    "3.Lugares/Crestafria.md",
-    "z_Templates/Plantilla- Facciones.md",
     "conflict-files-obsidian-git.md",
+    "3.Lugares/Crestafria.md",
+    "z_Assets/NPCs/Obispa Anais.png",
+    "5.NPCs/Anais.md",
+    "4.Facciones/La iglesia de Tyr.md",
+    "z_Templates/Plantilla- Facciones.md",
     "z_Classes/Options/Clases de Puntos de Interes.md",
     "z_Assets/Arte/Catedral de Tyr.png",
     "9.Puntos de interes/Fortaleza de Norias.md",
@@ -286,10 +274,7 @@
     "5.NPCs/Emir Sander.md",
     "3.Lugares/3.Lugares.md",
     "4.Facciones/La Mancomunidad del Viento.md",
-    "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/El desencadenamiento, El  legado de plata (Kiera ).md",
     "Nueva carpeta",
-    "2.Panteón/2.Panteón.md",
-    "0.Campañas/Personajes/Kas.md",
     "z_Assets/Arte/Emir Snader.png",
     "z_Assets/Arte/Puerto Kalabor.png",
     "0.Campañas/El desencadenamiento, El  legado de plata (Kiera )/Sesiones",
@@ -301,7 +286,6 @@
     "z_Assets/Arte/Material_Plane.webp",
     "z_Assets/Arte/Material_Plane.webp.crdownload",
     "z_Assets/Arte/infraoscuridad.jpeg",
-    "z_Assets/Emblemas/altalos.png",
     "z_Classes/Classes",
     "z_Classes/Options",
     "0.Campañas/El desencadenamiento/Ideas"

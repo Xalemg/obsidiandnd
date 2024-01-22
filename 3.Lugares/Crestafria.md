@@ -47,7 +47,7 @@ Religion:
 # 🔍 A simple vista
 
 Crestafria, la ciudad inconquistable, la llave del reino y la ciudad de los fuertes. Crestafria es un símbolo de la monarquía de Altalos. Se considera que aquel que controla la ciudad controla el reino y suele ser coronado como tal. Es imposible comprender el Reino de Altalos su historia, su cultura y su política sin comprender Crestafria.
-A simple vista Crestafria destaca su enfoque militar. Las casas tienen murallas por paredes y saeteras por ventas. Los distintos castillos que aqui se encuentran tienen grandes torres que luchan por sobrepasar a las de alrededor, para asi obtener la ventaja aerea
+A simple vista Crestafria destaca su enfoque militar. Las casas tienen murallas por paredes y saeteras por ventas. Los distintos castillos que aqui se encuentran tienen grandes torres que luchan por sobrepasar a las de alrededor, para asi obtener la ventaja aerea. Todos los edificios marcan varias 
 
 Con más de 2 millones de habitantes se trata de la ciudad más habitada del reino y la segunda de todas las [[Islas Shamal]]  . Está dividida en tres niveles que están habitados por sus correspondientes estratos sociales, la falda (por el pueblo), la ladera (por la nobleza) y la cima (por la corona y su corte).
 
@@ -56,12 +56,10 @@ Se sitúa en el punto estratégico más importante de la isla, su centro físico
 Durante estas ocasiones las partes altas solo son capaz de sustentarse gracias a los múltiples templos y a la importantísima y renombrada torre de magia de Crestafria, ya que al hallarse a más de 2 kilómetros de altura la agricultura es prácticamente inexistente.
 
 
-
 # Información detallada
 
 ## 🏤 Política
-
-_¿Qué tipo de gobierno existe? ¿Cómo y quién gobierna? ¿Quiénes se le oponen? ¿Qué facciones son las más influyentes?_
+La [[Corona de Altalos]] dirige la ciudad, al igual que el resto de las tierras del Rey. Por otro lado cada una de las casas del reino tiene una fortaleza y representación en la ciudad.
 
 ## 🛡️ Defensa
 
@@ -147,9 +145,9 @@ SORT file.name ASC
 mas decoradas con pinturas caballerescas
 #### Posada del caballero descansado
 #### Taberna los coros de la redencion
-Un paladin con lazos con la iglesia de [[Tyr]] regenta la taberna los clerigos cantan en tramontes todos los dias dando 2d6+2 puntos de golpe temporales a los parroquia que escuchan
+Un paladin con lazos con la iglesia de [[Tyr]] regenta la taberna los clérigos cantan en tramontes todos los días dando 2d6+2 puntos de golpe temporales a los parroquia que escuchan
 #### El emporium imperium
-Tienda de armas mas variada del reino, encantadas y embuidas en distintos efectos magicos.
+Tienda de armas mas variada del reino, encantadas y imbuidas en distintos efectos magicos.
 > [!metadata|groups]+ Facciones
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Influencia

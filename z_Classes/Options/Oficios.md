@@ -52,3 +52,5 @@ Ayudante de cocinero del castillo
 Emir (Lider)
 Reina
 Rey
+Obispo
+Obispo Superior

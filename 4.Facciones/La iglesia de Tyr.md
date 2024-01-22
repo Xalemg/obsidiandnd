@@ -3,8 +3,14 @@ fileClass: Faccion
 tags:
   - Faccion
 aliases: 
-icon: "![[z_Assets/Misc/PlaceholderImage.png]]"
+icon: "![[tyr simbolo.png]]"
 Mundo: Aretries
+Influencia: Alta
+Alineamiento: LB
+Tipo: Teologica
+Ubicacion: "[[Isla de Altalos]]"
+Rangos: [Obispo Supremo, Obispo, Hermano]
+Lider: "[[Anais]]"
 ---
 
 
@@ -26,16 +32,20 @@ Mundo: Aretries
 
 # 🔍 A simple vista
 
-Una cadena de Tabernas establecidas a lo largo de todas las [[Islas Shamal]]. Están todas dirigidas por Warforged llamados Kevin. Cada taberna intenta adaptarse a las costumbres y tópicos locales.
+#TBD
+
 # 🎯Objetivos
 
-Ganar money.
+#TBD
+
 
 # 📜 Historia
 
 #TBD
 
 # ✏️ Notas
+
+#TBD
 
 > [!metadata|characters]+ Miembros
 > ```dataview
