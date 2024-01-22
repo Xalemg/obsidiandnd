@@ -27,12 +27,12 @@ Mundo:
 
 
 >[!dataview  | right clean no-t nmg ]
-># [[3.Lugares]] importantes
+># [[3.Lugares]]
 >```dataview
 >list 
 >FROM #Lugar AND #Relevante
 >```
-># [[4.Facciones]] importantes
+># [[4.Facciones]] 
 >```dataview
 >list 
 >FROM #Faccion AND #Relevante
