@@ -1,4 +1,7 @@
 ---
+banner: "![[lazy_dm_workbook_banner.jpg]]"
+---
+---
 Tipo: Sesion
 Tags: sesion
 Campaña: El desencadenamiento
