@@ -1,9 +1,9 @@
 ---
 fields: []
-version: "2.2"
+version: "2.4"
 limit: 20
-mapWithTag: false
-icon: package
+mapWithTag: true
+icon: scroll
 tagNames:
   - Sesion
 filesPaths: 
