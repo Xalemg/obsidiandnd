@@ -4,7 +4,7 @@ tags:
   - Sesion
 Campaña: 
 fecha: 
-Numero: 
+Numero: <% sesionNumber %>
 banner: "![[lazy_dm_workbook_banner.jpg]]"
 banner_y: 0
 fileClass: Sesion
@@ -23,13 +23,10 @@ fileClass: Sesion
 
 
 
->[!Relaciones | right clean no-t nmg ]
+
+>[!aside | right clean no-t nmg ]
 ># 🏘️[[3.Lugares]] importantes
 > *Añadir lugares de importancia para la sesión*
-> >>## ⚔️ Enemigos
->>Enemigo 1
-
-
 ># ⚔️ Encuentros
 >*Un encuentro puede ser mortal si la suma total de los valores de desafío de los monstruos es superior a la mitad de la suma total de los niveles de los personajes o a un cuarto de los niveles de los personajes si estos son de 4º nivel o inferior.*
 >`encounter: 1: goblin`
