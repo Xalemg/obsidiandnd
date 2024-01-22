@@ -144,5 +144,7 @@
   "ITS@@ITS-Table-Alt-Colors": "none",
   "supercharged-links@@c-2aee-60fc-use-background": false,
   "supercharged-links@@1f27-21bf-before": "⛰️",
-  "supercharged-links@@1f27-21bf-color": "#F2C8F5"
+  "supercharged-links@@1f27-21bf-color": "#F2C8F5",
+  "ITS@@file-explorer-boldless-hover": true,
+  "ITS@@file-explorer-boldless": true
 }

@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ee0adec4735ece2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Campañas/El desencadenamiento/El desencadenamiento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
+                "file": "0.Campañas/El desencadenamiento/El desencadenamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
+                "file": "0.Campañas/El desencadenamiento/El desencadenamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md"
+                "file": "0.Campañas/El desencadenamiento/El desencadenamiento.md"
               }
             }
           },
@@ -262,12 +274,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "794ad6cd91f408f5",
+  "active": "4ee0adec4735ece2",
   "lastOpenFiles": [
+    "z_Templates/Plantilla - Sesión.md",
     "5.NPCs/Lisa.md",
     "5.NPCs/5.NPCs.md",
     "5.NPCs/Rey Kemdal.md",
-    "z_Templates/Plantilla - Sesión.md",
     "⭐Hub.md",
     "z_Classes/Classes/Global.md",
     "z_Classes/Classes/Sesion.md",
