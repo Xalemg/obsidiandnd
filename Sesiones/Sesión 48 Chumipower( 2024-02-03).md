@@ -1,17 +1,7 @@
 ---
 banner: "![[lazy_dm_workbook_banner.jpg]]"
 ---
----
-Tipo: Sesion
-Tags: sesion
-Campaña: El desencadenamiento
-fecha: 2024-02-03
-Numero: 48
-cssClasses: card-images
-banner: "![[lazy_dm_workbook_banner.jpg]]"
-banner_y: 0.216
-banner_x: 0.5
----
+
 
 >[!note | clean no-i no-t nmg dataview hm-tl]
 # [[El desencadenamiento]]
@@ -25,7 +15,6 @@ banner_x: 0.5
 >FROM #personaje
 >WHERE contains(En_curso, "si") AND contains(Campaña, "Chumipower")
 >```
-
 
 
 >[!aside | right clean no-t nmg ]

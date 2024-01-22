@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
+                "file": "0.Campañas/0.Campañas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
+                "file": "0.Campañas/0.Campañas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesiones/Sesión 48 Chumipower( 2024-02-03).md"
+                "file": "0.Campañas/0.Campañas.md"
               }
             }
           },
@@ -201,26 +201,6 @@
             }
           },
           {
-            "id": "36647f2dee74b912",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_fbd88a383ac8",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "year": 783,
-                    "month": 0,
-                    "day": 7
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                }
-              }
-            }
-          },
-          {
             "id": "bd145fc7d68d9413",
             "type": "leaf",
             "state": {
@@ -241,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -265,8 +245,9 @@
       "audio-recorder:Empezar/Parar de grabar": false
     }
   },
-  "active": "59369172aaba219c",
+  "active": "f5f23bb565a59332",
   "lastOpenFiles": [
+    "Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
     "10. Sesiones/Sesión 0 El desencadenamiento, El legado de plata (Kiera)( 2024-01-23).md",
     "z_Templates/Plantilla - Sesión.md",
     "Recording 20240122170733.webm",
