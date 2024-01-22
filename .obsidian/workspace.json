@@ -261,11 +261,13 @@
       "open-vscode:VSCode": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "audio-recorder:Empezar/Parar de grabar": false
     }
   },
   "active": "2ecdc04ddab75c8a",
   "lastOpenFiles": [
+    "Recording 20240122170733.webm",
     "⭐Hub.md",
     "0.Campañas/Campañas.backup.md",
     "z_Templates/Plantilla - Sesión.md",
@@ -291,7 +293,6 @@
     "5.NPCs/Anais.md",
     "Personajes de.md",
     "9.Puntos de interes/Catedral del Martillo.md",
-    "conflict-files-obsidian-git.md",
     "z_Assets/NPCs/Obispa Anais.png",
     "z_Assets/Obispa Anais.png",
     "9.Puntos de interes",

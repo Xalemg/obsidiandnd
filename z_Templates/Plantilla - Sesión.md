@@ -67,6 +67,8 @@ Mundo:
 Ejemplo
 # ⏯️Grabación
 
+![[Recording 20240122170733.webm]]
+
 
 
 # 📝 Notas
