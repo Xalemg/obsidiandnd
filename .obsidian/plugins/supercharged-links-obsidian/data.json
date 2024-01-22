@@ -25,11 +25,11 @@
       "selectBackground": false
     },
     {
-      "type": "tag",
+      "type": "path",
       "name": "Tipo",
-      "value": "NPC",
+      "value": "5.Facciones",
       "matchCaseSensitive": false,
-      "match": "exact",
+      "match": "contains",
       "uid": "0144-ccf5",
       "selectText": true,
       "selectAppend": false,
@@ -37,11 +37,11 @@
       "selectBackground": false
     },
     {
-      "type": "tag",
+      "type": "path",
       "name": "Tipo",
-      "value": "Faccion",
+      "value": "4.Facciones",
       "matchCaseSensitive": false,
-      "match": "exact",
+      "match": "contains",
       "uid": "938b-93c3",
       "selectText": true,
       "selectAppend": false,
@@ -121,11 +121,11 @@
       "selectBackground": false
     },
     {
-      "type": "tag",
+      "type": "path",
       "name": "Tipo",
-      "value": "Deidad",
+      "value": "2.Deidad",
       "matchCaseSensitive": false,
-      "match": "exact",
+      "match": "contains",
       "uid": "911d-dfda",
       "selectText": true,
       "selectAppend": false,

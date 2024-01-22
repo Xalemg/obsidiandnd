@@ -79,35 +79,35 @@ div[data-id="6d49-9d99"] div.setting-item-description::before,
 }
 
 div[data-id="0144-ccf5"] div.setting-item-description,
-[data-link-tags*="NPC" i] {
+[data-link-path*="5.Facciones" i] {
     color: var(--0144-ccf5-color) !important;
     font-weight: var(--0144-ccf5-weight);
 }
 
 div[data-id="0144-ccf5"] div.setting-item-description::before,
-.data-link-icon[data-link-tags*="NPC" i]::before {
+.data-link-icon[data-link-path*="5.Facciones" i]::before {
     content: var(--0144-ccf5-before);
 }
 
 div[data-id="938b-93c3"] div.setting-item-description,
-[data-link-path*="Facc" i] {
+[data-link-path*="4.Facciones" i] {
     color: var(--938b-93c3-color) !important;
     font-weight: var(--938b-93c3-weight);
 }
 
 div[data-id="938b-93c3"] div.setting-item-description::before,
-.data-link-icon[data-link-path*="Facc" i]::before {
+.data-link-icon[data-link-path*="4.Facciones" i]::before {
     content: var(--938b-93c3-before);
 }
 
 div[data-id="3bf5-ac01"] div.setting-item-description,
-[data-link-path*="Se" i] {
+[data-link-tags*="Sesion" i] {
     color: var(--3bf5-ac01-color) !important;
     font-weight: var(--3bf5-ac01-weight);
 }
 
 div[data-id="3bf5-ac01"] div.setting-item-description::before,
-.data-link-icon[data-link-path*="Se" i]::before {
+.data-link-icon[data-link-tags*="Sesion" i]::before {
     content: var(--3bf5-ac01-before);
 }
 
@@ -167,13 +167,13 @@ div[data-id="21fa-63ec"] div.setting-item-description::before,
 }
 
 div[data-id="911d-dfda"] div.setting-item-description,
-[data-link-tags*="Deidad" i] {
+[data-link-path*="2.Deidad" i] {
     color: var(--911d-dfda-color) !important;
     font-weight: var(--911d-dfda-weight);
 }
 
 div[data-id="911d-dfda"] div.setting-item-description::before,
-.data-link-icon[data-link-tags*="Deidad" i]::before {
+.data-link-icon[data-link-path*="2.Deidad" i]::before {
     content: var(--911d-dfda-before);
 }
 
@@ -347,7 +347,7 @@ settings:
         quotes: true
     - 
         id: 0144-ccf5
-        title: tag is NPC
+        title: path is 5.Facciones
         description: Example note
         type: heading
         collapsed: true
@@ -388,7 +388,7 @@ settings:
         quotes: true
     - 
         id: 938b-93c3
-        title: path is Facc
+        title: path is 4.Facciones
         description: Example note
         type: heading
         collapsed: true
@@ -429,7 +429,7 @@ settings:
         quotes: true
     - 
         id: 3bf5-ac01
-        title: path is Se
+        title: tag is Sesion
         description: Example note
         type: heading
         collapsed: true
@@ -675,7 +675,7 @@ settings:
         quotes: true
     - 
         id: 911d-dfda
-        title: tag is Deidad
+        title: path is 2.Deidad
         description: Example note
         type: heading
         collapsed: true
