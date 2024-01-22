@@ -1,12 +1,7 @@
 ---
-Tipo: Sesion
-Tags: Sesion
-Campaña: El desencadenamiento, El legado de plata (Kiera)
-fecha: 2024-01-23
-Numero: 0
 banner: "![[lazy_dm_workbook_banner.jpg]]"
-banner_y: 0
 ---
+
 # [[Personajes de El desencadenamiento, El legado de plata (Kiera)]]
 >[!cards| dataview 7]
 >```dataview
