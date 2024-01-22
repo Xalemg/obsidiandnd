@@ -138,5 +138,6 @@
   "ITS@@callout-outline": false,
   "ITS@@callout-block": false,
   "ITS@@embed-clean": true,
-  "ITS@@table-text-size": 12
+  "ITS@@table-text-size": 12,
+  "ITS@@notion": true
 }
