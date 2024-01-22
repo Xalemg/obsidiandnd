@@ -61,6 +61,7 @@ WHERE contains(En_curso, "si") and contains(Campaña, this.Campañas)
 
 # ⚔️ Encuentros
 *Un encuentro puede ser mortal si la suma total de los valores de desafío de los monstruos es superior a la mitad de la suma total de los niveles de los personajes o a un cuarto de os niveles de los personajes si estos son de 4º nivel o inferior.*
+
 `encounter: 1: goblin`
 # 💰Tesoro
 Ejemplo
