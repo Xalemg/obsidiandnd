@@ -251,6 +251,18 @@
       "selectAppend": false,
       "selectPrepend": true,
       "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "Tipo",
+      "value": "3.Lugares",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "1f27-21bf",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }
