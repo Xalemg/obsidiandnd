@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "z_Templates/Plantilla - Sesión.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "z_Templates/Plantilla - Sesión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "z_Templates/Plantilla - Sesión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md"
+                "file": "z_Templates/Plantilla - Sesión.md"
               }
             }
           },
@@ -244,8 +244,8 @@
   },
   "active": "85e60a521e7f8f5b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "9.Puntos de interes/Catedral del Martillo.md",
+    "conflict-files-obsidian-git.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
     "3.Lugares/Crestafria.md",
     "⭐Hub.md",
