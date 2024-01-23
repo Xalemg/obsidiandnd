@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Facciones/4.Facciones.md",
+                "file": "4.Facciones/Corona de Altalos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Facciones/4.Facciones.md",
+                "file": "4.Facciones/Corona de Altalos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Facciones/4.Facciones.md"
+                "file": "4.Facciones/Corona de Altalos.md"
               }
             }
           },
@@ -265,8 +265,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f1619dfb13a7769",
+  "active": "c660cc15b337b359",
   "lastOpenFiles": [
+    "4.Facciones/4.Facciones.md",
+    "4.Facciones/Corona de Altalos.md",
     "4.Facciones/La escama plateada.md",
     "5.NPCs/Lisa.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
@@ -278,7 +280,6 @@
     "z_Templates/Plantilla- Facciones.md",
     "3.Lugares/3.Lugares.md",
     "3.Lugares/Puerto Kalabor.md",
-    "4.Facciones/4.Facciones.md",
     "4.Facciones/La iglesia de Tyr.md",
     "3.Lugares/Crestafria.md",
     "0.Campañas/0.Campañas.md",
@@ -291,7 +292,6 @@
     "⭐Hub.md",
     "0.Campañas/Personajes/Personajes.md",
     "z_Assets/NPCs/Anvil Carrillo.jpg",
-    "4.Facciones/Corona de Altalos.md",
     "0.Campañas/Personajes/Kas.md",
     "3.Lugares/Islas Shamal.md",
     "0.Campañas/Grupos de aventureros/Grupos de aventureros.md",
