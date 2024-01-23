@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Facciones/La escama plateada.md",
+                "file": "4.Facciones/4.Facciones.md",
                 "mode": "preview",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Facciones/La escama plateada.md",
+                "file": "4.Facciones/4.Facciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Facciones/La escama plateada.md",
+                "file": "4.Facciones/4.Facciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Facciones/La escama plateada.md"
+                "file": "4.Facciones/4.Facciones.md"
               }
             }
           },
@@ -267,8 +267,8 @@
   },
   "active": "0f1619dfb13a7769",
   "lastOpenFiles": [
-    "5.NPCs/Lisa.md",
     "4.Facciones/La escama plateada.md",
+    "5.NPCs/Lisa.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
     "3.Lugares/Isla de Altalos.md",
     "10. Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
