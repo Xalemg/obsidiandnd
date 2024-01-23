@@ -9,7 +9,7 @@ excludes:
 extends: Global
 savedViews: []
 favoriteView: 
-version: "2.26"
+version: "2.30"
 fields:
   - name: aliases
     type: Input
@@ -59,12 +59,6 @@ fields:
       valuesFromDVQuery: ""
     path: ""
     id: R9hlrd
-  - name: Ubicacion
-    type: File
-    options:
-      dvQueryString: dv.pages("#Lugar")
-    path: ""
-    id: gFsL0G
   - name: Rangos
     type: Multi
     options:
@@ -79,6 +73,7 @@ fields:
       "9": Obispo Supremo
       "10": Obispo
       "11": Hermano
+      "12": Consejero Principal
     path: ""
     id: s7c817
   - name: Lider
@@ -87,10 +82,16 @@ fields:
       dvQueryString: dv.pages('#NPC').where(n=>!n.file.path.contains("z_"))
     path: ""
     id: 5B8076
+  - name: Ubicacion
+    type: MultiFile
+    options:
+      dvQueryString: dv.pages("#Lugar")
+    path: ""
+    id: PRDuaM
 fieldsOrder:
+  - PRDuaM
   - 5B8076
   - s7c817
-  - gFsL0G
   - R9hlrd
   - AhAqkH
   - 65vnyr

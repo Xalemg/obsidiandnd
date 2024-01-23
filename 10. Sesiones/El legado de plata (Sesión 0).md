@@ -10,6 +10,7 @@ Mundo:
 Campañas: El legado de plata
 cssclasses:
   - card-images
+  - t-w
 ---
 # [[Personajes]]
 >[!cards| dataview 7]
@@ -37,7 +38,7 @@ WHERE contains(En_curso, "si") and contains(Campaña, this.Campañas)
 >```
 # 🔐Secretos y pistas
 *Secretos sobre el villano/enemigos, objetivo de los PJs, aliados, lugares que visitan, eventos relevantes, objetos mágicos o la misión.*
-- [ ] 
+- [ ]  
 - [ ] 
 - [ ] 
 - [ ] 
@@ -50,7 +51,12 @@ WHERE contains(En_curso, "si") and contains(Campaña, this.Campañas)
 
 # 🎥Situaciones probables
 *Situaciones probables que vayan a darse durante la sesión.*
-## Situación 1
+## Recap de lo ocurrido
+- [ ] Lo ocurrido al final de la ultima aventura
+- [ ] [[Elentari]] se desmaya, necesita días para recuperarse.
+- [ ] [[Anvil Carrillo]] os contacta, esta interesado en saber como estáis y que ha pasado
+- [ ] Al poco tiempo un mago se presentan en [[Kalithir]] y les dice que [[Anvil Carrillo]] les espera. Les llevara a [[Puerto Kalabor]] donde os presentaran frente a la asamblea de [[La Mancomunidad del Viento]] donde os preguntan que sabeis sobre la desaparición del sol de [[Amaunator]] y sobre vuestras peripecias en [[Ust Natha]].
+- [ ] 
 
 
 # ⚔️ Encuentros

@@ -43,3 +43,4 @@ Warforged
 Centaurios (Centaurs)
 Minotauros (Minotaurs)
 Humano
+Enano

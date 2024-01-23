@@ -10,10 +10,7 @@ Tipo:
   - Monarquia
 Lideres: "[[5.NPCs/Rey Kemdal.md|Rey Kemdal]]"
 Influencia: Muy Alta
-Rangos:
-  - Rey (Lider)
-  - Caballero
-  - Reina
+Rangos: [Rey (Lider), Caballero, Reina, Consejero Principal]
 Alineamiento: LB
 ---
 

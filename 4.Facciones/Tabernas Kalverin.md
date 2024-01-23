@@ -3,8 +3,14 @@ fileClass: Faccion
 tags:
   - Faccion
 aliases: 
-icon: "![[z_Assets/Misc/PlaceholderImage.png]]"
+icon: "![[tabernas kalverin.png]]"
 Mundo: Aretries
+Influencia: Media
+Alineamiento: LN
+Tipo: Franquicia
+Ubicacion: "[[Islas Shamal]]"
+Rangos: 
+Lider: 
 ---
 
 

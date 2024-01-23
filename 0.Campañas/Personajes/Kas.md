@@ -6,7 +6,7 @@ tags:
 Campaña: Chumipower
 En_curso: si
 tipo: Mascota
-icon: "![[chain kas]]"
+icon: "![[Kas.jpg]]"
 ---
 
 # Nombre

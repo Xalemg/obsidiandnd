@@ -142,7 +142,7 @@ SORT file.name ASC
 #### Tabernas Kalberin
 mas decoradas con pinturas caballerescas
 #### Posada del caballero descansado
-#### Taberna los coros de la redencion
+#### Taberna los coros de la redención
 Un paladin con lazos con la iglesia de [[Tyr]] regenta la taberna los clérigos cantan en tramontes todos los días dando 2d6+2 puntos de golpe temporales a los parroquia que escuchan
 #### El emporium imperium
 Tienda de armas mas variada del reino, encantadas y imbuidas en distintos efectos magicos.

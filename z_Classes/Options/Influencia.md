@@ -4,3 +4,4 @@ Media
 Baja
 Muy Baja
 Alta
+Media

@@ -8,8 +8,11 @@ Mundo: Aretries
 Influencia: Alta
 Alineamiento: LB
 Tipo: Teologica
-Ubicacion: "[[Isla de Altalos]]"
-Rangos: [Obispo Supremo, Obispo, Hermano]
+Ubicacion: ["[[Crestafria]]", "[[Isla de Altalos]]"]
+Rangos:
+  - Obispo Supremo
+  - Obispo
+  - Hermano
 Lider: "[[Anais]]"
 ---
 
