@@ -4,12 +4,16 @@ ac: 17
 modifier: 3
 level: 9
 P_per: 10
-Tags: jugador, personaje, IslasShamal, Chumipower
+tags:
+  - jugador
+  - personaje
+  - IslasShamal
+  - Chumipower
 Campaña: Chumipower
 Competencias: Trato con animales, Atletismo, Perspicacia, Persuasion, Intimidación
 En_curso: si
 tipo: Jugador
-icon: ![[Chain Cerenia.png]]
+icon: "![[Cerenia chain.jpg]]"
 ---
    ![[cerenia arte.jpeg||clear+hmed+right]]
 <iframe
