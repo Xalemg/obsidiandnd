@@ -41,7 +41,7 @@ La escama plateada es un grupo de agentes secretos que actua en la [[Isla de Alt
 
 > [!metadata|characters]+ Miembros
 > ```dataview
-table without ID file.name AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
+table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
 FROM #NPC
 WHERE  contains(Facciones, [[]])
 SORT file.name ASC
