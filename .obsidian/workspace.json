@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Campañas/Personajes/Cerenia/Cerenia.md",
+                "file": "10. Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/Personajes/Cerenia/Cerenia.md",
+                "file": "10. Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/Personajes/Cerenia/Cerenia.md",
+                "file": "10. Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Campañas/Personajes/Cerenia/Cerenia.md"
+                "file": "10. Sesiones/Sesión 48 Chumipower( 2024-02-03).md"
               }
             }
           },
@@ -267,9 +267,10 @@
   },
   "active": "0f1619dfb13a7769",
   "lastOpenFiles": [
+    "0.Campañas/Personajes/Cerenia/Cerenia.md",
+    "z_Assets/Jugadores/Chain Cerenia.png",
     "10. Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
-    "0.Campañas/Personajes/Cerenia/Cerenia.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
     "z_Templates/Plantilla- Facciones.md",
     "3.Lugares/3.Lugares.md",
@@ -295,7 +296,6 @@
     "0.Campañas/Grupos de aventureros/Grupos de aventureros.md",
     "z_Classes/Classes/Global.md",
     "10. Sesiones/Sesión 0 El desencadenamiento, El legado de plata (Kiera)( 2024-01-23).md",
-    "0.Campañas/Campañas.backup.md",
     "Recording 20240122170733.webm",
     "z_Assets/NPCs/Obispa Anais.png",
     "z_Assets/Obispa Anais.png",
@@ -310,7 +310,6 @@
     "z_Assets/Arte/Dioses/Lolthwebp.webp.crdownload",
     "z_Assets/Emblemas/59188df2f0da25a850ae2b3760f5615f.png.crdownload",
     "z_Assets/Emblemas/La escama plateada.png",
-    "z_Assets/Emblemas/emblema mancomunidad.png",
     "z_Assets/Arte/Material_Plane.webp.crdownload",
     "z_Classes/Classes"
   ]

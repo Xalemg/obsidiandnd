@@ -13,7 +13,7 @@ Campaña: Chumipower
 Competencias: Trato con animales, Atletismo, Perspicacia, Persuasion, Intimidación
 En_curso: si
 tipo: Jugador
-icon: "![[Cerenia chain.jpg]]"
+icon: "![[Chain Cerenia.png]]"
 ---
    ![[cerenia arte.jpeg||clear+hmed+right]]
 <iframe
