@@ -1,5 +1,10 @@
 ---
 banner: "![[lazy_dm_workbook_banner.jpg]]"
+tags:
+  - Sesion
+Campañas: El desencadenamiento
+fecha: 
+Mundo: [Aretries]
 ---
 
 
