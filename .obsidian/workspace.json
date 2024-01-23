@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Facciones/4.Facciones.md",
-                "mode": "preview",
+                "file": "4.Facciones/Corona de Altalos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -265,10 +265,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c660cc15b337b359",
+  "active": "0f1619dfb13a7769",
   "lastOpenFiles": [
-    "4.Facciones/4.Facciones.md",
+    "5.NPCs/Julio Altalos.md",
     "4.Facciones/Corona de Altalos.md",
+    "4.Facciones/4.Facciones.md",
     "4.Facciones/La escama plateada.md",
     "5.NPCs/Lisa.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
@@ -296,7 +297,6 @@
     "3.Lugares/Islas Shamal.md",
     "0.Campañas/Grupos de aventureros/Grupos de aventureros.md",
     "z_Classes/Classes/Global.md",
-    "10. Sesiones/Sesión 0 El desencadenamiento, El legado de plata (Kiera)( 2024-01-23).md",
     "Recording 20240122170733.webm",
     "z_Assets/NPCs/Obispa Anais.png",
     "z_Assets/Obispa Anais.png",

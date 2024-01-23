@@ -46,5 +46,5 @@ La corona de altalos llego junto a las migraciones humanas que abandonaron Tramo
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
 FROM #NPC
-WHERE  contains(Facciones, [[]])
+WHERE  contains(Facciones, [[]]) AND contains(Estado, Muerto)
 SORT file.name ASC
