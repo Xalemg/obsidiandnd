@@ -68,14 +68,6 @@
             }
           },
           {
-            "id": "841f84809c873bad",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Faccion",
-              "state": {}
-            }
-          },
-          {
             "id": "963eecb027007eea",
             "type": "leaf",
             "state": {
@@ -88,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/3.Lugares.md",
+                "file": "z_Templates/Plantilla- Facciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/3.Lugares.md",
+                "file": "z_Templates/Plantilla- Facciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/3.Lugares.md"
+                "file": "z_Templates/Plantilla- Facciones.md"
               }
             }
           },
@@ -269,14 +261,14 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "open-vscode:VSCode": false,
       "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "963eecb027007eea",
+  "active": "0f1619dfb13a7769",
   "lastOpenFiles": [
-    "3.Lugares/Puerto Kalabor.md",
     "3.Lugares/3.Lugares.md",
+    "3.Lugares/Puerto Kalabor.md",
     "4.Facciones/4.Facciones.md",
     "4.Facciones/La iglesia de Tyr.md",
     "3.Lugares/Crestafria.md",
