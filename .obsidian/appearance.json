@@ -1,17 +1,12 @@
 {
   "accentColor": "#636688",
-  "cssTheme": "Mado Miniflow",
+  "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "MyCallouts",
     "imageSuggester",
     "BetterLeafletIcons",
-    "SlimHorizontalLine",
-    "S - Images Adjustments",
-    "S - Embed Adjustments",
-    "S - Dataview Cards",
-    "S - Checkboxes",
-    "S - Callouts"
+    "SlimHorizontalLine"
   ],
   "showViewHeader": true
 }
