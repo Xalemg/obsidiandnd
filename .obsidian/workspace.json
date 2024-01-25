@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Lugares/3.Lugares.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/3.Lugares.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/3.Lugares.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/3.Lugares.md"
+                "file": "9.Puntos de interes/Catedral del Martillo.md"
               }
             }
           },
@@ -214,8 +214,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9218aad9f1e12fba",
+  "active": "65ffe91206907947",
   "lastOpenFiles": [
+    "3.Lugares/3.Lugares.md",
     "z_Classes/Options/Mundos.md",
     "z_Classes/Options/Campañas.md",
     "z_Classes/Classes/Sesion.md",
@@ -226,7 +227,6 @@
     "10. Sesiones/El legado de plata (Sesión 0).md",
     "10. Sesiones",
     "2.Panteón/Trithereon.md",
-    "3.Lugares/3.Lugares.md",
     "5.NPCs/Rufus.md",
     "5.NPCs/5.NPCs.md",
     "⭐Hub.md",

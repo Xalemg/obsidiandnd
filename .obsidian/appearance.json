@@ -6,7 +6,12 @@
     "MyCallouts",
     "imageSuggester",
     "BetterLeafletIcons",
-    "SlimHorizontalLine"
+    "SlimHorizontalLine",
+    "S - Images Adjustments",
+    "S - Embed Adjustments",
+    "S - Dataview Cards",
+    "S - Checkboxes",
+    "S - Callouts"
   ],
   "showViewHeader": true
 }
