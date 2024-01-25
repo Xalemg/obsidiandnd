@@ -18,7 +18,7 @@ Mundo: Aretries
 Terreno:
   - Archipielago
 Gobierno: 
-Ubicacion: 
+Ubicacion: "[[Aretries]]"
 Defensas: 
 Religion:
 ---
