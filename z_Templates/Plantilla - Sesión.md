@@ -1,4 +1,5 @@
 ---
+banner: "![[lazy_dm_workbook_banner.jpg]]"
 Tipo: Sesion
 tags:
   - Sesion
@@ -13,7 +14,6 @@ Mundo:
 cssclasses:
   - card-images
   - t-w
----
 # [[Personajes]]
 >[!cards| dataview 7]
 >```dataview
