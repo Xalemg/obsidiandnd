@@ -175,34 +175,6 @@
       "files": [
         "3.Lugares/Islas Shamal.md"
       ]
-    },
-    {
-      "id": "Crestafria",
-      "locked": true,
-      "lastAccessed": 1706555007474,
-      "markers": [
-        {
-          "id": "ID_e919792aca49",
-          "type": "Templo",
-          "loc": [
-            145.443026055308,
-            222.03152929257595
-          ],
-          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "3.Lugares/Crestafria.md"
-      ]
     }
   ],
   "defaultMarker": {
