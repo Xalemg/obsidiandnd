@@ -179,7 +179,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706556437166,
+      "lastAccessed": 1706556483453,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -202,15 +202,16 @@
           "id": "ID_bb19ab3868e8",
           "type": "Taberna",
           "loc": [
-            150.75,
-            188.125
+            150.5,
+            189.5
           ],
+          "link": "Crestafria#Taberna los coros de la redención",
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            4.157014475334976,
-            -4.441514469328001
+            4.187397969839086,
+            -4.434148773690642
           ],
           "description": null,
           "minZoom": null,
