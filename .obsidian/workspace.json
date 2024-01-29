@@ -57,8 +57,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Classes/Classes/Tienda o servicio.md",
-                "mode": "preview",
+                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Classes/Classes/Tienda o servicio.md",
+                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Classes/Classes/Tienda o servicio.md",
+                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Classes/Classes/Tienda o servicio.md"
+                "file": "z_Templates/Plantilla- Tienda o Servicio.md"
               }
             }
           },
@@ -257,12 +257,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5a9e8541515a6bd4",
+  "active": "793c2865a7eb96b1",
   "lastOpenFiles": [
+    "z_Classes/Classes/Tienda o servicio.md",
     "7.Pantalla del Master/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
     "⭐Hub.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
-    "z_Classes/Classes/Tienda o servicio.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "3.Lugares/Crestafria.md",
     "z_Templates/Plantilla - Sesión.md",
