@@ -1,5 +1,8 @@
 ---
 banner: "![[lazy_dm_workbook_banner.jpg]]"
+---
+---
+banner: "![[lazy_dm_workbook_banner.jpg]]"
 Tipo: Sesion
 tags:
   - Sesion
