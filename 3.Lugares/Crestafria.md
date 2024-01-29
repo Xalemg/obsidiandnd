@@ -146,8 +146,9 @@ mas decoradas con pinturas caballerescas
 Un paladin con lazos con la iglesia de [[Tyr]] regenta la taberna los clérigos cantan en tramontes todos los días dando 2d6+2 puntos de golpe temporales a los parroquia que escuchan
 #### El emporium imperium
 
-Tienda de armas mas variada del reino, encantadas e imbuidas en distintos efectos magicos.
+Tienda de armas mas variada del reino, encantadas e imbuidas en distintos efectos mágicos.
 
+## Otros
 > [!metadata|groups]+ Facciones
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Influencia

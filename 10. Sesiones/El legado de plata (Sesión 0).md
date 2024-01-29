@@ -11,6 +11,7 @@ Campaña: El legado de plata
 cssclasses:
   - card-images
   - t-w
+numero: 1
 ---
 # [[Personajes]]
 >[!cards| dataview 7]
