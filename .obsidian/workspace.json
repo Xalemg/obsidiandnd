@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "9c37010b44ad1bb0",
+            "id": "d6c2122c776235ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Sesiones/10. Sesiones.md",
+                "file": "⭐Hub.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Sesiones/10. Sesiones.md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Sesiones/10. Sesiones.md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Sesiones/10. Sesiones.md"
+                "file": "⭐Hub.md"
               }
             }
           },
@@ -194,20 +194,6 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "c3c10e78ace9701f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "26c7c8cd6fa5d2c3",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -231,10 +217,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "59369172aaba219c",
+  "active": "d6c2122c776235ca",
   "lastOpenFiles": [
-    "9.Puntos de interes/9.Puntos de interes.md",
+    "0.Campañas/Personajes/Kiera/Kiera.md",
     "10. Sesiones/10. Sesiones.md",
+    "9.Puntos de interes/9.Puntos de interes.md",
     "⭐Hub.md",
     "8.Notas varias/8.Notas varias.md",
     "7.Pantalla del Master/7.Pantalla del Master.md",
@@ -249,7 +236,6 @@
     "conflict-files-obsidian-git.md",
     "z_Assets/NPCs/Julio Altalos.jpg",
     "z_Assets/Arte/CCz9NtN6rH5myhhj_MajMIH-391lJTl2DpmthCXVrAY.webp",
-    "0.Campañas/Personajes/Kiera/Kiera.md",
     "0.Campañas/Personajes/Personajes.md",
     "4.Facciones/4.Facciones.md",
     "4.Facciones/La escama plateada.md",
