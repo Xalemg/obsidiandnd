@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "fcaf5b0d581a27d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Lugares/Crestafria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1bf63676df04ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c536136645f033fe",
             "type": "leaf",
             "state": {
@@ -76,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "z_Templates/Plantilla - Sesión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "z_Templates/Plantilla - Sesión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⭐Hub.md"
+                "file": "z_Templates/Plantilla - Sesión.md"
               }
             }
           },
@@ -261,13 +237,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1935735648cf0d33",
+  "active": "cccf8e2ce30c08eb",
   "lastOpenFiles": [
-    "z_Templates/Plantilla - Sesión.md",
-    "10. Sesiones/El legado de plata (Sesión 0).md",
     "3.Lugares/Crestafria.md",
-    "0.Campañas/Personajes/Kiera/Kiera.md",
+    "10. Sesiones/El legado de plata (Sesión 0).md",
     "⭐Hub.md",
+    "z_Templates/Plantilla - Sesión.md",
+    "0.Campañas/Personajes/Kiera/Kiera.md",
     "z_Classes/Classes/Sesion.md",
     "5.NPCs/Emir Sander.md",
     "9.Puntos de interes/Catedral del Martillo.md",
