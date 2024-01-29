@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f287db5cfc91c227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭐Hub.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -205,8 +217,9 @@
   },
   "active": "e5404b6772edbe0c",
   "lastOpenFiles": [
-    "5.NPCs/Julio Altalos.jpg",
     "⭐Hub.md",
+    "5.NPCs/Julio Altalos.md",
+    "5.NPCs/Julio Altalos.jpg",
     "4.Facciones/4.Facciones.md",
     "7.Pantalla del Master/7.Pantalla del Master.md",
     "z_Templates/Plantilla - Sesión.md",
@@ -218,7 +231,6 @@
     "3.Lugares/Aretries.md",
     "3.Lugares/3.Lugares.md",
     "9.Puntos de interes/Catedral del Martillo.md",
-    "5.NPCs/Julio Altalos.md",
     "z_Classes/Options/Mundos.md",
     "z_Classes/Options/Campañas.md",
     "z_Classes/Classes/Sesion.md",
