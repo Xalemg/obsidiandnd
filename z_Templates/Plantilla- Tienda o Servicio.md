@@ -29,13 +29,16 @@ Mundo:
 
 #TBD
 
+# Objetos en venta
+[[Objetos mágicos Tier 2]] 
+
 # 📜 Historia
 
 #TBD
 
 # ✏️ Notas
 
-#TBD
+
 
 > [!metadata|pois]+ Localizaciones
 > ```dataview

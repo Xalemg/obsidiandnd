@@ -160,7 +160,7 @@
     {
       "id": "TBD",
       "locked": true,
-      "lastAccessed": 1706556974940,
+      "lastAccessed": 1706557011631,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -237,9 +237,7 @@
           "reversed": false
         }
       ],
-      "files": [
-        "z_Templates/Plantilla- Tienda o Servicio.md"
-      ]
+      "files": []
     }
   ],
   "defaultMarker": {
