@@ -1,6 +1,13 @@
 ---
-fields: []
-version: "2.0"
+fields:
+  - name: numero
+    type: Number
+    options:
+      step: 1
+      min: 0
+    path: ""
+    id: dFUHAp
+version: "2.3"
 limit: 20
 mapWithTag: true
 icon: scroll
@@ -13,6 +20,5 @@ extends: Global
 savedViews: []
 favoriteView: 
 fieldsOrder:
-  - rvwN15
-  - GfqkLd
+  - dFUHAp
 ---
