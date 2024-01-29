@@ -178,8 +178,8 @@
     },
     {
       "id": "Crestafria",
-      "locked": true,
-      "lastAccessed": 1706556376058,
+      "locked": false,
+      "lastAccessed": 1706556437166,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -193,6 +193,25 @@
           "mutable": true,
           "command": false,
           "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb19ab3868e8",
+          "type": "Taberna",
+          "loc": [
+            150.75,
+            188.125
+          ],
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            4.157014475334976,
+            -4.441514469328001
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -272,6 +291,22 @@
       "type": "Templo",
       "iconName": "church",
       "color": "#7b1dc9",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Taberna",
+      "iconName": "beer",
+      "color": "#23a300",
       "alpha": 1,
       "layer": false,
       "transform": {
