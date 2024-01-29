@@ -29,15 +29,14 @@ Mundo:
 
 #TBD
 
-# Objetos en venta
-[[Objetos mágicos Tier 2]] 
+# Objetos en venta 
+
 
 # 📜 Historia
 
 #TBD
 
 # ✏️ Notas
-
 
 > [!metadata|groups]+ Facciones
 > ```dataview
