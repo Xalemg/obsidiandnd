@@ -7,13 +7,14 @@ Campaña:
 fecha: ""
 Numero: <% sesionNumber %>
 banner: "![[lazy_dm_workbook_banner.jpg]]"
-banner_y: 0
+banner_y: 0.324
 fileClass: Sesion
 NPCs Relevantres: 
 Mundo: 
 cssclasses:
   - card-images
   - t-w
+---
 # [[Personajes]]
 >[!cards| dataview 7]
 >```dataview
