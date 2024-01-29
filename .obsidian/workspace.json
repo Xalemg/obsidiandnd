@@ -57,14 +57,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "z_Classes/Classes/Tienda o servicio.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a9e8541515a6bd4",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Tienda o servicio",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "z_Classes/Classes/Tienda o servicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "z_Classes/Classes/Tienda o servicio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md"
+                "file": "z_Classes/Classes/Tienda o servicio.md"
               }
             }
           },
@@ -249,11 +257,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "793c2865a7eb96b1",
+  "active": "5a9e8541515a6bd4",
   "lastOpenFiles": [
+    "9.Puntos de interes/Catedral del Martillo.md",
     "3.Lugares/Crestafria.md",
     "⭐Hub.md",
-    "9.Puntos de interes/Catedral del Martillo.md",
     "z_Templates/Plantilla - Sesión.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
     "0.Campañas/Personajes/Kiera/Kiera.md",

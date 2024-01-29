@@ -1,5 +1,5 @@
 ---
-fields: []
+fields: 
 version: "2.1"
 limit: 20
 mapWithTag: false
@@ -8,7 +8,7 @@ tagNames:
 filesPaths: 
 bookmarksGroups: 
 excludes: 
-extends: 
-savedViews: []
-favoriteView: 
+extends: Punto de interes
+savedViews: 
+favoriteView:
 ---
