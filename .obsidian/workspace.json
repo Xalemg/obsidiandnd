@@ -66,9 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1935735648cf0d33",
+            "type": "leaf",
+            "state": {
+              "type": "FileClassView__Faccion",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -237,13 +245,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "audio-recorder:Empezar/Parar de grabar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
@@ -253,7 +261,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c536136645f033fe",
+  "active": "1935735648cf0d33",
   "lastOpenFiles": [
     "z_Templates/Plantilla - Sesión.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
