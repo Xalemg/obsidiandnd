@@ -20,8 +20,6 @@ cssclasses:
 >```
 
 
-
-
 >[!dataview  | right clean no-t nmg ]
 ># [[3.Lugares]]
 >```dataview
