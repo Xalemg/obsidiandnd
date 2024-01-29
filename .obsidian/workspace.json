@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md"
+                "file": "⭐Hub.md"
               }
             }
           },
@@ -215,11 +215,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e5404b6772edbe0c",
+  "active": "f287db5cfc91c227",
   "lastOpenFiles": [
-    "z_Assets/NPCs/Julio Altalos.jpg",
+    "0.Campañas/Personajes/Personajes.md",
     "⭐Hub.md",
     "5.NPCs/Julio Altalos.md",
+    "z_Assets/NPCs/Julio Altalos.jpg",
     "5.NPCs/Julio Altalos.jpg",
     "4.Facciones/4.Facciones.md",
     "7.Pantalla del Master/7.Pantalla del Master.md",
@@ -227,7 +228,6 @@
     "5.NPCs/Lisa.md",
     "3.Lugares/Crestafria.md",
     "4.Facciones/La sombra que fue.md",
-    "0.Campañas/Personajes/Personajes.md",
     "3.Lugares/Islas Shamal.md",
     "3.Lugares/Aretries.md",
     "3.Lugares/3.Lugares.md",
