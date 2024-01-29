@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Tematica": "multitext",
-    "icon": "text"
+    "icon": "text",
+    "numero": "number"
   }
 }

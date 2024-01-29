@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c536136645f033fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭐Hub.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md"
+                "file": "⭐Hub.md"
               }
             }
           },
@@ -241,16 +253,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e1bf63676df04ba6",
+  "active": "c536136645f033fe",
   "lastOpenFiles": [
+    "z_Templates/Plantilla - Sesión.md",
+    "10. Sesiones/El legado de plata (Sesión 0).md",
     "3.Lugares/Crestafria.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
-    "10. Sesiones/El legado de plata (Sesión 0).md",
     "⭐Hub.md",
     "z_Classes/Classes/Sesion.md",
     "5.NPCs/Emir Sander.md",
     "9.Puntos de interes/Catedral del Martillo.md",
-    "z_Templates/Plantilla - Sesión.md",
     "4.Facciones/4.Facciones.md",
     "3.Lugares/3.Lugares.md",
     "10. Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
