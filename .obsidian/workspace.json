@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md",
-                "mode": "preview",
+                "file": "5.NPCs/5.NPCs.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md",
+                "file": "5.NPCs/5.NPCs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md",
+                "file": "5.NPCs/5.NPCs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md"
+                "file": "5.NPCs/5.NPCs.md"
               }
             }
           },
@@ -231,6 +231,9 @@
   },
   "active": "861f8aa3ff1c9006",
   "lastOpenFiles": [
+    "5.NPCs/Emir Sander.md",
+    "5.NPCs/5.NPCs.md",
+    "5.NPCs/Julio Altalos.md",
     "⭐Hub.md",
     "conflict-files-obsidian-git.md",
     "z_Assets/NPCs/Julio Altalos.jpg",
@@ -238,7 +241,6 @@
     "0.Campañas/Personajes/Kiera/Kiera.md",
     "0.Campañas/Personajes/Personajes.md",
     "4.Facciones/Corona de Altalos.md",
-    "5.NPCs/Julio Altalos.md",
     "4.Facciones/4.Facciones.md",
     "4.Facciones/La escama plateada.md",
     "5.NPCs/Lisa.md",
@@ -261,8 +263,6 @@
     "5.NPCs/Rey Kemdal.md",
     "z_Assets/NPCs/Anvil Carrillo.jpg",
     "0.Campañas/Personajes/Kas.md",
-    "3.Lugares/Islas Shamal.md",
-    "0.Campañas/Grupos de aventureros/Grupos de aventureros.md",
     "Recording 20240122170733.webm",
     "z_Assets/NPCs/Obispa Anais.png",
     "z_Assets/Obispa Anais.png",
