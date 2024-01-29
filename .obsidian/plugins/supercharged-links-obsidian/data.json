@@ -299,6 +299,18 @@
       "selectAppend": true,
       "selectPrepend": true,
       "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "Tipo",
+      "value": "6.Literatura",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "7997-dddb",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
     }
   ]
 }
