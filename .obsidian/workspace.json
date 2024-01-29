@@ -26,8 +26,8 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/Plantilla - Sesión.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               }
             }
           }
