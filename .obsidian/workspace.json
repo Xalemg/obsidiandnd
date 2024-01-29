@@ -18,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e5404b6772edbe0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.NPCs/Julio Altalos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f287db5cfc91c227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.NPCs/Julio Altalos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md",
+                "file": "3.Lugares/3.Lugares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md",
+                "file": "3.Lugares/3.Lugares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Julio Altalos.md"
+                "file": "3.Lugares/3.Lugares.md"
               }
             }
           },
@@ -200,8 +175,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "audio-recorder:Empezar/Parar de grabar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
       "open-vscode:VSCode": false,
@@ -212,14 +185,17 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "f287db5cfc91c227",
+  "active": "3aeff30e843f9ea5",
   "lastOpenFiles": [
+    "5.NPCs/Julio Altalos.md",
+    "4.Facciones/Corona de Altalos.md",
     "⭐Hub.md",
     "0.Campañas/Personajes/Personajes.md",
-    "5.NPCs/Julio Altalos.md",
     "z_Assets/NPCs/Julio Altalos.jpg",
     "5.NPCs/Julio Altalos.jpg",
     "4.Facciones/4.Facciones.md",
