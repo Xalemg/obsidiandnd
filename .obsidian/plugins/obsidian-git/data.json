@@ -52,4 +52,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoComm
+  "autoCommitMessage": "vault backup: {{date}}"
+}
