@@ -175,6 +175,35 @@
       "files": [
         "3.Lugares/Islas Shamal.md"
       ]
+    },
+    {
+      "id": "Crestafria",
+      "locked": true,
+      "lastAccessed": 1706556322223,
+      "markers": [
+        {
+          "id": "ID_6828388b282a",
+          "type": "Templo",
+          "loc": [
+            145.703125,
+            222
+          ],
+          "link": "Catedral del Martillo",
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "always"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "3.Lugares/Crestafria.md"
+      ]
     }
   ],
   "defaultMarker": {
