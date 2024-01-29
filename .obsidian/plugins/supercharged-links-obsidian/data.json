@@ -291,7 +291,7 @@
     {
       "type": "path",
       "name": "Tipo",
-      "value": "9.Notas varias",
+      "value": "8.Notas varias",
       "matchCaseSensitive": false,
       "match": "contains",
       "uid": "9c59-857a",

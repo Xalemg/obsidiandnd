@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "583d51183e0d231b",
+            "id": "9c37010b44ad1bb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "10. Sesiones/10. Sesiones.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "10. Sesiones/10. Sesiones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "10. Sesiones/10. Sesiones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⭐Hub.md"
+                "file": "10. Sesiones/10. Sesiones.md"
               }
             }
           },
@@ -194,6 +194,20 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "c3c10e78ace9701f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26c7c8cd6fa5d2c3",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,8 +231,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "583d51183e0d231b",
+  "active": "59369172aaba219c",
   "lastOpenFiles": [
+    "9.Puntos de interes/9.Puntos de interes.md",
+    "10. Sesiones/10. Sesiones.md",
+    "⭐Hub.md",
+    "8.Notas varias/8.Notas varias.md",
+    "7.Pantalla del Master/7.Pantalla del Master.md",
     "3.Lugares/3.Lugares.md",
     "5.NPCs/Emir Sander.md",
     "5.NPCs/5.NPCs.md",
@@ -227,7 +246,6 @@
     "4.Facciones/La Mancomunidad del Viento.md",
     "4.Facciones/Corona de Altalos.md",
     "5.NPCs/Julio Altalos.md",
-    "⭐Hub.md",
     "conflict-files-obsidian-git.md",
     "z_Assets/NPCs/Julio Altalos.jpg",
     "z_Assets/Arte/CCz9NtN6rH5myhhj_MajMIH-391lJTl2DpmthCXVrAY.webp",
@@ -246,11 +264,8 @@
     "4.Facciones/La iglesia de Tyr.md",
     "3.Lugares/Crestafria.md",
     "0.Campañas/0.Campañas.md",
-    "z_Templates/Plantilla - Sesión.md",
-    "4.Facciones/Tabernas Kalverin.md",
     "z_Assets/Emblemas/tabernas kalverin.png",
     "z_Assets/Emblemas/tabernas kalverin (1).png.crdownload",
-    "5.NPCs/Anvil Carrillo.md",
     "z_Assets/NPCs/Anvil Carrillo.jpg",
     "Recording 20240122170733.webm",
     "z_Assets/NPCs/Obispa Anais.png",
