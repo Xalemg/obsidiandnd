@@ -71,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
+                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
+                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla- Tienda o Servicio.md"
+                "file": "0.Campañas/Personajes/Kiera/Kiera.md"
               }
             }
           },
@@ -257,12 +256,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "793c2865a7eb96b1",
+  "active": "bf8bad435294edc6",
   "lastOpenFiles": [
+    "z_Templates/Plantilla- Tienda o Servicio.md",
     "z_Classes/Classes/Tienda o servicio.md",
     "7.Pantalla del Master/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
     "⭐Hub.md",
-    "z_Templates/Plantilla- Tienda o Servicio.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "3.Lugares/Crestafria.md",
     "z_Templates/Plantilla - Sesión.md",
