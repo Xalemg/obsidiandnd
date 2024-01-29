@@ -49,11 +49,11 @@
       "selectBackground": false
     },
     {
-      "type": "tag",
+      "type": "path",
       "name": "Tipo",
-      "value": "Sesion",
+      "value": "10.Sesiones",
       "matchCaseSensitive": false,
-      "match": "exact",
+      "match": "contains",
       "uid": "3bf5-ac01",
       "selectText": true,
       "selectAppend": false,
@@ -287,6 +287,18 @@
       "selectAppend": false,
       "selectPrepend": true,
       "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "Tipo",
+      "value": "9.Notas varias",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "9c59-857a",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
     }
   ]
 }
