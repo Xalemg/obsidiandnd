@@ -70,9 +70,21 @@
               "type": "FileClassView__Tienda o servicio",
               "state": {}
             }
+          },
+          {
+            "id": "4b4aea54c2c3e61c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Classes/Classes/Tienda o servicio.md",
+                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Classes/Classes/Tienda o servicio.md",
+                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Classes/Classes/Tienda o servicio.md"
+                "file": "z_Templates/Plantilla- Tienda o Servicio.md"
               }
             }
           },
@@ -257,8 +269,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5a9e8541515a6bd4",
+  "active": "59369172aaba219c",
   "lastOpenFiles": [
+    "z_Classes/Classes/Tienda o servicio.md",
+    "z_Templates/Plantilla- Tienda o Servicio.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "3.Lugares/Crestafria.md",
     "⭐Hub.md",
@@ -287,9 +301,7 @@
     "4.Facciones/La escama plateada.md",
     "5.NPCs/Lisa.md",
     "3.Lugares/Isla de Altalos.md",
-    "0.Campañas/Personajes/Cerenia/Cerenia.md",
     "z_Assets/Jugadores/Chain Cerenia.png",
-    "z_Templates/Plantilla- Facciones.md",
     "z_Assets/Emblemas/tabernas kalverin.png",
     "z_Assets/Emblemas/tabernas kalverin (1).png.crdownload",
     "z_Assets/NPCs/Anvil Carrillo.jpg",
