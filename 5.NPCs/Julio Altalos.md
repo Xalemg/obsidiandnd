@@ -1,5 +1,5 @@
 ---
-icon: "![[PlaceholderImage.png]]"
+icon: "![[Julio Altalos.jpg]]"
 Ubicacion: "[[Crestafria]]"
 Religiones:
   - "[[Tyr]]"
