@@ -199,6 +199,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Empezar/Parar de grabar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
