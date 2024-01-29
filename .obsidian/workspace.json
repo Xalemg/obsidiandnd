@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.NPCs/5.NPCs.md",
+                "file": "5.NPCs/Emir Sander.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/5.NPCs.md",
+                "file": "5.NPCs/Emir Sander.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/5.NPCs.md",
+                "file": "5.NPCs/Emir Sander.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/5.NPCs.md"
+                "file": "5.NPCs/Emir Sander.md"
               }
             }
           },
@@ -231,10 +231,12 @@
   },
   "active": "861f8aa3ff1c9006",
   "lastOpenFiles": [
-    "4.Facciones/La Mancomunidad del Viento.md",
     "5.NPCs/5.NPCs.md",
-    "4.Facciones/Corona de Altalos.md",
     "5.NPCs/Emir Sander.md",
+    "z_Assets/NPCs/Emir Snader.webp",
+    "z_Assets/NPCs/Emir Snader.webp.crdownload",
+    "4.Facciones/La Mancomunidad del Viento.md",
+    "4.Facciones/Corona de Altalos.md",
     "5.NPCs/Julio Altalos.md",
     "⭐Hub.md",
     "conflict-files-obsidian-git.md",
@@ -261,7 +263,6 @@
     "z_Assets/Emblemas/tabernas kalverin.png",
     "z_Assets/Emblemas/tabernas kalverin (1).png.crdownload",
     "5.NPCs/Anvil Carrillo.md",
-    "5.NPCs/Rey Kemdal.md",
     "z_Assets/NPCs/Anvil Carrillo.jpg",
     "Recording 20240122170733.webm",
     "z_Assets/NPCs/Obispa Anais.png",
@@ -271,11 +272,7 @@
     "5.NPCs/Lisa.jpg",
     "Nueva carpeta",
     "z_Assets/Arte/Emir Snader.png",
-    "z_Assets/Arte/Puerto Kalabor.png",
     "10. Sesiones",
     "z_Assets/Arte/Dioses/Lolthwebp.webp.crdownload",
     "z_Assets/Emblemas/59188df2f0da25a850ae2b3760f5615f.png.crdownload",
-    "z_Assets/Arte/Material_Plane.webp.crdownload",
-    "z_Classes/Classes"
-  ]
-}
+    "z_Assets/Arte/Material_Plane.we
