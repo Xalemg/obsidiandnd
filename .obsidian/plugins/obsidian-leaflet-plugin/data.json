@@ -3,7 +3,7 @@
     {
       "id": "TBD",
       "locked": true,
-      "lastAccessed": 1705661799733,
+      "lastAccessed": 1705915880433,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -87,7 +87,7 @@
     {
       "id": "Islas",
       "locked": false,
-      "lastAccessed": 1705874027857,
+      "lastAccessed": 1706524980949,
       "markers": [
         {
           "id": "ID_0a78cae98b58",
@@ -168,98 +168,12 @@
           "minZoom": null,
           "maxZoom": 0.5,
           "tooltip": "hover"
-        },
-        {
-          "id": "ID_dbe92afb2a38",
-          "type": "Ciudad",
-          "loc": [
-            278.5448290702196,
-            283.5498192558056
-          ],
-          "link": "Puerto Kalabor",
-          "layer": "%5B%5BIslas%20Shamal%20Upscale%2050.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": 1,
-          "maxZoom": null,
-          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
         "3.Lugares/Islas Shamal.md"
-      ]
-    },
-    {
-      "id": "Crestafria",
-      "locked": false,
-      "lastAccessed": 1705917595566,
-      "markers": [
-        {
-          "id": "ID_c9788a3919bb",
-          "type": "edificio religioso",
-          "loc": [
-            146.5,
-            221
-          ],
-          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            4.883456207569593,
-            -4.3162976434928835
-          ],
-          "description": "Catedral del Martillo\n\nEl mayor edificio de rezo de Tyr. Aqui se producen los juicios mas importantes del Reino",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_a8696a48493b",
-          "type": "Fortaleza",
-          "loc": [
-            58.68986283848345,
-            204.7074131535055
-          ],
-          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            4.5234375,
-            -1.7291666666666667
-          ],
-          "description": "Fortaleza de Norias.",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_cae8fb7868aa",
-          "type": "Punto de interes",
-          "loc": [
-            170.5,
-            124
-          ],
-          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            2.7400387770978716,
-            -5.023404424679431
-          ],
-          "description": "El broquel de los caballeros",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "3.Lugares/Crestafria.md"
       ]
     }
   ],
@@ -278,7 +192,7 @@
     {
       "type": "Ciudad",
       "iconName": "city",
-      "color": "#000000",
+      "color": "#dddddd",
       "alpha": 1,
       "layer": false,
       "transform": {
@@ -324,70 +238,6 @@
       "tags": [],
       "minZoom": null,
       "maxZoom": 0.5
-    },
-    {
-      "type": "Edificio",
-      "iconName": "building",
-      "color": "#c84646",
-      "alpha": 1,
-      "layer": false,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": false,
-      "tags": [],
-      "minZoom": null,
-      "maxZoom": null
-    },
-    {
-      "type": "Fortaleza",
-      "iconName": "shield-alt",
-      "color": "#c8bf50",
-      "alpha": 1,
-      "layer": false,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": false,
-      "tags": [],
-      "minZoom": null,
-      "maxZoom": null
-    },
-    {
-      "type": "Punto de interes",
-      "iconName": "map-marker-alt",
-      "color": "#9b557a",
-      "alpha": 1,
-      "layer": false,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": false,
-      "tags": [],
-      "minZoom": null,
-      "maxZoom": null
-    },
-    {
-      "type": "edificio religioso",
-      "iconName": "church",
-      "color": "#8d3535",
-      "alpha": 1,
-      "layer": false,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": false,
-      "tags": [],
-      "minZoom": null,
-      "maxZoom": null
     }
   ],
   "color": "#dddddd",
@@ -395,11 +245,11 @@
   "long": -82.98333,
   "notePreview": true,
   "layerMarkers": true,
-  "previousVersion": "6.0.1",
+  "previousVersion": "6.0.2",
   "version": {
     "major": 6,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
@@ -409,7 +259,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": false,
-    "defaultZoom": 0.5,
+    "defaultZoom": 2.5,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
@@ -421,7 +271,7 @@
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[Islas Shamal Upscale 50.jpg]]"
+      "[[Islas.webp]]"
     ],
     "linksFrom": [],
     "linksTo": [],
@@ -430,18 +280,18 @@
     "markerFile": [],
     "markerFolder": [],
     "markerTag": [],
-    "maxZoom": 3,
+    "maxZoom": 6.5,
     "minZoom": 0,
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
-    "scale": 2,
+    "scale": 10,
     "showAllMarkers": false,
     "tileServer": [],
     "verbose": false,
     "zoomDelta": 0.5,
     "zoomFeatures": false,
-    "id": "Islas",
+    "id": "TBD",
     "lock": true,
     "recenter": true,
     "noScrollZoom": false,
@@ -451,12 +301,12 @@
         0
       ],
       [
-        429.15,
-        606.92
+        86.2,
+        121.8
       ]
     ],
-    "lat": 214,
-    "long": 303,
+    "lat": 430.64,
+    "long": 609.03,
     "unit": "Kms",
     "filterTag": []
   },

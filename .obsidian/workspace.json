@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bafc2e9179dde8b7",
+        "id": "ca09e1657eb35200",
         "type": "tabs",
         "children": [
           {
@@ -32,33 +32,69 @@
             }
           },
           {
-            "id": "861f8aa3ff1c9006",
+            "id": "4ed41e1a0d3c90da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
                 "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9148b92f1725472",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Campañas/Personajes/Personajes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f1619dfb13a7769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.Facciones/Corona de Altalos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "963eecb027007eea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Lugares/3.Lugares.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "420676fb70a5ff68",
+    "id": "c4fbc3840d48b9de",
     "type": "split",
     "children": [
       {
-        "id": "68d169e2f47fa8b4",
+        "id": "0ab01d7efae3d519",
         "type": "tabs",
         "children": [
           {
-            "id": "59369172aaba219c",
+            "id": "9218aad9f1e12fba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,12 +104,12 @@
             }
           },
           {
-            "id": "01c245aacb8c2073",
+            "id": "04a0da4ae4ceed97",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Faccion",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +119,7 @@
             }
           },
           {
-            "id": "55899e3c055c4d95",
+            "id": "db58b4920ee0ff1e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +133,20 @@
     "width": 300
   },
   "right": {
-    "id": "cc70ceb331cfaefc",
+    "id": "4edd3d6b5a6d1e5f",
     "type": "split",
     "children": [
       {
-        "id": "66e141e4c5c2be88",
+        "id": "f17c18853d5037fc",
         "type": "tabs",
         "children": [
           {
-            "id": "785ab9631e1f7755",
+            "id": "fc7fdc0285208506",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "4.Facciones/Corona de Altalos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +158,19 @@
             }
           },
           {
-            "id": "a5305f3790e19a54",
+            "id": "768d7d94bee9d248",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "4.Facciones/Corona de Altalos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7ca9bbb8cbaed2db",
+            "id": "b9ec5d7abe63c9b7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,31 +181,17 @@
             }
           },
           {
-            "id": "2b4290b2a206ded4",
+            "id": "9c052e25e40bb10f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "⭐Hub.md"
+                "file": "4.Facciones/Corona de Altalos.md"
               }
             }
           },
           {
-            "id": "f5f23bb565a59332",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.Campañas/0.Campañas.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8c6f6c034f5e85a1",
+            "id": "cff73f4fa52995dc",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -177,7 +199,7 @@
             }
           },
           {
-            "id": "b7c59265677dbc4e",
+            "id": "ee2aa249b15a542f",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -185,7 +207,7 @@
             }
           },
           {
-            "id": "bd145fc7d68d9413",
+            "id": "0ba9de850c78288f",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -205,7 +227,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -213,54 +235,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false,
+      "open-vscode:VSCode": false,
+      "obsidian42-brat:BRAT": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "audio-recorder:Empezar/Parar de grabar": false,
+      "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "open-vscode:VSCode": false,
       "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "861f8aa3ff1c9006",
+  "active": "0f1619dfb13a7769",
   "lastOpenFiles": [
-    "0.Campañas/Personajes/Kiera/Kiera.md",
-    "0.Campañas/Personajes/Personajes.md",
-    "4.Facciones/Corona de Altalos.md",
     "5.NPCs/Julio Altalos.md",
+    "4.Facciones/Corona de Altalos.md",
     "4.Facciones/4.Facciones.md",
-    "4.Facciones/La escama plateada.md",
+    "7.Pantalla del Master/7.Pantalla del Master.md",
+    "z_Templates/Plantilla - Sesión.md",
     "5.NPCs/Lisa.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
     "3.Lugares/Isla de Altalos.md",
     "10. Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
     "0.Campañas/Personajes/Cerenia/Cerenia.md",
     "z_Assets/Jugadores/Chain Cerenia.png",
+    "0.Campañas/Personajes/Kiera/Kiera.md",
     "z_Templates/Plantilla- Facciones.md",
     "3.Lugares/3.Lugares.md",
     "3.Lugares/Puerto Kalabor.md",
     "4.Facciones/La iglesia de Tyr.md",
     "3.Lugares/Crestafria.md",
-    "0.Campañas/0.Campañas.md",
-    "z_Templates/Plantilla - Sesión.md",
-    "4.Facciones/Tabernas Kalverin.md",
+    "4.Facciones/La sombra que fue.md",
+    "3.Lugares/Islas Shamal.md",
+    "3.Lugares/Aretries.md",
+    "9.Puntos de interes/Catedral del Martillo.md",
+    "z_Classes/Options/Mundos.md",
+    "z_Classes/Options/Campañas.md",
+    "z_Classes/Classes/Sesion.md",
+    "z_Assets/NPCs/Anvil Carrillo.jpg",
     "z_Assets/Emblemas/tabernas kalverin.png",
     "z_Assets/Emblemas/tabernas kalverin (1).png.crdownload",
     "5.NPCs/Anvil Carrillo.md",
     "5.NPCs/Rey Kemdal.md",
-    "⭐Hub.md",
     "z_Assets/NPCs/Anvil Carrillo.jpg",
     "0.Campañas/Personajes/Kas.md",
     "3.Lugares/Islas Shamal.md",
     "0.Campañas/Grupos de aventureros/Grupos de aventureros.md",
-    "z_Classes/Classes/Global.md",
     "Recording 20240122170733.webm",
     "z_Assets/NPCs/Obispa Anais.png",
     "z_Assets/Obispa Anais.png",

@@ -1,4 +1,5 @@
 ---
+banner: "![[lazy_dm_workbook_banner.jpg]]"
 Tipo: Sesion
 tags:
   - Sesion
@@ -6,7 +7,7 @@ Campaña:
 fecha: ""
 Numero: <% sesionNumber %>
 banner: "![[lazy_dm_workbook_banner.jpg]]"
-banner_y: 0
+banner_y: 0.36
 fileClass: Sesion
 NPCs Relevantres: 
 Mundo: 
