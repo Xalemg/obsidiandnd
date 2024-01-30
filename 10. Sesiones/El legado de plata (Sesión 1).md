@@ -2,7 +2,7 @@
 Tipo: Sesion
 tags:
   - Sesion
-fecha: 2024-01-25
+fecha: 2024-02-01
 Numero: 1
 fileClass: Sesion
 Mundo:
@@ -18,7 +18,7 @@ cssclasses:
 ```dataview
 table without id embed(link(icon)) as Icono, file.link as PJ, P_per as "P.Per", ac as AC, Competencias, level
 FROM #personaje
-WHERE contains(En_curso, "si") and contains(Campaña, this.Campaña)
+WHERE contains(En_curso, "si") and contains(Campañas, this.Campaña)
 ```
 
 >[!dataview  | right clean no-t nmg ]
