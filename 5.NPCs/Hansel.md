@@ -1,5 +1,5 @@
 ---
-icon: "![[placeholderImage.png]]"
+icon: "![[Hansel.jpg]]"
 Ubicacion: "[[Crestafria]]"
 Religiones: "[[Mystra]]"
 Estado: Vivo
@@ -63,6 +63,6 @@ tags:
 
 > [!cards|dataview] 
 > ```statblock
->monster: Commoner
+>monster: Transmuter Wizard
 >name: NPC
 > ```
