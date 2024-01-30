@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "b91e8f87b96cc5aa",
+            "id": "4be0c89b71afff6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Lugares/Torre de Crestafria.md",
+                "file": "9.Puntos de interes/Torre de Crestafria.md",
                 "mode": "preview",
                 "source": false
               }
@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "9.Puntos de interes/Torre de Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "9.Puntos de interes/Torre de Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Crestafria.md"
+                "file": "9.Puntos de interes/Torre de Crestafria.md"
               }
             }
           },
@@ -309,18 +309,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7568de471025ead2",
+  "active": "4be0c89b71afff6e",
   "lastOpenFiles": [
-    "3.Lugares/Torre de Crestafria.md",
     "0.Campañas/0.Campañas.md",
+    "9.Puntos de interes/Torre de Crestafria.md",
     "5.NPCs/Hansel.md",
+    "3.Lugares/Crestafria.md",
     "4.Facciones/Corona de Altalos.md",
     "z_Assets/NPCs/Hansel.jpg",
     "z_Assets/NPCs/Hansel.jpg.crdownload",
     "Hansel.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
     "z_Templates/Plantilla - Sesión.md",
-    "3.Lugares/Crestafria.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "z.Leaflet/plugins/obsidian-leaflet-plugin/data.json",
     "z.Leaflet/plugins/obsidian-leaflet-plugin",

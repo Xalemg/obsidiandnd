@@ -1,30 +1,29 @@
 ---
-fileClass: Lugar
+fileClass: Punto de interes
 tags:
-  - Lugar
+  - PuntoDeInteres
+  - "#Lugar"
 aliases: 
-icon: "![[PlaceholderImage.png]]"
-Tematica: 
-Prosperidad: 
-Mundo: Aretries
-Terreno: 
-Poblacion: 
-Tipo: Region
-Ubicacion:
+icon: "![[CrestaFria.png]]"
+Tematica: [Investigacion, Magia]
+Tipo: 
+Prosperidad: Medio
+Defensas: 
+Ubicacion: 
+Mundo:
+  - Aretries
 ---
 
 
 > [!infobox| background-black ]+
-> `VIEW[{icon}][text(renderMarkdown)]`
+`VIEW[{icon}][text(renderMarkdown)]`
 > ###### Información basica
 >  |
 > ---|---|
 >  **Ubicación** | `VIEW[{Ubicacion}][link]` |
-> **Alias** | `= aliases  `|
+> **Alias** |`=this.aliases` |
 > **Tipo** | `=this.Tipo` |
-> **Población** | `=this.Poblacion` |
 > **Temática** | `=this.Tematica` |
-> **Terreno** | `=this.Terreno`|
 
 # 🔍 A simple vista
 
@@ -39,11 +38,11 @@ Ubicacion:
 #TBD
 
 # Otros
-> [!metadata|map]+ Map
+> [!metadata|map]- Map
 > ```leaflet
 > 
 > 
-> id: Lugar
+> id: TBD
 > 
 > ### Lock pins so they can't be moved
 > lock: true
@@ -104,6 +103,7 @@ table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Tema
 FROM #Lugar
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
+## Sitios de Interes
 
 > [!metadata|groups]+ Facciones
 > ```dataview

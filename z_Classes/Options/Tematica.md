@@ -13,3 +13,5 @@ Ecologismo
 Religiosa
 Reflexion
 Deber
+Magia
+Investigacion
