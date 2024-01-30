@@ -163,7 +163,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706631302600,
+      "lastAccessed": 1706631355084,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -227,22 +227,6 @@
             6.910863931752897,
             -2.7474044727352314
           ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_8b7b08b8f86a",
-          "type": "Castillo",
-          "loc": [
-            59.796875,
-            202.5
-          ],
-          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
