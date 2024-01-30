@@ -18,7 +18,7 @@ cssclasses:
 ```dataview
 table without id embed(link(icon)) as Icono, file.link as PJ, P_per as "P.Per", ac as AC, Competencias, level
 FROM #personaje
-WHERE contains(En_curso, "si") and contains(Campañas, this.Campaña)
+WHERE contains(En_curso, "si") and contains(Campañas, this.Campaña.toString())
 ```
 
 >[!dataview  | right clean no-t nmg ]
