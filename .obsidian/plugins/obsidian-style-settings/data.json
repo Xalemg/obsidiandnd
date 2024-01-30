@@ -148,5 +148,7 @@
   "mado-miniflow@@toggle-note-animation": false,
   "supercharged-links@@1f27-21bf-color": "#F2C8F5",
   "supercharged-links@@1f27-21bf-before": "🌑",
-  "lf-svg-borders@@lf-svg-border-width": 25
+  "lf-svg-borders@@lf-svg-border-width": 25,
+  "ITS@@chkbx-strike": false,
+  "ITS@@alt-chkbx-off": true
 }
