@@ -221,8 +221,6 @@ Situación: Una vez, buscando perlas en uno de los barcos naufragados Kiera y Er
 
 Samina. Humana. Hija de la Tita Asena, creció viendo a su madre afianzarse en la tribu, algo de lo que ella no ha tenido que preocuparse. Siente gran orgullo por su madre y su hermana mayor Sunila, lo que muchas veces se traduce en una altanería y un trato condescendiente con los demás niños de la tribu, sintiéndose por encima de ellos. Aunque eterna rival de Kiera por la predilección de Tak-Har hacia ella, su corazón está con la tribu y lo mejor para todos (aunque si ella sale favorecida aún mejor el plan).
 
-  
-
 ## PERSONAJES - BARCO EL ESPEJO DE ARANDINE
 
 Capitana Sereia. Tiefling. Reservada y calculadora, no suele ser la primera en hablar pero sí suele ser la que dice la última palabra. Pese a su seriedad su tripulación aprecia su mando ya que su mente fría les ha sacado de múltiples apuros en las aguas de las islas. Suele estar bajo cubierta examinando mapas y textos en un idioma extraño. Nadie sabe qué está buscando exactamente.
