@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Torre de Crestafria.md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Torre de Crestafria.md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Torre de Crestafria.md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -309,10 +309,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b91e8f87b96cc5aa",
+  "active": "7568de471025ead2",
   "lastOpenFiles": [
-    "0.Campañas/0.Campañas.md",
     "3.Lugares/Torre de Crestafria.md",
+    "0.Campañas/0.Campañas.md",
     "5.NPCs/Hansel.md",
     "4.Facciones/Corona de Altalos.md",
     "z_Assets/NPCs/Hansel.jpg",
