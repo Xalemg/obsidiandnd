@@ -26,8 +26,8 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/Plantilla - Sesión.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
+                "file": "z_Templates/Plantilla - Sesión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
+                "file": "z_Templates/Plantilla - Sesión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md"
+                "file": "z_Templates/Plantilla - Sesión.md"
               }
             }
           },
@@ -249,10 +249,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "c536136645f033fe",
+  "active": "cccf8e2ce30c08eb",
   "lastOpenFiles": [
-    "⭐Hub.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
+    "⭐Hub.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
     "conflict-files-obsidian-git.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
