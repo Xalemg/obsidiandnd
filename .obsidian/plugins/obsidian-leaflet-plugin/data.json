@@ -163,7 +163,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706632441065,
+      "lastAccessed": 1706632688494,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -396,6 +396,22 @@
       "type": "Castillo",
       "iconName": "chess-rook",
       "color": "#b5a81c",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Estadio",
+      "iconName": "ring",
+      "color": "#872121",
       "alpha": 1,
       "layer": false,
       "transform": {
