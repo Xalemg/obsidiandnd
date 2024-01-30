@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "dde53f60cd2f5ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Lugares/Crestafria.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "15752b74ff074b3e",
             "type": "leaf",
             "state": {
@@ -66,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a8b5a7ca9e565b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Lugares/Crestafria.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -253,18 +253,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dde53f60cd2f5ef3",
+  "active": "2a8b5a7ca9e565b5",
   "lastOpenFiles": [
+    "⭐Hub.md",
+    "0.Campañas/Personajes/Kiera/Kiera.md",
+    "3.Lugares/Crestafria.md",
     "5.NPCs/Hansel.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
     "z_Templates/Plantilla - Sesión.md",
     "4.Facciones/Familia de Norias.md",
-    "0.Campañas/Personajes/Kiera/Kiera.md",
     "4.Facciones/Corona de Altalos.md",
     "0.Campañas/0.Campañas.md",
     "2024-01-25.md",
     "0.Campañas/Personajes/Personajes.md",
-    "⭐Hub.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
@@ -272,7 +273,6 @@
     "3.Lugares/3.Lugares.md",
     "2.Panteón/2.Panteón.md",
     "4.Facciones/4.Facciones.md",
-    "3.Lugares/Crestafria.md",
     "Hansel.md",
     "9.Puntos de interes/Torre de Crestafria.md",
     "z_Assets/NPCs/Hansel.jpg",
@@ -299,7 +299,4 @@
     "z_Assets/Jugadores/Chain Cerenia.png",
     "z_Assets/Emblemas/tabernas kalverin.png",
     "z_Assets/NPCs/Anvil Carrillo.jpg",
-    "z_Assets/NPCs/Obispa Anais.png",
-    "z_Assets/Obispa Anais.png"
-  ]
-}
+    "z_Assets/NPCs/
