@@ -18,7 +18,7 @@ numero: 1
 ```dataview
 table without id embed(link(icon)) as Icono, file.link as PJ, P_per as "P.Per", ac as AC, Competencias, level
 FROM #personaje
-WHERE contains(En_curso, "si") and contains(Campaña, this.Campañas)
+WHERE contains(En_curso, "si") and contains(Campaña, this.Campaña)
 ```
 
 >[!dataview  | right clean no-t nmg ]

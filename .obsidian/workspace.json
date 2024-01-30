@@ -38,7 +38,19 @@
               "type": "markdown",
               "state": {
                 "file": "10. Sesiones/El legado de plata (Sesión 0).md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "897a26f750bc4890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -251,12 +263,12 @@
   },
   "active": "c536136645f033fe",
   "lastOpenFiles": [
-    "z_Templates/Plantilla - Sesión.md",
+    "0.Campañas/Personajes/Kiera/Kiera.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
+    "z_Templates/Plantilla - Sesión.md",
     "0.Campañas/Personajes/Personajes.md",
     "5.NPCs/5.NPCs.md",
     "⭐Hub.md",
-    "0.Campañas/Personajes/Kiera/Kiera.md",
     "conflict-files-obsidian-git.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
     "z_Classes/Classes/Tienda o servicio.md",
