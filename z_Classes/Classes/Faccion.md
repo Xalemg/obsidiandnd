@@ -9,7 +9,7 @@ excludes:
 extends: Global
 savedViews: []
 favoriteView: 
-version: "2.32"
+version: "2.33"
 fields:
   - name: aliases
     type: Input
@@ -76,6 +76,7 @@ fields:
       "12": Consejero Principal
       "13": Aprendiz de mago
       "14": Cabeza de familia
+      "15": Familiar lejano
     path: ""
     id: s7c817
   - name: Lider

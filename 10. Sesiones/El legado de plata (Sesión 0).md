@@ -40,7 +40,7 @@ WHERE contains(En_curso, "si") and contains(Campaña, this.Campaña)
 # 🔐Secretos y pistas
 *Secretos sobre el villano/enemigos, objetivo de los PJs, aliados, lugares que visitan, eventos relevantes, objetos mágicos o la misión.*
 - [ ]  Gath Igeo se encuentra en Hismal
-- [ ] 
+- [ ] La [[Familia de Norias]] ha permitido
 - [ ] 
 - [ ] 
 - [ ] 

@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Facciones/Familia de Norias.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Facciones/Familia de Norias.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Facciones/Familia de Norias.md"
+                "file": "10. Sesiones/El legado de plata (Sesión 0).md"
               }
             }
           },
@@ -253,15 +252,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0410353e7b640b2e",
+  "active": "c536136645f033fe",
   "lastOpenFiles": [
-    "0.Campañas/0.Campañas.md",
+    "3.Lugares/Crestafria.md",
     "4.Facciones/Familia de Norias.md",
+    "0.Campañas/0.Campañas.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
     "5.NPCs/Hansel.md",
     "z_Templates/Plantilla - Sesión.md",
     "Hansel.md",
-    "3.Lugares/Crestafria.md",
     "9.Puntos de interes/Torre de Crestafria.md",
     "⭐Hub.md",
     "4.Facciones/Corona de Altalos.md",

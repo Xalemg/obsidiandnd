@@ -8,9 +8,9 @@ Mundo: Aretries
 Influencia: Media
 Alineamiento: NB
 Tipo: Familia Nobiliaria
-Rangos: 
+Rangos: [Cabeza de familia, Hija menor, Padre, Familiar lejano]
 Lider: 
-Ubicacion: 
+Ubicacion: ["[[Isla de Altalos]]"]
 ---
 
 
