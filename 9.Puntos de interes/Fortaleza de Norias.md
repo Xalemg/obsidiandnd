@@ -4,7 +4,7 @@ tags:
   - PuntoDeInteres
   - "#Lugar"
 aliases: 
-icon: "![[PlaceholderImage.png]]"
+icon: "![[Fortaleza de Norias.webp]]"
 Tematica:
   - Caballerosidad
   - Intriga
