@@ -71,7 +71,7 @@ Gath e Igeo eran dos Naciones Gith Rivales que controlaba cada uno los unicos co
 
 La perla del Alma es un objeto escondido en Gath e Igeo. 
 
-Gath Igeo es el planeta natal de los Giths una raza con la capacidad del viaje Astral mediante dragones astrales. Los Giths llegaron a las [[1. Almanac11. Lugares/Continente/Islas Shamal]] hace miles de años y poblaron las islas, de su adaptación a Aretries y la mezcla con otras razas surguieron los Elfos.
+Gath Igeo es el planeta natal de los Giths una raza con la capacidad del viaje Astral mediante dragones astrales. Los Giths llegaron a las [[Islas Shamal]]  hace miles de años y poblaron las islas, de su adaptación a Aretries y la mezcla con otras razas surguieron los Elfos.
 
 # Escrito por Olga
 Historia de Kiera
