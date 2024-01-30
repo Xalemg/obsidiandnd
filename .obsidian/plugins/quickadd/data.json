@@ -241,13 +241,13 @@
       "name": "Nueva Tienda/Servicio",
       "type": "Template",
       "command": true,
-      "templatePath": "",
+      "templatePath": "z_Templates/Plantilla- Tienda o Servicio.md",
       "fileNameFormat": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "{{VALUE:}}"
       },
       "folder": {
-        "enabled": false,
+        "enabled": true,
         "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -259,8 +259,8 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
-      "openFileInMode": "default",
+      "openFile": true,
+      "openFileInMode": "source",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     }
