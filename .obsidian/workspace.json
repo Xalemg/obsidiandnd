@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
+                "file": "4.Facciones/Corona de Altalos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
+                "file": "4.Facciones/Corona de Altalos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md"
+                "file": "4.Facciones/Corona de Altalos.md"
               }
             }
           },
@@ -265,10 +265,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b6f5951ad8b01e0a",
+  "active": "5de4987da60b4e13",
   "lastOpenFiles": [
-    "10. Sesiones/El legado de plata (Sesión 1).md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
+    "10. Sesiones/El legado de plata (Sesión 1).md",
     "5.NPCs/Hansel.md",
     "2024-01-25.md",
     "4.Facciones/Familia de Norias.md",

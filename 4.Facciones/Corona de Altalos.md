@@ -4,13 +4,19 @@ tags:
   - Faccion
 aliases: 
 icon: "![[z_Assets/Emblemas/altalos.png]]"
-Mundo: Aretries
+Mundo:
+  - Aretries
 Ubicacion: "[[Islas Shamal]]"
 Tipo:
   - Monarquia
 Lideres: "[[5.NPCs/Rey Kemdal.md|Rey Kemdal]]"
 Influencia: Muy Alta
-Rangos: [Rey (Lider), Caballero, Reina, Consejero Principal, Aprendiz de mago]
+Rangos:
+  - Rey (Lider)
+  - Caballero
+  - Reina
+  - Consejero Principal
+  - Aprendiz de mago
 Alineamiento: LB
 ---
 
