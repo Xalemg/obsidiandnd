@@ -6,7 +6,6 @@
       "lastAccessed": 1706524980949,
       "markers": [
         {
-          "id": "ID_0a78cae98b58",
           "type": "Ciudad",
           "loc": [
             200.90671420462783,
@@ -14,19 +13,15 @@
           ],
           "link": "Crestafria",
           "layer": "%5B%5BIslas%20Shamal%20Upscale%2050.jpg%5D%5D",
-          "mutable": true,
+          "id": "ID_0a78cae98b58",
           "command": false,
-          "percent": [
-            0.4039338654503991,
-            -0.22908687764563596
-          ],
           "description": null,
-          "minZoom": 0.5,
+          "mutable": true,
+          "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_cb3b2ae8f878",
           "type": "SubContinente",
           "loc": [
             189,
@@ -34,19 +29,15 @@
           ],
           "link": "Isla de Altalos",
           "layer": "%5B%5BIslas%20Shamal%20Upscale%2050.jpg%5D%5D",
-          "mutable": true,
+          "id": "ID_cb3b2ae8f878",
           "command": false,
-          "percent": [
-            0.274230330672748,
-            -0.15238863132432978
-          ],
           "description": null,
-          "minZoom": 0,
-          "maxZoom": 0.5,
+          "mutable": true,
+          "minZoom": null,
+          "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_eae91899a8fa",
           "type": "SubContinente",
           "loc": [
             230.51681066681448,
@@ -54,19 +45,15 @@
           ],
           "link": "Isla de Adur",
           "layer": "%5B%5BIslas%20Shamal%20Upscale%2050.jpg%5D%5D",
-          "mutable": true,
+          "id": "ID_eae91899a8fa",
           "command": false,
-          "percent": [
-            0.16972175306701054,
-            -0.18586318134796573
-          ],
           "description": null,
+          "mutable": true,
           "minZoom": null,
-          "maxZoom": 0.5,
+          "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_99c819f9388a",
           "type": "SubContinente",
           "loc": [
             349,
@@ -74,15 +61,12 @@
           ],
           "link": "Isla de Roncor",
           "layer": "%5B%5BIslas%20Shamal%20Upscale%2050.jpg%5D%5D",
-          "mutable": true,
+          "id": "ID_99c819f9388a",
           "command": false,
-          "percent": [
-            0.09064994298745724,
-            -0.28139488006450314
-          ],
           "description": null,
+          "mutable": true,
           "minZoom": null,
-          "maxZoom": 0.5,
+          "maxZoom": null,
           "tooltip": "hover"
         }
       ],
@@ -180,7 +164,6 @@
       "lastAccessed": 1706609184843,
       "markers": [
         {
-          "id": "ID_6828388b282a",
           "type": "Templo",
           "loc": [
             145.703125,
@@ -188,16 +171,15 @@
           ],
           "link": "Catedral del Martillo",
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "mutable": true,
+          "id": "ID_6828388b282a",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_bb19ab3868e8",
           "type": "Taberna",
           "loc": [
             150.5,
@@ -205,29 +187,25 @@
           ],
           "link": "Crestafria#Taberna los coros de la redención",
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "mutable": true,
+          "id": "ID_bb19ab3868e8",
           "command": false,
-          "percent": [
-            4.187397969839086,
-            -4.434148773690642
-          ],
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "id": "ID_99c94a1a9959",
           "type": "Tienda/Servicio",
           "loc": [
             148.9122687005045,
             111.72287142747452
           ],
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "mutable": true,
+          "id": "ID_99c94a1a9959",
           "command": false,
-          "percent": null,
           "description": null,
+          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
