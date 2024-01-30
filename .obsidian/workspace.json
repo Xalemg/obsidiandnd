@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Hansel.md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Hansel.md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Hansel.md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -252,15 +253,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0410353e7b640b2e",
+  "active": "dde53f60cd2f5ef3",
   "lastOpenFiles": [
+    "5.NPCs/Hansel.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
     "z_Templates/Plantilla - Sesión.md",
     "4.Facciones/Familia de Norias.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
     "4.Facciones/Corona de Altalos.md",
     "0.Campañas/0.Campañas.md",
-    "5.NPCs/Hansel.md",
     "2024-01-25.md",
     "0.Campañas/Personajes/Personajes.md",
     "⭐Hub.md",
