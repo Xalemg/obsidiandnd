@@ -30,7 +30,7 @@ Mundo:
 
 # 🔍 A simple vista
 
-La torre es la segunda edificacion 
+La torre es la segunda edificación mas alta de la ciudad.
 
 # 📜 Historia
 
