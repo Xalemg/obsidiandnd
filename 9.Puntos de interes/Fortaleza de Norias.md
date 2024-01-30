@@ -12,7 +12,7 @@ Tipo: Fortaleza
 Prosperidad: Medio
 Defensas:
   - Una guarnición de unos 200 soldados defienden el perimetro de la muralla y de la torre
-Ubicacion: 
+Ubicacion: "[[Crestafria]]"
 Mundo:
   - Aretries
 ---
