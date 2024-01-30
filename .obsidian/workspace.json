@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "b91e8f87b96cc5aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Lugares/Torre de Crestafria.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5de4987da60b4e13",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Hansel.md",
+                "file": "3.Lugares/Torre de Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Hansel.md",
+                "file": "3.Lugares/Torre de Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Hansel.md"
+                "file": "3.Lugares/Torre de Crestafria.md"
               }
             }
           },
@@ -297,13 +309,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b6f5951ad8b01e0a",
+  "active": "b91e8f87b96cc5aa",
   "lastOpenFiles": [
-    "4.Facciones/Corona de Altalos.md",
+    "0.Campañas/0.Campañas.md",
+    "3.Lugares/Torre de Crestafria.md",
     "5.NPCs/Hansel.md",
+    "4.Facciones/Corona de Altalos.md",
     "z_Assets/NPCs/Hansel.jpg",
     "z_Assets/NPCs/Hansel.jpg.crdownload",
-    "0.Campañas/0.Campañas.md",
     "Hansel.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
     "z_Templates/Plantilla - Sesión.md",
@@ -336,7 +349,6 @@
     "8.Notas varias/8.Notas varias.md",
     "7.Pantalla del Master/7.Pantalla del Master.md",
     "z_Assets/NPCs/Emir Snader.webp",
-    "4.Facciones/La Mancomunidad del Viento.md",
     "z_Assets/NPCs/Julio Altalos.jpg",
     "z_Assets/Arte/CCz9NtN6rH5myhhj_MajMIH-391lJTl2DpmthCXVrAY.webp",
     "z_Assets/Jugadores/Chain Cerenia.png",

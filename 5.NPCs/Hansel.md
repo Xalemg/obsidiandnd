@@ -56,7 +56,7 @@ Joven torpe mago aprendiz de [[Anvil Carrillo]]
 
 # 🎯Objetivos
 
-Convertirse en el siguiente rector d
+Convertirse en el siguiente rector de la [[Torre de Crestrafria]]
 
 # 📜 Historia
 
