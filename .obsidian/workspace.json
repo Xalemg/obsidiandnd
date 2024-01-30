@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "6e7fc827e130b1bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cccf8e2ce30c08eb",
             "type": "leaf",
             "state": {
@@ -71,7 +83,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -250,14 +263,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "open-vscode:VSCode": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "open-vscode:VSCode": false
     }
   },
-  "active": "bf8bad435294edc6",
+  "active": "6e7fc827e130b1bc",
   "lastOpenFiles": [
+    "0.Campañas/Personajes/Kiera/Kiera.md",
+    "conflict-files-obsidian-git.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
     "z_Classes/Classes/Tienda o servicio.md",
     "7.Pantalla del Master/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
@@ -266,7 +281,6 @@
     "3.Lugares/Crestafria.md",
     "z_Templates/Plantilla - Sesión.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
-    "0.Campañas/Personajes/Kiera/Kiera.md",
     "z_Classes/Classes/Sesion.md",
     "5.NPCs/Emir Sander.md",
     "4.Facciones/4.Facciones.md",
@@ -282,7 +296,6 @@
     "4.Facciones/La Mancomunidad del Viento.md",
     "4.Facciones/Corona de Altalos.md",
     "5.NPCs/Julio Altalos.md",
-    "conflict-files-obsidian-git.md",
     "z_Assets/NPCs/Julio Altalos.jpg",
     "z_Assets/Arte/CCz9NtN6rH5myhhj_MajMIH-391lJTl2DpmthCXVrAY.webp",
     "0.Campañas/Personajes/Personajes.md",

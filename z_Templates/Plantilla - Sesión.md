@@ -1,5 +1,8 @@
 ---
 banner: "![[lazy_dm_workbook_banner.jpg]]"
+---
+---
+banner: "![[lazy_dm_workbook_banner.jpg]]"
 banner_y: 0.36
 fileClass: Sesion
 Mundo: 
