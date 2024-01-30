@@ -60,6 +60,7 @@ WHERE contains(En_curso, "si") and contains(Campaña, this.Campaña)
 - [ ] Viaje a [[Puerto Kalabor]] para comparecer frente al consejo [[La Mancomunidad del Viento]] y todos los dirigentes de las naciones que las componen. Os cuestionaran sobe lo sucedido en [[Ust Natha]] y sobre el sol desaparecido.
 - [ ] [[Hansel]] te separara del resto de la party y te dirá que alguien tiene información importante que hablar contigo acerca de tu futuro y ha sido ordenado por [[Anvil Carrillo]] llevarla a [[Crestafria]]. Abre un portal de teleportación y te invita a cruzarlo.
 ## Comienzo en [[Crestafria]]
+
 >Tras cruzar el portal llegas a una estancia decorada con numerosos escudos y espadas en las paredes. Piedras verdes brillantes iluminan la habitación. Los suelos se encuentran decorados con una enorme alfombra de una extraña criatura. mientras que en una mesa cercana puedes ver un antiguo mapa de la [[Isla de Altalos]] 
 
 Atravesar la 
