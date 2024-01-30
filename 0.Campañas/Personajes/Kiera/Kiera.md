@@ -79,8 +79,7 @@ Historia de Kiera
 Mujer, [Aasimar](http://dnd5e.wikidot.com/lineage:aasimar) Protector, [Ranger](http://dnd5e.wikidot.com/ranger) [Drakewarden](http://dnd5e.wikidot.com/ranger:drakewarden) 16 años.
 
   
-
-NAUFRAGIO EN LA COSTA DE RONCOR
+## NAUFRAGIO EN LA COSTA DE RONCOR
 
 La costa norte de la isla de Roncor es conocida por sus fuertes marejadas y corrientes. Esto hace que muchos barcos naufraguen al acercarse demasiado a la isla.
 
