@@ -163,7 +163,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706631481773,
+      "lastAccessed": 1706631567946,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -364,6 +364,23 @@
         "y": -2
       },
       "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Castillo",
+      "iconName": "map-marker",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAACaCAYAAADVVXR8AAAAAXNSR0IArs4c6QAAAttJREFUeF7t2UEuBEEARuF/LMQRxFVYuoZzsBFixT0cw06cxR1sSEd3UukUVd3zYmLm2el0//Q3b4ZhEz8wgQ225FC2wbxPcpLkRsdvgbWYA+TdiPgk6HrMEnKKUtAVZdYgBR0F1j7NfZmsCIgJZrEU87PxtZfugbey+6mlNy/mL4+ZmGDQJeZU3XRs/vnwZZeU2bMH3srup2qY8++q55zpmp5zlz4bdq/U+R303HznVPdpYnZTtU8Us23UfYaY3VTtEw8C82L8S9Bl22PVGW9Jhvf2L6uu/gcX1Spp/fqz9rb2tsjarzLTMTFX5tIq8zzJUZLXYv8jyW2S5/HYVZKHJMfFObXrDr7M+buhwWv4N8Xwx+Dy4zrJY3Ggdp2YI1D51D9L8j7DPJ0dE7MCV3v1+Kmw1mvtwZcp5oIfRq0fQGJuibngck8tBfb+dewvH24xQW0xxQQFwCnLFBMUAKcsU0xQAJyyTDFBAXDKMsUEBcApyxQTFACnLFNMUACcskwxQQFwyjLFBAXAKcsUExQApyxTTFAAnLJMMUEBcMoyxQQFwCnLFBMUAKcsU0xQAJyyTDFBAXDKMsUEBcApyxQTFACnLFNMUACcskwxQQFwyjLFBAXAKcsUExQApyxTTFAAnLJMMUEBcMoyxQQFwCnLFBMUAKcsU0xQAJyyTDFBAXDKMsUEBcApyxQTFACnLFNMUACcskwxQQFwyjLFBAXAKcsUExQApyxTTFAAnLJMMUEBcMoyxQQFwCnLFBMUAKcsU0xQAJyyTDFBAXDKMsUEBcApyxQTFACnLFNMUACcskwxQQFwyjLFBAXAKcsUExQApyxTTFAAnLJMMUEBcMoyxQQFwCnLFBMUAKcsU0xQAJyyTDFBAXDKMsUEBcApyxQTFACnLFNMUACcskwxQQFwyjLFBAXAKcsUExQApyxTTFAAnLJMMUEBcMoyxQQFwCnLFBMUAKcsE8T8At2dMZvLLbcqAAAAAElFTkSuQmCC",
       "tags": [],
       "minZoom": null,
       "maxZoom": null
