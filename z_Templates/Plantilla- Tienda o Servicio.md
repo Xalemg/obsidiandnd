@@ -6,7 +6,7 @@ tags:
 aliases: 
 icon: "![[PlaceholderImage.png]]"
 Tematica: 
-Tipo: 
+Tipo: Tienda
 Prosperidad: Medio
 Defensas: 
 Ubicacion: 

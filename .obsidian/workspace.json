@@ -73,18 +73,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "793c2865a7eb96b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "z_Templates/Plantilla- Tienda o Servicio.md",
                 "mode": "preview",
                 "source": false
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -277,8 +265,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "793c2865a7eb96b1",
+  "active": "897a26f750bc4890",
   "lastOpenFiles": [
+    "0.Campañas/Personajes/Kiera/Kiera.md",
+    "z_Templates/Plantilla- Tienda o Servicio.md",
     "z_Templates/Plantilla - Sesión.md",
     "3.Lugares/Crestafria.md",
     "5.NPCs/Hansel.md",
@@ -295,8 +285,6 @@
     "z.Leaflet/plugins",
     "z.Leaflet",
     "Nueva carpeta",
-    "z_Templates/Plantilla- Tienda o Servicio.md",
-    "0.Campañas/Personajes/Kiera/Kiera.md",
     "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin/data.json",
     "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin",
     "z_Assets/Leaflet/plugins",
