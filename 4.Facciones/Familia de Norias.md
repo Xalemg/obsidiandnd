@@ -3,7 +3,7 @@ fileClass: Faccion
 tags:
   - Faccion
 aliases: 
-icon: "![[z_Assets/Misc/PlaceholderImage.png]]"
+icon: "![[Fortaleza de Norias.webp]]"
 Mundo: Aretries
 Influencia: Media
 Alineamiento: NB
