@@ -54,3 +54,4 @@ Reina
 Rey
 Obispo
 Obispo Superior
+Mago de la Torre de Crestafria

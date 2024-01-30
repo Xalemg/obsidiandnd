@@ -8,7 +8,7 @@ Sexo: Hombre
 Raza: Humano
 Facciones: "[[Corona de Altalos]]"
 Edad: 16
-Oficios: 
+Oficios: [Mago de la Torre de Crestafria]
 Ideal: 
 Vinculo: 
 Defecto: 
