@@ -59,7 +59,7 @@ WHERE contains(En_curso, "si") and contains(Campaña, this.Campaña)
 - [ ] Al poco tiempo un mago llamado [[Hansel]] se presentan en [[Kalithir]] y les dice que [[Anvil Carrillo]] les espera. Les llevara a [[Puerto Kalabor]] donde os presentaran frente a la asamblea de [[La Mancomunidad del Viento]] donde os preguntan que sabeis sobre la desaparición del sol de [[Amaunator]] y sobre vuestras peripecias en [[Ust Natha]].
 - [ ] Viaje a [[Puerto Kalabor]] para comparecer frente al consejo [[La Mancomunidad del Viento]] y todos los dirigentes de las naciones que las componen. Os cuestionaran sobe lo sucedido en [[Ust Natha]] y sobre el sol desaparecido.
 - [ ] [[Hansel]] te presentara ante [[Anvil Carrillo]] y te dira que una dragona debe hablar contigo y es importante que te lleve a [[Crestafria]]
-## 
+## Comienzo en [[Crestafria]]
 
 # ⚔️ Encuentros
 *Un encuentro puede ser mortal si la suma total de los valores de desafío de los monstruos es superior a la mitad de la suma total de los niveles de los personajes o a un cuarto de os niveles de los personajes si estos son de 4º nivel o inferior.*
