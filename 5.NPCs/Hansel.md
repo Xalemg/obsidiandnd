@@ -17,12 +17,14 @@ Ideal: La magia puede solucionar cualquier problema si se conoce hasta lo mas pr
 Vinculo: Apasionado por la magía
 Defecto: Socialmente incompetente
 Interpretacion: Siempre va leyendo
-Rango: [Aprendiz de mago]
+Rango:
+  - Aprendiz de mago
 Mundo:
   - Aretries
 fileClass: NPC
 tags:
   - NPC
+  - Relevante
 ---
 
 
@@ -56,7 +58,7 @@ Joven torpe mago aprendiz de [[Anvil Carrillo]]
 
 # 🎯Objetivos
 
-Convertirse en el siguiente rector de la [[Torre de Crestrafria]]
+Convertirse en el siguiente rector de la [[Torre de Crestafria]]
 
 # 📜 Historia
 

@@ -18,8 +18,8 @@ Campaña:
 >"**P.Pasiva: "+P_per+"**",
 >"**AC: "+ac+"**",
 >"**Max HP: "+hp+"**"
->FROM #personaje
->WHERE contains(En_curso, "si") AND contains(Campaña,this.Campaña)
+>FROM #personaje 
+>WHERE contains(En_curso, "si") and contains(Campañas, string(this.Campaña))
 >```
 
 

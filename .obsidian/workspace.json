@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
-                "mode": "source",
+                "file": "5.NPCs/Hansel.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
+                "file": "5.NPCs/Hansel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
+                "file": "5.NPCs/Hansel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md"
+                "file": "5.NPCs/Hansel.md"
               }
             }
           },
@@ -254,14 +254,14 @@
   },
   "active": "0410353e7b640b2e",
   "lastOpenFiles": [
-    "z_Templates/Plantilla - Sesión.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
+    "z_Templates/Plantilla - Sesión.md",
+    "4.Facciones/Familia de Norias.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
     "4.Facciones/Corona de Altalos.md",
     "0.Campañas/0.Campañas.md",
     "5.NPCs/Hansel.md",
     "2024-01-25.md",
-    "4.Facciones/Familia de Norias.md",
     "0.Campañas/Personajes/Personajes.md",
     "⭐Hub.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
