@@ -13,7 +13,7 @@ date updated: 2021-12-10 01:55
 Competencias: Atletismo, Perspicacia,  Intimidación,  Percepcion
 tipo: Jugador
 En_curso: si
-Campaña:
+Campañas:
   - El legado de plata
   - Chumipower
 icon: "![[chain kiera.png]]"
