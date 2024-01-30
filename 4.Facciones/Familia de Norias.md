@@ -5,9 +5,9 @@ tags:
 aliases: 
 icon: "![[z_Assets/Misc/PlaceholderImage.png]]"
 Mundo: Aretries
-Influencia: 
-Alineamiento: 
-Tipo: 
+Influencia: Media
+Alineamiento: NB
+Tipo: Familia Nobiliaria
 Rangos: 
 Lider: 
 Ubicacion: 
