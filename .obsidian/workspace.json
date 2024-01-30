@@ -167,6 +167,20 @@
           }
         ],
         "currentTab": 6
+      },
+      {
+        "id": "a32b71bf92c6281e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe0c8556d63d8445",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
