@@ -161,7 +161,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706611377619,
+      "lastAccessed": 1706611681881,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -205,6 +205,22 @@
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
           "mutable": true,
           "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9eb8a580af9",
+          "type": "Torre de magia",
+          "loc": [
+            94.296875,
+            316
+          ],
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -327,6 +343,22 @@
       "tags": [
         "Tienda"
       ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Torre de magia",
+      "iconName": "broadcast-tower",
+      "color": "#e900fa",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
       "minZoom": null,
       "maxZoom": null
     }

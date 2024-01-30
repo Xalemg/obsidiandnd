@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "7568de471025ead2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Lugares/Crestafria.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c536136645f033fe",
             "type": "leaf",
             "state": {
@@ -62,18 +50,6 @@
               "type": "markdown",
               "state": {
                 "file": "5.NPCs/Hansel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4be0c89b71afff6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9.Puntos de interes/Torre de Crestafria.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,17 +90,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5a9e8541515a6bd4",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Tienda o servicio",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -190,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Torre de Crestafria.md",
+                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Torre de Crestafria.md",
+                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Torre de Crestafria.md"
+                "file": "z_Templates/Plantilla- Tienda o Servicio.md"
               }
             }
           },
@@ -309,18 +277,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4be0c89b71afff6e",
+  "active": "793c2865a7eb96b1",
   "lastOpenFiles": [
-    "0.Campañas/0.Campañas.md",
-    "9.Puntos de interes/Torre de Crestafria.md",
-    "5.NPCs/Hansel.md",
+    "z_Templates/Plantilla - Sesión.md",
     "3.Lugares/Crestafria.md",
+    "5.NPCs/Hansel.md",
+    "9.Puntos de interes/Torre de Crestafria.md",
+    "0.Campañas/0.Campañas.md",
     "4.Facciones/Corona de Altalos.md",
     "z_Assets/NPCs/Hansel.jpg",
     "z_Assets/NPCs/Hansel.jpg.crdownload",
     "Hansel.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
-    "z_Templates/Plantilla - Sesión.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "z.Leaflet/plugins/obsidian-leaflet-plugin/data.json",
     "z.Leaflet/plugins/obsidian-leaflet-plugin",
