@@ -163,7 +163,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706632196854,
+      "lastAccessed": 1706632245784,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -360,7 +360,7 @@
     },
     {
       "type": "Tienda/Servicio",
-      "iconName": "shopping-cart",
+      "iconName": "store",
       "color": "#107f17",
       "alpha": 1,
       "layer": false,
