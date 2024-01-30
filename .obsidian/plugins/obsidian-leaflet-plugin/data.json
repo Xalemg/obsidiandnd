@@ -163,7 +163,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706631355084,
+      "lastAccessed": 1706631421288,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -364,23 +364,6 @@
         "y": -2
       },
       "isImage": false,
-      "tags": [],
-      "minZoom": null,
-      "maxZoom": null
-    },
-    {
-      "type": "Castillo",
-      "iconName": "map-marker",
-      "color": "#dddddd",
-      "alpha": 1,
-      "layer": true,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": true,
-      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAACaCAYAAADVVXR8AAAAAXNSR0IArs4c6QAAA8pJREFUeF7t2eGN00AUReGhE6gEqASoBKgEqAQ6gU5AT8pIT4PXe7M5ay/LyR+E/HKd+XITO7Mvhg9M4AWWZNAQEyyBmGKCAmCUzRQTFACjbKaYoAAYZTPFBAXAKLqZ78cYXy6v79cY4/MY4+vl/2/GGN/bsW9jjE9tLT/HGC/b8VftWM19bMc+jDF+hLkg134UjdlB6sy14LeXl1DIhT0fhT3BOvQ8Xs+bYL+XZdQbVKD1qDeonr+VexhknehMzH7+3mgxLwJrM6t99XGux/yY9rbU10DNvFvaNVtdz329NLqOza+Q+lpYc3vjn1UzD13M5WRigurPBnO9GIBGcVS/OMVPIgbpC1B9h9X35pmPfhdw6OugMevFb12Zj1rUaZCPcWs00fpN9lGQp3285wIfo5mVfcbHvX4A1MXntIeYIL2YYm4K+DEHiyFmw6yLR99Wm9txqbeYF6m+VTfvBup+dWtz5C7cJ4HZ9xmrHXXjO28x1hvw2uWZG7rVnPr5OBvU7/OuvTXauhBWRr22vle519KO2X/W1htVe593ramOzQ3sdU19vfd+QmoR68ZrD1h/a/cGbd2YzwVdg7l3s33Nzf/euTvYuk3Yz791vviO51rMviNDYe69+0djrn8NuOpX4hbm3HitoPn3nF7xvQ3dhzTzCMy9Nc0N7Pp3a703NfPe74adgaeKecuaxLxFb3mumGL+LUBdgG6x/aeaectC+3Mf8n2dnFvMRCmcETOESsbETJTCGTFDqGRMzEQpnBEzhErGxEyUwhkxQ6hkTMxEKZwRM4RKxsRMlMIZMUOoZEzMRCmcETOESsbETJTCGTFDqGRMzEQpnBEzhErGxEyUwhkxQ6hkTMxEKZwRM4RKxsRMlMIZMUOoZOwqzCTQmUAgVg+y/vsRMcEKiCkmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYNQf0GMhqkDMkz8AAAAASUVORK5CYII=",
       "tags": [],
       "minZoom": null,
       "maxZoom": null
