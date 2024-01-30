@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
+                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
+                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
+                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md"
+                "file": "0.Campañas/Personajes/Kiera/Kiera.md"
               }
             }
           },
@@ -278,7 +278,9 @@
   },
   "active": "c536136645f033fe",
   "lastOpenFiles": [
+    "0.Campañas/Personajes/Personajes.md",
     "4.Facciones/Familia de Norias.md",
+    "10. Sesiones/El legado de plata (Sesión 0).md",
     "⭐Hub.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
@@ -289,7 +291,6 @@
     "4.Facciones/4.Facciones.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
     "5.NPCs/Hansel.md",
-    "10. Sesiones/El legado de plata (Sesión 0).md",
     "3.Lugares/Crestafria.md",
     "0.Campañas/0.Campañas.md",
     "z_Templates/Plantilla - Sesión.md",
@@ -307,7 +308,6 @@
     "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin/data.json",
     "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin",
     "z_Assets/Leaflet/plugins",
-    "0.Campañas/Personajes/Personajes.md",
     "5.NPCs/5.NPCs.md",
     "conflict-files-obsidian-git.md",
     "z_Classes/Classes/Tienda o servicio.md",
