@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Crestafria.md"
+                "file": "10. Sesiones/El legado de plata (Sesión 0).md"
               }
             }
           },
@@ -273,15 +273,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7568de471025ead2",
+  "active": "c536136645f033fe",
   "lastOpenFiles": [
+    "z_Templates/Plantilla - Sesión.md",
+    "3.Lugares/Crestafria.md",
+    "9.Puntos de interes/Catedral del Martillo.md",
     "z.Leaflet/plugins/obsidian-leaflet-plugin/data.json",
     "z.Leaflet/plugins/obsidian-leaflet-plugin",
     "z.Leaflet/plugins",
     "z.Leaflet",
     "Nueva carpeta",
-    "z_Templates/Plantilla - Sesión.md",
-    "3.Lugares/Crestafria.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
@@ -290,14 +291,12 @@
     "z_Assets/Leaflet/plugins",
     "z_Assets/Leaflet/leaflet_marker_data (1).csv",
     "z_Assets/plugins/obsidian-leaflet-plugin/data.json",
-    "z_Assets//plugins/obsidian-leaflet-plugin/data.json",
     "0.Campañas/Personajes/Personajes.md",
     "5.NPCs/5.NPCs.md",
     "⭐Hub.md",
     "conflict-files-obsidian-git.md",
     "z_Classes/Classes/Tienda o servicio.md",
     "7.Pantalla del Master/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
-    "9.Puntos de interes/Catedral del Martillo.md",
     "z_Classes/Classes/Sesion.md",
     "5.NPCs/Emir Sander.md",
     "4.Facciones/4.Facciones.md",
