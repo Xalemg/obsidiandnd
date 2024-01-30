@@ -163,7 +163,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706611872057,
+      "lastAccessed": 1706611877578,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -216,16 +216,16 @@
           "id": "ID_b9eb8a580af9",
           "type": "Torre de magia",
           "loc": [
-            90,
-            314.5
+            93.25,
+            312.75
           ],
           "link": "Torre de Crestafria",
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            6.949533833849037,
-            -2.651650429449553
+            6.910863931752897,
+            -2.7474044727352314
           ],
           "description": null,
           "minZoom": null,
