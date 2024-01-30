@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "12a062bed61b9f3d",
+            "id": "df74b43c8fcc6176",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.Puntos de interes/Fortaleza de Norias.md",
+                "file": "3.Lugares/Crestafria.md",
                 "mode": "preview",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Fortaleza de Norias.md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Fortaleza de Norias.md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Fortaleza de Norias.md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -253,11 +253,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "59369172aaba219c",
+  "active": "df74b43c8fcc6176",
   "lastOpenFiles": [
-    "3.Lugares/Crestafria.md",
     "⭐Hub.md",
     "4.Facciones/Familia de Norias.md",
+    "9.Puntos de interes/Fortaleza de Norias.md",
+    "3.Lugares/Crestafria.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
     "5.NPCs/Hansel.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
@@ -267,7 +268,6 @@
     "2024-01-25.md",
     "0.Campañas/Personajes/Personajes.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
-    "9.Puntos de interes/Fortaleza de Norias.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
     "3.Lugares/3.Lugares.md",
