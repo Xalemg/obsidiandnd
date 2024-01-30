@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "9.Puntos de interes/Los coros de la redención.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Faccion",
+                "query": "tag:#TBD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -267,9 +268,9 @@
   },
   "active": "dda7ce238b8dc12d",
   "lastOpenFiles": [
-    "0.Campañas/0.Campañas.md",
-    "9.Puntos de interes/Los coros de la redención.md",
     "3.Lugares/Crestafria.md",
+    "9.Puntos de interes/Los coros de la redención.md",
+    "0.Campañas/0.Campañas.md",
     "⭐Hub.md",
     "4.Facciones/Familia de Norias.md",
     "9.Puntos de interes/Fortaleza de Norias.md",

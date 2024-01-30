@@ -5,11 +5,14 @@ tags:
   - "#Lugar"
 aliases: 
 icon: "![[PlaceholderImage.png]]"
-Tematica: 
+Tematica:
+  - Descanso
+  - Religiosa
 Tipo: Posada
 Prosperidad: Medio
-Defensas: 
-Ubicacion: 
+Defensas:
+  - Paladines y clerigos de Tyr
+Ubicacion: "[[Crestafria]]"
 Mundo:
   - Aretries
 ---
@@ -27,7 +30,7 @@ Mundo:
 
 # 🔍 A simple vista
 
-#TBD
+Un paladin con lazos con la iglesia de [Tyr](app://obsidian.md/Tyr) regenta la taberna los clérigos cantan en tramontes todos los días dando 2d6+2 puntos de golpe temporales a los parroquia que escuchan
 
 # 📜 Historia
 

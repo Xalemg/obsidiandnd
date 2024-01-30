@@ -15,3 +15,4 @@ Reflexion
 Deber
 Magia
 Investigacion
+Descanso
