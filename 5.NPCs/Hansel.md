@@ -13,7 +13,7 @@ Edad:
   - Joven de veintipicos años
 Oficios:
   - Mago de la Torre de Crestafria
-Ideal: 
+Ideal: La magia puede solucionar cualquier problema si se conoce hasta lo mas profundo
 Vinculo: Apasionado por la magía
 Defecto: Socialmente incompetente
 Interpretacion: Siempre va leyendo
