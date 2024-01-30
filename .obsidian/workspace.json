@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
+                "file": "5.NPCs/Hansel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
+                "file": "5.NPCs/Hansel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md"
+                "file": "5.NPCs/Hansel.md"
               }
             }
           },
@@ -252,12 +253,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c536136645f033fe",
+  "active": "b6f5951ad8b01e0a",
   "lastOpenFiles": [
+    "10. Sesiones/El legado de plata (Sesión 0).md",
     "3.Lugares/Crestafria.md",
     "4.Facciones/Familia de Norias.md",
     "0.Campañas/0.Campañas.md",
-    "10. Sesiones/El legado de plata (Sesión 0).md",
     "5.NPCs/Hansel.md",
     "z_Templates/Plantilla - Sesión.md",
     "Hansel.md",
