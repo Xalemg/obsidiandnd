@@ -9,13 +9,14 @@ Sexo: Hombre
 Raza:
   - Humano
 Facciones: "[[Corona de Altalos]]"
-Edad: Joven de veintipicos años
+Edad:
+  - Joven de veintipicos años
 Oficios:
   - Mago de la Torre de Crestafria
 Ideal: 
-Vinculo: 
-Defecto: 
-Interpretacion: 
+Vinculo: Apasionado por la magía
+Defecto: Socialmente incompetente
+Interpretacion: Siempre va leyendo
 Rango: 
 Mundo:
   - Aretries
