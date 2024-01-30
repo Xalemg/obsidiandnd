@@ -32,16 +32,16 @@ Ubicacion: ["[[Isla de Altalos]]", "[[Fortaleza de Norias]]"]
 
 # 🔍 A simple vista
 
-La familia de Norias es una de las casas Nobles más influentes de Altalos. Generalmente se ha posicionado del lado de la [[Corona de Altalos]] y suelen tener confesion superiores al resto de los ducados.
+La familia de Norias es una de las casas Nobles más influentes de Altalos. Generalmente se ha posicionado del lado de la [[Corona de Altalos]] y suelen tener confesión superiores al resto de los ducados. 
 
 # 🎯Objetivos
 
-#TBD
+Incrementar su influencia en el reino.
 
 
 # 📜 Historia
 
-Historicamente, se ha considerado su apoyo como uno de los mas 
+Históricamente, se ha considerado su apoyo como uno de los mas importantes durante las guerras civiles del reino.
 
 # ✏️ Notas
 
@@ -52,4 +52,4 @@ Historicamente, se ha considerado su apoyo como uno de los mas
 table without ID file.name AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
 FROM #NPC
 WHERE  contains(Facciones, [[]])
-SORT file.nam
+SORT file.name ASC
