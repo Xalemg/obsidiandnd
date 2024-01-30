@@ -44,14 +44,6 @@
             }
           },
           {
-            "id": "1935735648cf0d33",
-            "type": "leaf",
-            "state": {
-              "type": "FileClassView__Faccion",
-              "state": {}
-            }
-          },
-          {
             "id": "793c2865a7eb96b1",
             "type": "leaf",
             "state": {
@@ -71,7 +63,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md"
+                "file": "⭐Hub.md"
               }
             }
           },
@@ -256,10 +249,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "bf8bad435294edc6",
+  "active": "c536136645f033fe",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
+    "conflict-files-obsidian-git.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
     "z_Classes/Classes/Tienda o servicio.md",
     "7.Pantalla del Master/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
