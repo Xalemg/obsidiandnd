@@ -1,13 +1,13 @@
 ---
 icon: "![[placeholderImage.png]]"
-Ubicacion: 
-Religiones: 
-Estado: 
-Alineamiento: 
-Sexo: 
-Raza: 
-Facciones: 
-Edad: 
+Ubicacion: "[[Crestafria]]"
+Religiones: "[[Mystra]]"
+Estado: Vivo
+Alineamiento: LB
+Sexo: Hombre
+Raza: Humano
+Facciones: "[[Corona de Altalos]]"
+Edad: 16
 Oficios: 
 Ideal: 
 Vinculo: 
