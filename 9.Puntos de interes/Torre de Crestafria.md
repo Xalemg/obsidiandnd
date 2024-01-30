@@ -5,11 +5,14 @@ tags:
   - "#Lugar"
 aliases: 
 icon: "![[CrestaFria.png]]"
-Tematica: [Investigacion, Magia]
-Tipo: 
+Tematica:
+  - Investigacion
+  - Magia
+Tipo: Torre de Magia
 Prosperidad: Medio
-Defensas: 
-Ubicacion: 
+Defensas:
+  - Gran cantidad de Magos
+Ubicacion: "[[Crestafria]]"
 Mundo:
   - Aretries
 ---
@@ -27,7 +30,7 @@ Mundo:
 
 # 🔍 A simple vista
 
-#TBD
+La torre es la segunda edificacion 
 
 # 📜 Historia
 
