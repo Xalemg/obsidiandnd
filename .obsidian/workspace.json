@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "2.Panteón/2.Panteón.md",
                 "mode": "preview",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "2.Panteón/2.Panteón.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "2.Panteón/2.Panteón.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⭐Hub.md"
+                "file": "2.Panteón/2.Panteón.md"
               }
             }
           },
@@ -279,8 +279,9 @@
   },
   "active": "15752b74ff074b3e",
   "lastOpenFiles": [
-    "0.Campañas/Personajes/Kiera/Kiera.md",
     "⭐Hub.md",
+    "4.Facciones/4.Facciones.md",
+    "0.Campañas/Personajes/Kiera/Kiera.md",
     "5.NPCs/Hansel.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
     "3.Lugares/Crestafria.md",
@@ -310,7 +311,6 @@
     "7.Pantalla del Master/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
     "z_Classes/Classes/Sesion.md",
     "5.NPCs/Emir Sander.md",
-    "4.Facciones/4.Facciones.md",
     "3.Lugares/3.Lugares.md",
     "10. Sesiones/Sesión 48 Chumipower( 2024-02-03).md",
     "10. Sesiones/10. Sesiones.md",
