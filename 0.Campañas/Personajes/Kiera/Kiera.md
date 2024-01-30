@@ -223,7 +223,7 @@ Samina. Humana. Hija de la Tita Asena, creció viendo a su madre afianzarse en l
 
   
 
-PERSONAJES - BARCO EL ESPEJO DE ARANDINE
+## PERSONAJES - BARCO EL ESPEJO DE ARANDINE
 
 Capitana Sereia. Tiefling. Reservada y calculadora, no suele ser la primera en hablar pero sí suele ser la que dice la última palabra. Pese a su seriedad su tripulación aprecia su mando ya que su mente fría les ha sacado de múltiples apuros en las aguas de las islas. Suele estar bajo cubierta examinando mapas y textos en un idioma extraño. Nadie sabe qué está buscando exactamente.
 
