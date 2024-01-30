@@ -30,7 +30,7 @@ Mundo:
 
 # 🔍 A simple vista
 
-La torre es la segunda edificación mas alta de la ciudad.
+La torre es la segunda edificación mas alta de la ciudad. Tiene el aspecto de una aguja negra retorcida. En realidad la torre fue construida con un fragmento de obsidiana del plano de fuego
 
 # 📜 Historia
 

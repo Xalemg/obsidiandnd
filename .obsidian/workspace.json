@@ -68,13 +68,13 @@
             }
           },
           {
-            "id": "897a26f750bc4890",
+            "id": "35e2fd78f05e17b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
-                "mode": "preview",
+                "file": "9.Puntos de interes/Torre de Crestafria.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
+                "file": "9.Puntos de interes/Torre de Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla- Tienda o Servicio.md",
+                "file": "9.Puntos de interes/Torre de Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla- Tienda o Servicio.md"
+                "file": "9.Puntos de interes/Torre de Crestafria.md"
               }
             }
           },
@@ -265,16 +265,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "897a26f750bc4890",
+  "active": "35e2fd78f05e17b6",
   "lastOpenFiles": [
-    "0.Campañas/Personajes/Kiera/Kiera.md",
+    "⭐Hub.md",
+    "4.Facciones/Corona de Altalos.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
+    "0.Campañas/Personajes/Kiera/Kiera.md",
     "z_Templates/Plantilla - Sesión.md",
     "3.Lugares/Crestafria.md",
     "5.NPCs/Hansel.md",
     "9.Puntos de interes/Torre de Crestafria.md",
     "0.Campañas/0.Campañas.md",
-    "4.Facciones/Corona de Altalos.md",
     "z_Assets/NPCs/Hansel.jpg",
     "z_Assets/NPCs/Hansel.jpg.crdownload",
     "Hansel.md",
@@ -291,7 +292,6 @@
     "z_Assets/Leaflet/leaflet_marker_data (1).csv",
     "0.Campañas/Personajes/Personajes.md",
     "5.NPCs/5.NPCs.md",
-    "⭐Hub.md",
     "conflict-files-obsidian-git.md",
     "z_Classes/Classes/Tienda o servicio.md",
     "7.Pantalla del Master/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
