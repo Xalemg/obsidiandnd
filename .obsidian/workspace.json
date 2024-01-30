@@ -26,8 +26,8 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/Plantilla - Sesión.md",
-                "mode": "source",
-                "source": true
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla - Sesión.md"
+                "file": "10. Sesiones/El legado de plata (Sesión 0).md"
               }
             }
           },
@@ -249,9 +249,12 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "cccf8e2ce30c08eb",
+  "active": "c536136645f033fe",
   "lastOpenFiles": [
+    "z_Templates/Plantilla - Sesión.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
+    "0.Campañas/Personajes/Personajes.md",
+    "5.NPCs/5.NPCs.md",
     "⭐Hub.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
     "conflict-files-obsidian-git.md",
@@ -260,7 +263,6 @@
     "7.Pantalla del Master/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "3.Lugares/Crestafria.md",
-    "z_Templates/Plantilla - Sesión.md",
     "z_Classes/Classes/Sesion.md",
     "5.NPCs/Emir Sander.md",
     "4.Facciones/4.Facciones.md",
@@ -270,7 +272,6 @@
     "9.Puntos de interes/9.Puntos de interes.md",
     "8.Notas varias/8.Notas varias.md",
     "7.Pantalla del Master/7.Pantalla del Master.md",
-    "5.NPCs/5.NPCs.md",
     "z_Assets/NPCs/Emir Snader.webp",
     "z_Assets/NPCs/Emir Snader.webp.crdownload",
     "4.Facciones/La Mancomunidad del Viento.md",
@@ -278,7 +279,6 @@
     "5.NPCs/Julio Altalos.md",
     "z_Assets/NPCs/Julio Altalos.jpg",
     "z_Assets/Arte/CCz9NtN6rH5myhhj_MajMIH-391lJTl2DpmthCXVrAY.webp",
-    "0.Campañas/Personajes/Personajes.md",
     "4.Facciones/La escama plateada.md",
     "5.NPCs/Lisa.md",
     "z_Assets/Jugadores/Chain Cerenia.png",

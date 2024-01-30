@@ -1,17 +1,13 @@
 ---
 banner: "![[lazy_dm_workbook_banner.jpg]]"
----
----
-banner: "![[lazy_dm_workbook_banner.jpg]]"
----
----
-banner: "![[lazy_dm_workbook_banner.jpg]]"
-banner_y: 0.36
+
+banner_y: 0.296
 fileClass: Sesion
-Mundo: 
+Mundo: [Aretries]
 cssclasses:
   - card-images
   - t-w
+numero: 
 ---
 # [[Personajes]]
 >[!cards| dataview 7]
