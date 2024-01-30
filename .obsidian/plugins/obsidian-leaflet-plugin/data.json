@@ -163,7 +163,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706632245784,
+      "lastAccessed": 1706632362634,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -394,7 +394,7 @@
     },
     {
       "type": "Castillo",
-      "iconName": "archway",
+      "iconName": "chess-rook",
       "color": "#b5a81c",
       "alpha": 1,
       "layer": false,
