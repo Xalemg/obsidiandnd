@@ -177,7 +177,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706609139657,
+      "lastAccessed": 1706609184843,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -368,7 +368,7 @@
   "copyOnClick": false,
   "displayMarkerTooltips": "hover",
   "displayOverlayTooltips": true,
-  "configDirectory": "z_Assets/",
+  "configDirectory": "z_Assets/Leaflet",
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": false,

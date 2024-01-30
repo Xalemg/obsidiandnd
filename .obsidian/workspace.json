@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "7568de471025ead2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Lugares/Crestafria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c536136645f033fe",
             "type": "leaf",
             "state": {
@@ -39,18 +51,6 @@
               "state": {
                 "file": "10. Sesiones/El legado de plata (Sesión 0).md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "931d2be73b9ac4a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Lugares/Crestafria.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -269,12 +269,20 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
-      "calendarium:Open Calendarium": false,
-      "open-vscode:VSCode": false
+      "open-vscode:VSCode": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "931d2be73b9ac4a8",
+  "active": "7568de471025ead2",
   "lastOpenFiles": [
+    "z_Templates/Plantilla - Sesión.md",
+    "3.Lugares/Crestafria.md",
+    "z_Templates/Plantilla- Tienda o Servicio.md",
+    "0.Campañas/Personajes/Kiera/Kiera.md",
+    "10. Sesiones/El legado de plata (Sesión 0).md",
+    "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin/data.json",
+    "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin",
+    "z_Assets/Leaflet/plugins",
     "z_Assets/Leaflet/leaflet_marker_data (1).csv",
     "z_Assets/plugins/obsidian-leaflet-plugin/data.json",
     "z_Assets//plugins/obsidian-leaflet-plugin/data.json",
@@ -282,15 +290,6 @@
     "z_Assets//plugins",
     "z_Assets/plugins/obsidian-leaflet-plugin",
     "z_Assets/plugins",
-    "z_Assets/",
-    "z_Assets/Leaflet/leaflet_marker_data.csv",
-    "z_Assets/Leaflet",
-    "z_Assets/Nueva carpeta",
-    "10. Sesiones/El legado de plata (Sesión 0).md",
-    "3.Lugares/Crestafria.md",
-    "0.Campañas/Personajes/Kiera/Kiera.md",
-    "z_Templates/Plantilla - Sesión.md",
-    "z_Templates/Plantilla- Tienda o Servicio.md",
     "0.Campañas/Personajes/Personajes.md",
     "5.NPCs/5.NPCs.md",
     "⭐Hub.md",
