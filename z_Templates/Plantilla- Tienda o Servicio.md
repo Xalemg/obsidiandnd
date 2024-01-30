@@ -22,7 +22,7 @@ cssclasses:
 > ###### Información basica
 >  |
 > ---|---|
->  **Ubicación** | `VIEW[{Ubicacion}][link]` |
+>  **Ubicación** | `=this.Ubicacion` |
 > **Alias** |`=this.aliases` |
 > **Tipo** | `=this.Tipo` |
 > **Temática** | `=this.Tematica` |
