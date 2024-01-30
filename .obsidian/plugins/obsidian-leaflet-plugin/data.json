@@ -161,9 +161,10 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706609184843,
+      "lastAccessed": 1706609355821,
       "markers": [
         {
+          "id": "ID_6828388b282a",
           "type": "Templo",
           "loc": [
             145.703125,
@@ -171,15 +172,15 @@
           ],
           "link": "Catedral del Martillo",
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "id": "ID_6828388b282a",
+          "mutable": true,
           "command": false,
           "description": null,
-          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
+          "id": "ID_bb19ab3868e8",
           "type": "Taberna",
           "loc": [
             150.5,
@@ -187,25 +188,24 @@
           ],
           "link": "Crestafria#Taberna los coros de la redención",
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "id": "ID_bb19ab3868e8",
+          "mutable": true,
           "command": false,
           "description": null,
-          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
+          "id": "ID_99c94a1a9959",
           "type": "Tienda/Servicio",
           "loc": [
             148.9122687005045,
             111.72287142747452
           ],
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "id": "ID_99c94a1a9959",
+          "mutable": true,
           "command": false,
           "description": null,
-          "mutable": true,
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
