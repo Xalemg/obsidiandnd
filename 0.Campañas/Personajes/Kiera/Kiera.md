@@ -189,7 +189,8 @@ Se establecieron cerca de la costa por la que pasa la ruta Shamal principal, don
 
   
 
-PERSONAJES - GATH IGEO
+
+## PERSONAJES - GATH IGEO
 
 Tita Tak-Har. Elfa. Enérgica y divertida. Como líder espiritual de Gath Igeo le ha costado hacerse entender, puesto que es una bromista nata y en ocasiones los asuntos a tratar son demasiado serios como para que casen con su personalidad. Principal cuidadora de Kiera, por lo que mantener su imparcialidad una vez se manifestó Bahamut y dio vida le resultó difícil. Sus tatuajes son plateados en vez de dorados para representar su proximidad a Bahamut.
 
