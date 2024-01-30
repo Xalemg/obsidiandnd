@@ -10,7 +10,7 @@ Alineamiento: NB
 Tipo: Familia Nobiliaria
 Rangos: [Cabeza de familia, Hija menor, Padre, Familiar lejano]
 Lider: 
-Ubicacion: ["[[Isla de Altalos]]"]
+Ubicacion: ["[[Isla de Altalos]]", "[[Fortaleza de Norias]]"]
 ---
 
 
