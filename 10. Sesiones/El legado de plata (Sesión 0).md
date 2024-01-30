@@ -57,7 +57,7 @@ WHERE contains(En_curso, "si") and contains(Campaña, this.Campaña)
 - [ ] [[Elentari]] se desmaya, necesita días para recuperarse.
 - [ ] [[Anvil Carrillo]] os contacta, esta interesado en saber como estáis y que ha pasado
 - [ ] Al poco tiempo un mago se presentan en [[Kalithir]] y les dice que [[Anvil Carrillo]] les espera. Les llevara a [[Puerto Kalabor]] donde os presentaran frente a la asamblea de [[La Mancomunidad del Viento]] donde os preguntan que sabeis sobre la desaparición del sol de [[Amaunator]] y sobre vuestras peripecias en [[Ust Natha]].
-- [ ] 
+- [ ] Viaje a [[Puerto Kalabor]] para comparecer frente al consejo [[La Mancomunidad del Viento]] y todos los dirigentes de las naciones que las componen. Es obvio 
 
 
 # ⚔️ Encuentros
