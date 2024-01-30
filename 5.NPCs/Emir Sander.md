@@ -1,7 +1,7 @@
 ---
 tags:
   - NPC
-icon: "![[z_Assets/Misc/PlaceholderImage.png]]"
+icon: "![[Emir Snader.webp]]"
 Ideal: ""
 fileClass: NPC
 Raza:

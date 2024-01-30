@@ -3,12 +3,17 @@ fileClass: Punto de interes
 tags:
   - PuntoDeInteres
   - "#Lugar"
-aliases: 
+aliases:
+  - El Gran Martillo
 icon: "![[Catedral de Tyr.png]]"
-Tematica: [Religiosa, Reflexion, Deber]
+Tematica:
+  - Religiosa
+  - Reflexion
+  - Deber
 Tipo: Templo
 Prosperidad: Medio
-Defensas: Paladines y clerigos de Tyr
+Defensas:
+  - Paladines y clerigos de Tyr
 Ubicacion: "[[Crestafria]]"
 Mundo:
   - Aretries

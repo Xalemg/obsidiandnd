@@ -7,10 +7,11 @@ Numero: "0"
 fileClass: Sesion
 Mundo:
   - Aretries
-Campañas: El legado de plata
+Campaña: El legado de plata
 cssclasses:
   - card-images
   - t-w
+numero: 1
 ---
 # [[Personajes]]
 >[!cards| dataview 7]

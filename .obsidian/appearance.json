@@ -8,5 +8,6 @@
     "BetterLeafletIcons",
     "SlimHorizontalLine"
   ],
-  "showViewHeader": true
+  "showViewHeader": true,
+  "baseFontSize": 18
 }

@@ -1,15 +1,7 @@
 ---
 banner: "![[lazy_dm_workbook_banner.jpg]]"
-Tipo: Sesion
-tags:
-  - Sesion
-Campaña: 
-fecha: ""
-Numero: <% sesionNumber %>
-banner: "![[lazy_dm_workbook_banner.jpg]]"
 banner_y: 0.36
 fileClass: Sesion
-NPCs Relevantres: 
 Mundo: 
 cssclasses:
   - card-images
@@ -26,8 +18,6 @@ cssclasses:
 >FROM #personaje
 >WHERE contains(En_curso, "si") AND contains(Campaña,this.Campaña)
 >```
-
-
 
 
 >[!dataview  | right clean no-t nmg ]
