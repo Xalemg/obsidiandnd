@@ -30,7 +30,7 @@ Mundo:
 
 # 🔍 A simple vista
 
-Un paladin con lazos con la iglesia de [Tyr](app://obsidian.md/Tyr) regenta la taberna los clérigos cantan en tramontes todos los días dando 2d6+2 puntos de golpe temporales a los parroquia que escuchan
+Un paladin con lazos con la iglesia de [[Tyr]] regenta la taberna los clérigos cantan en tramontes todos los días dando 2d6+2 puntos de golpe temporales a los parroquia que escuchan.
 
 # 📜 Historia
 
