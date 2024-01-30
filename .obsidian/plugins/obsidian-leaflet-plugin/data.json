@@ -163,7 +163,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706631946996,
+      "lastAccessed": 1706631990187,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -226,6 +226,26 @@
           "percent": [
             6.910863931752897,
             -2.7474044727352314
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88fb882a4b99",
+          "type": "Castillo",
+          "loc": [
+            57.5,
+            203
+          ],
+          "link": "Fortaleza de Norias",
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            4.485708643152161,
+            -1.69410999659277
           ],
           "description": null,
           "minZoom": null,
@@ -370,17 +390,16 @@
     },
     {
       "type": "Castillo",
-      "iconName": "map-marker",
-      "color": "#dddddd",
+      "iconName": "archway",
+      "color": "#b5a81c",
       "alpha": 1,
-      "layer": true,
+      "layer": false,
       "transform": {
         "size": 6,
         "x": 0,
         "y": -2
       },
-      "isImage": true,
-      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAACaCAYAAADVVXR8AAAAAXNSR0IArs4c6QAAA2tJREFUeF7t2O2NklEUAOGzlaiVqJWolaiVqJWolaiVaE4CkRBghsQ/hrl/FnYnwD689wOepvHPBJ5m5tPMfJmZnzPzfmY+zsyrmXk+Mx8uPNP+bttvJ/22b2bm3T97Zf/hAy3m7wPgvvzFfH34uff39vn4esD8fngjFvDlzLydmX28hx1HzEsAe+Vdw9wr99J4eMydotfGTufzcW//MFfqcc289A//urFmPrsi1Jp5BaZpfuecas28E+xWfoq5V+JO092tj+virTVz/7Yb1B6tjhvSw29AezTacZzWx/vmPXsR5l+m82n++XBeNJDbnPddmVZOdGEKJJuEKaR2Pd1N6daBfR8mzBuY+6XH6Zcde3s/v18bYd6Jc2u3D/MK5p4j9+hzPn7cmO4Pj7mH7kujz+ZiMzlNHvpKutMK8zCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPLBH4DSOZtYRgCLAAAAAElFTkSuQmCC",
+      "isImage": false,
       "tags": [],
       "minZoom": null,
       "maxZoom": null
