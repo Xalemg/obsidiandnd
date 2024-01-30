@@ -56,9 +56,9 @@ WHERE contains(En_curso, "si") and contains(Campaña, this.Campaña)
 - [ ] Lo ocurrido al final de la ultima aventura
 - [ ] [[Elentari]] se desmaya, necesita días para recuperarse.
 - [ ] [[Anvil Carrillo]] os contacta, esta interesado en saber como estáis y que ha pasado
-- [ ] Al poco tiempo un mago llamado Hanselse presentan en [[Kalithir]] y les dice que [[Anvil Carrillo]] les espera. Les llevara a [[Puerto Kalabor]] donde os presentaran frente a la asamblea de [[La Mancomunidad del Viento]] donde os preguntan que sabeis sobre la desaparición del sol de [[Amaunator]] y sobre vuestras peripecias en [[Ust Natha]].
+- [ ] Al poco tiempo un mago llamado [[Hansel]] se presentan en [[Kalithir]] y les dice que [[Anvil Carrillo]] les espera. Les llevara a [[Puerto Kalabor]] donde os presentaran frente a la asamblea de [[La Mancomunidad del Viento]] donde os preguntan que sabeis sobre la desaparición del sol de [[Amaunator]] y sobre vuestras peripecias en [[Ust Natha]].
 - [ ] Viaje a [[Puerto Kalabor]] para comparecer frente al consejo [[La Mancomunidad del Viento]] y todos los dirigentes de las naciones que las componen. Os cuestionaran sobe lo sucedido en [[Ust Natha]] y sobre el sol desaparecido.
-- [ ] 
+- [ ] [[Hansel]] te presentara ante [[Anvil Carrillo]] y te dira que una dragona plateada quiere conocerte
 
 
 # ⚔️ Encuentros
