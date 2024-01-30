@@ -163,7 +163,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706631990187,
+      "lastAccessed": 1706632196854,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -201,12 +201,16 @@
           "id": "ID_99c94a1a9959",
           "type": "Tienda/Servicio",
           "loc": [
-            148.9122687005045,
-            111.72287142747452
+            147.5,
+            111.5
           ],
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
           "mutable": true,
           "command": false,
+          "percent": [
+            2.4638251906968764,
+            -4.345760426042323
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
