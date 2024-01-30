@@ -62,7 +62,19 @@
               "type": "markdown",
               "state": {
                 "file": "5.NPCs/Hansel.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5de4987da60b4e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.Facciones/Corona de Altalos.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -287,11 +299,12 @@
   },
   "active": "b6f5951ad8b01e0a",
   "lastOpenFiles": [
+    "4.Facciones/Corona de Altalos.md",
+    "5.NPCs/Hansel.md",
     "z_Assets/NPCs/Hansel.jpg",
     "z_Assets/NPCs/Hansel.jpg.crdownload",
     "0.Campañas/0.Campañas.md",
     "Hansel.md",
-    "5.NPCs/Hansel.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
     "z_Templates/Plantilla - Sesión.md",
     "3.Lugares/Crestafria.md",
@@ -331,7 +344,6 @@
     "z_Assets/NPCs/Anvil Carrillo.jpg",
     "z_Assets/NPCs/Obispa Anais.png",
     "z_Assets/Obispa Anais.png",
-    "5.NPCs/Lisa.jpg",
-    "z_Assets/Arte/Emir Snader.png"
+    "5.NPCs/Lisa.jpg"
   ]
 }
