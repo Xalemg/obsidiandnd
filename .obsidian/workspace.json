@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf8bad435294edc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cccf8e2ce30c08eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/Plantilla - Sesión.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c536136645f033fe",
             "type": "leaf",
             "state": {
@@ -39,6 +15,18 @@
               "state": {
                 "file": "10. Sesiones/El legado de plata (Sesión 0).md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0410353e7b640b2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.Facciones/Familia de Norias.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
+                "file": "4.Facciones/Familia de Norias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md",
+                "file": "4.Facciones/Familia de Norias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 0).md"
+                "file": "4.Facciones/Familia de Norias.md"
               }
             }
           },
@@ -265,10 +253,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c536136645f033fe",
+  "active": "0410353e7b640b2e",
   "lastOpenFiles": [
-    "5.NPCs/Hansel.md",
+    "0.Campañas/0.Campañas.md",
+    "4.Facciones/Familia de Norias.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
+    "5.NPCs/Hansel.md",
     "z_Templates/Plantilla - Sesión.md",
     "Hansel.md",
     "3.Lugares/Crestafria.md",
@@ -277,7 +267,6 @@
     "4.Facciones/Corona de Altalos.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
-    "0.Campañas/0.Campañas.md",
     "z_Assets/NPCs/Hansel.jpg",
     "z_Assets/NPCs/Hansel.jpg.crdownload",
     "9.Puntos de interes/Catedral del Martillo.md",
@@ -303,7 +292,6 @@
     "10. Sesiones/10. Sesiones.md",
     "9.Puntos de interes/9.Puntos de interes.md",
     "8.Notas varias/8.Notas varias.md",
-    "7.Pantalla del Master/7.Pantalla del Master.md",
     "z_Assets/NPCs/Emir Snader.webp",
     "z_Assets/NPCs/Julio Altalos.jpg",
     "z_Assets/Arte/CCz9NtN6rH5myhhj_MajMIH-391lJTl2DpmthCXVrAY.webp",
