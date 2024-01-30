@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "dac234da1663cbb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.Puntos de interes/Emporium Imperium.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dda7ce238b8dc12d",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "9.Puntos de interes/Emporium Imperium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "9.Puntos de interes/Emporium Imperium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Campañas/0.Campañas.md"
+                "file": "9.Puntos de interes/Emporium Imperium.md"
               }
             }
           },
@@ -265,11 +277,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f5f23bb565a59332",
+  "active": "dac234da1663cbb3",
   "lastOpenFiles": [
+    "0.Campañas/0.Campañas.md",
+    "9.Puntos de interes/Emporium Imperium.md",
     "3.Lugares/Crestafria.md",
     "9.Puntos de interes/Los coros de la redención.md",
-    "0.Campañas/0.Campañas.md",
     "⭐Hub.md",
     "4.Facciones/Familia de Norias.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
@@ -304,7 +317,6 @@
     "z_Classes/Classes/Tienda o servicio.md",
     "7.Pantalla del Master/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
     "z_Classes/Classes/Sesion.md",
-    "5.NPCs/Emir Sander.md",
     "z_Assets/NPCs/Emir Snader.webp",
     "z_Assets/NPCs/Julio Altalos.jpg",
     "z_Assets/Arte/CCz9NtN6rH5myhhj_MajMIH-391lJTl2DpmthCXVrAY.webp",

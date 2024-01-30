@@ -244,7 +244,7 @@
       "templatePath": "z_Templates/Plantilla- Tienda o Servicio.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{VALUE:}}"
+        "format": "{{VALUE}}"
       },
       "folder": {
         "enabled": true,
