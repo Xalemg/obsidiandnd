@@ -3,15 +3,15 @@ Tipo: Sesion
 tags:
   - Sesion
 fecha: 2024-01-25
-Numero: "0"
+Numero: 1
 fileClass: Sesion
 Mundo:
   - Aretries
-Campaña: El legado de plata
+Campaña:
+  - El legado de plata
 cssclasses:
   - card-images
   - t-w
-numero: 1
 ---
 # [[Personajes]]
 >[!cards| dataview 7]

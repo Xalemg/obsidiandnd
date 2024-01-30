@@ -1,6 +1,6 @@
 ---
 fields:
-  - name: numero
+  - name: Numero
     type: Number
     options:
       step: 1
@@ -18,7 +18,7 @@ fields:
       valuesFromDVQuery: ""
     path: ""
     id: NWY7p0
-version: "2.5"
+version: "2.6"
 limit: 20
 mapWithTag: true
 icon: scroll
