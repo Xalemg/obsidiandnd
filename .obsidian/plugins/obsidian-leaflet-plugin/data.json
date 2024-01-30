@@ -1,93 +1,9 @@
 {
   "mapMarkers": [
     {
-      "id": "TBD",
-      "locked": true,
-      "lastAccessed": 1705915880433,
-      "markers": [],
-      "overlays": [],
-      "shapes": [
-        {
-          "type": "polyline",
-          "color": "#3388FF",
-          "vertices": [
-            {
-              "lat": 132.7012933146301,
-              "lng": 195.38244247660793,
-              "id": "ID_da88798b2baa",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 128.45865262751082,
-              "lng": 202.98384037436333,
-              "id": "ID_b97ac8596828",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 123.33212846390835,
-              "lng": 210.58523827211872,
-              "id": "ID_1a2b48ab09fb",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 125.27667211217135,
-              "lng": 218.716966255764,
-              "id": "ID_68c9fb69e9f9",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 132.8125,
-              "lng": 211.75,
-              "id": "ID_b9d8c9687b8a",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 136.9439340017494,
-              "lng": 204.22127724143976,
-              "id": "ID_89291b6a7988",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 137.12071069704604,
-              "lng": 197.32698612487093,
-              "id": "ID_caaa1ad97aa8",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 132.34773992403683,
-              "lng": 195.38244247660793,
-              "id": "ID_69b9bbe9fa98",
-              "targets": {
-                "vertexIds": []
-              }
-            }
-          ],
-          "arrows": false,
-          "reversed": false
-        }
-      ],
-      "files": [
-        "z_Templates/Plantilla- Punto de Interes.md"
-      ]
-    },
-    {
       "id": "Islas",
       "locked": false,
-      "lastAccessed": 1706604693924,
+      "lastAccessed": 1706524980949,
       "markers": [
         {
           "id": "ID_0a78cae98b58",
@@ -175,6 +91,153 @@
       "files": [
         "3.Lugares/Islas Shamal.md"
       ]
+    },
+    {
+      "id": "TBD",
+      "locked": true,
+      "lastAccessed": 1706557011631,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 132.7012933146301,
+              "lng": 195.38244247660793,
+              "id": "ID_da88798b2baa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 128.45865262751082,
+              "lng": 202.98384037436333,
+              "id": "ID_b97ac8596828",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 123.33212846390835,
+              "lng": 210.58523827211872,
+              "id": "ID_1a2b48ab09fb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 125.27667211217135,
+              "lng": 218.716966255764,
+              "id": "ID_68c9fb69e9f9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 132.8125,
+              "lng": 211.75,
+              "id": "ID_b9d8c9687b8a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 136.9439340017494,
+              "lng": 204.22127724143976,
+              "id": "ID_89291b6a7988",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 137.12071069704604,
+              "lng": 197.32698612487093,
+              "id": "ID_caaa1ad97aa8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 132.34773992403683,
+              "lng": 195.38244247660793,
+              "id": "ID_69b9bbe9fa98",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": "Crestafria",
+      "locked": false,
+      "lastAccessed": 1706609086696,
+      "markers": [
+        {
+          "id": "ID_6828388b282a",
+          "type": "Templo",
+          "loc": [
+            145.703125,
+            222
+          ],
+          "link": "Catedral del Martillo",
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb19ab3868e8",
+          "type": "Taberna",
+          "loc": [
+            150.5,
+            189.5
+          ],
+          "link": "Crestafria#Taberna los coros de la redención",
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            4.187397969839086,
+            -4.434148773690642
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99c94a1a9959",
+          "type": "Tienda/Servicio",
+          "loc": [
+            148.9122687005045,
+            111.72287142747452
+          ],
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "3.Lugares/Crestafria.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -238,6 +301,56 @@
       "tags": [],
       "minZoom": null,
       "maxZoom": 0.5
+    },
+    {
+      "type": "Templo",
+      "iconName": "church",
+      "color": "#7b1dc9",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Taberna",
+      "iconName": "beer",
+      "color": "#23a300",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Tienda/Servicio",
+      "iconName": "shopping-cart",
+      "color": "#107f17",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Tienda"
+      ],
+      "minZoom": null,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",
