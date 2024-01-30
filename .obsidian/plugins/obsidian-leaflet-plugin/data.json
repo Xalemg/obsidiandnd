@@ -163,7 +163,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706632688494,
+      "lastAccessed": 1706632697692,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -251,6 +251,22 @@
             4.485708643152161,
             -1.69410999659277
           ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b4a082bba69",
+          "type": "Estadio",
+          "loc": [
+            177.5,
+            129.5
+          ],
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
           "description": null,
           "minZoom": null,
           "maxZoom": null,
