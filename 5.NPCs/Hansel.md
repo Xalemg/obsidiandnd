@@ -1,14 +1,17 @@
 ---
 icon: "![[Hansel.jpg]]"
 Ubicacion: "[[Crestafria]]"
-Religiones: "[[Mystra]]"
+Religiones:
+  - "[[Mystra]]"
 Estado: Vivo
 Alineamiento: LB
 Sexo: Hombre
-Raza: Humano
+Raza:
+  - Humano
 Facciones: "[[Corona de Altalos]]"
-Edad: 16
-Oficios: [Mago de la Torre de Crestafria]
+Edad: Joven de veintipicos años
+Oficios:
+  - Mago de la Torre de Crestafria
 Ideal: 
 Vinculo: 
 Defecto: 
@@ -48,7 +51,7 @@ tags:
 
 # 🔍 A simple vista
 
-Joven torpe mago
+Joven torpe mago aprendiz de [[Anvil Carrillo]]
 
 # 🎯Objetivos
 
