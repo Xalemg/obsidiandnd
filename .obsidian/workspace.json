@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
+                "file": "4.Facciones/Familia de Norias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
+                "file": "4.Facciones/Familia de Norias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md"
+                "file": "4.Facciones/Familia de Norias.md"
               }
             }
           },
@@ -276,8 +277,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "c536136645f033fe",
+  "active": "0410353e7b640b2e",
   "lastOpenFiles": [
+    "0.Campañas/Personajes/Kiera/Kiera.md",
     "0.Campañas/Personajes/Personajes.md",
     "4.Facciones/Familia de Norias.md",
     "10. Sesiones/El legado de plata (Sesión 0).md",
@@ -289,7 +291,6 @@
     "3.Lugares/3.Lugares.md",
     "2.Panteón/2.Panteón.md",
     "4.Facciones/4.Facciones.md",
-    "0.Campañas/Personajes/Kiera/Kiera.md",
     "5.NPCs/Hansel.md",
     "3.Lugares/Crestafria.md",
     "0.Campañas/0.Campañas.md",
