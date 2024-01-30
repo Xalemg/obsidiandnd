@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "3.Lugares/Crestafria.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Los coros de la redención.md",
+                "file": "0.Campañas/0.Campañas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Los coros de la redención.md",
+                "file": "0.Campañas/0.Campañas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Los coros de la redención.md"
+                "file": "0.Campañas/0.Campañas.md"
               }
             }
           },
@@ -265,7 +265,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dda7ce238b8dc12d",
+  "active": "f5f23bb565a59332",
   "lastOpenFiles": [
     "3.Lugares/Crestafria.md",
     "9.Puntos de interes/Los coros de la redención.md",
