@@ -163,7 +163,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706631696132,
+      "lastAccessed": 1706631794289,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -226,6 +226,25 @@
           "percent": [
             6.910863931752897,
             -2.7474044727352314
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_584b191b7898",
+          "type": "Fortaleza",
+          "loc": [
+            58,
+            200.5
+          ],
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            4.430465925871961,
+            -1.7088413878674897
           ],
           "description": null,
           "minZoom": null,
@@ -369,8 +388,8 @@
       "maxZoom": null
     },
     {
-      "type": "Castillo",
-      "iconName": "address-book",
+      "type": "Fortaleza",
+      "iconName": "map-marker",
       "color": "#dddddd",
       "alpha": 1,
       "layer": true,
@@ -380,7 +399,7 @@
         "y": -2
       },
       "isImage": true,
-      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAABaCAYAAADEvWrIAAAAAXNSR0IArs4c6QAAAkpJREFUeF7t2YFJxEAYROHfTrQSLUUrUStRK1Er0U6UwSyEcJvLxbfg4VsQgmTnks9JNvEuyoEJXGBJBpWYYAnEFBMUAKNsppigABhlM8UEBcAomykmKABG2UwxQQEwymaKCQqAUTZTTFAAjLKZYoICYJTNFBMUAKNs5plgXlbV53Ssve3lqWS/jFPngST7o0Y186mqbqrqqqqW27dV3S/yvqrquaruquqjqt4ObO8/28EzR2IGLTBBTePm273PDWZaGcTMn2835MEk++NHYgaxN9LYQyNt7I2XqnrYf6rjZ47CHH/kf/ATRmHmEr1eOd/cEw+N3F974326VfxBxp9DGoUZlID2xto9szfnX98zxYSuoXkzszJnVZ7jPnY+5372+zQxo82zmdNzYkDXVupDtlnx80TQ7qNiVlVr4bx1Wy6ALFJ5Pm3zxJzUcpm3V8UtkNlnOUfMrXIb9hNzA9LWXcQ8IhWgXP7tZ213MTs6uR8u38+z2q/dV8XsYGalbs+RbZc8Br2uVFPMDo6vk1tXiulB29fJE8DWdj32TNm+llhm7J0HHfbvYkb91+h3R3Wms8UE/3BiigkKgFE2U0xQAIyymWKCAmCUzRQTFACjbKaYoAAYZTPFBAXAKJspJigARtlMMUEBMMpmigkKgFE2U0xQAIyymWKCAmCUzRQTFACjbKaYoAAYZTPFBAXAKJspJigARtlMMUEBMMpmigkKgFE2U0xQAIyymWKCAmCUzRQTFACjbKaYoAAYZTPFBAXAKJspJigARn0DshdOWz3AIkEAAAAASUVORK5CYII=",
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAACaCAYAAADVVXR8AAAAAXNSR0IArs4c6QAAA2tJREFUeF7t2O2NklEUAOGzlaiVqJWolaiVqJWolaiVaE4CkRBghsQ/hrl/FnYnwD689wOepvHPBJ5m5tPMfJmZnzPzfmY+zsyrmXk+Mx8uPNP+bttvJ/22b2bm3T97Zf/hAy3m7wPgvvzFfH34uff39vn4esD8fngjFvDlzLydmX28hx1HzEsAe+Vdw9wr99J4eMydotfGTufzcW//MFfqcc289A//urFmPrsi1Jp5BaZpfuecas28E+xWfoq5V+JO092tj+virTVz/7Yb1B6tjhvSw29AezTacZzWx/vmPXsR5l+m82n++XBeNJDbnPddmVZOdGEKJJuEKaR2Pd1N6daBfR8mzBuY+6XH6Zcde3s/v18bYd6Jc2u3D/MK5p4j9+hzPn7cmO4Pj7mH7kujz+ZiMzlNHvpKutMK8zCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPJBmN4KyzCRyAdheissw0QiH4TprbAME4l8EKa3wjJMJPLBH4DSOZtYRgCLAAAAAElFTkSuQmCC",
       "tags": [],
       "minZoom": null,
       "maxZoom": null
