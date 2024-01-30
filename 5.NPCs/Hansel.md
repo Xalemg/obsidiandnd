@@ -48,7 +48,7 @@ tags:
 
 # 🔍 A simple vista
 
-#TBD
+Joven torpe mago
 
 # 🎯Objetivos
 
