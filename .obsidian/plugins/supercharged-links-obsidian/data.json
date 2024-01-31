@@ -253,24 +253,24 @@
       "selectBackground": false
     },
     {
-      "type": "tag",
-      "name": "Tipo",
-      "value": "PuntoDeInteres",
-      "matchCaseSensitive": false,
-      "match": "exact",
-      "uid": "d81b-ce38",
-      "selectText": true,
-      "selectAppend": false,
-      "selectPrepend": true,
-      "selectBackground": false
-    },
-    {
       "type": "attribute",
       "name": "Tipo",
       "value": "Servicio",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "c45f-07a8",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "tag",
+      "name": "Tipo",
+      "value": "PuntoDeInteres",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "d81b-ce38",
       "selectText": true,
       "selectAppend": false,
       "selectPrepend": true,

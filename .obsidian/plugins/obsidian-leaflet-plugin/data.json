@@ -201,7 +201,7 @@
     {
       "id": "TBD",
       "locked": true,
-      "lastAccessed": 1706713922787,
+      "lastAccessed": 1706716932586,
       "markers": [],
       "overlays": [],
       "shapes": [
@@ -279,8 +279,7 @@
         }
       ],
       "files": [
-        "9.Puntos de interes/Los coros de la redención.md",
-        "9.Puntos de interes/Torre de Crestafria.md"
+        "z_Templates/Plantilla- Punto de Interes.md"
       ]
     }
   ],

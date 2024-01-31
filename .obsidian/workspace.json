@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "76f63d24d512650d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md",
+                "file": "9.Puntos de interes/Fortaleza de Norias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md",
+                "file": "9.Puntos de interes/Fortaleza de Norias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla- Punto de Interes.md"
+                "file": "9.Puntos de interes/Fortaleza de Norias.md"
               }
             }
           },
@@ -242,8 +230,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "01c245aacb8c2073",
+  "active": "15752b74ff074b3e",
   "lastOpenFiles": [
+    "5.NPCs/Hansel.md",
     "4.Facciones/Familia de Norias.md",
     "5.NPCs/Anvil Carrillo.md",
     "⭐Hub.md",
@@ -257,7 +246,6 @@
     "conflict-files-obsidian-git.md",
     "0.Campañas/0.Campañas.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
-    "5.NPCs/Hansel.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
     "z_Templates/Plantilla - Sesión.md",
     "4.Facciones/Corona de Altalos.md",
