@@ -122,13 +122,13 @@ div[data-id="938b-93c3"] div.setting-item-description::before,
 }
 
 div[data-id="3bf5-ac01"] div.setting-item-description,
-[data-link-path*="10.Sesiones" i] {
+[data-link-path*="10. Sesiones" i] {
     color: var(--3bf5-ac01-color) !important;
     font-weight: var(--3bf5-ac01-weight);
 }
 
 div[data-id="3bf5-ac01"] div.setting-item-description::before,
-.data-link-icon[data-link-path*="10.Sesiones" i]::before {
+.data-link-icon[data-link-path*="10. Sesiones" i]::before {
     content: var(--3bf5-ac01-before);
 }
 
@@ -530,7 +530,7 @@ settings:
         quotes: true
     - 
         id: 3bf5-ac01
-        title: path is 10.Sesiones
+        title: path is 10. Sesiones
         description: Example note
         type: heading
         collapsed: true

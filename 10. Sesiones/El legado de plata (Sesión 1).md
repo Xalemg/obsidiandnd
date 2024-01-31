@@ -40,9 +40,9 @@ WHERE contains(En_curso, "si") and contains(Campañas, string(this.Campaña))
 # 🔐Secretos y pistas
 *Secretos sobre el villano/enemigos, objetivo de los PJs, aliados, lugares que visitan, eventos relevantes, objetos mágicos o la misión.*
 - [ ]  Gath Igeo se encuentra en Hismal
-- [ ] La [[Familia de Norias]] ha permitido
-- [ ] 
-- [ ] 
+- [ ] La [[Familia de Norias]] es la principal aliada de la [[Corona de Altalos]] 
+- [ ] [[Lisa]] es una dragona 
+- [ ] Gath Igeo esta en [[Hismal]]
 - [ ] 
 - [ ] 
 - [ ] 
@@ -61,7 +61,7 @@ WHERE contains(En_curso, "si") and contains(Campañas, string(this.Campaña))
 - [ ] [[Hansel]] te separara del resto de la party y te dirá que alguien tiene información importante que hablar contigo acerca de tu futuro y ha sido ordenado por [[Anvil Carrillo]] llevarla a [[Crestafria]]. Abre un portal de teleportación y te invita a cruzarlo.
 ## Comienzo en [[Crestafria]]
 
->Tras cruzar el portal llegas a una estancia decorada con numerosos escudos y espadas en las paredes. Piedras verdes brillantes iluminan la habitación. Los suelos se encuentran decorados con una enorme alfombra de una extraña criatura. mientras que en una mesa cercana puedes ver un antiguo mapa de la [[Isla de Altalos]] 
+>Tras cruzar el portal llegas a una estancia decorada con numerosos escudos y espadas en las paredes. Piedras verdes brillantes iluminan la habitación. Los suelos se encuentran decorados con una enorme alfombra de una extraña criatura. mientras que en una mesa cercana puedes ver un antiguo mapa de la [[Isla de Altalos]]. Sin levantar la vista de su libro.
 
 Atravesar la 
 # ⚔️ Encuentros

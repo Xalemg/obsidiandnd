@@ -52,7 +52,7 @@
     {
       "type": "path",
       "name": "Tipo",
-      "value": "10.Sesiones",
+      "value": "10. Sesiones",
       "matchCaseSensitive": false,
       "match": "contains",
       "uid": "3bf5-ac01",
