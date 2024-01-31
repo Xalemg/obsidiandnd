@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TBD",
+                "query": "tag:PuntoDeInteres",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,7 +242,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "76f63d24d512650d",
+  "active": "01c245aacb8c2073",
   "lastOpenFiles": [
     "4.Facciones/Familia de Norias.md",
     "5.NPCs/Anvil Carrillo.md",
