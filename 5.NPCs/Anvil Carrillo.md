@@ -1,6 +1,6 @@
 ---
 icon: "![[z_Assets/NPCs/Anvil Carrillo.jpg]]"
-Ubicacion: "[[Crestafria]]"
+Ubicacion: "[[Torre de Crestafria]]"
 Religiones: 
 Estado: Vivo
 Alineamiento: LB

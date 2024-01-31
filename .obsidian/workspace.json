@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "80b5992b48cc87e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "⭐Hub.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "4.Facciones/Familia de Norias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "4.Facciones/Familia de Norias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⭐Hub.md"
+                "file": "4.Facciones/Familia de Norias.md"
               }
             }
           },
@@ -253,15 +241,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "80b5992b48cc87e3",
+  "active": "76f63d24d512650d",
   "lastOpenFiles": [
-    "9.Puntos de interes/Emporium Imperium.md",
+    "5.NPCs/Anvil Carrillo.md",
     "⭐Hub.md",
     "4.Facciones/Familia de Norias.md",
+    "9.Puntos de interes/Torre de Crestafria.md",
+    "9.Puntos de interes/Emporium Imperium.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
     "9.Puntos de interes/Los coros de la redención.md",
-    "9.Puntos de interes/Torre de Crestafria.md",
     "3.Lugares/3.Lugares.md",
     "3.Lugares/Crestafria.md",
     "conflict-files-obsidian-git.md",
@@ -292,7 +281,6 @@
     "5.NPCs/5.NPCs.md",
     "z_Classes/Classes/Tienda o servicio.md",
     "7.Pantalla del Master/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
-    "z_Classes/Classes/Sesion.md",
     "z_Assets/NPCs/Emir Snader.webp",
     "z_Assets/NPCs/Julio Altalos.jpg",
     "z_Assets/Arte/CCz9NtN6rH5myhhj_MajMIH-391lJTl2DpmthCXVrAY.webp",
