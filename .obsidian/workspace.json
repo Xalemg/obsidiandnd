@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "3.Lugares/Crestafria.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "9.Puntos de interes/Emporium Imperium.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Emporium Imperium.md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Emporium Imperium.md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Emporium Imperium.md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -277,10 +277,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dac234da1663cbb3",
+  "active": "df74b43c8fcc6176",
   "lastOpenFiles": [
-    "0.Campañas/0.Campañas.md",
     "9.Puntos de interes/Emporium Imperium.md",
+    "0.Campañas/0.Campañas.md",
     "3.Lugares/Crestafria.md",
     "9.Puntos de interes/Los coros de la redención.md",
     "⭐Hub.md",

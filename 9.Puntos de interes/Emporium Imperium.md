@@ -5,11 +5,14 @@ tags:
   - "#Lugar"
 aliases: 
 icon: "![[PlaceholderImage.png]]"
-Tematica: 
+Tematica:
+  - Magia
+  - Tecnologia
 Tipo: Tienda
 Prosperidad: Medio
-Defensas: 
-Ubicacion: 
+Defensas:
+  - Armaduras animadas custodian la tienda
+Ubicacion: "[[Crestafria]]"
 Mundo:
   - Aretries
 cssclasses:

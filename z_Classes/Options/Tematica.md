@@ -16,3 +16,4 @@ Deber
 Magia
 Investigacion
 Descanso
+Tecnologia
