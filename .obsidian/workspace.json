@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d39e9de011ebaadb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭐Hub.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Puerto Kalabor.md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Puerto Kalabor.md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Puerto Kalabor.md"
+                "file": "⭐Hub.md"
               }
             }
           },
@@ -203,11 +215,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a9f493160ac28c6e",
+  "active": "d39e9de011ebaadb",
   "lastOpenFiles": [
+    "3.Lugares/Puerto Kalabor.md",
     "⭐Hub.md",
     "3.Lugares/3.Lugares.md",
-    "3.Lugares/Puerto Kalabor.md",
     "3.Lugares/Islas Shamal.md",
     "conflict-files-obsidian-git.md",
     "z_Assets/plugins/obsidian-leaflet-plugin/data.json",
