@@ -1,7 +1,7 @@
 ---
 fileClass: Punto de interes
 tags:
-  - PuntoDeInteres
+  - "#PuntoDeInteres"
   - "#Lugar"
 aliases: 
 icon: "![[PlaceholderImage.png]]"
