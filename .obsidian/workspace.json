@@ -56,31 +56,19 @@
             }
           },
           {
-            "id": "dac234da1663cbb3",
+            "id": "80b5992b48cc87e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.Puntos de interes/Emporium Imperium.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d7c9b9cf9cf5aae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "⭐Hub.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md"
+                "file": "⭐Hub.md"
               }
             }
           },
@@ -265,16 +253,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4d7c9b9cf9cf5aae",
+  "active": "80b5992b48cc87e3",
   "lastOpenFiles": [
-    "9.Puntos de interes/Fortaleza de Norias.md",
     "9.Puntos de interes/Emporium Imperium.md",
-    "9.Puntos de interes/Los coros de la redención.md",
-    "9.Puntos de interes/Torre de Crestafria.md",
-    "9.Puntos de interes/Catedral del Martillo.md",
-    "3.Lugares/3.Lugares.md",
     "⭐Hub.md",
     "4.Facciones/Familia de Norias.md",
+    "9.Puntos de interes/Catedral del Martillo.md",
+    "9.Puntos de interes/Fortaleza de Norias.md",
+    "9.Puntos de interes/Los coros de la redención.md",
+    "9.Puntos de interes/Torre de Crestafria.md",
+    "3.Lugares/3.Lugares.md",
     "3.Lugares/Crestafria.md",
     "conflict-files-obsidian-git.md",
     "0.Campañas/0.Campañas.md",
