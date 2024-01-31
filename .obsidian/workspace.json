@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "e5921fcbc583913d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dac234da1663cbb3",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Crestafria.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -277,11 +289,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "df74b43c8fcc6176",
+  "active": "e5921fcbc583913d",
   "lastOpenFiles": [
+    "3.Lugares/Crestafria.md",
+    "conflict-files-obsidian-git.md",
     "9.Puntos de interes/Emporium Imperium.md",
     "0.Campañas/0.Campañas.md",
-    "3.Lugares/Crestafria.md",
     "9.Puntos de interes/Los coros de la redención.md",
     "⭐Hub.md",
     "4.Facciones/Familia de Norias.md",
@@ -313,7 +326,6 @@
     "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin",
     "z_Assets/Leaflet/plugins",
     "5.NPCs/5.NPCs.md",
-    "conflict-files-obsidian-git.md",
     "z_Classes/Classes/Tienda o servicio.md",
     "7.Pantalla del Master/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
     "z_Classes/Classes/Sesion.md",
