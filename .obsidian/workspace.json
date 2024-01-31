@@ -1,112 +1,64 @@
 {
   "main": {
-    "id": "ff13853cd880cd70",
+    "id": "ab0ce658d503fcbd",
     "type": "split",
     "children": [
       {
-        "id": "bafc2e9179dde8b7",
+        "id": "ca09e1657eb35200",
         "type": "tabs",
         "children": [
           {
-            "id": "0410353e7b640b2e",
+            "id": "3aeff30e843f9ea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.NPCs/Hansel.md",
+                "file": "3.Lugares/3.Lugares.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "b6f5951ad8b01e0a",
+            "id": "0aea95131295fbd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.Campañas/Personajes/Kiera/Kiera.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15752b74ff074b3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9.Puntos de interes/Fortaleza de Norias.md",
+                "file": "3.Lugares/Islas Shamal.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "76f63d24d512650d",
+            "id": "b9796cf99cf523c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Facciones/Familia de Norias.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df74b43c8fcc6176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Lugares/Crestafria.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dac234da1663cbb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9.Puntos de interes/Emporium Imperium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dda7ce238b8dc12d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9.Puntos de interes/Los coros de la redención.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "420676fb70a5ff68",
+    "id": "c4fbc3840d48b9de",
     "type": "split",
     "children": [
       {
-        "id": "68d169e2f47fa8b4",
+        "id": "0ab01d7efae3d519",
         "type": "tabs",
         "children": [
           {
-            "id": "59369172aaba219c",
+            "id": "9218aad9f1e12fba",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -116,12 +68,12 @@
             }
           },
           {
-            "id": "01c245aacb8c2073",
+            "id": "04a0da4ae4ceed97",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TBD",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +83,7 @@
             }
           },
           {
-            "id": "55899e3c055c4d95",
+            "id": "db58b4920ee0ff1e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -145,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "cc70ceb331cfaefc",
+    "id": "4edd3d6b5a6d1e5f",
     "type": "split",
     "children": [
       {
-        "id": "66e141e4c5c2be88",
+        "id": "f17c18853d5037fc",
         "type": "tabs",
         "children": [
           {
-            "id": "785ab9631e1f7755",
+            "id": "fc7fdc0285208506",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Emporium Imperium.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,19 +122,19 @@
             }
           },
           {
-            "id": "a5305f3790e19a54",
+            "id": "768d7d94bee9d248",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Emporium Imperium.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7ca9bbb8cbaed2db",
+            "id": "b9ec5d7abe63c9b7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -193,31 +145,17 @@
             }
           },
           {
-            "id": "2b4290b2a206ded4",
+            "id": "9c052e25e40bb10f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Emporium Imperium.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
           {
-            "id": "f5f23bb565a59332",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.Campañas/0.Campañas.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8c6f6c034f5e85a1",
+            "id": "cff73f4fa52995dc",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -225,7 +163,7 @@
             }
           },
           {
-            "id": "b7c59265677dbc4e",
+            "id": "ee2aa249b15a542f",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -233,7 +171,7 @@
             }
           },
           {
-            "id": "bd145fc7d68d9413",
+            "id": "0ba9de850c78288f",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -253,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -261,69 +199,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false,
+      "open-vscode:VSCode": false,
+      "obsidian42-brat:BRAT": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "audio-recorder:Empezar/Parar de grabar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian42-brat:BRAT": false,
-      "templater-obsidian:Templater": false,
-      "open-vscode:VSCode": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dac234da1663cbb3",
+  "active": "b9796cf99cf523c8",
   "lastOpenFiles": [
-    "0.Campañas/0.Campañas.md",
-    "9.Puntos de interes/Emporium Imperium.md",
-    "3.Lugares/Crestafria.md",
-    "9.Puntos de interes/Los coros de la redención.md",
-    "⭐Hub.md",
-    "4.Facciones/Familia de Norias.md",
-    "9.Puntos de interes/Fortaleza de Norias.md",
-    "0.Campañas/Personajes/Kiera/Kiera.md",
-    "5.NPCs/Hansel.md",
-    "10. Sesiones/El legado de plata (Sesión 1).md",
-    "z_Templates/Plantilla - Sesión.md",
-    "4.Facciones/Corona de Altalos.md",
-    "2024-01-25.md",
-    "0.Campañas/Personajes/Personajes.md",
-    "z_Templates/Plantilla- Tienda o Servicio.md",
-    "z_Assets/Arte/Fortaleza de Norias.webp",
-    "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
-    "3.Lugares/3.Lugares.md",
-    "2.Panteón/2.Panteón.md",
-    "4.Facciones/4.Facciones.md",
-    "Hansel.md",
-    "9.Puntos de interes/Torre de Crestafria.md",
+    "3.Lugares/Islas Shamal.md",
+    "conflict-files-obsidian-git.md",
+    "z_Assets/plugins/obsidian-leaflet-plugin/data.json",
+    "z_Assets/plugins/obsidian-leaflet-plugin",
+    "z_Assets/plugins",
+    "z_Assets/Titulos/Thumbs.db",
+    "z_Assets/Spells/Thumbs.db",
+    "z_Assets/Pantalla Master/Thumbs.db",
+    "z_Assets/NPCs/Thumbs.db",
     "z_Assets/NPCs/Hansel.jpg",
-    "z_Assets/NPCs/Hansel.jpg.crdownload",
-    "9.Puntos de interes/Catedral del Martillo.md",
-    "z.Leaflet/plugins/obsidian-leaflet-plugin/data.json",
-    "z.Leaflet/plugins/obsidian-leaflet-plugin",
-    "z.Leaflet/plugins",
-    "z.Leaflet",
-    "Nueva carpeta",
+    "z_Assets/Mapas/Thumbs.db",
     "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin/data.json",
     "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin",
-    "z_Assets/Leaflet/plugins",
-    "5.NPCs/5.NPCs.md",
-    "conflict-files-obsidian-git.md",
-    "z_Classes/Classes/Tienda o servicio.md",
-    "7.Pantalla del Master/Generadores/Aventuras/Tesoro/Objetos mágicos Tier 2.md",
-    "z_Classes/Classes/Sesion.md",
-    "z_Assets/NPCs/Emir Snader.webp",
+    "z_Assets/Arte/Fortaleza de Norias.webp",
+    "9.Puntos de interes/Torre de Crestafria.md",
+    "9.Puntos de interes/Los coros de la redención.md",
+    "9.Puntos de interes/Emporium Imperium.md",
+    "5.NPCs/Hansel.md",
+    "4.Facciones/Familia de Norias.md",
+    "10. Sesiones/El legado de plata (Sesión 1).md",
+    "⭐Hub.md",
+    "10. Sesiones/El legado de plata (Sesión 0).md",
+    "3.Lugares/Ust Natha.md",
+    "z_Templates/Plantilla - Sesión.md",
+    "3.Lugares/3.Lugares.md",
+    "2.Panteón/Trithereon.md",
+    "9.Puntos de interes/Fortaleza de Norias.md",
+    "5.NPCs/Julio Altalos.md",
+    "4.Facciones/Corona de Altalos.md",
+    "0.Campañas/Personajes/Personajes.md",
     "z_Assets/NPCs/Julio Altalos.jpg",
-    "z_Assets/Arte/CCz9NtN6rH5myhhj_MajMIH-391lJTl2DpmthCXVrAY.webp",
-    "z_Assets/Jugadores/Chain Cerenia.png",
-    "z_Assets/Emblemas/tabernas kalverin.png",
+    "5.NPCs/Julio Altalos.jpg",
+    "4.Facciones/4.Facciones.md",
+    "7.Pantalla del Master/7.Pantalla del Master.md",
+    "5.NPCs/Lisa.md",
+    "3.Lugares/Crestafria.md",
+    "4.Facciones/La sombra que fue.md",
+    "3.Lugares/Aretries.md",
+    "9.Puntos de interes/Catedral del Martillo.md",
     "z_Assets/NPCs/Anvil Carrillo.jpg",
-    "z_Assets/NPCs/Obispa Anais.png",
-    "z_Assets/Obispa Anais.png"
+    "z_Assets/Emblemas/tabernas kalverin.png"
   ]
 }
