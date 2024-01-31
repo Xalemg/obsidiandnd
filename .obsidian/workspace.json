@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Puerto Kalabor.md",
+                "file": "3.Lugares/3.Lugares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Puerto Kalabor.md",
+                "file": "3.Lugares/3.Lugares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Puerto Kalabor.md"
+                "file": "3.Lugares/3.Lugares.md"
               }
             }
           },
@@ -203,8 +202,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a9f493160ac28c6e",
+  "active": "3aeff30e843f9ea5",
   "lastOpenFiles": [
+    "3.Lugares/Puerto Kalabor.md",
     "3.Lugares/Islas Shamal.md",
     "⭐Hub.md",
     "3.Lugares/3.Lugares.md",
