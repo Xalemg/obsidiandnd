@@ -331,13 +331,13 @@ div[data-id="c45f-07a8"] div.setting-item-description::before,
 }
 
 div[data-id="d81b-ce38"] div.setting-item-description,
-[data-link-tags*="PuntoDeInteres" i] {
+[data-link-fileClass="Tienda o servicio"  i] {
     color: var(--d81b-ce38-color) !important;
     font-weight: var(--d81b-ce38-weight);
 }
 
 div[data-id="d81b-ce38"] div.setting-item-description::before,
-.data-link-icon[data-link-tags*="PuntoDeInteres" i]::before {
+.data-link-icon[data-link-fileClass="Tienda o servicio"  i]::before {
     content: var(--d81b-ce38-before);
 }
 
@@ -1272,7 +1272,7 @@ settings:
         quotes: true
     - 
         id: d81b-ce38
-        title: tag is PuntoDeInteres
+        title: fileClass is Tienda o servicio
         description: Example note
         type: heading
         collapsed: true

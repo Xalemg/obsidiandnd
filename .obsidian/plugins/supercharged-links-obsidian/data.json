@@ -1,6 +1,7 @@
 {
   "targetAttributes": [
-    "Tipo"
+    "Tipo",
+    "fileClass"
   ],
   "targetTags": false,
   "getFromInlineField": false,
@@ -265,9 +266,9 @@
       "selectBackground": false
     },
     {
-      "type": "tag",
-      "name": "Tipo",
-      "value": "PuntoDeInteres",
+      "type": "attribute",
+      "name": "fileClass",
+      "value": "Tienda o servicio",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "d81b-ce38",
