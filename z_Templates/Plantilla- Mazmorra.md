@@ -22,7 +22,7 @@ Mundo: Aretries
 > ###### Información basica
 >  |
 > ---|---|
->  **Ubicación** | `VIEW[{Ubicacion}][link]` |
+>  **Ubicación** | `=this.Ubicacion` |
 > **Alias** |`=this.aliases` |
 > **Tipo** | `=this.Tipo` |
 > **Población** | `=this.Poblacion` |

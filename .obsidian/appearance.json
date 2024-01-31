@@ -6,8 +6,9 @@
     "MyCallouts",
     "imageSuggester",
     "BetterLeafletIcons",
-    "SlimHorizontalLine"
+    "SlimHorizontalLine",
+    "heatmap-exception"
   ],
   "showViewHeader": true,
-  "baseFontSize": 18
+  "baseFontSize": 15
 }

@@ -4,15 +4,15 @@ tags:
   - PuntoDeInteres
   - "#Lugar"
 aliases: 
-icon: "![[PlaceholderImage.png]]"
+icon: "![[Fortaleza de Norias.webp]]"
 Tematica:
   - Caballerosidad
   - Intriga
-Tipo: 
+Tipo: Fortaleza
 Prosperidad: Medio
 Defensas:
   - Una guarnición de unos 200 soldados defienden el perimetro de la muralla y de la torre
-Ubicacion: 
+Ubicacion: "[[Crestafria]]"
 Mundo:
   - Aretries
 ---
@@ -23,7 +23,7 @@ Mundo:
 > ###### Información basica
 >  |
 > ---|---|
->  **Ubicación** | `VIEW[{Ubicacion}][link]` |
+>  **Ubicación** | `=this.Ubicacion` |
 > **Alias** |`=this.aliases` |
 > **Tipo** | `=this.Tipo` |
 > **Temática** | `=this.Tematica` |

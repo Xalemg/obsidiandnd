@@ -5,6 +5,7 @@
     "tags": "tags",
     "Tematica": "multitext",
     "icon": "text",
-    "numero": "number"
+    "numero": "number",
+    "Campaña": "multitext"
   }
 }

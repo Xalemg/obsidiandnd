@@ -1,14 +1,14 @@
 ---
 banner: "![[lazy_dm_workbook_banner.jpg]]"
----
----
-banner: "![[lazy_dm_workbook_banner.jpg]]"
-banner_y: 0.36
+banner_y: 0.296
 fileClass: Sesion
-Mundo: 
+Mundo:
+  - Aretries
 cssclasses:
   - card-images
   - t-w
+numero: 
+Campaña:
 ---
 # [[Personajes]]
 >[!cards| dataview 7]
@@ -18,8 +18,8 @@ cssclasses:
 >"**P.Pasiva: "+P_per+"**",
 >"**AC: "+ac+"**",
 >"**Max HP: "+hp+"**"
->FROM #personaje
->WHERE contains(En_curso, "si") AND contains(Campaña,this.Campaña)
+>FROM #personaje 
+>WHERE contains(En_curso, "si") and contains(Campañas, string(this.Campaña))
 >```
 
 

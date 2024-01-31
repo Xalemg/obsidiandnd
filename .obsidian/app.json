@@ -2,5 +2,7 @@
   "showIndentGuide": false,
   "strictLineBreaks": true,
   "showInlineTitle": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "trashOption": "local"
 }

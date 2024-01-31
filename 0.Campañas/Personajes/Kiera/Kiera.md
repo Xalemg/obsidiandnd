@@ -13,7 +13,9 @@ date updated: 2021-12-10 01:55
 Competencias: Atletismo, Perspicacia,  Intimidación,  Percepcion
 tipo: Jugador
 En_curso: si
-Campaña: Chumipower, El desencadenamiento, El legado de plata
+Campañas:
+  - El legado de plata
+  - Chumipower
 icon: "![[chain kiera.png]]"
 ---
 
@@ -71,7 +73,7 @@ Gath e Igeo eran dos Naciones Gith Rivales que controlaba cada uno los unicos co
 
 La perla del Alma es un objeto escondido en Gath e Igeo. 
 
-Gath Igeo es el planeta natal de los Giths una raza con la capacidad del viaje Astral mediante dragones astrales. Los Giths llegaron a las [[1. Almanac11. Lugares/Continente/Islas Shamal]] hace miles de años y poblaron las islas, de su adaptación a Aretries y la mezcla con otras razas surguieron los Elfos.
+Gath Igeo es el planeta natal de los Giths una raza con la capacidad del viaje Astral mediante dragones astrales. Los Giths llegaron a las [[Islas Shamal]]  hace miles de años y poblaron las islas, de su adaptación a Aretries y la mezcla con otras razas surguieron los Elfos.
 
 # Escrito por Olga
 Historia de Kiera
@@ -79,8 +81,7 @@ Historia de Kiera
 Mujer, [Aasimar](http://dnd5e.wikidot.com/lineage:aasimar) Protector, [Ranger](http://dnd5e.wikidot.com/ranger) [Drakewarden](http://dnd5e.wikidot.com/ranger:drakewarden) 16 años.
 
   
-
-NAUFRAGIO EN LA COSTA DE RONCOR
+## NAUFRAGIO EN LA COSTA DE RONCOR
 
 La costa norte de la isla de Roncor es conocida por sus fuertes marejadas y corrientes. Esto hace que muchos barcos naufraguen al acercarse demasiado a la isla.
 
@@ -189,7 +190,8 @@ Se establecieron cerca de la costa por la que pasa la ruta Shamal principal, don
 
   
 
-PERSONAJES - GATH IGEO
+
+## PERSONAJES - GATH IGEO
 
 Tita Tak-Har. Elfa. Enérgica y divertida. Como líder espiritual de Gath Igeo le ha costado hacerse entender, puesto que es una bromista nata y en ocasiones los asuntos a tratar son demasiado serios como para que casen con su personalidad. Principal cuidadora de Kiera, por lo que mantener su imparcialidad una vez se manifestó Bahamut y dio vida le resultó difícil. Sus tatuajes son plateados en vez de dorados para representar su proximidad a Bahamut.
 
@@ -221,9 +223,7 @@ Situación: Una vez, buscando perlas en uno de los barcos naufragados Kiera y Er
 
 Samina. Humana. Hija de la Tita Asena, creció viendo a su madre afianzarse en la tribu, algo de lo que ella no ha tenido que preocuparse. Siente gran orgullo por su madre y su hermana mayor Sunila, lo que muchas veces se traduce en una altanería y un trato condescendiente con los demás niños de la tribu, sintiéndose por encima de ellos. Aunque eterna rival de Kiera por la predilección de Tak-Har hacia ella, su corazón está con la tribu y lo mejor para todos (aunque si ella sale favorecida aún mejor el plan).
 
-  
-
-PERSONAJES - BARCO EL ESPEJO DE ARANDINE
+## PERSONAJES - BARCO EL ESPEJO DE ARANDINE
 
 Capitana Sereia. Tiefling. Reservada y calculadora, no suele ser la primera en hablar pero sí suele ser la que dice la última palabra. Pese a su seriedad su tripulación aprecia su mando ya que su mente fría les ha sacado de múltiples apuros en las aguas de las islas. Suele estar bajo cubierta examinando mapas y textos en un idioma extraño. Nadie sabe qué está buscando exactamente.
 

@@ -107,7 +107,6 @@
   "ITS@@slrvb-b": false,
   "ITS@@t-d": false,
   "ITS@@scrollbar-width": 10,
-  "ITS@@radius-s": 4,
   "ITS@@tab-outline-width": 2,
   "ITS@@ITS-Table-Styling": "tables-style-wikipedia",
   "ITS@@tables-center": false,
@@ -148,5 +147,8 @@
   "mado-miniflow@@toggle-note-animation": false,
   "supercharged-links@@1f27-21bf-color": "#F2C8F5",
   "supercharged-links@@1f27-21bf-before": "🌑",
-  "lf-svg-borders@@lf-svg-border-width": 10
+  "lf-svg-borders@@lf-svg-border-width": 25,
+  "ITS@@chkbx-strike": true,
+  "ITS@@alt-chkbx-off": false,
+  "ITS@@radius-s": 0
 }

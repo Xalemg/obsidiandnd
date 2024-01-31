@@ -19,7 +19,7 @@ Ubicacion:
 > ###### Información basica
 >  |
 > ---|---|
->  **Ubicación** | `VIEW[{Ubicacion}][link]` |
+>  **Ubicación** | `=this.Ubicacion` |
 > **Alias** | `= aliases  `|
 > **Tipo** | `=this.Tipo` |
 > **Población** | `=this.Poblacion` |
