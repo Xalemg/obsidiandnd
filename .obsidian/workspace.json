@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "mode": "preview",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⭐Hub.md"
+                "file": "9.Puntos de interes/Catedral del Martillo.md"
               }
             }
           },
@@ -267,14 +267,17 @@
   },
   "active": "4d7c9b9cf9cf5aae",
   "lastOpenFiles": [
+    "9.Puntos de interes/Fortaleza de Norias.md",
     "9.Puntos de interes/Emporium Imperium.md",
     "9.Puntos de interes/Los coros de la redención.md",
+    "9.Puntos de interes/Torre de Crestafria.md",
+    "9.Puntos de interes/Catedral del Martillo.md",
+    "3.Lugares/3.Lugares.md",
+    "⭐Hub.md",
     "4.Facciones/Familia de Norias.md",
     "3.Lugares/Crestafria.md",
     "conflict-files-obsidian-git.md",
     "0.Campañas/0.Campañas.md",
-    "⭐Hub.md",
-    "9.Puntos de interes/Fortaleza de Norias.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
     "5.NPCs/Hansel.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
@@ -285,14 +288,11 @@
     "z_Templates/Plantilla- Tienda o Servicio.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
-    "3.Lugares/3.Lugares.md",
     "2.Panteón/2.Panteón.md",
     "4.Facciones/4.Facciones.md",
     "Hansel.md",
-    "9.Puntos de interes/Torre de Crestafria.md",
     "z_Assets/NPCs/Hansel.jpg",
     "z_Assets/NPCs/Hansel.jpg.crdownload",
-    "9.Puntos de interes/Catedral del Martillo.md",
     "z.Leaflet/plugins/obsidian-leaflet-plugin/data.json",
     "z.Leaflet/plugins/obsidian-leaflet-plugin",
     "z.Leaflet/plugins",
