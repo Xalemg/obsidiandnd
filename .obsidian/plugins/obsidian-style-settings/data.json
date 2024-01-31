@@ -150,5 +150,9 @@
   "lf-svg-borders@@lf-svg-border-width": 25,
   "ITS@@chkbx-strike": true,
   "ITS@@alt-chkbx-off": false,
-  "ITS@@radius-s": 0
+  "ITS@@radius-s": 0,
+  "supercharged-links@@2118-fb83-before": "📜",
+  "supercharged-links@@a928-86f6-before": "📖",
+  "supercharged-links@@9c59-857a-before": "🗒️",
+  "supercharged-links@@7997-dddb-before": "📗"
 }
