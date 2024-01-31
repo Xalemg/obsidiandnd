@@ -1,8 +1,8 @@
 ---
 fileClass: Tienda o servicio
 tags:
-  - "#PuntoDeInteres"
-  - "#Lugar"
+  - PuntoDeInteres
+  - Lugar
 aliases: 
 icon: "![[PlaceholderImage.png]]"
 Tematica:
