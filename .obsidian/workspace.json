@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bafc2e9179dde8b7",
+        "id": "e19111d5f8ae2a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "0410353e7b640b2e",
+            "id": "1eace39c38aff8f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.Puntos de interes/Emporium Imperium.md",
+                "file": "⭐Hub.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Emporium Imperium.md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Emporium Imperium.md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Emporium Imperium.md"
+                "file": "⭐Hub.md"
               }
             }
           },
@@ -204,10 +204,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0410353e7b640b2e",
+  "active": "1eace39c38aff8f1",
   "lastOpenFiles": [
-    "9.Puntos de interes/Catedral del Martillo.md",
     "9.Puntos de interes/Emporium Imperium.md",
+    "9.Puntos de interes/Catedral del Martillo.md",
     "5.NPCs/Hansel.md",
     "z_Templates/Plantilla- Asentamiento.md",
     "9.Puntos de interes/9.Puntos de interes.md",
