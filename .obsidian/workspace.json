@@ -38,8 +38,8 @@
               "type": "markdown",
               "state": {
                 "file": "9.Puntos de interes/Fortaleza de Norias.md",
-                "mode": "preview",
-                "source": false
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:PuntoDeInteres",
+                "query": "\"tags:  - PuntoDeInteres\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,7 +230,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "15752b74ff074b3e",
+  "active": "01c245aacb8c2073",
   "lastOpenFiles": [
     "5.NPCs/Hansel.md",
     "4.Facciones/Familia de Norias.md",
