@@ -2,8 +2,8 @@
   "targetAttributes": [
     "Tipo"
   ],
-  "targetTags": true,
-  "getFromInlineField": true,
+  "targetTags": false,
+  "getFromInlineField": false,
   "enableTabHeader": true,
   "activateSnippet": true,
   "enableEditor": true,
@@ -55,6 +55,18 @@
       "matchCaseSensitive": false,
       "match": "contains",
       "uid": "3bf5-ac01",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "path",
+      "name": "Tipo",
+      "value": "7.Pantalla del Master",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "a928-86f6",
       "selectText": true,
       "selectAppend": false,
       "selectPrepend": true,
@@ -271,18 +283,6 @@
       "matchCaseSensitive": false,
       "match": "contains",
       "uid": "2118-fb83",
-      "selectText": true,
-      "selectAppend": false,
-      "selectPrepend": true,
-      "selectBackground": false
-    },
-    {
-      "type": "path",
-      "name": "Tipo",
-      "value": "7.Pantalla del Master",
-      "matchCaseSensitive": false,
-      "match": "contains",
-      "uid": "a928-86f6",
       "selectText": true,
       "selectAppend": false,
       "selectPrepend": true,
