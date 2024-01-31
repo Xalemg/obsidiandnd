@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "4.Facciones/4.Facciones.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "4.Facciones/4.Facciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "4.Facciones/4.Facciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⭐Hub.md"
+                "file": "4.Facciones/4.Facciones.md"
               }
             }
           },
@@ -206,16 +206,19 @@
   },
   "active": "1eace39c38aff8f1",
   "lastOpenFiles": [
+    "9.Puntos de interes/Fortaleza de Norias.md",
+    "4.Facciones/4.Facciones.md",
+    "3.Lugares/Isla de Altalos.md",
+    "5.NPCs/Rufus.md",
+    "⭐Hub.md",
     "9.Puntos de interes/Emporium Imperium.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "5.NPCs/Hansel.md",
     "z_Templates/Plantilla- Asentamiento.md",
     "9.Puntos de interes/9.Puntos de interes.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
-    "9.Puntos de interes/Fortaleza de Norias.md",
     "4.Facciones/Familia de Norias.md",
     "5.NPCs/Anvil Carrillo.md",
-    "⭐Hub.md",
     "9.Puntos de interes/Torre de Crestafria.md",
     "9.Puntos de interes/Los coros de la redención.md",
     "3.Lugares/3.Lugares.md",
@@ -231,8 +234,6 @@
     "z_Assets/Arte/Fortaleza de Norias.webp",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
     "2.Panteón/2.Panteón.md",
-    "4.Facciones/4.Facciones.md",
-    "Hansel.md",
     "z_Assets/NPCs/Hansel.jpg",
     "z_Assets/NPCs/Hansel.jpg.crdownload",
     "z.Leaflet/plugins/obsidian-leaflet-plugin/data.json",
@@ -243,7 +244,6 @@
     "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin/data.json",
     "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin",
     "z_Assets/Leaflet/plugins",
-    "5.NPCs/5.NPCs.md",
     "z_Assets/NPCs/Emir Snader.webp",
     "z_Assets/NPCs/Julio Altalos.jpg",
     "z_Assets/Arte/CCz9NtN6rH5myhhj_MajMIH-391lJTl2DpmthCXVrAY.webp",
