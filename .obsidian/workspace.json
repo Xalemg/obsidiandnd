@@ -8,26 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1eace39c38aff8f1",
+            "id": "624998ae80613985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Facciones/4.Facciones.md",
+                "file": "9.Puntos de interes/Catedral del Martillo.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "fd6389b77be78aed",
+            "id": "15e4e058e8cff69d",
             "type": "leaf",
             "state": {
-              "type": "FileClassView__Faccion",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "⭐Hub.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Facciones/4.Facciones.md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Facciones/4.Facciones.md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Facciones/4.Facciones.md"
+                "file": "⭐Hub.md"
               }
             }
           },
@@ -212,36 +217,36 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1eace39c38aff8f1",
+  "active": "15e4e058e8cff69d",
   "lastOpenFiles": [
-    "9.Puntos de interes/Fortaleza de Norias.md",
+    "9.Puntos de interes/Catedral del Martillo.md",
+    "5.NPCs/Anais.md",
+    "9.Puntos de interes/9.Puntos de interes.md",
+    "⭐Hub.md",
+    "7.Pantalla del Master/7.Pantalla del Master.md",
+    "0.Campañas/0.Campañas.md",
+    "9.Puntos de interes/Emporium Imperium.md",
     "4.Facciones/4.Facciones.md",
+    "4.Facciones/Familia de Norias.md",
+    "9.Puntos de interes/Fortaleza de Norias.md",
     "3.Lugares/Isla de Altalos.md",
     "5.NPCs/Rufus.md",
-    "⭐Hub.md",
-    "9.Puntos de interes/Emporium Imperium.md",
-    "9.Puntos de interes/Catedral del Martillo.md",
     "5.NPCs/Hansel.md",
     "z_Templates/Plantilla- Asentamiento.md",
-    "9.Puntos de interes/9.Puntos de interes.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
-    "4.Facciones/Familia de Norias.md",
     "5.NPCs/Anvil Carrillo.md",
     "9.Puntos de interes/Torre de Crestafria.md",
     "9.Puntos de interes/Los coros de la redención.md",
     "3.Lugares/3.Lugares.md",
     "3.Lugares/Crestafria.md",
     "conflict-files-obsidian-git.md",
-    "0.Campañas/0.Campañas.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
     "z_Templates/Plantilla - Sesión.md",
     "4.Facciones/Corona de Altalos.md",
     "2024-01-25.md",
     "0.Campañas/Personajes/Personajes.md",
-    "z_Templates/Plantilla- Tienda o Servicio.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
-    "2.Panteón/2.Panteón.md",
     "z_Assets/NPCs/Hansel.jpg",
     "z_Assets/NPCs/Hansel.jpg.crdownload",
     "z.Leaflet/plugins/obsidian-leaflet-plugin/data.json",
