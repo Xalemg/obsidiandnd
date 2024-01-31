@@ -268,7 +268,7 @@
     {
       "type": "attribute",
       "name": "fileClass",
-      "value": "Tienda o servicio",
+      "value": "Punto de Interes",
       "matchCaseSensitive": false,
       "match": "exact",
       "uid": "d81b-ce38",
@@ -308,6 +308,18 @@
       "matchCaseSensitive": false,
       "match": "contains",
       "uid": "7997-dddb",
+      "selectText": true,
+      "selectAppend": false,
+      "selectPrepend": true,
+      "selectBackground": false
+    },
+    {
+      "type": "attribute",
+      "name": "fileClass",
+      "value": "Tienda o servicio",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "f58e-807a",
       "selectText": true,
       "selectAppend": false,
       "selectPrepend": true,
