@@ -1,19 +1,23 @@
 ---
 icon: "![[Juanlu.webp]]"
 Ubicacion: "[[Los coros de la redención]]"
-Religiones: "[[Tyr]]"
+Religiones:
+  - "[[Tyr]]"
 Estado: Vivo
-Alineamiento: 
+Alineamiento: LB
 Sexo: Hombre
-Raza: 
+Raza: Humano
 Facciones: "[[La iglesia de Tyr]]"
-Edad: 
-Oficios: 
+Edad:
+  - Mediana edad
+Oficios:
+  - Tabernero
 Ideal: 
 Vinculo: 
 Defecto: Aburre
 Interpretacion: Intensito
-Rango: 
+Rango:
+  - Hermano
 Mundo:
   - Aretries
 fileClass: NPC
