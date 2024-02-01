@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "10. Sesiones/El legado de plata (Sesión 1).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Crestafria.md"
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md"
               }
             }
           },
@@ -267,8 +268,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "624998ae80613985",
+  "active": "135c060b53f9b480",
   "lastOpenFiles": [
+    "3.Lugares/Crestafria.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "4.Facciones/4.Facciones.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
@@ -283,7 +285,6 @@
     "3.Lugares/Isla de Altalos.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
     "0.Campañas/Personajes/Personajes.md",
-    "3.Lugares/Crestafria.md",
     "3.Lugares/Islas Shamal.md",
     "5.NPCs/Hansel.md",
     "2.Panteón/Bahamut.md",
