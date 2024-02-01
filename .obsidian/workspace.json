@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "af26f34b7894a279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.NPCs/Juanlu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1f670dc60282643e",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Los coros de la redención.md",
+                "file": "5.NPCs/Juanlu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Los coros de la redención.md",
+                "file": "5.NPCs/Juanlu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Los coros de la redención.md"
+                "file": "5.NPCs/Juanlu.md"
               }
             }
           },
@@ -209,7 +221,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "e3a76168cc7ee353",
@@ -267,12 +279,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f86641d110626743",
+  "active": "af26f34b7894a279",
   "lastOpenFiles": [
+    "0.Campañas/0.Campañas.md",
+    "5.NPCs/Juanlu.md",
+    "9.Puntos de interes/Los coros de la redención.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
     "⭐Hub.md",
     "3.Lugares/Crestafria.md",
-    "9.Puntos de interes/Los coros de la redención.md",
     "4.Facciones/4.Facciones.md",
     "3.Lugares/Isla de Altalos.md",
     "4.Facciones/Corona de Altalos.md",
@@ -282,7 +296,6 @@
     "7.Pantalla del Master/Tabla de consejos.md",
     "3.Lugares/3.Lugares.md",
     "9.Puntos de interes/Catedral del Martillo.md",
-    "0.Campañas/0.Campañas.md",
     "5.NPCs/Lisa.md",
     "5.NPCs/Rey Kemdal.md",
     "4.Facciones/Familia de Norias.md",
@@ -294,7 +307,6 @@
     "5.NPCs/Hansel.md",
     "2.Panteón/Bahamut.md",
     "5.NPCs/Anvil Carrillo.md",
-    "9.Puntos de interes/9.Puntos de interes.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
     "z_Assets/NPCs/Hansel.jpg",
