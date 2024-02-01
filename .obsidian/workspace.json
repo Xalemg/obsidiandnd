@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "3.Lugares/Crestafria.md",
                 "mode": "preview",
                 "source": false
               }
@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Facciones/4.Facciones.md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Facciones/4.Facciones.md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Facciones/4.Facciones.md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -268,15 +267,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "59d58685662e9e10",
+  "active": "624998ae80613985",
   "lastOpenFiles": [
+    "9.Puntos de interes/Catedral del Martillo.md",
+    "4.Facciones/4.Facciones.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
     "0.Campañas/0.Campañas.md",
     "5.NPCs/Lisa.md",
     "5.NPCs/Rey Kemdal.md",
     "4.Facciones/Corona de Altalos.md",
     "⭐Hub.md",
-    "4.Facciones/4.Facciones.md",
     "4.Facciones/Familia de Norias.md",
     "5.NPCs/Julio Altalos.md",
     "4.Facciones/La Mancomunidad del Viento.md",
@@ -291,7 +291,6 @@
     "9.Puntos de interes/9.Puntos de interes.md",
     "4.Facciones/La escama plateada.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
-    "9.Puntos de interes/Catedral del Martillo.md",
     "5.NPCs/Anais.md",
     "7.Pantalla del Master/7.Pantalla del Master.md",
     "9.Puntos de interes/Emporium Imperium.md",
