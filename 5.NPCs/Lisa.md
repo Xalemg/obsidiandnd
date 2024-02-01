@@ -70,5 +70,5 @@ Valiente y leal Lisa es la futura reina del Reino de Altalos. Una dragona que pe
 > [!cards|dataview] 
 > ```statblock
 >monster: Young Silver Dragon
->name: NPC
+>name: Lisa
 > ```
