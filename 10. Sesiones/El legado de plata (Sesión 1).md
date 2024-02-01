@@ -64,7 +64,7 @@ WHERE contains(En_curso, "si") and contains(Campañas, string(this.Campaña))
 >Tras cruzar el portal llegas a una estancia decorada con numerosos escudos y espadas en las paredes. Piedras verdes brillantes iluminan la habitación. Los suelos se encuentran decorados con una enorme alfombra de una extraña criatura. mientras que en una mesa cercana puedes ver un antiguo mapa de la [[Isla de Altalos]]. Sin levantar la vista de su libro. [[Hansel]] se dirige a la puerta mientras te dice "Se me ha instruido que es importante que no des a conocer tu nombre en la ciudad y que evites que nadie vea a tu mascota"
 
 Atravesar la fortaleza vacía
-- [ ] Es importante que no us
+- [ ] Es importante que mantengas oculta a tu mascota mientras te encuentras en [[Crestafria]].
 # ⚔️ Encuentros
 *Un encuentro puede ser mortal si la suma total de los valores de desafío de los monstruos es superior a la mitad de la suma total de los niveles de los personajes o a un cuarto de os niveles de los personajes si estos son de 4º nivel o inferior.*
 
