@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md"
+                "file": "⭐Hub.md"
               }
             }
           },
@@ -242,11 +243,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "15e4e058e8cff69d",
+  "active": "4254138155c6372a",
   "lastOpenFiles": [
+    "7.Pantalla del Master/Tabla de consejos.md",
     "⭐Hub.md",
-    "6.Literatura/6.Literatura.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
+    "6.Literatura/6.Literatura.md",
     "4.Facciones/Corona de Altalos.md",
     "9.Puntos de interes/Los coros de la redención.md",
     "4.Facciones/La Mancomunidad del Viento.md",
@@ -259,7 +261,6 @@
     "4.Facciones/La iglesia de Tyr.md",
     "4.Facciones/La escama plateada.md",
     "4.Facciones/La sombra que fue.md",
-    "7.Pantalla del Master/Tabla de consejos.md",
     "3.Lugares/3.Lugares.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "5.NPCs/Lisa.md",
