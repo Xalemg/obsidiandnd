@@ -48,7 +48,7 @@ tags:
 
 # 🔍 A simple vista
 
-Juanlu regenta su taverna dando siempre la turra a los parroquianos sobre historias de los 
+Lleva una balanza que hace un efectoJuanlu regenta su taberna dando siempre la turra a los parroquianos con historias de los [[Dias de los dioses]] y [[Tyr]]
 
 # 🎯Objetivos
 
