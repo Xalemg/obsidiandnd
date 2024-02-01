@@ -51,7 +51,7 @@ tags:
 
 # 🔍 A simple vista
 
-#TBD
+Reflexiva
 
 # 🎯Objetivos
 
