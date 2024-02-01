@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "4.Facciones/4.Facciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "4.Facciones/4.Facciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Campañas/0.Campañas.md"
+                "file": "4.Facciones/4.Facciones.md"
               }
             }
           },
@@ -268,13 +268,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f5f23bb565a59332",
+  "active": "59d58685662e9e10",
   "lastOpenFiles": [
+    "10. Sesiones/El legado de plata (Sesión 1).md",
+    "0.Campañas/0.Campañas.md",
     "5.NPCs/Lisa.md",
     "5.NPCs/Rey Kemdal.md",
-    "0.Campañas/0.Campañas.md",
     "4.Facciones/Corona de Altalos.md",
-    "10. Sesiones/El legado de plata (Sesión 1).md",
     "⭐Hub.md",
     "4.Facciones/4.Facciones.md",
     "4.Facciones/Familia de Norias.md",
