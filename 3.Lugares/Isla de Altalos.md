@@ -2,17 +2,22 @@
 fileClass: Asentamiento
 tags:
   - Lugar
+  - Relevante
 aliases: 
 icon: "![[Costa de Altalos 2.gif]]"
 Poblacion: 
 Nacion: "-"
 Gobernantes:
   - "-"
-Tematica: [Caballerosidad, Épica, Heroismo]
+Tematica:
+  - Caballerosidad
+  - Épica
+  - Heroismo
 Tipo: Subcontinente
 Prosperidad: Medio
 Importaciones: 
-Mundo: Aretries
+Mundo:
+  - Aretries
 Ubicacion: "[[3.Lugares/Islas Shamal.md|Islas Shamal]]"
 Gobierno: 
 Terreno: 

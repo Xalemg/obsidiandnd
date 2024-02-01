@@ -2,10 +2,10 @@
 fileClass: Faccion
 tags:
   - Faccion
-  - Relevante
 aliases: 
 icon: "![[la sombra que fue.png]]"
-Mundo: Aretries
+Mundo:
+  - Aretries
 Tipo:
   - Demoniaca
 Alineamiento: CM

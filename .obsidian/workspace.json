@@ -32,24 +32,12 @@
             }
           },
           {
-            "id": "135c060b53f9b480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.Facciones/La sombra que fue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "59d58685662e9e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Facciones/4.Facciones.md",
+                "file": "3.Lugares/Isla de Altalos.md",
                 "mode": "preview",
                 "source": false
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4.Facciones/La sombra que fue.md",
+                "file": "3.Lugares/Isla de Altalos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4.Facciones/La sombra que fue.md",
+                "file": "3.Lugares/Isla de Altalos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4.Facciones/La sombra que fue.md"
+                "file": "3.Lugares/Isla de Altalos.md"
               }
             }
           },
@@ -279,19 +267,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "135c060b53f9b480",
+  "active": "59d58685662e9e10",
   "lastOpenFiles": [
-    "10. Sesiones/El legado de plata (Sesión 1).md",
+    "4.Facciones/4.Facciones.md",
+    "4.Facciones/Corona de Altalos.md",
+    "4.Facciones/La iglesia de Tyr.md",
+    "4.Facciones/La escama plateada.md",
     "⭐Hub.md",
+    "4.Facciones/La sombra que fue.md",
+    "10. Sesiones/El legado de plata (Sesión 1).md",
     "7.Pantalla del Master/Tabla de consejos.md",
     "3.Lugares/3.Lugares.md",
     "3.Lugares/Crestafria.md",
     "9.Puntos de interes/Catedral del Martillo.md",
-    "4.Facciones/4.Facciones.md",
     "0.Campañas/0.Campañas.md",
     "5.NPCs/Lisa.md",
     "5.NPCs/Rey Kemdal.md",
-    "4.Facciones/Corona de Altalos.md",
     "4.Facciones/Familia de Norias.md",
     "5.NPCs/Julio Altalos.md",
     "4.Facciones/La Mancomunidad del Viento.md",
@@ -303,10 +294,7 @@
     "2.Panteón/Bahamut.md",
     "5.NPCs/Anvil Carrillo.md",
     "9.Puntos de interes/9.Puntos de interes.md",
-    "4.Facciones/La escama plateada.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
-    "5.NPCs/Anais.md",
-    "7.Pantalla del Master/7.Pantalla del Master.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
     "z_Assets/NPCs/Hansel.jpg",

@@ -2,9 +2,11 @@
 fileClass: Faccion
 tags:
   - Faccion
+  - Relevante
 aliases: 
 icon: "![[La escama plateada.png]]"
-Mundo: Aretries
+Mundo:
+  - Aretries
 Influencia: Alta
 Alineamiento: NB
 Tipo: Agentes secretos

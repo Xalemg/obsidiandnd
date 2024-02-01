@@ -2,6 +2,7 @@
 fileClass: Faccion
 tags:
   - Faccion
+  - Relevante
 aliases:
   - Reino de Altalos
 icon: "![[z_Assets/Emblemas/altalos.png]]"
