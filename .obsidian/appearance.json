@@ -13,5 +13,6 @@
     "S - Images Adjustments"
   ],
   "showViewHeader": true,
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "nativeMenus": true
 }
