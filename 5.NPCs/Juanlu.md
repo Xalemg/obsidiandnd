@@ -48,7 +48,7 @@ tags:
 
 # 🔍 A simple vista
 
-Es muy intenso
+Juanlu regenta su taverna dando siempre la turra a los parroquianos sobre historias de los 
 
 # 🎯Objetivos
 
