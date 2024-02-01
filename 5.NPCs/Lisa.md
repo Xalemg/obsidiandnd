@@ -54,7 +54,7 @@ aliases:
 
 # 🔍 A simple vista
 
-#TBD
+Valiente y leal Lisa es la mayor admiradora
 
 # 🎯Objetivos
 
