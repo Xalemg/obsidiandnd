@@ -73,4 +73,4 @@ Lisa fue la supervivienta de la cazeria del padre del [[Rey Kemdal]]. Este mato 
 >name: Lisa
 > ```
 
-40
+48
