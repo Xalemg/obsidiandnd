@@ -54,7 +54,7 @@ aliases:
 
 # 🔍 A simple vista
 
-Valiente y leal Lisa es la futura reina del [[Corona de Altalos|Reino de Altalos]]. Una dragona que perdio a sus hermanos durante una de las cacer
+Valiente y leal Lisa es la futura reina del [[Corona de Altalos|Reino de Altalos]]. 
 
 # 🎯Objetivos
 
@@ -62,7 +62,7 @@ Valiente y leal Lisa es la futura reina del [[Corona de Altalos|Reino de Altalos
 
 # 📜 Historia
 
-#TBD
+Lisa fue la supervivienta de la cazeria del padre del [[Rey Kemdal]] du
 # ✏️ Notas
 
 #TBD
