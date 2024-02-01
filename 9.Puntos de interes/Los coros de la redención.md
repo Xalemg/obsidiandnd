@@ -8,7 +8,7 @@ icon: "![[PlaceholderImage.png]]"
 Tematica:
   - Descanso
   - Religiosa
-Tipo: Posada
+Tipo: Taberna
 Prosperidad: Medio
 Defensas:
   - Paladines y clerigos de Tyr

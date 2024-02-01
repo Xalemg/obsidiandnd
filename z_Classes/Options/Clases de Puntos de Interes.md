@@ -5,3 +5,4 @@ Torre de Magia
 Tienda
 Fortaleza
 Posada
+Taberna
