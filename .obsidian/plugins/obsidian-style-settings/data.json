@@ -106,7 +106,6 @@
   "ITS@@slrvb-g": false,
   "ITS@@slrvb-b": false,
   "ITS@@t-d": false,
-  "ITS@@scrollbar-width": 10,
   "ITS@@tab-outline-width": 2,
   "ITS@@ITS-Table-Styling": "tables-style-wikipedia",
   "ITS@@tables-center": false,
@@ -157,5 +156,8 @@
   "supercharged-links@@7997-dddb-before": "📗",
   "supercharged-links@@f58e-807a-before": "🏪",
   "supercharged-links@@f58e-807a-color": "#F2C8F5",
-  "ITS@@tag-border-width": 2
+  "ITS@@tag-border-width": 2,
+  "ITS@@hide-resize-handle": false,
+  "ITS@@file-header-breadcrumb-font-size": 13.5,
+  "ITS@@scrollbar-width": 12
 }
