@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⭐Hub.md"
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md"
               }
             }
           },
@@ -279,10 +279,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4254138155c6372a",
+  "active": "135c060b53f9b480",
   "lastOpenFiles": [
-    "7.Pantalla del Master/Tabla de consejos.md",
     "⭐Hub.md",
+    "7.Pantalla del Master/Tabla de consejos.md",
     "3.Lugares/3.Lugares.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
     "3.Lugares/Crestafria.md",

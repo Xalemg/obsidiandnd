@@ -71,7 +71,9 @@ Atravesar la fortaleza vacía
 	- [ ] Nieve por todas partes 
 ¿Como busca Kiera la [[Kiera]]
 
-- [ ] Magos Derritiendo la nieve
+- [ ] Magos Derritiendo la nieve con enormes bolas de fuego que ruedan
+## [[Plaza de las ovaciones]]
+/l
 # ⚔️ Encuentros
 *Un encuentro puede ser mortal si la suma total de los valores de desafío de los monstruos es superior a la mitad de la suma total de los niveles de los personajes o a un cuarto de os niveles de los personajes si estos son de 4º nivel o inferior.*
 
