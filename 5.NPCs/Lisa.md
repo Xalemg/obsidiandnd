@@ -66,6 +66,6 @@ tags:
 
 > [!cards|dataview] 
 > ```statblock
->monster: Commoner
+>monster: Young Silver Dragon
 >name: NPC
 > ```
