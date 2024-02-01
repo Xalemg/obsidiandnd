@@ -4,10 +4,8 @@
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "MyCallouts",
-    "imageSuggester",
     "BetterLeafletIcons",
-    "SlimHorizontalLine",
-    "heatmap-exception"
+    "SlimHorizontalLine"
   ],
   "showViewHeader": true,
   "baseFontSize": 15
