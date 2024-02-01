@@ -118,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 286.5
   },
   "right": {
     "id": "cc70ceb331cfaefc",
@@ -207,7 +207,14 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "e3a76168cc7ee353",
+        "type": "tabs",
+        "children": [
           {
             "id": "bd145fc7d68d9413",
             "type": "leaf",
@@ -227,13 +234,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "58c47a96caac6045",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
