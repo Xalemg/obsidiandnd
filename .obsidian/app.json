@@ -1,6 +1,6 @@
 {
   "showIndentGuide": true,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
