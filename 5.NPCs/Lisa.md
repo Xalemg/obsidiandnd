@@ -62,7 +62,7 @@ Valiente y leal Lisa es la futura reina del [[Corona de Altalos|Reino de Altalos
 
 # 📜 Historia
 
-Lisa fue la supervivienta de la cazeria del padre del [[Rey Kemdal]]. Este mato a todos sus hermanos y quiso que el entonces [[Rey Kemdal| Principe Kemdal]] acabara con la suya para demostrarle su valia. Kemdal en su lugar se enfrento,.
+Lisa fue la supervivienta de la cazeria del padre del [[Rey Kemdal]]. Este mato a todos sus hermanos y quiso que el entonces [[Rey Kemdal| Principe Kemdal]] acabara con la suya para demostrarle su valia. Kemdal en su lugar se enfrento, justo antes de que se resolviera 
 # ✏️ Notas
 
 #TBD
