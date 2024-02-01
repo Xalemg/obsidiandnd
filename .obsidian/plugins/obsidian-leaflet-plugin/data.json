@@ -163,7 +163,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706802038049,
+      "lastAccessed": 1706809556206,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -271,6 +271,25 @@
             -5.104166666666667
           ],
           "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cac98a48eb9a",
+          "type": "default",
+          "loc": [
+            74.24621202458749,
+            102.88403666264267
+          ],
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            2.2734375,
+            -2.1875
+          ],
+          "description": "Plaza de los ovaciones con estatua de un hombre gigante",
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"

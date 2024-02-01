@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Lugares/Isla de Altalos.md",
+                "file": "3.Lugares/Crestafria.md",
                 "mode": "preview",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Isla de Altalos.md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Isla de Altalos.md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Isla de Altalos.md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -270,6 +270,8 @@
   "active": "59d58685662e9e10",
   "lastOpenFiles": [
     "4.Facciones/4.Facciones.md",
+    "3.Lugares/Crestafria.md",
+    "3.Lugares/Isla de Altalos.md",
     "4.Facciones/Corona de Altalos.md",
     "4.Facciones/La iglesia de Tyr.md",
     "4.Facciones/La escama plateada.md",
@@ -278,7 +280,6 @@
     "10. Sesiones/El legado de plata (Sesión 1).md",
     "7.Pantalla del Master/Tabla de consejos.md",
     "3.Lugares/3.Lugares.md",
-    "3.Lugares/Crestafria.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "0.Campañas/0.Campañas.md",
     "5.NPCs/Lisa.md",
@@ -286,7 +287,6 @@
     "4.Facciones/Familia de Norias.md",
     "5.NPCs/Julio Altalos.md",
     "4.Facciones/La Mancomunidad del Viento.md",
-    "3.Lugares/Isla de Altalos.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
     "0.Campañas/Personajes/Personajes.md",
     "3.Lugares/Islas Shamal.md",
