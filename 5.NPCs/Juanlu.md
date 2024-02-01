@@ -1,6 +1,6 @@
 ---
 icon: "![[Juanlu.webp]]"
-Ubicacion: 
+Ubicacion: "[[Los coros de la redención]]"
 Religiones: "[[Tyr]]"
 Estado: Vivo
 Alineamiento: 
