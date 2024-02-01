@@ -16,7 +16,7 @@ Simbolo:
 ---
 
 > [!infobox| background-black ]+
-`VIEW[{icon}\]\]][text(renderMarkdown)]`
+`VIEW[{icon}][text(renderMarkdown)]`
 > ###### Info
 >  |
 > ---|---|

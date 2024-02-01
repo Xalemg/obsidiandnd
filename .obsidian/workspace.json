@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "5.NPCs/Anais.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,13 +50,13 @@
               "type": "markdown",
               "state": {
                 "file": "2.Panteón/Bahamut.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Panteón/Bahamut.md",
+                "file": "5.NPCs/Anais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Panteón/Bahamut.md",
+                "file": "5.NPCs/Anais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Panteón/Bahamut.md"
+                "file": "5.NPCs/Anais.md"
               }
             }
           },
@@ -255,13 +255,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4254138155c6372a",
+  "active": "a25e9931deac79ac",
   "lastOpenFiles": [
+    "9.Puntos de interes/Catedral del Martillo.md",
+    "2.Panteón/Bahamut.md",
     "2.Panteón/2.Panteón.md",
     "2.Panteón/Tiamat.md",
     "⭐Hub.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
-    "9.Puntos de interes/Catedral del Martillo.md",
     "3.Lugares/Crestafria.md",
     "5.NPCs/Juanlu.md",
     "7.Pantalla del Master/Tabla de consejos.md",
@@ -282,7 +283,6 @@
     "5.NPCs/Rey Kemdal.md",
     "4.Facciones/Familia de Norias.md",
     "5.NPCs/Julio Altalos.md",
-    "9.Puntos de interes/Fortaleza de Norias.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
     "z_Assets/NPCs/Hansel.jpg",
