@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Juanlu.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Juanlu.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Juanlu.md"
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md"
               }
             }
           },
@@ -255,10 +254,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4254138155c6372a",
+  "active": "15e4e058e8cff69d",
   "lastOpenFiles": [
-    "3.Lugares/Crestafria.md",
     "5.NPCs/Juanlu.md",
+    "3.Lugares/Crestafria.md",
     "2.Panteón/Bahamut.md",
     "5.NPCs/Lisa.md",
     "9.Puntos de interes/Catedral del Martillo.md",
