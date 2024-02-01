@@ -1,5 +1,5 @@
 ---
-icon: "![[placeholderImage.png]]"
+icon: "![[Juanlu.webp]]"
 Ubicacion: 
 Religiones: 
 Estado: 
@@ -12,7 +12,7 @@ Oficios:
 Ideal: 
 Vinculo: 
 Defecto: 
-Interpretacion: 
+Interpretacion: Intensito
 Rango: 
 Mundo:
   - Aretries
@@ -48,7 +48,7 @@ tags:
 
 # 🔍 A simple vista
 
-#TBD
+Es muy intenso
 
 # 🎯Objetivos
 
