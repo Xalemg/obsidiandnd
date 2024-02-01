@@ -6,13 +6,14 @@ Religiones:
 Estado: Vivo
 Alineamiento: LB
 Sexo: Hombre
-Raza: Humano
+Raza:
+  - Humano
 Facciones: "[[La iglesia de Tyr]]"
 Edad:
   - Mediana edad
 Oficios:
   - Tabernero
-Ideal: 
+Ideal: En la historia hay conocimiento ya olvidado
 Vinculo: 
 Defecto: Aburre
 Interpretacion: Intensito
@@ -56,7 +57,7 @@ Lleva una balanza que hace un efecto similar que hace que quien deposite en ella
 
 # 🎯Objetivos
 
-#TBD
+Aprender sobre la historia mas antigua
 
 # 📜 Historia
 
