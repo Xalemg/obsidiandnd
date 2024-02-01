@@ -54,7 +54,7 @@ aliases:
 
 # 🔍 A simple vista
 
-Valiente y leal Lisa es la futura reina de l
+Valiente y leal Lisa es la futura reina del Reino de Altalos.
 
 # 🎯Objetivos
 
@@ -71,4 +71,4 @@ Valiente y leal Lisa es la futura reina de l
 > ```statblock
 >monster: Young Silver Dragon
 >name: NPC
-> `
+> ```
