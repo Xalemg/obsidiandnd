@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "10. Sesiones/El legado de plata (Sesión 1).md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Catedral del Martillo.md"
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md"
               }
             }
           },
@@ -255,8 +254,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a25e9931deac79ac",
+  "active": "15e4e058e8cff69d",
   "lastOpenFiles": [
+    "9.Puntos de interes/Catedral del Martillo.md",
     "3.Lugares/Crestafria.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
     "⭐Hub.md",
@@ -275,7 +275,6 @@
     "4.Facciones/La escama plateada.md",
     "4.Facciones/La sombra que fue.md",
     "3.Lugares/3.Lugares.md",
-    "9.Puntos de interes/Catedral del Martillo.md",
     "5.NPCs/Lisa.md",
     "5.NPCs/Rey Kemdal.md",
     "4.Facciones/Familia de Norias.md",
