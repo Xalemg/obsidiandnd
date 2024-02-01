@@ -50,7 +50,6 @@ tags:
 > **Ubicaciones** | `=this.Ubicacion` |
 
 # 🔍 A simple vista
-
 Reflexiva
 
 # 🎯Objetivos
