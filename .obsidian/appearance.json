@@ -2,16 +2,7 @@
   "accentColor": "#636688",
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "supercharged-links-gen",
-    "MyCallouts",
-    "BetterLeafletIcons",
-    "SlimHorizontalLine",
-    "S - Callouts",
-    "S - Checkboxes",
-    "S - Dataview Cards",
-    "S - Embed Adjustments",
-    "S - Images Adjustments",
-    "heatmap-exception"
+    "BetterLeafletIcons"
   ],
   "showViewHeader": true,
   "baseFontSize": 16,
