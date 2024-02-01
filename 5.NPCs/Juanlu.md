@@ -6,12 +6,12 @@ Estado: Vivo
 Alineamiento: 
 Sexo: Hombre
 Raza: 
-Facciones: 
+Facciones: "[[La iglesia de Tyr]]"
 Edad: 
 Oficios: 
 Ideal: 
 Vinculo: 
-Defecto: 
+Defecto: Aburre
 Interpretacion: Intensito
 Rango: 
 Mundo:
