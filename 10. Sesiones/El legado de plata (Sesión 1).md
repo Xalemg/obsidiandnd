@@ -43,7 +43,7 @@ WHERE contains(En_curso, "si") and contains(Campañas, string(this.Campaña))
 - [ ] La [[Familia de Norias]] es la principal aliada de la [[Corona de Altalos]] 
 - [ ] [[Lisa]] es una dragona 
 - [ ] Gath Igeo esta en [[Hismal]]
-- [ ] 
+- [ ] Gath Igeo significa Jinete de Dragon
 - [ ] 
 - [ ] 
 - [ ] 
