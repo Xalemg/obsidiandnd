@@ -18,11 +18,14 @@ Defecto:
 Interpretacion: Siri de The Witcher
 Rango:
   - Dragona (Lider)
-Mundo: Aretries
+Mundo:
+  - Aretries
 fileClass: NPC
 tags:
   - NPC
   - Relevante
+aliases:
+  - Lysandryth (Nombre de Dragon)
 ---
 
 > [!infobox| background-black ]+
