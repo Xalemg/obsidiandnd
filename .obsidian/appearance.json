@@ -10,9 +10,10 @@
     "S - Checkboxes",
     "S - Dataview Cards",
     "S - Embed Adjustments",
-    "S - Images Adjustments"
+    "S - Images Adjustments",
+    "heatmap-exception"
   ],
   "showViewHeader": true,
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "nativeMenus": false
 }
