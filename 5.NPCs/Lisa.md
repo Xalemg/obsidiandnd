@@ -72,3 +72,5 @@ Lisa fue la supervivienta de la cazeria del padre del [[Rey Kemdal]]. Este mato 
 >monster: Young Silver Dragon
 >name: Lisa
 > ```
+
+40
