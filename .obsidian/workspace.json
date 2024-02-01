@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "624998ae80613985",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Lugares/Crestafria.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "15e4e058e8cff69d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐Hub.md",
-                "mode": "preview",
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -281,15 +269,16 @@
   },
   "active": "f86641d110626743",
   "lastOpenFiles": [
+    "10. Sesiones/El legado de plata (Sesión 1).md",
+    "⭐Hub.md",
     "3.Lugares/Crestafria.md",
+    "9.Puntos de interes/Los coros de la redención.md",
     "4.Facciones/4.Facciones.md",
     "3.Lugares/Isla de Altalos.md",
     "4.Facciones/Corona de Altalos.md",
     "4.Facciones/La iglesia de Tyr.md",
     "4.Facciones/La escama plateada.md",
-    "⭐Hub.md",
     "4.Facciones/La sombra que fue.md",
-    "10. Sesiones/El legado de plata (Sesión 1).md",
     "7.Pantalla del Master/Tabla de consejos.md",
     "3.Lugares/3.Lugares.md",
     "9.Puntos de interes/Catedral del Martillo.md",
@@ -306,7 +295,6 @@
     "2.Panteón/Bahamut.md",
     "5.NPCs/Anvil Carrillo.md",
     "9.Puntos de interes/9.Puntos de interes.md",
-    "z_Templates/Plantilla- Tienda o Servicio.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
     "z_Assets/NPCs/Hansel.jpg",
