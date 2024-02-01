@@ -14,19 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "10. Sesiones/El legado de plata (Sesión 1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59d58685662e9e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9.Puntos de interes/Los coros de la redención.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Los coros de la redención.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Los coros de la redención.md",
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Los coros de la redención.md"
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md"
               }
             }
           },
@@ -255,13 +242,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "59d58685662e9e10",
+  "active": "15e4e058e8cff69d",
   "lastOpenFiles": [
-    "3.Lugares/Crestafria.md",
+    "5.NPCs/Anvil Carrillo.md",
+    "10. Sesiones/El legado de plata (Sesión 1).md",
     "9.Puntos de interes/Los coros de la redención.md",
+    "3.Lugares/Crestafria.md",
     "5.NPCs/Juanlu.md",
     "0.Campañas/0.Campañas.md",
-    "10. Sesiones/El legado de plata (Sesión 1).md",
     "⭐Hub.md",
     "4.Facciones/4.Facciones.md",
     "3.Lugares/Isla de Altalos.md",
@@ -282,7 +270,6 @@
     "3.Lugares/Islas Shamal.md",
     "5.NPCs/Hansel.md",
     "2.Panteón/Bahamut.md",
-    "5.NPCs/Anvil Carrillo.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
     "z_Assets/NPCs/Hansel.jpg",
