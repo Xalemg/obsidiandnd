@@ -55,11 +55,10 @@ cssClasses: card-images
 > [!column|2 no-title]
 >> [!metadata] Short Term
 >> - [x] Actualizar las notas de la [[Chumipower]] 
->> - [ ] Migrar las notas de la otra boveda
->> - [ ] 
+>> - [ ] Integrar con calendarium las fechas de las sesiones
 >
 >> [!metadata] Long Term
->
+>> - [ ] Migrar las notas de la otra boveda
 >
 
 ## Notas aleatorias
