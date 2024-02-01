@@ -4,5 +4,6 @@
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "trashOption": "local"
+  "trashOption": "local",
+  "readableLineLength": false
 }
