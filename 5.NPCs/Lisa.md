@@ -54,7 +54,7 @@ aliases:
 
 # 🔍 A simple vista
 
-Valiente y leal Lisa es la mayor admiradora
+Valiente y leal Lisa es la futura reina de l
 
 # 🎯Objetivos
 
@@ -71,4 +71,4 @@ Valiente y leal Lisa es la mayor admiradora
 > ```statblock
 >monster: Young Silver Dragon
 >name: NPC
-> ```
+> `

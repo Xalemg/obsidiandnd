@@ -2,7 +2,7 @@
 fileClass: Faccion
 tags:
   - Faccion
-aliases: Reino de Altalos
+aliases: 
 icon: "![[z_Assets/Emblemas/altalos.png]]"
 Mundo:
   - Aretries
