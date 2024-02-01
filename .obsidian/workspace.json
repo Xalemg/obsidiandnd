@@ -44,19 +44,31 @@
             }
           },
           {
+            "id": "59d58685662e9e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2b899cdd15d13c9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.Facciones/Corona de Altalos.md",
-                "mode": "source",
+                "file": "3.Lugares/Crestafria.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -241,14 +253,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "135c060b53f9b480",
+  "active": "2b899cdd15d13c9e",
   "lastOpenFiles": [
-    "5.NPCs/Hansel.md",
-    "10. Sesiones/El legado de plata (Sesión 1).md",
-    "9.Puntos de interes/9.Puntos de interes.md",
     "5.NPCs/Lisa.md",
-    "4.Facciones/La escama plateada.md",
+    "2.Panteón/Bahamut.md",
+    "5.NPCs/Anvil Carrillo.md",
+    "5.NPCs/Rey Kemdal.md",
     "4.Facciones/Corona de Altalos.md",
+    "4.Facciones/4.Facciones.md",
+    "10. Sesiones/El legado de plata (Sesión 1).md",
+    "5.NPCs/Hansel.md",
+    "9.Puntos de interes/9.Puntos de interes.md",
+    "4.Facciones/La escama plateada.md",
     "⭐Hub.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
     "9.Puntos de interes/Catedral del Martillo.md",
@@ -256,19 +272,15 @@
     "7.Pantalla del Master/7.Pantalla del Master.md",
     "0.Campañas/0.Campañas.md",
     "9.Puntos de interes/Emporium Imperium.md",
-    "4.Facciones/4.Facciones.md",
     "4.Facciones/Familia de Norias.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
     "3.Lugares/Isla de Altalos.md",
     "5.NPCs/Rufus.md",
     "z_Templates/Plantilla- Asentamiento.md",
     "0.Campañas/Personajes/Kiera/Kiera.md",
-    "5.NPCs/Anvil Carrillo.md",
     "9.Puntos de interes/Torre de Crestafria.md",
     "9.Puntos de interes/Los coros de la redención.md",
     "3.Lugares/3.Lugares.md",
-    "3.Lugares/Crestafria.md",
-    "conflict-files-obsidian-git.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
     "z_Assets/NPCs/Hansel.jpg",
