@@ -41,7 +41,7 @@ WHERE contains(En_curso, "si") and contains(Campañas, string(this.Campaña))
 *Secretos sobre el villano/enemigos, objetivo de los PJs, aliados, lugares que visitan, eventos relevantes, objetos mágicos o la misión.*
 - [ ]  Gath Igeo se encuentra en Hismal
 - [ ] La [[Familia de Norias]] es la principal aliada de la [[Corona de Altalos]] 
-- [ ] [[Lisa]] es una dragona 
+- [  ][[Lisa]] es una dragona 
 - [ ] Gath Igeo esta en [[Hismal]]
 - [ ] Gath Igeo significa Jinete de Dragon
 - [ ] Los humanos vienen de un continente llamado Tramonto
