@@ -1,6 +1,6 @@
 {
   "accentColor": "#636688",
-  "cssTheme": "",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "supercharged-links-gen",
     "MyCallouts",
