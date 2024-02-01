@@ -14,5 +14,5 @@
   ],
   "showViewHeader": true,
   "baseFontSize": 15,
-  "nativeMenus": true
+  "nativeMenus": false
 }
