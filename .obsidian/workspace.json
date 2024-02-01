@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.NPCs/Anais.md",
-                "mode": "source",
+                "file": "3.Lugares/Crestafria.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -49,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Panteón/Bahamut.md",
+                "file": "5.NPCs/Juanlu.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
+                "file": "5.NPCs/Juanlu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
+                "file": "5.NPCs/Juanlu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md"
+                "file": "5.NPCs/Juanlu.md"
               }
             }
           },
@@ -254,16 +255,17 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "15e4e058e8cff69d",
+  "active": "4254138155c6372a",
   "lastOpenFiles": [
-    "5.NPCs/Anais.md",
-    "9.Puntos de interes/Catedral del Martillo.md",
     "2.Panteón/Bahamut.md",
+    "5.NPCs/Lisa.md",
+    "3.Lugares/Crestafria.md",
+    "9.Puntos de interes/Catedral del Martillo.md",
+    "5.NPCs/Anais.md",
+    "10. Sesiones/El legado de plata (Sesión 1).md",
     "2.Panteón/2.Panteón.md",
     "2.Panteón/Tiamat.md",
     "⭐Hub.md",
-    "10. Sesiones/El legado de plata (Sesión 1).md",
-    "3.Lugares/Crestafria.md",
     "5.NPCs/Juanlu.md",
     "7.Pantalla del Master/Tabla de consejos.md",
     "0.Campañas/Grupos de aventureros/Grupos de aventureros.md",
@@ -279,7 +281,6 @@
     "4.Facciones/La escama plateada.md",
     "4.Facciones/La sombra que fue.md",
     "3.Lugares/3.Lugares.md",
-    "5.NPCs/Lisa.md",
     "5.NPCs/Rey Kemdal.md",
     "4.Facciones/Familia de Norias.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
