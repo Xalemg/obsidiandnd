@@ -65,7 +65,9 @@ WHERE contains(En_curso, "si") and contains(Campañas, string(this.Campaña))
 
 Atravesar la fortaleza vacía
 - [ ] Es importante que mantengas oculta a tu mascota mientras te encuentras en [[Crestafria]].
-- [ ] A medianoche alguien te 
+- [ ] A las 2 de la medianoche alguien importante se reunira contigo en la taverna de [[Los coros de la redención]] 
+- [ ] Frio
+- [ ] Magos Derritiendo la nieve
 ## Describiendo [[Crestafria]]
 ¿Como busca Kiera la [[Kiera]]
 # ⚔️ Encuentros
