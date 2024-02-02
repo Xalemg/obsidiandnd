@@ -4,7 +4,7 @@ cssClasses: card-images
 
 
 
-> [!cards|5 ]
+> [!cards|10 ]
  **[[0.Campañas| Campañas]]**
 > ![[SessionNotes.png]]
 >
