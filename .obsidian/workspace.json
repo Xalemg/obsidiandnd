@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "5.NPCs/Juanlu.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -103,6 +103,7 @@
       {
         "id": "66e141e4c5c2be88",
         "type": "tabs",
+        "dimension": 60.47904191616767,
         "children": [
           {
             "id": "785ab9631e1f7755",
@@ -185,11 +186,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "e3a76168cc7ee353",
         "type": "tabs",
+        "dimension": 39.52095808383233,
         "children": [
           {
             "id": "bd145fc7d68d9413",
@@ -219,7 +221,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -245,10 +248,11 @@
   },
   "active": "4254138155c6372a",
   "lastOpenFiles": [
+    "0.Campañas/0.Campañas.md",
+    "5.NPCs/Juanlu.md",
     "3.Lugares/Crestafria.md",
     "5.NPCs/Lisa.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
-    "5.NPCs/Juanlu.md",
     "2.Panteón/Bahamut.md",
     "9.Puntos de interes/Catedral del Martillo.md",
     "5.NPCs/Anais.md",
@@ -262,7 +266,6 @@
     "9.Puntos de interes/Los coros de la redención.md",
     "4.Facciones/La Mancomunidad del Viento.md",
     "5.NPCs/Anvil Carrillo.md",
-    "0.Campañas/0.Campañas.md",
     "4.Facciones/4.Facciones.md",
     "3.Lugares/Isla de Altalos.md",
     "4.Facciones/La iglesia de Tyr.md",

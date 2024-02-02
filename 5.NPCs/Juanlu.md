@@ -68,6 +68,6 @@ Aprender sobre la historia mas antigua
 
 > [!cards|dataview] 
 > ```statblock
->monster: Commoner
->name: NPC
+>monster: Paladin
+>name: Juanlu
 > ```
