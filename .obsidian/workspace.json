@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "2.Panteón/2.Panteón.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "2.Panteón/2.Panteón.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "⭐Hub.md",
+                "file": "2.Panteón/2.Panteón.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "⭐Hub.md"
+                "file": "2.Panteón/2.Panteón.md"
               }
             }
           },
@@ -206,8 +206,9 @@
   },
   "active": "f42fa5148042273a",
   "lastOpenFiles": [
-    "3.Lugares/3.Lugares.md",
     "⭐Hub.md",
+    "2.Panteón/2.Panteón.md",
+    "3.Lugares/3.Lugares.md",
     "6.Literatura/6.Literatura.md",
     "9.Puntos de interes/Los coros de la redención.md",
     "9.Puntos de interes/Catedral del Martillo.md",
@@ -231,7 +232,6 @@
     "3.Lugares/Crestafria.md",
     "conflict-files-obsidian-git.md",
     "z_Templates/Plantilla - Sesión.md",
-    "4.Facciones/Corona de Altalos.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
     "z_Assets/NPCs/Hansel.jpg",
