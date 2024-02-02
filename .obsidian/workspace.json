@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15e4e058e8cff69d",
+            "id": "f42fa5148042273a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a25e9931deac79ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Lugares/Crestafria.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f670dc60282643e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.NPCs/Lisa.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4254138155c6372a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.NPCs/Juanlu.md",
+                "file": "⭐Hub.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 300
   },
   "right": {
     "id": "cc70ceb331cfaefc",
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Lisa.md"
+                "file": "⭐Hub.md"
               }
             }
           },
@@ -195,14 +158,7 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "e3a76168cc7ee353",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "bd145fc7d68d9413",
             "type": "leaf",
@@ -222,20 +178,13 @@
                 }
               }
             }
-          },
-          {
-            "id": "58c47a96caac6045",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,34 +204,34 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1f670dc60282643e",
+  "active": "f42fa5148042273a",
   "lastOpenFiles": [
-    "3.Lugares/Crestafria.md",
-    "10. Sesiones/El legado de plata (Sesión 1).md",
-    "5.NPCs/Juanlu.md",
-    "2.Panteón/Bahamut.md",
-    "5.NPCs/Lisa.md",
     "9.Puntos de interes/Catedral del Martillo.md",
-    "5.NPCs/Anais.md",
-    "2.Panteón/2.Panteón.md",
-    "2.Panteón/Tiamat.md",
     "⭐Hub.md",
-    "7.Pantalla del Master/Tabla de consejos.md",
-    "0.Campañas/Grupos de aventureros/Grupos de aventureros.md",
-    "6.Literatura/6.Literatura.md",
-    "4.Facciones/Corona de Altalos.md",
     "9.Puntos de interes/Los coros de la redención.md",
-    "4.Facciones/La Mancomunidad del Viento.md",
-    "5.NPCs/Anvil Carrillo.md",
+    "10. Sesiones/El legado de plata (Sesión 1).md",
+    "z_Templates/Plantilla- Tienda o Servicio.md",
+    "5.NPCs/Anais.md",
+    "9.Puntos de interes/9.Puntos de interes.md",
+    "7.Pantalla del Master/7.Pantalla del Master.md",
     "0.Campañas/0.Campañas.md",
+    "9.Puntos de interes/Emporium Imperium.md",
     "4.Facciones/4.Facciones.md",
-    "3.Lugares/Isla de Altalos.md",
-    "4.Facciones/La iglesia de Tyr.md",
-    "4.Facciones/La escama plateada.md",
-    "4.Facciones/La sombra que fue.md",
-    "3.Lugares/3.Lugares.md",
-    "5.NPCs/Rey Kemdal.md",
     "4.Facciones/Familia de Norias.md",
+    "9.Puntos de interes/Fortaleza de Norias.md",
+    "3.Lugares/Isla de Altalos.md",
+    "5.NPCs/Rufus.md",
+    "5.NPCs/Hansel.md",
+    "z_Templates/Plantilla- Asentamiento.md",
+    "0.Campañas/Personajes/Kiera/Kiera.md",
+    "5.NPCs/Anvil Carrillo.md",
+    "9.Puntos de interes/Torre de Crestafria.md",
+    "3.Lugares/3.Lugares.md",
+    "3.Lugares/Crestafria.md",
+    "conflict-files-obsidian-git.md",
+    "z_Templates/Plantilla - Sesión.md",
+    "4.Facciones/Corona de Altalos.md",
+    "2024-01-25.md",
     "z_Assets/Arte/Fortaleza de Norias.webp",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
     "z_Assets/NPCs/Hansel.jpg",

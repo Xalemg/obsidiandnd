@@ -77,93 +77,9 @@
       ]
     },
     {
-      "id": "TBD",
-      "locked": true,
-      "lastAccessed": 1706810265634,
-      "markers": [],
-      "overlays": [],
-      "shapes": [
-        {
-          "type": "polyline",
-          "color": "#3388FF",
-          "vertices": [
-            {
-              "lat": 132.7012933146301,
-              "lng": 195.38244247660793,
-              "id": "ID_da88798b2baa",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 128.45865262751082,
-              "lng": 202.98384037436333,
-              "id": "ID_b97ac8596828",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 123.33212846390835,
-              "lng": 210.58523827211872,
-              "id": "ID_1a2b48ab09fb",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 125.27667211217135,
-              "lng": 218.716966255764,
-              "id": "ID_68c9fb69e9f9",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 132.8125,
-              "lng": 211.75,
-              "id": "ID_b9d8c9687b8a",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 136.9439340017494,
-              "lng": 204.22127724143976,
-              "id": "ID_89291b6a7988",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 137.12071069704604,
-              "lng": 197.32698612487093,
-              "id": "ID_caaa1ad97aa8",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 132.34773992403683,
-              "lng": 195.38244247660793,
-              "id": "ID_69b9bbe9fa98",
-              "targets": {
-                "vertexIds": []
-              }
-            }
-          ],
-          "arrows": false,
-          "reversed": false
-        }
-      ],
-      "files": [
-        "9.Puntos de interes/Los coros de la redención.md"
-      ]
-    },
-    {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706817907873,
+      "lastAccessed": 1706713343895,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -274,50 +190,97 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
-        },
-        {
-          "id": "ID_cac98a48eb9a",
-          "type": "default",
-          "loc": [
-            81.5,
-            116.5
-          ],
-          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            2.5743106252572745,
-            -2.4012167777793176
-          ],
-          "description": "Plaza de los ovaciones con estatua de un hombre gigante",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_bb2b3b3adaa9",
-          "type": "default",
-          "loc": [
-            79.90306627407988,
-            232.99168440096744
-          ],
-          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            5.1484375,
-            -2.3541666666666665
-          ],
-          "description": "Tabernas Kalverin",
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
         "3.Lugares/Crestafria.md"
+      ]
+    },
+    {
+      "id": "TBD",
+      "locked": true,
+      "lastAccessed": 1706850645635,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 132.7012933146301,
+              "lng": 195.38244247660793,
+              "id": "ID_da88798b2baa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 128.45865262751082,
+              "lng": 202.98384037436333,
+              "id": "ID_b97ac8596828",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 123.33212846390835,
+              "lng": 210.58523827211872,
+              "id": "ID_1a2b48ab09fb",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 125.27667211217135,
+              "lng": 218.716966255764,
+              "id": "ID_68c9fb69e9f9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 132.8125,
+              "lng": 211.75,
+              "id": "ID_b9d8c9687b8a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 136.9439340017494,
+              "lng": 204.22127724143976,
+              "id": "ID_89291b6a7988",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 137.12071069704604,
+              "lng": 197.32698612487093,
+              "id": "ID_caaa1ad97aa8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 132.34773992403683,
+              "lng": 195.38244247660793,
+              "id": "ID_69b9bbe9fa98",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "9.Puntos de interes/Los coros de la redención.md",
+        "z_Templates/Plantilla- Punto de Interes.md"
       ]
     }
   ],
