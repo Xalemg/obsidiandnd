@@ -2,7 +2,7 @@
   "userAdmonitions": {
     "Mapa": {
       "type": "Mapa",
-      "color": "#7d7d7d",
+      "color": "52, 147, 84",
       "icon": {
         "name": "map",
         "type": "font-awesome"

@@ -85,7 +85,7 @@ _Descripción de la historia de la ciudad_
 
 
 # Otros
-> [!metadata|map]+ Mapa
+> [!Mapa]-
 > ```leaflet
 > 
 > 
