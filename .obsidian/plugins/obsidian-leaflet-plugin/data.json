@@ -1,163 +1,6 @@
 {
   "mapMarkers": [
     {
-      "id": "TBD",
-      "locked": false,
-      "lastAccessed": 1710240359700,
-      "markers": [
-        {
-          "id": "ID_492878fb4a19",
-          "type": "default",
-          "loc": [
-            -46.75,
-            66
-          ],
-          "link": "Cueva del regalo#Estatua de la bienvenida",
-          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7808083adb2b",
-          "type": "default",
-          "loc": [
-            -111.01576464628798,
-            196.62018270408083
-          ],
-          "link": "Cueva del regalo#Trampas",
-          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_e8bbfa699bd9",
-          "type": "default",
-          "loc": [
-            -125.47002162265204,
-            92.71937668308605
-          ],
-          "link": "Cueva del regalo#Pila de Huesos congelada",
-          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_fb48ea295939",
-          "type": "default",
-          "loc": [
-            -55.5078125,
-            110.25
-          ],
-          "link": "Cueva del regalo#Suelo resbaladizo",
-          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_d939ba7afb89",
-          "type": "default",
-          "loc": [
-            -74.5078125,
-            34.25
-          ],
-          "link": "Cueva del regalo#Suelo resbaladizo",
-          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_69299a6a6be9",
-          "type": "default",
-          "loc": [
-            -49.5,
-            171.5
-          ],
-          "link": "Cueva del regalo#Suelo resbaladizo",
-          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_6b0b08da8999",
-          "type": "default",
-          "loc": [
-            -179.95867581197635,
-            44.5477272147525
-          ],
-          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_da78f85979b9",
-          "type": "default",
-          "loc": [
-            -159.5078125,
-            188.25
-          ],
-          "link": "Cueva del regalo#Destileria",
-          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_bb88584b9859",
-          "type": "default",
-          "loc": [
-            -233.99157758373903,
-            162.55872308085154
-          ],
-          "link": "Cueva del regalo#Meadero",
-          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
-          "mutable": true,
-          "command": false,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "3.Lugares/Cueva del regalo.md",
-        "z_Templates/Plantilla- Mazmorra.md",
-        "9.Puntos de interes/Torre de Crestafria.md"
-      ]
-    },
-    {
       "id": "Islas",
       "locked": true,
       "lastAccessed": 1710259400118,
@@ -440,6 +283,161 @@
       "shapes": [],
       "files": [
         "3.Lugares/Crestafria.md"
+      ]
+    },
+    {
+      "id": "TBD",
+      "locked": false,
+      "lastAccessed": 1710414025222,
+      "markers": [
+        {
+          "id": "ID_492878fb4a19",
+          "type": "default",
+          "loc": [
+            -46.75,
+            66
+          ],
+          "link": "Cueva del regalo#Estatua de la bienvenida",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7808083adb2b",
+          "type": "default",
+          "loc": [
+            -111.01576464628798,
+            196.62018270408083
+          ],
+          "link": "Cueva del regalo#Trampas",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8bbfa699bd9",
+          "type": "default",
+          "loc": [
+            -125.47002162265204,
+            92.71937668308605
+          ],
+          "link": "Cueva del regalo#Pila de Huesos congelada",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb48ea295939",
+          "type": "default",
+          "loc": [
+            -55.5078125,
+            110.25
+          ],
+          "link": "Cueva del regalo#Suelo resbaladizo",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d939ba7afb89",
+          "type": "default",
+          "loc": [
+            -74.5078125,
+            34.25
+          ],
+          "link": "Cueva del regalo#Suelo resbaladizo",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69299a6a6be9",
+          "type": "default",
+          "loc": [
+            -49.5,
+            171.5
+          ],
+          "link": "Cueva del regalo#Suelo resbaladizo",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b0b08da8999",
+          "type": "default",
+          "loc": [
+            -179.95867581197635,
+            44.5477272147525
+          ],
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da78f85979b9",
+          "type": "default",
+          "loc": [
+            -159.5078125,
+            188.25
+          ],
+          "link": "Cueva del regalo#Destileria",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb88584b9859",
+          "type": "default",
+          "loc": [
+            -233.99157758373903,
+            162.55872308085154
+          ],
+          "link": "Cueva del regalo#Meadero",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "z_Templates/Plantilla- Asentamiento.md"
       ]
     }
   ],
