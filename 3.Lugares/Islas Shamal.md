@@ -20,7 +20,8 @@ Gobierno:
 Ubicacion: "[[Aretries]]"
 Defensas: 
 Religion: 
-cssclasses: []
+cssclasses:
+  - wide
 ---
 > [!infobox| background-black ]+
 `VIEW[{icon}][text(renderMarkdown)]`

@@ -331,13 +331,12 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/Plantilla- Asentamiento.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -403,7 +402,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla- Asentamiento.md",
+                "file": "3.Lugares/Islas Shamal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -420,7 +419,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla- Asentamiento.md",
+                "file": "3.Lugares/Islas Shamal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -443,7 +442,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla- Asentamiento.md"
+                "file": "3.Lugares/Islas Shamal.md"
               }
             }
           },
@@ -537,10 +536,10 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "03fc0a37d7676df5",
+  "active": "f283af7ee43d08c2",
   "lastOpenFiles": [
-    "z_Templates/Plantilla- Punto de Interes.md",
     "z_Templates/Plantilla- Asentamiento.md",
+    "z_Templates/Plantilla- Punto de Interes.md",
     "z_Templates/Plantilla- Mazmorra.md",
     "z_Templates/Plantilla- Lugares.md",
     "3.Lugares/Islas Shamal.md",

@@ -80,9 +80,8 @@ _¿Cómo se mueve el dinero en la ciudad? ¿Cómo se entretiene la gente? ¿Qué
 
 ## 🧾 Historia
 
-_Descripción de la historia de la ciudad_
+_Descripción de la historia del asientamiento_
 # ✏️ Notas
-
 
 # Otros
 > [!Mapa]-
