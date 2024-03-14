@@ -107,7 +107,7 @@
   "ITS@@t-d": false,
   "ITS@@tab-outline-width": 2,
   "ITS@@ITS-Table-Styling": "tables-style-wikipedia",
-  "ITS@@tables-center": false,
+  "ITS@@tables-center": true,
   "ITS@@file-header-font-size": 15,
   "ITS@@inline-title-font-size": 34,
   "ITS@@Inline-Title-Sizes": "none",
