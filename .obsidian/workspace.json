@@ -335,9 +335,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85b46c35a16eb8b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⭐Hub.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -403,7 +415,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Sesiones/Sesión 3 El Legado de plata (2024-02-29).md",
+                "file": "⭐Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -420,7 +432,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Sesiones/Sesión 3 El Legado de plata (2024-02-29).md",
+                "file": "⭐Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -443,7 +455,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10. Sesiones/Sesión 3 El Legado de plata (2024-02-29).md"
+                "file": "⭐Hub.md"
               }
             }
           },
@@ -537,17 +549,17 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "99572378f4fed1d3",
+  "active": "85b46c35a16eb8b5",
   "lastOpenFiles": [
-    "0.Campañas/Personajes/Personajes.md",
-    "10. Sesiones/Sesión 3 El Legado de plata (2024-02-29).md",
+    "z_Templates/Plantilla- Tienda o Servicio.md",
     "⭐Hub.md",
+    "10. Sesiones/Sesión 3 El Legado de plata (2024-02-29).md",
+    "0.Campañas/Personajes/Personajes.md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
     "z_Templates/Plantilla - Sesión.md",
     "5.NPCs/5.NPCs.md",
     "3.Lugares/Islas Shamal.md",
     "z_Templates/Plantilla- Punto de Interes.md",
-    "z_Templates/Plantilla- Tienda o Servicio.md",
     "z_Templates/Plantilla- Mazmorra.md",
     "z_Templates/Plantilla- Lugares.md",
     "z_Templates/Plantilla- Asentamiento.md",
