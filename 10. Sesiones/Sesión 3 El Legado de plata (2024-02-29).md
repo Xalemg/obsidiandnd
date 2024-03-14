@@ -18,7 +18,7 @@ fecha: 2024-03-06
 Informacion relevante:
 ---
 > [!Info]-
-> - [ ] Reflexionar sobre los PJs y en cosas que les involucren con la sesión 
+> - [x] Reflexionar sobre los PJs y en cosas que les involucren con la sesión 
 > - [ ] Elegir un comienzo de sesión impresionante
 > - [ ] Describir la información básica
 > - [ ] Pensar en las escenas probables 
