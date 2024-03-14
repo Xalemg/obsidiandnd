@@ -79,7 +79,7 @@ Existen dos historias que todo habitante de la mancomunidad conoce:
 # ✏️ Notas
 
 # Mapa
->[!Mapa]
+>[!Mapa]+
 > ```leaflet
 > 
 > 

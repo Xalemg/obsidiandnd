@@ -173,7 +173,7 @@
   "ITS@@table-cell-padding-x": 6,
   "ITS@@table-header-padding-x": 8,
   "ITS@@table-header-padding-y": 3,
-  "ITS@@file-line-width": 1000,
+  "ITS@@file-line-width": 900,
   "ITS@@vault-font": "'Calisto MT', 'Palatino Black', 'Book Antiqua', 'Georgia', 'Suez One', serif",
   "ITS@@folder-f": "its",
   "ITS@@p-spacing": 1
