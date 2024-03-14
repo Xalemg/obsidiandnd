@@ -63,7 +63,7 @@ SORT file.Tipo ASC
 #TBD
 
 # Mapa
-> [!metadata|map]+ Map
+> [!Mapa]+
 > ```leaflet
 > 
 > 
@@ -121,27 +121,8 @@ SORT file.Tipo ASC
 > darkMode: false
 >
 > ```
-
-> [!metadata|pois]+ Localizaciones
-> ```dataview
-table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Tematica
-FROM #Lugar
-WHERE  contains(Ubicacion, [[]])
-SORT file.name ASC
-
-> [!facciones|facciones]+ Facciones
-> ```dataview
-table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Influencia
-FROM #Faccion
-WHERE  contains(Ubicacion, [[]])
-SORT file.name ASC
-
-> [!characters|characters]+ NPCs
-> ```dataview
-table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, join(Oficios, ", ") AS "Oficios", Alienamiento
-FROM #NPC
-WHERE  contains(Ubicacion, [[]]) AND !contains(Estado, "Muerto" )
-SORT file.name ASC
+>  ## Ubicaciones
+>  ### Sala 1
 
 > [!metadata]- Encuentros Aleatorios
 > ![[Encuentros Underdark]]
