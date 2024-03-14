@@ -539,10 +539,10 @@
   },
   "active": "bb8612242f2882b4",
   "lastOpenFiles": [
+    "z_Templates/Plantilla- Asentamiento.md",
+    "z_Templates/Plantilla- Lugares.md",
     "3.Lugares/Islas Shamal.md",
     "8.Notas varias/Fragmentos de Dataview.md",
-    "z_Templates/Plantilla- Lugares.md",
-    "z_Templates/Plantilla- Asentamiento.md",
     "⭐Hub.md",
     "z_Templates/Plantilla- Punto de Interes.md",
     "9.Puntos de interes/Los coros de la redención.md",
@@ -586,4 +586,3 @@
     "z.Leaflet/plugins/obsidian-leaflet-plugin",
     "z.Leaflet/plugins"
   ]
-}
