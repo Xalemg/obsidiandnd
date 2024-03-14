@@ -318,7 +318,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/Plantilla- Lugares.md",
+                "file": "z_Templates/Plantilla- Punto de Interes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -403,7 +403,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z_Templates/Plantilla- Lugares.md",
+                "file": "z_Templates/Plantilla- Punto de Interes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -420,7 +420,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z_Templates/Plantilla- Lugares.md",
+                "file": "z_Templates/Plantilla- Punto de Interes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -443,7 +443,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z_Templates/Plantilla- Lugares.md"
+                "file": "z_Templates/Plantilla- Punto de Interes.md"
               }
             }
           },
@@ -540,11 +540,12 @@
   "active": "bb8612242f2882b4",
   "lastOpenFiles": [
     "z_Templates/Plantilla- Asentamiento.md",
+    "z_Templates/Plantilla- Punto de Interes.md",
+    "z_Templates/Plantilla- Mazmorra.md",
     "z_Templates/Plantilla- Lugares.md",
     "3.Lugares/Islas Shamal.md",
     "8.Notas varias/Fragmentos de Dataview.md",
     "⭐Hub.md",
-    "z_Templates/Plantilla- Punto de Interes.md",
     "9.Puntos de interes/Los coros de la redención.md",
     "9.Puntos de interes/9.Puntos de interes.md",
     "3.Lugares/3.Lugares.md",
@@ -557,7 +558,6 @@
     "4.Facciones/Familia de Norias.md",
     "4.Facciones/Corona de Altalos.md",
     "4.Facciones/4.Facciones.md",
-    "z_Templates/Plantilla- Mazmorra.md",
     "3.Lugares/Cueva del regalo.md",
     "5.NPCs/Kuma.md",
     "10. Sesiones/Sesión 3 El Legado de plata (2024-02-29).md",
@@ -586,3 +586,4 @@
     "z.Leaflet/plugins/obsidian-leaflet-plugin",
     "z.Leaflet/plugins"
   ]
+}

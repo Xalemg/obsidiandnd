@@ -62,7 +62,7 @@ SORT file.Tipo ASC
 
 #TBD
 
-# Otros
+# Mapa
 > [!metadata|map]+ Map
 > ```leaflet
 > 
