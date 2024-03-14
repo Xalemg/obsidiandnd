@@ -319,8 +319,8 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/Plantilla- Lugares.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -586,3 +586,4 @@
     "z.Leaflet/plugins/obsidian-leaflet-plugin",
     "z.Leaflet/plugins"
   ]
+}
