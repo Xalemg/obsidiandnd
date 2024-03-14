@@ -24,6 +24,7 @@ Mundo:
 > **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
 > **Tipo** | `VIEW[{Tipo}][text(renderMarkdown)]` |
 > **Temática** | `VIEW[{Rangos}][text(renderMarkdown)]` |
+> ## NPCs
 >   ```dataview
 table without ID  file.link AS Nombre, Raza
 FROM #NPC
