@@ -25,7 +25,27 @@ Ubicacion:
 > **Población** | `=this.Poblacion` |
 > **Temática** | `VIEW[{Rangos}][text(renderMarkdown)]` |
 > **Terreno** | `VIEW[{Terreno}][text(renderMarkdown)]`|
-
+>   ## NPCs
+>   ```dataview
+table without ID  file.link AS Nombre, Raza
+FROM #NPC
+WHERE  contains(Ubicacion, [[]])
+SORT file.name ASC
+>```
+> ## Localizaciones
+>   ```dataview
+table rows.file.link AS Nombre
+FROM #Lugar
+WHERE  contains(Ubicacion, [[]])
+GROUP BY Tipo
+SORT file.name ASC
+>```
+>   ## Facciones
+> ```dataview
+table without ID  file.link AS Nombre
+FROM #Faccion
+WHERE  contains(Ubicacion, [[]])
+SORT file.Tipo ASC
 # 🔍 A simple vista
 
 #TBD
@@ -97,24 +117,3 @@ Ubicacion:
 > darkMode: false
 >
 > ```
-
-> [!metadata|pois]+ Localizaciones
-> ```dataview
-table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Tematica
-FROM #Lugar
-WHERE  contains(Ubicacion, [[]])
-SORT file.name ASC
-
-> [!facciones|facciones]+ Facciones
-> ```dataview
-table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Influencia
-FROM #Faccion
-WHERE  contains(Ubicacion, [[]])
-SORT file.name ASC
-
-> [!characters|characters]+ NPCs
-> ```dataview
-table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, join(Oficios, ", ") AS "Oficios", Alienamiento
-FROM #NPC
-WHERE  contains(Ubicacion, [[]]) AND !contains(Estado, "Muerto" )
-SORT file.name ASC
