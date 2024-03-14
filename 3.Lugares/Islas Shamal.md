@@ -20,8 +20,7 @@ Gobierno:
 Ubicacion: "[[Aretries]]"
 Defensas: 
 Religion: 
-cssclasses:
-  - wide
+cssclasses: []
 ---
 > [!infobox| background-black ]+
 `VIEW[{icon}][text(renderMarkdown)]`
@@ -80,7 +79,7 @@ Existen dos historias que todo habitante de la mancomunidad conoce:
 # ✏️ Notas
 
 # Mapa
->[]
+>[!Mapa]
 > ```leaflet
 > 
 > 
