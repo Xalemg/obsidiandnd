@@ -98,9 +98,9 @@
    --callout-color: 165, 205, 262;
 }
 
-.callout.callout.callout[data-callout-metadata="groups"] {
+.callout.callout.callout[data-callout-metadata="facciones"] {
    --callout-icon: component;
-   --callout-color: 255, 168, 102;
+   --callout-color: 67, 116, 67;
 }
 
 .callout.callout.callout[data-callout-metadata="rolltable"] {

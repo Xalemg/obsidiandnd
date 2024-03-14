@@ -56,3 +56,8 @@ Obispo
 Obispo Superior
 Mago de la Torre de Crestafria
 Tabernero
+Herbolista
+Asaltador
+Saqueador
+Vendedor
+Lider de la Escama de Plata

@@ -17,3 +17,7 @@ Magia
 Investigacion
 Descanso
 Tecnologia
+Superación
+Desolación
+Historia
+Congelacion

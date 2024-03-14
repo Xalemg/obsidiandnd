@@ -4,47 +4,340 @@
     "type": "split",
     "children": [
       {
-        "id": "e19111d5f8ae2a6e",
+        "id": "425e4a44f4f16711",
         "type": "tabs",
         "children": [
           {
-            "id": "15e4e058e8cff69d",
+            "id": "ea8ffb52c866dce1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10. Sesiones/El legado de plata (Sesión 1).md",
+                "file": "8.Notas varias/Fragmentos de Dataview.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a25e9931deac79ac",
+            "id": "f283af7ee43d08c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "3.Lugares/Islas Shamal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca1e2218225d727a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.NPCs/Lisa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e62382c5032cb340",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "image": null,
+                    "name": "Young White Dragon",
+                    "source": [
+                      "Monster Manual",
+                      "The Rise of Tiamat",
+                      "Tales from the Yawning Portal",
+                      "Dragon of Icespire Peak",
+                      "Icewind Dale: Rime of the Frostmaiden",
+                      "LK",
+                      "ToFW",
+                      "BMT"
+                    ],
+                    "type": "dragon",
+                    "size": "Large",
+                    "alignment": "chaotic evil",
+                    "hp": 133,
+                    "hit_dice": "14d10 + 56",
+                    "ac": 17,
+                    "speed": "40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.",
+                    "stats": [
+                      18,
+                      10,
+                      18,
+                      6,
+                      11,
+                      12
+                    ],
+                    "damage_immunities": "cold",
+                    "damage_resistances": "",
+                    "damage_vulnerabilities": "",
+                    "condition_immunities": "",
+                    "saves": [
+                      {
+                        "dexterity": "3"
+                      },
+                      {
+                        "constitution": "7"
+                      },
+                      {
+                        "wisdom": "3"
+                      },
+                      {
+                        "charisma": "4"
+                      }
+                    ],
+                    "skillsaves": [
+                      {
+                        "perception": "6"
+                      },
+                      {
+                        "stealth": "3"
+                      }
+                    ],
+                    "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16",
+                    "languages": "Common, Draconic",
+                    "cr": "6",
+                    "traits": [
+                      {
+                        "name": "Ice Walk",
+                        "desc": "The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement."
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "name": "Multiattack",
+                        "desc": "The dragon makes three attacks: one with its bite and two with its claws."
+                      },
+                      {
+                        "name": "Bite",
+                        "desc": "Melee Weapon Attack +7 to hit, reach 10 ft., one target. 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage."
+                      },
+                      {
+                        "name": "Claw",
+                        "desc": "Melee Weapon Attack +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage."
+                      },
+                      {
+                        "name": "Cold Breath (Recharge 5-6)",
+                        "desc": "The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one."
+                      }
+                    ],
+                    "bonus_actions": [],
+                    "reactions": [],
+                    "legendary_actions": [],
+                    "mythic_actions": [],
+                    "spells": [],
+                    "spellsNotes": ""
+                  },
+                  1
+                ],
+                [
+                  {
+                    "image": null,
+                    "name": "Icewind Kobold",
+                    "source": [
+                      "Icewind Dale: Rime of the Frostmaiden"
+                    ],
+                    "type": "humanoid",
+                    "subtype": "kobold",
+                    "size": "Small",
+                    "alignment": "any alignment",
+                    "hp": 9,
+                    "hit_dice": "2d6 + 2",
+                    "ac": 14,
+                    "speed": "30 ft., climb 20 ft.",
+                    "stats": [
+                      7,
+                      15,
+                      12,
+                      8,
+                      8,
+                      8
+                    ],
+                    "damage_immunities": "",
+                    "damage_resistances": "",
+                    "damage_vulnerabilities": "",
+                    "condition_immunities": "",
+                    "saves": [
+                      {
+                        "dexterity": "4"
+                      },
+                      {
+                        "constitution": "3"
+                      }
+                    ],
+                    "skillsaves": [
+                      {
+                        "perception": "1"
+                      },
+                      {
+                        "stealth": "4"
+                      },
+                      {
+                        "survival": "1"
+                      }
+                    ],
+                    "senses": "darkvision 60 ft., passive Perception 11",
+                    "languages": "Common, Draconic",
+                    "cr": "1/8",
+                    "traits": [
+                      {
+                        "name": "Pack Tactics",
+                        "desc": "The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated."
+                      },
+                      {
+                        "name": "Sunlight Sensitivity",
+                        "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "name": "Dagger",
+                        "desc": "Melee / Ranged Weapon Attack +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage."
+                      },
+                      {
+                        "name": "Javelin",
+                        "desc": "Melee / Ranged Weapon Attack +0 to hit, reach 5 ft. or range 30/120 ft., one target. 1 (1d6 - 2) piercing damage."
+                      }
+                    ],
+                    "bonus_actions": [],
+                    "reactions": [],
+                    "legendary_actions": [],
+                    "mythic_actions": [],
+                    "spells": [],
+                    "spellsNotes": ""
+                  },
+                  17
+                ],
+                [
+                  {
+                    "image": null,
+                    "name": "Transmuter Wizard",
+                    "source": [
+                      "MPMM",
+                      "Volo's Guide to Monsters"
+                    ],
+                    "type": "humanoid",
+                    "size": "Medium",
+                    "alignment": "any alignment",
+                    "hp": 49,
+                    "hit_dice": "11d8",
+                    "ac": 12,
+                    "speed": "30 ft.",
+                    "stats": [
+                      9,
+                      14,
+                      11,
+                      17,
+                      12,
+                      11
+                    ],
+                    "damage_immunities": "",
+                    "damage_resistances": "",
+                    "damage_vulnerabilities": "",
+                    "condition_immunities": "",
+                    "saves": [
+                      {
+                        "intelligence": "6"
+                      },
+                      {
+                        "wisdom": "4"
+                      }
+                    ],
+                    "skillsaves": [
+                      {
+                        "arcana": "6"
+                      },
+                      {
+                        "history": "6"
+                      }
+                    ],
+                    "senses": "passive Perception 11",
+                    "languages": "any four languages",
+                    "cr": "5",
+                    "traits": [
+                      {
+                        "name": "Transmuter's Stone",
+                        "desc": "The transmuter carries a magic stone it crafted. The stone grants it one of the following benefits while bearing the stone; the transmuter chooses the benefit at the end of each long rest:"
+                      },
+                      {
+                        "name": "Darkvision",
+                        "desc": "The transmuter has {@sense darkvision} out to a range of 60 feet."
+                      },
+                      {
+                        "name": "Resilience",
+                        "desc": "The transmuter has proficiency in Constitution saving throws. "
+                      },
+                      {
+                        "name": "Resistance",
+                        "desc": "Resistance. The transmuter has resistance to acid, cold, fire, lightning, or thunder damage (transmuter's choice whenever choosing this benefit)."
+                      },
+                      {
+                        "name": "Speed",
+                        "desc": "The transmuter's walking speed is increased by 10 feet."
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "name": "Multiattack",
+                        "desc": "The transmuter makes three Arcane Burst attacks."
+                      },
+                      {
+                        "name": "Arcane Burst",
+                        "desc": "{@atk ms,rs} +6 to hit, reach 5 ft. or range 120 ft., one target. 19 (3d10 + 3) acid damage."
+                      }
+                    ],
+                    "bonus_actions": [
+                      {
+                        "name": "Transmute (Recharge 4-6)",
+                        "desc": "The transmuter casts alter self or changes the benefit of Transmuter's Stone if bearing the stone."
+                      }
+                    ],
+                    "reactions": [],
+                    "legendary_actions": [],
+                    "mythic_actions": [],
+                    "spells": [
+                      "The transmuter casts one of the following spells, using Intelligence as the spellcasting ability (spell save 14):",
+                      {
+                        "At will": "light, message, prestidigitation"
+                      },
+                      {
+                        "2/day each": "fireball, hold person, knock, mage armor, polymorph, slow"
+                      },
+                      {
+                        "1/day each": "telekinesis"
+                      }
+                    ],
+                    "spellsNotes": ""
+                  },
+                  1
+                ]
+              ]
+            }
+          },
+          {
+            "id": "bb8612242f2882b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/Plantilla- Asentamiento.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4254138155c6372a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.NPCs/Juanlu.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -73,7 +366,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"tags:  - PuntoDeInteres\"",
+                "query": "tag:#NPC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +396,6 @@
       {
         "id": "66e141e4c5c2be88",
         "type": "tabs",
-        "dimension": 60.47904191616767,
         "children": [
           {
             "id": "785ab9631e1f7755",
@@ -111,7 +403,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Juanlu.md",
+                "file": "z_Templates/Plantilla- Asentamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +420,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Juanlu.md",
+                "file": "z_Templates/Plantilla- Asentamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +443,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Juanlu.md"
+                "file": "z_Templates/Plantilla- Asentamiento.md"
               }
             }
           },
@@ -170,31 +462,7 @@
             }
           },
           {
-            "id": "8c6f6c034f5e85a1",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "b7c59265677dbc4e",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "e3a76168cc7ee353",
-        "type": "tabs",
-        "dimension": 39.52095808383233,
-        "children": [
-          {
-            "id": "bd145fc7d68d9413",
+            "id": "d974e862e6999b14",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
@@ -203,9 +471,9 @@
                 "ephemeral": {
                   "viewState": 1,
                   "displaying": {
-                    "year": 783,
+                    "day": 11,
                     "month": 0,
-                    "day": 7
+                    "year": 783
                   },
                   "displayDayNumber": false,
                   "displayMoons": true
@@ -214,22 +482,45 @@
             }
           },
           {
-            "id": "58c47a96caac6045",
+            "id": "7ed509b569c7924c",
             "type": "leaf",
             "state": {
-              "type": "fantasy-statblocks-creature-pane",
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "1acd5a6b282b8852",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
+      },
+      {
+        "id": "05c6e941dadb8659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71d4a587d370b4d9",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -237,62 +528,62 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "open-vscode:VSCode": false,
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
-      "open-vscode:VSCode": false,
-      "calendarium:Open Calendarium": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "calendarium:Open Calendarium": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "4254138155c6372a",
+  "active": "bb8612242f2882b4",
   "lastOpenFiles": [
-    "0.Campañas/0.Campañas.md",
-    "5.NPCs/Juanlu.md",
-    "3.Lugares/Crestafria.md",
-    "5.NPCs/Lisa.md",
-    "10. Sesiones/El legado de plata (Sesión 1).md",
-    "2.Panteón/Bahamut.md",
-    "9.Puntos de interes/Catedral del Martillo.md",
-    "5.NPCs/Anais.md",
-    "2.Panteón/2.Panteón.md",
-    "2.Panteón/Tiamat.md",
-    "⭐Hub.md",
-    "7.Pantalla del Master/Tabla de consejos.md",
-    "0.Campañas/Grupos de aventureros/Grupos de aventureros.md",
-    "6.Literatura/6.Literatura.md",
-    "4.Facciones/Corona de Altalos.md",
+    "z_Templates/Plantilla- Lugares.md",
+    "z_Templates/Plantilla- Punto de Interes.md",
     "9.Puntos de interes/Los coros de la redención.md",
-    "4.Facciones/La Mancomunidad del Viento.md",
-    "5.NPCs/Anvil Carrillo.md",
-    "4.Facciones/4.Facciones.md",
-    "3.Lugares/Isla de Altalos.md",
-    "4.Facciones/La iglesia de Tyr.md",
-    "4.Facciones/La escama plateada.md",
-    "4.Facciones/La sombra que fue.md",
+    "9.Puntos de interes/9.Puntos de interes.md",
     "3.Lugares/3.Lugares.md",
-    "5.NPCs/Rey Kemdal.md",
+    "3.Lugares/Aretries.md",
+    "5.NPCs/Giselda.md",
+    "9.Puntos de interes/Torre de Crestafria.md",
+    "⭐Hub.md",
+    "3.Lugares/Islas Shamal.md",
+    "3.Lugares/Crestafria.md",
+    "9.Puntos de interes/La pocima del heroe.md",
+    "9.Puntos de interes/Fortaleza de Norias.md",
     "4.Facciones/Familia de Norias.md",
-    "z_Assets/Arte/Fortaleza de Norias.webp",
+    "4.Facciones/Corona de Altalos.md",
+    "4.Facciones/4.Facciones.md",
+    "z_Templates/Plantilla- Mazmorra.md",
+    "3.Lugares/Cueva del regalo.md",
+    "5.NPCs/Kuma.md",
+    "10. Sesiones/Sesión 3 El Legado de plata (2024-02-29).md",
+    "3.Lugares/Isla de Altalos.md",
+    "8.Notas varias/Fragmentos de Dataview.md",
+    "4.Facciones/Tabernas Kalverin.md",
+    "5.NPCs/Koradin.md",
+    "5.NPCs/Lisa.md",
+    "5.NPCs/Hansel.md",
+    "z_Assets/NPCs/Kuma.png",
+    "z_Assets/Arte/El desencadenamiento de Tyr.jpg",
+    "z_Assets/Arte/El desencadenamiento de Tyr.webp",
+    "z_Assets/NPCs/Kodarin.jpg",
+    "z_Assets/NPCs/Kodarin.jpg.crdownload",
+    "z_Assets/Arte/Imperium Emporium.png",
+    "z_Assets/Arte/cueva del regalo.png",
+    "z_Assets/Arte/coros de la redención.png",
+    "z_Assets/NPCs/Gathrulam dragon blanco.jpg",
+    "z_Assets/NPCs/Gathrulam dragon blanco.jpg.crdownload",
+    "z_Assets/Arte/Calles Crestafria.webp",
+    "z_Assets/Arte/El espinazo.jpg",
+    "z_Assets/Arte/wp6983089-anime-winter-mountain-wallpapers.jpg.crdownload",
+    "z_Assets/Emblemas/gath igeo (1).png.crdownload",
+    "z_Assets/Mapas/La cueva del sabio.png.crdownload",
     "z_Assets/Arte/Fortaleza de Norias.webp.crdownload",
-    "z_Assets/NPCs/Hansel.jpg",
     "z_Assets/NPCs/Hansel.jpg.crdownload",
     "z.Leaflet/plugins/obsidian-leaflet-plugin/data.json",
     "z.Leaflet/plugins/obsidian-leaflet-plugin",
-    "z.Leaflet/plugins",
-    "z.Leaflet",
-    "Nueva carpeta",
-    "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin/data.json",
-    "z_Assets/Leaflet/plugins/obsidian-leaflet-plugin",
-    "z_Assets/Leaflet/plugins",
-    "z_Assets/NPCs/Emir Snader.webp",
-    "z_Assets/NPCs/Julio Altalos.jpg",
-    "z_Assets/Arte/CCz9NtN6rH5myhhj_MajMIH-391lJTl2DpmthCXVrAY.webp",
-    "z_Assets/Jugadores/Chain Cerenia.png",
-    "z_Assets/Emblemas/tabernas kalverin.png",
-    "z_Assets/NPCs/Anvil Carrillo.jpg",
-    "z_Assets/NPCs/Obispa Anais.png",
-    "z_Assets/Obispa Anais.png"
+    "z.Leaflet/plugins"
   ]
 }

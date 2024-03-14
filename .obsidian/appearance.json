@@ -1,16 +1,16 @@
 {
-  "accentColor": "#636688",
-  "cssTheme": "Minimal",
+  "accentColor": "#140b0b",
+  "cssTheme": "ITS Theme",
   "enabledCssSnippets": [
-    "BetterLeafletIcons",
-    "S - Images Adjustments",
-    "S - Embed Adjustments",
-    "S - Dataview Cards",
-    "S - Checkboxes",
-    "S - Callouts",
-    "supercharged-links-gen"
+    "supercharged-links-gen",
+    "hideProperties",
+    "imageSuggester",
+    "MyCallouts",
+    "fuentes mias"
   ],
   "showViewHeader": true,
   "baseFontSize": 16,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "textFontFamily": ""
 }

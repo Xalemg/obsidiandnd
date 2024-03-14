@@ -19,14 +19,14 @@ Simbolo:
 > ###### Info
 >  |
 > ---|---|
-> **Dominio** | `=this.Dominio` |
-> **Rango Deidad** | `=this.RangoDeidad` |
-> **Alineamiento** | `=this.Alineamiento` |
-> **Estado** | `=this.Estado` |
-> **Prohibido** | `=this.Prohibido` |
-> **Alias** |`=this.aliases` |
-> **Simbolo Sagrado** | `=this.Simbolo` |
-> **Sequito** | `=this.Sequito` |
+> **Dominio** | `VIEW[{Dominio}][text(renderMarkdown)]` |
+> **Rango Deidad** | `VIEW[{RangoDeidad}][text(renderMarkdown)]` |
+> **Alineamiento** | `VIEW[{Alineamiento}][text(renderMarkdown)]` |
+> **Estado** | `VIEW[{Estado}][text(renderMarkdown)]` |
+> **Prohibido** | `VIEW[{Prohibido}][text(renderMarkdown)]` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
+> **Simbolo Sagrado** | `VIEW[{Simbolo}][text(renderMarkdown)]` |
+> **Sequito** | `VIEW[{Sequito}][text(renderMarkdown)]` |
 # 🔍 A simple vista
 
 El avatar de Amaunator, cuya piel desprendía una luz dorada, tenía el aspecto de un hombre larguirucho, de pelo blanco plateado y largo, con una barba blanca tendida, vestido con un traje largo y fluido, negro o morado, con adornos plateados o dorados, el uniforme de un magistrado.
@@ -35,7 +35,7 @@ El avatar de Amaunator, cuya piel desprendía una luz dorada, tenía el aspecto 
 
 Asegurar la paz en las [[Islas Shamal]] a cualquier precio.
 # 📜 Historia
-Amaunator promulgo la necesidad de que los dioses abandonaran [[Aretries]] para que las criaturas que aqui lo habitan pudieran vivir en paz.
+[[Amaunator]] promulgo la necesidad de que los dioses abandonaran [[Aretries]] para que las criaturas que aqui lo habitan pudieran vivir en paz.
 # ✏️ Notas
 
 #TBD
@@ -49,7 +49,7 @@ SORT file.name ASC
 
 > [!metadata|characters]+ Seguidores
 > ```dataview
-table without ID file.name AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
+table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
 FROM #NPC
 WHERE  contains(Facciones, [[]])
 SORT file.name ASC

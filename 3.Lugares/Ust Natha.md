@@ -24,20 +24,41 @@ Religion: "[[Lolth]]"
 > ###### Información basica
 >  |
 > ---|---|
->  **Ubicación** | `=this.Ubicacion` |
-> **Alias** |`=this.aliases` |
-> **Tipo** | `=this.Tipo` |
+>  **Ubicación** | `VIEW[{Ubicacion}][text(renderMarkdown)]` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
+> **Tipo** | `VIEW[{Tipo}][text(renderMarkdown)]` |
 > **Población** | `=this.Poblacion` |
-> **Temática** | `=this.Tematica` |
-> **Terreno** | `=this.Terreno`|
+> **Temática** | `VIEW[{Rangos}][text(renderMarkdown)]` |
+> **Terreno** | `VIEW[{Terreno}][text(renderMarkdown)]`|
 > ###### Política
 >  |
 > ---|---|
-> **Lideres** | `=this.Lideres` |
-> **Tipo de gobierno** | `=this.Gobierno` |
-> **Defensas** | `=this.Defensas` |
-> **Religiones** | `=this.Religion` |
-> **Prosperidad** | `=this.Prosperidad` |
+> **Lideres** | `VIEW[{Lideres}][text(renderMarkdown)]` |
+> **Tipo de gobierno** | `VIEW[{Gobierno}][text(renderMarkdown)]` |
+> **Defensas** | `VIEW[{Defensas}][text(renderMarkdown)]` |
+> **Religiones** | `VIEW[{Religion}][text(renderMarkdown)]` |
+> **Prosperidad** | `VIEW[{Prosperidad}][text(renderMarkdown)]` |
+>   ## NPCs
+>   ```dataview
+table without ID  file.link AS Nombre, Raza
+FROM #NPC
+WHERE  contains(Ubicacion, [[]])
+SORT file.name ASC
+>```
+> ## Localizaciones
+>   ```dataview
+table rows.file.link AS Nombre
+FROM #Lugar
+WHERE  contains(Ubicacion, [[]])
+GROUP BY Tipo
+SORT file.name ASC
+>```
+>   ## Facciones
+> ```dataview
+table without ID  file.link AS Nombre
+FROM #Faccion
+WHERE  contains(Ubicacion, [[]])
+SORT file.Tipo ASC
 
 # 🔍 A simple vista
 En Ust Natha igual que en el resto de ciudades Drow la ley solo se respeta si te han pillado saltandotela. Es una tapadera para mantener una causa comun y evitar que la ciudad se devore a si misma. Donde la auntentica ley que se respeta es la del mas fuerte. Ust Natha es una ciudad drow situada en la Middledark de la Infraoscuridad. Su ubicación se corresponde con la frontera suroeste de Adur y en el mundo de la superficie. La ciudad es pequeña, existiendo enteramente dentro de una única gran caverna con la mayoría de sus zonas habitables construidas dentro de estalagmitas huecas. A pesar de su tamaño, se ha convertido en un importante centro de comercio entre los drow y otras razas. Ust Natha debe enfrentarse a otros asentamientos de la Infraoscuridad en la región, incluyendo una ciudad kuo-toa y un enclave illithid. A una aldea svirfneblin cercana se le permite seguir siendo nominalmente independiente siempre que suministre una cuota de esclavos cada año.
@@ -193,14 +214,14 @@ FROM #Lugar
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
 
-> [!metadata|groups]+ Facciones
+> [!facciones|facciones]+ Facciones
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Influencia
 FROM #Faccion
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
 
-> [!metadata|characters]+ NPCs
+> [!characters|characters]+ NPCs
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, join(Oficios, ", ") AS "Oficios", Alienamiento
 FROM #NPC

@@ -33,24 +33,24 @@ tags:
 > ###### Bio
 >  |
 > ---|---|
-> **Raza** | `=this.Raza` |
-> **Sexo** | `=this.Sexo` |
-> **Age** | `=this.Edad` |
-> **Alineamiento** | `=this.Alineamiento` |
-> **Estado** | `=this.Estado` |
->  **💭Ideal** | `=this.Ideal` |
->  **🔗Vinculo** | `=this.Vinculo` |
->  **🌀Defecto** | `=this.Defecto` |
->  **🎭 Interpretacion** | `=this.Interpretacion` |
+> **Raza** | `VIEW[{Raza}][text(renderMarkdown)]` |
+> **Sexo** | `VIEW[{Sexo}][text(renderMarkdown)]` |
+> **Age** | `VIEW[{Edad}][text(renderMarkdown)]` |
+> **Alineamiento** | `VIEW[{Alineamiento}][text(renderMarkdown)]` |
+> **Estado** | `VIEW[{Estado}][text(renderMarkdown)]` |
+>  **💭Ideal** | `VIEW[{Ideal}][text(renderMarkdown)]` |
+>  **🔗Vinculo** | `VIEW[{Vinculo}][text(renderMarkdown)]` |
+>  **🌀Defecto** | `VIEW[{Defecto}][text(renderMarkdown)]` |
+>  **🎭 Interpretacion** | `VIEW[{Interpretacion}][text(renderMarkdown)]` |
 > ###### Info
 >  |
 > ---|---|
-> **Alias** |`=this.aliases` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
 > **Oficios** | `=this.Oficios` |
-> **Facciones** | `=this.Facciones` |
-> **Rango faccion** |  `=this.Rango` |
-> **Religiones** | `=this.Religiones` |
-> **Ubicaciones** | `=this.Ubicacion` |
+> **Facciones** | `VIEW[{Facciones}][text(renderMarkdown)]` |
+> **Rango faccion** |  `VIEW[{Rango}][text(renderMarkdown)]` |
+> **Religiones** | `VIEW[{Religiones}][text(renderMarkdown)]` |
+> **Ubicaciones** | `VIEW[{Ubicacion}][text(renderMarkdown)]` |
 
 # 🔍 A simple vista
 
@@ -70,5 +70,5 @@ Convertirse en el siguiente rector de la [[Torre de Crestafria]]
 > [!cards|dataview] 
 > ```statblock
 >monster: Transmuter Wizard
->name: NPC
+>name: Hansel
 > ```

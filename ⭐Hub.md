@@ -1,5 +1,6 @@
 ---
-cssClasses: card-images
+cssclasses:
+  - card-images
 ---
 
 
@@ -8,7 +9,7 @@ cssClasses: card-images
  **[[0.Campañas| Campañas]]**
 > ![[SessionNotes.png]]
 >
-> **[[Grupos de aventureros]]**
+> **[[Grupos]]**
 > ![[Parties.png]]
 > 
 > **[[Personajes]]**
@@ -29,7 +30,7 @@ cssClasses: card-images
 > **[[6.Literatura|Literatura]]**
 > ![[Literature.png]]
 > 
-> **[[7.Pantalla del Master| Pantalla del Master]]**
+> **[[7.Pantalla del Master| Pantalla DM]]**
 > ![[Quests.png]]
 > 
 > **[[8.Notas varias]]**
@@ -53,11 +54,12 @@ cssClasses: card-images
 
 ## Para hacer
 > [!column|2 no-title]
->> [!metadata] Short Term
->> - [x] Actualizar las notas de la [[Chumipower]] 
->> - [ ] Integrar con calendarium las fechas de las sesiones
+>> [!metadata] Corto plazo
+>> - [x] Preparar sesión 3 del legado de plata 
+>> - [x] Actualizar las pkantillas
+>> - [ ] Añadir los callouts customs
 >
->> [!metadata] Long Term
+>> [!metadata] Largo plazo
 >> - [ ] Migrar las notas de la otra boveda
 >
 

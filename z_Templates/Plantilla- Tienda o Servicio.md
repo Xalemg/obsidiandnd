@@ -22,10 +22,10 @@ cssclasses:
 > ###### Información basica
 >  |
 > ---|---|
->  **Ubicación** | `=this.Ubicacion` |
-> **Alias** |`=this.aliases` |
-> **Tipo** | `=this.Tipo` |
-> **Temática** | `=this.Tematica` |
+>  **Ubicación** | `VIEW[{Ubicacion}][text(renderMarkdown)]` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
+> **Tipo** | `VIEW[{Tipo}][text(renderMarkdown)]` |
+> **Temática** | `VIEW[{Rangos}][text(renderMarkdown)]` |
 
 # 🔍 A simple vista
 
@@ -145,14 +145,14 @@ cssclasses:
 
 # ✏️ Notas
 
-> [!metadata|groups]+ Facciones
+> [!facciones|facciones]+ Facciones
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Influencia
 FROM #Faccion
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
 
-> [!metadata|characters]+ NPCs
+> [!characters|characters]+ NPCs
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, join(Oficios, ", ") AS "Oficios", Alienamiento
 FROM #NPC

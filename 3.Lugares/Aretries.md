@@ -20,12 +20,12 @@ Ubicacion:
 > ###### Información basica
 >  |
 > ---|---|
->  **Ubicación** | `=this.Ubicacion` |
+>  **Ubicación** | `VIEW[{Ubicacion}][text(renderMarkdown)]` |
 > **Alias** | `= aliases  `|
-> **Tipo** | `=this.Tipo` |
+> **Tipo** | `VIEW[{Tipo}][text(renderMarkdown)]` |
 > **Población** | `=this.Poblacion` |
-> **Temática** | `=this.Tematica` |
-> **Terreno** | `=this.Terreno`|
+> **Temática** | `VIEW[{Rangos}][text(renderMarkdown)]` |
+> **Terreno** | `VIEW[{Terreno}][text(renderMarkdown)]`|
 
 # 🔍 A simple vista
 
@@ -106,14 +106,14 @@ FROM #Lugar
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
 
-> [!metadata|groups]+ Facciones
+> [!facciones|facciones]+ Facciones
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Influencia
 FROM #Faccion
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
 
-> [!metadata|characters]+ NPCs
+> [!characters|characters]+ NPCs
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, join(Oficios, ", ") AS "Oficios", Alienamiento
 FROM #NPC

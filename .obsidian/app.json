@@ -5,5 +5,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "trashOption": "local",
-  "readableLineLength": false
+  "readableLineLength": true,
+  "showLineNumber": false
 }

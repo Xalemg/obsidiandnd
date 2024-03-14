@@ -12,6 +12,8 @@ Campaña:
 cssclasses:
   - card-images
   - t-w
+fc-date: 783-01-10
+fc-category: Sesion
 ---
 # [[Personajes]]
 >[!cards| dataview 7]
@@ -44,7 +46,7 @@ WHERE contains(En_curso, "si") and contains(Campañas, string(this.Campaña))
 - [  ][[Lisa]] es una dragona 
 - [ ] Gath Igeo esta en [[Hismal]]
 - [ ] Gath Igeo significa Jinete de Dragon
-- [ ] Los humanos vienen de un continente llamado Tramonto
+- [x] Los humanos vienen de un continente llamado Tramonto
 - [ ] 
 - [ ] 
 - [ ] 
@@ -67,12 +69,12 @@ Atravesar la fortaleza vacía
 - [ ] Es importante que mantengas oculta a tu mascota mientras te encuentras en [[Crestafria]].
 - [ ] A las 2 de la medianoche alguien importante se reunira contigo en la taverna de [[Los coros de la redención]] 
 ## Describiendo [[Crestafria]]
-- [ ] La ciudad es
+- [x] La ciudad es
 	- [ ] Nieve por todas partes 
 ¿Como busca Kiera la [[Kiera]]
 
-- [ ] Magos Derritiendo la nieve con enormes bolas de fuego que ruedan
-## [[Plaza de las ovaciones]]
+- [x] Magos Derritiendo la nieve con enormes bolas de fuego que ruedan
+## 
  - [ ]  
 # ⚔️ Encuentros
 *Un encuentro puede ser mortal si la suma total de los valores de desafío de los monstruos es superior a la mitad de la suma total de los niveles de los personajes o a un cuarto de os niveles de los personajes si estos son de 4º nivel o inferior.*

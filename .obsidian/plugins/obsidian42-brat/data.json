@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "Lisandra-dev/obsidian-snippet-downloader",
     "javalent/the-calendarium"
   ],
   "pluginSubListFrozenVersion": [],

@@ -14,6 +14,7 @@
   "enableJs": true,
   "viewFieldDisplayNullAsEmpty": true,
   "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
   "inputFieldTemplates": [
     {
       "name": "tipoLugarTemplate",
@@ -28,6 +29,7 @@
       "declaration": "INPUT[inlineSelect( option(LB, LB),option(NB, NB),option(CB, CB),option(LN, LN),option(N),option(CN),option(LM),option(NM),option(CM))]"
     }
   ],
+  "buttonTemplates": [],
   "excludedFolders": [
     "templates"
   ]

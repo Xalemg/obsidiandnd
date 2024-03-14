@@ -21,14 +21,14 @@ aliases:
 > ###### Info
 >  |
 > ---|---|
-> **Dominio** | `=this.Dominio` |
-> **Rango Deidad** | `=this.RangoDeidad` |
-> **Alineamiento** | `=this.Alineamiento` |
-> **Estado** | `=this.Estado` |
-> **Prohibido** | `=this.Prohibido` |
-> **Alias** |`=this.aliases` |
-> **Simbolo Sagrado** | `=this.Simbolo` |
-> **Sequito** | `=this.Sequito` |
+> **Dominio** | `VIEW[{Dominio}][text(renderMarkdown)]` |
+> **Rango Deidad** | `VIEW[{RangoDeidad}][text(renderMarkdown)]` |
+> **Alineamiento** | `VIEW[{Alineamiento}][text(renderMarkdown)]` |
+> **Estado** | `VIEW[{Estado}][text(renderMarkdown)]` |
+> **Prohibido** | `VIEW[{Prohibido}][text(renderMarkdown)]` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
+> **Simbolo Sagrado** | `VIEW[{Simbolo}][text(renderMarkdown)]` |
+> **Sequito** | `VIEW[{Sequito}][text(renderMarkdown)]` |
 # 🔍 A simple vista
 ![[Lolthwebp.webp | wsmall left]]
 Lolth era una diosa de cruel frialdad, no fuera de lugar en las profundidades más oscuras del interminable Abismo, disfrutando de la traición y el derramamiento de sangre, y burlándose tanto de sus secuaces como de sus víctimas. No solo disfrutaba, sino que prosperaba en la tortura, destrucción y muerte, ya sea ejecutándolas personalmente o causándolas. Cada interacción se realizaba en última instancia con malicia, con malevolencia brotando de cada movimiento suyo, e incluso aquellos que la conocían bien podían sorprenderse por la profundidad de su ferocidad. Su malicia podía compararse con la ira del brutal dios orco Gruumsh, pero mientras que su furia era tan violentamente ciega como una fuerza de la naturaleza, la malicia de Lolth era complicada y deliberada. Además, se podría decir que Gruumsh al menos era constante en su odio, mientras que el de Lolth era completamente caprichoso.
@@ -53,7 +53,7 @@ SORT file.name ASC
 
 > [!metadata|characters]+ Seguidores
 > ```dataview
-table without ID file.name AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
+table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
 FROM #NPC
 WHERE  contains(Facciones, [[]])
 SORT file.name ASC

@@ -10,8 +10,10 @@ excludes:
 extends: Global
 savedViews: []
 favoriteView: 
-version: "2.85"
+version: "2.91"
 fieldsOrder:
+  - AolkTr
+  - 6xopEk
   - zaqQrh
   - rhDWuR
   - ymM71F
@@ -19,13 +21,11 @@ fieldsOrder:
   - OdTSrV
   - LjKzzu
   - STWFSD
-  - 2wfaS0
   - rWLO7B
   - u26Wpx
   - 61Cg3p
   - OzE059
   - 0iEJpI
-  - gbYp8V
   - drBJhI
 fields:
   - name: icon
@@ -36,16 +36,10 @@ fields:
       embed: true
     path: ""
     id: drBJhI
-  - name: Ubicacion
-    type: File
-    options:
-      dvQueryString: dv.pages("#Lugar")
-    path: ""
-    id: gbYp8V
   - name: Religiones
     type: File
     options:
-      dvQueryString: dv.pages("#Deidad")
+      dvQueryString: dv.pages("#Deidad").where(p=>!p.file.path.contains("z_"))
     path: ""
     id: 0iEJpI
   - name: Estado
@@ -90,12 +84,6 @@ fields:
       valuesFromDVQuery: ""
     path: ""
     id: rWLO7B
-  - name: Facciones
-    type: File
-    options:
-      dvQueryString: dv.pages("#Faccion")
-    path: ""
-    id: 2wfaS0
   - name: Edad
     type: Input
     options: {}
@@ -154,4 +142,16 @@ fields:
         ].flat()
     path: ""
     id: zaqQrh
+  - name: Ubicacion
+    type: MultiFile
+    options:
+      dvQueryString: dv.pages("#lugar")
+    path: ""
+    id: 6xopEk
+  - name: Facciones
+    type: MultiFile
+    options:
+      dvQueryString: dv.pages("#Faccion")
+    path: ""
+    id: AolkTr
 ---

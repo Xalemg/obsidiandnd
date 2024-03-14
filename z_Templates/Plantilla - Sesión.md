@@ -1,15 +1,30 @@
 ---
 banner: "![[lazy_dm_workbook_banner.jpg]]"
-banner_y: 0.296
+banner_y: 0.38692
 fileClass: Sesion
 Mundo:
   - Aretries
 cssclasses:
   - card-images
   - t-w
-numero: 
-Campaña:
+  - wide
+Campaña: 
+Numero: 
+tags:
+  - Sesion
 ---
+> [!Info]-
+> - [ ] Reflexionar sobre los PJs y en cosas que les involucren con la sesión 
+> - [ ] Elegir un comienzo de sesión impresionante
+> - [ ] Describir la información básica
+> - [ ] Pensar en las escenas probables 
+> - [ ] Preparar Lugares fantasticos 
+> - [ ] Revisar Facciones importantes 
+> - [ ] Preparar NPCs memorables
+> - [ ] Preparar Encuentros
+> 	- [ ] Statblocks de los enemigos 
+> 	- [ ] Mapa
+> - [ ] 
 # [[Personajes]]
 >[!cards| dataview 7]
 >```dataview
@@ -22,9 +37,12 @@ Campaña:
 >WHERE contains(En_curso, "si") and contains(Campañas, string(this.Campaña))
 >```
 
-
->[!dataview  | right clean no-t nmg ]
-># [[3.Lugares]]
+>[!aside  | right clean no-t nmg ]
+># 🔐Revelaciones claves
+>*Información clave que deba ser revelada o que puede alterar la trama dramaticamente*
+>- [!] 
+>- [s] 
+># [[3.Lugares| Lugares fantasticos]]
 >```dataview
 >list 
 >FROM #Lugar AND #Relevante
@@ -39,27 +57,20 @@ Campaña:
 >list 
 >FROM #NPC AND #Relevante
 >```
-# 🔐Secretos y pistas
-*Secretos sobre el villano/enemigos, objetivo de los PJs, aliados, lugares que visitan, eventos relevantes, objetos mágicos o la misión.*
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-# 🎥Situaciones probables
-*Situaciones probables que vayan a darse durante la sesión.*
-## Situación 1
 
 
-# ⚔️ Encuentros
-*Un encuentro puede ser mortal si la suma total de los valores de desafío de los monstruos es superior a la mitad de la suma total de los niveles de los personajes o a un cuarto de os niveles de los personajes si estos son de 4º nivel o inferior.*
-`encounter: 1: goblin`
+
+
+# 🎥Encuentros importantes
+
+> [!Info]-
+>*Situaciones probables que vayan a darse durante la sesión. Pensar en cuenta localización, NPCs/monstrups, comportamientos, importancia y posibles eventos*
+## Encuentro fuerte 1
+*Empezar fuerte la sesión con algo que enganche*
+## Encuentro 2
+
+## Encuentro 3
+
 # 💰Tesoro
 Ejemplo
 # ⏯️Grabación

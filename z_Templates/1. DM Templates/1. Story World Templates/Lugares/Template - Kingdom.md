@@ -6,7 +6,7 @@
 > ###### Info
 >  |
 > ---|---|
-> **Aliases** | `=this.aliases` |
+> **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
 > **Theme** | `=this.theme` |
 > **Planet** | `=link(this.PlanetPlane)` |
 > **Terrain** | `=this.terrain` |

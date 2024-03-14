@@ -18,7 +18,14 @@ fields:
       valuesFromDVQuery: ""
     path: ""
     id: NWY7p0
-version: "2.6"
+  - name: fc-date
+    type: Date
+    options:
+      dateFormat: YYYY-MM-DD
+      defaultInsertAsLink: "false"
+    path: ""
+    id: BM7aQ2
+version: "2.8"
 limit: 20
 mapWithTag: true
 icon: scroll
@@ -31,5 +38,7 @@ extends: Global
 savedViews: []
 favoriteView: 
 fieldsOrder:
+  - BM7aQ2
+  - NWY7p0
   - dFUHAp
 ---

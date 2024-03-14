@@ -6,6 +6,7 @@
     "Tematica": "multitext",
     "icon": "text",
     "numero": "number",
-    "Campaña": "multitext"
+    "Campaña": "multitext",
+    "fc-date": "text"
   }
 }

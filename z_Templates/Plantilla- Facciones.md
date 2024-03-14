@@ -5,6 +5,12 @@ tags:
 aliases: 
 icon: "![[z_Assets/Misc/PlaceholderImage.png]]"
 Mundo: Aretries
+Influencia: 
+Alineamiento: 
+Tipo: 
+Rangos: 
+Lider: 
+Ubicacion: 
 ---
 
 
@@ -13,13 +19,13 @@ Mundo: Aretries
 > ###### Información basica
 >  |
 > ---|---|
->  **Ubicaciones** | `=this.Ubicacion` |
-> **Alias** |`=this.aliases` |
-> **Tipo** | `=this.Tipo` |
-> **Alineamiento** | `=this.Alineamiento` |
-> **Lideres** | `=this.Lideres` |
-> **Rangos** | ``=this.Rangos`` |
-> **Influencia** | `=this.Influencia` |
+>  **Ubicaciones** | `VIEW[{Ubicacion}][text(renderMarkdown)]` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
+> **Tipo** | `VIEW[{Tipo}][text(renderMarkdown)]` |
+> **Alineamiento** | `VIEW[{Alineamiento}][text(renderMarkdown)]` |
+> **Lideres** | `VIEW[{Lideres}][text(renderMarkdown)]` |
+> **Rangos** | `VIEW[{Rangos}][text(renderMarkdown)]` |
+> **Influencia** | `VIEW[{Influencia}][text(renderMarkdown)]` |
 
 
 
@@ -41,9 +47,9 @@ Mundo: Aretries
 
 #TBD
 
-> [!metadata|characters]+ Miembros
+> [!characters|characters]+ Miembros
 > ```dataview
-table without ID file.name AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
+table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
 FROM #NPC
 WHERE  contains(Facciones, [[]])
 SORT file.name ASC

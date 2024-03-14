@@ -1,11 +1,169 @@
 {
   "mapMarkers": [
     {
-      "id": "Islas",
+      "id": "TBD",
       "locked": false,
-      "lastAccessed": 1706524980949,
+      "lastAccessed": 1710240359700,
       "markers": [
         {
+          "id": "ID_492878fb4a19",
+          "type": "default",
+          "loc": [
+            -46.75,
+            66
+          ],
+          "link": "Cueva del regalo#Estatua de la bienvenida",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7808083adb2b",
+          "type": "default",
+          "loc": [
+            -111.01576464628798,
+            196.62018270408083
+          ],
+          "link": "Cueva del regalo#Trampas",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e8bbfa699bd9",
+          "type": "default",
+          "loc": [
+            -125.47002162265204,
+            92.71937668308605
+          ],
+          "link": "Cueva del regalo#Pila de Huesos congelada",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb48ea295939",
+          "type": "default",
+          "loc": [
+            -55.5078125,
+            110.25
+          ],
+          "link": "Cueva del regalo#Suelo resbaladizo",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d939ba7afb89",
+          "type": "default",
+          "loc": [
+            -74.5078125,
+            34.25
+          ],
+          "link": "Cueva del regalo#Suelo resbaladizo",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69299a6a6be9",
+          "type": "default",
+          "loc": [
+            -49.5,
+            171.5
+          ],
+          "link": "Cueva del regalo#Suelo resbaladizo",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b0b08da8999",
+          "type": "default",
+          "loc": [
+            -179.95867581197635,
+            44.5477272147525
+          ],
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da78f85979b9",
+          "type": "default",
+          "loc": [
+            -159.5078125,
+            188.25
+          ],
+          "link": "Cueva del regalo#Destileria",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb88584b9859",
+          "type": "default",
+          "loc": [
+            -233.99157758373903,
+            162.55872308085154
+          ],
+          "link": "Cueva del regalo#Meadero",
+          "layer": "%5B%5BLa%20cueva%20del%20sabio.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "3.Lugares/Cueva del regalo.md",
+        "z_Templates/Plantilla- Mazmorra.md",
+        "9.Puntos de interes/Torre de Crestafria.md"
+      ]
+    },
+    {
+      "id": "Islas",
+      "locked": true,
+      "lastAccessed": 1710259400118,
+      "markers": [
+        {
+          "id": "Crestafria",
           "type": "Ciudad",
           "loc": [
             200.90671420462783,
@@ -13,59 +171,96 @@
           ],
           "link": "Crestafria",
           "layer": "%5B%5BIslas%20Shamal%20Upscale%2050.jpg%5D%5D",
-          "id": "ID_0a78cae98b58",
-          "command": false,
-          "description": null,
           "mutable": true,
-          "minZoom": null,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
           "maxZoom": null,
           "tooltip": "hover"
         },
         {
-          "type": "SubContinente",
+          "id": "Isla de Altalos",
+          "type": "Subcontinente",
           "loc": [
             189,
             481
           ],
           "link": "Isla de Altalos",
           "layer": "%5B%5BIslas%20Shamal%20Upscale%2050.jpg%5D%5D",
-          "id": "ID_cb3b2ae8f878",
-          "command": false,
-          "description": null,
           "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
-          "maxZoom": null,
+          "maxZoom": 1,
           "tooltip": "hover"
         },
         {
-          "type": "SubContinente",
+          "id": "Isla de Adur",
+          "type": "Subcontinente",
           "loc": [
             230.51681066681448,
             297.69195487953647
           ],
           "link": "Isla de Adur",
           "layer": "%5B%5BIslas%20Shamal%20Upscale%2050.jpg%5D%5D",
-          "id": "ID_eae91899a8fa",
-          "command": false,
-          "description": null,
           "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
-          "maxZoom": null,
+          "maxZoom": 1,
           "tooltip": "hover"
         },
         {
-          "type": "SubContinente",
+          "id": "Isla de Roncor",
+          "type": "Subcontinente",
           "loc": [
             349,
             159
           ],
           "link": "Isla de Roncor",
           "layer": "%5B%5BIslas%20Shamal%20Upscale%2050.jpg%5D%5D",
-          "id": "ID_99c819f9388a",
-          "command": false,
-          "description": null,
           "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
           "minZoom": null,
+          "maxZoom": 1,
+          "tooltip": "hover"
+        },
+        {
+          "id": "Puerto Kalabor",
+          "type": "Ciudad",
+          "loc": [
+            280.36783874046614,
+            282.48915908402574
+          ],
+          "link": "Kalabor",
+          "layer": "%5B%5BIslas%20Shamal%20Upscale%2050.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b48baa8296a",
+          "type": "Mazmorra",
+          "loc": [
+            239.51953125,
+            510.125
+          ],
+          "link": "Cueva del regalo",
+          "layer": "%5B%5BIslas%20Shamal%20Upscale%2050.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 2,
           "maxZoom": null,
           "tooltip": "hover"
         }
@@ -79,7 +274,7 @@
     {
       "id": "Crestafria",
       "locked": false,
-      "lastAccessed": 1706713343895,
+      "lastAccessed": 1710259400118,
       "markers": [
         {
           "id": "ID_6828388b282a",
@@ -101,8 +296,8 @@
           "id": "ID_bb19ab3868e8",
           "type": "Taberna",
           "loc": [
-            150.5,
-            189.5
+            145,
+            186.5
           ],
           "link": "Crestafria#Taberna los coros de la redención",
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
@@ -115,18 +310,15 @@
         },
         {
           "id": "ID_99c94a1a9959",
-          "type": "Tienda/Servicio",
+          "type": "Tienda",
           "loc": [
             147.5,
             111.5
           ],
+          "link": "Emporium Imperium",
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": [
-            2.4638251906968764,
-            -4.345760426042323
-          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -134,18 +326,18 @@
         },
         {
           "id": "ID_b9eb8a580af9",
-          "type": "Torre de magia",
+          "type": "Torre de Magia",
           "loc": [
-            93.25,
-            312.75
+            93.5,
+            312.5
           ],
           "link": "Torre de Crestafria",
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            6.910863931752897,
-            -2.7474044727352314
+            6.905339660024878,
+            -2.754770168372591
           ],
           "description": null,
           "minZoom": null,
@@ -154,7 +346,7 @@
         },
         {
           "id": "ID_88fb882a4b99",
-          "type": "Castillo",
+          "type": "Fortaleza",
           "loc": [
             57.5,
             203
@@ -163,10 +355,6 @@
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": [
-            4.485708643152161,
-            -1.69410999659277
-          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -176,15 +364,71 @@
           "id": "ID_3b4a082bba69",
           "type": "Estadio",
           "loc": [
-            173.24116139070415,
-            127.98632739476511
+            171,
+            128
           ],
+          "link": "Crestafria#Tabernas Kalberin",
           "layer": "%5B%5BCrestafria.jpeg%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            2.828125,
-            -5.104166666666667
+            2.82842712474619,
+            -5.038135815954151
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cac98a48eb9a",
+          "type": "default",
+          "loc": [
+            81.5,
+            116.5
+          ],
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8a869b95808",
+          "type": "Tienda",
+          "loc": [
+            115.5,
+            154
+          ],
+          "link": "La pocima del heroe",
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            3.4029513844602595,
+            -3.4029513844602595
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5acbca698a98",
+          "type": "Taberna",
+          "loc": [
+            86.26702730475881,
+            230.16325727622123
+          ],
+          "link": "Tabernas Kalverin",
+          "layer": "%5B%5BCrestafria.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            5.0859375,
+            -2.541666666666667
           ],
           "description": null,
           "minZoom": null,
@@ -197,91 +441,6 @@
       "files": [
         "3.Lugares/Crestafria.md"
       ]
-    },
-    {
-      "id": "TBD",
-      "locked": true,
-      "lastAccessed": 1706850645635,
-      "markers": [],
-      "overlays": [],
-      "shapes": [
-        {
-          "type": "polyline",
-          "color": "#3388FF",
-          "vertices": [
-            {
-              "lat": 132.7012933146301,
-              "lng": 195.38244247660793,
-              "id": "ID_da88798b2baa",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 128.45865262751082,
-              "lng": 202.98384037436333,
-              "id": "ID_b97ac8596828",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 123.33212846390835,
-              "lng": 210.58523827211872,
-              "id": "ID_1a2b48ab09fb",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 125.27667211217135,
-              "lng": 218.716966255764,
-              "id": "ID_68c9fb69e9f9",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 132.8125,
-              "lng": 211.75,
-              "id": "ID_b9d8c9687b8a",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 136.9439340017494,
-              "lng": 204.22127724143976,
-              "id": "ID_89291b6a7988",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 137.12071069704604,
-              "lng": 197.32698612487093,
-              "id": "ID_caaa1ad97aa8",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 132.34773992403683,
-              "lng": 195.38244247660793,
-              "id": "ID_69b9bbe9fa98",
-              "targets": {
-                "vertexIds": []
-              }
-            }
-          ],
-          "arrows": false,
-          "reversed": false
-        }
-      ],
-      "files": [
-        "9.Puntos de interes/Los coros de la redención.md",
-        "z_Templates/Plantilla- Punto de Interes.md"
-      ]
     }
   ],
   "defaultMarker": {
@@ -292,8 +451,7 @@
       "size": 6,
       "x": 0,
       "y": -2
-    },
-    "isImage": false
+    }
   },
   "markerIcons": [
     {
@@ -308,15 +466,29 @@
         "y": -2
       },
       "isImage": false,
-      "tags": [
-        "Ciudad"
-      ],
+      "tags": [],
       "minZoom": 1,
       "maxZoom": null
     },
     {
+      "type": "Subcontinente",
+      "iconName": "globe-africa",
+      "color": "#258327",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": 1
+    },
+    {
       "type": "Pueblo",
-      "iconName": "house-user",
+      "iconName": "home",
       "color": "#dddddd",
       "alpha": 1,
       "layer": false,
@@ -331,25 +503,9 @@
       "maxZoom": null
     },
     {
-      "type": "SubContinente",
-      "iconName": "globe-africa",
-      "color": "#1eb300",
-      "alpha": 1,
-      "layer": false,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": false,
-      "tags": [],
-      "minZoom": null,
-      "maxZoom": 0.5
-    },
-    {
       "type": "Templo",
-      "iconName": "church",
-      "color": "#7b1dc9",
+      "iconName": "pray",
+      "color": "#dd40c8",
       "alpha": 1,
       "layer": false,
       "transform": {
@@ -365,7 +521,7 @@
     {
       "type": "Taberna",
       "iconName": "beer",
-      "color": "#23a300",
+      "color": "#2c8732",
       "alpha": 1,
       "layer": false,
       "transform": {
@@ -379,27 +535,9 @@
       "maxZoom": null
     },
     {
-      "type": "Tienda/Servicio",
+      "type": "Tienda",
       "iconName": "store",
-      "color": "#107f17",
-      "alpha": 1,
-      "layer": false,
-      "transform": {
-        "size": 6,
-        "x": 0,
-        "y": -2
-      },
-      "isImage": false,
-      "tags": [
-        "Tienda"
-      ],
-      "minZoom": null,
-      "maxZoom": null
-    },
-    {
-      "type": "Torre de magia",
-      "iconName": "broadcast-tower",
-      "color": "#e900fa",
+      "color": "#3c982a",
       "alpha": 1,
       "layer": false,
       "transform": {
@@ -413,9 +551,25 @@
       "maxZoom": null
     },
     {
-      "type": "Castillo",
+      "type": "Torre de Magia",
+      "iconName": "broadcast-tower",
+      "color": "#ff70b5",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Fortaleza",
       "iconName": "chess-rook",
-      "color": "#b5a81c",
+      "color": "#cfd232",
       "alpha": 1,
       "layer": false,
       "transform": {
@@ -431,7 +585,7 @@
     {
       "type": "Estadio",
       "iconName": "ring",
-      "color": "#872121",
+      "color": "#b44e22",
       "alpha": 1,
       "layer": false,
       "transform": {
@@ -443,12 +597,28 @@
       "tags": [],
       "minZoom": null,
       "maxZoom": null
+    },
+    {
+      "type": "Mazmorra",
+      "iconName": "dungeon",
+      "color": "#e66060",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 1.5,
+      "maxZoom": null
     }
   ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
-  "notePreview": true,
+  "notePreview": false,
   "layerMarkers": true,
   "previousVersion": "6.0.2",
   "version": {
@@ -460,63 +630,11 @@
   "copyOnClick": false,
   "displayMarkerTooltips": "hover",
   "displayOverlayTooltips": true,
-  "configDirectory": "z.Leaflet",
+  "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {
-    "darkMode": false,
-    "defaultZoom": 2.5,
-    "distanceMultiplier": 1,
-    "drawColor": "#3388ff",
-    "geojson": [],
-    "geojsonColor": "#3388ff",
-    "gpx": [],
-    "gpxColor": "#3388ff",
-    "height": "500px",
-    "image": "[[Islas.webp]]",
-    "imageOverlay": [],
-    "isMapView": false,
-    "layers": [
-      "[[Islas.webp]]"
-    ],
-    "linksFrom": [],
-    "linksTo": [],
-    "marker": [],
-    "commandMarker": [],
-    "markerFile": [],
-    "markerFolder": [],
-    "markerTag": [],
-    "maxZoom": 6.5,
-    "minZoom": 0,
-    "osmLayer": true,
-    "overlay": [],
-    "overlayColor": "blue",
-    "scale": 10,
-    "showAllMarkers": false,
-    "tileServer": [],
-    "verbose": false,
-    "zoomDelta": 0.5,
-    "zoomFeatures": false,
-    "id": "TBD",
-    "lock": true,
-    "recenter": true,
-    "noScrollZoom": false,
-    "bounds": [
-      [
-        0,
-        0
-      ],
-      [
-        86.2,
-        121.8
-      ]
-    ],
-    "lat": 430.64,
-    "long": 609.03,
-    "unit": "Kms",
-    "filterTag": []
-  },
-  "enableDraw": false,
-  "defaultUnitType": "metric",
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
   "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",

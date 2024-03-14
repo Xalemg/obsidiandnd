@@ -2,7 +2,7 @@
 NoteIcon: SessionNote
 ---
 
-#  **`=this.file.name` "`=this.aliases`" (`=link(this.WhichParty)`)**
+#  **`=this.file.name` "`VIEW[{aliases}][text(renderMarkdown)]`" (`=link(this.WhichParty)`)**
 ## Prep
 ### To Do
 

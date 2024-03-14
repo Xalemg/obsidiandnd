@@ -22,20 +22,33 @@ Mundo: Aretries
 > ###### Información basica
 >  |
 > ---|---|
->  **Ubicación** | `=this.Ubicacion` |
-> **Alias** |`=this.aliases` |
-> **Tipo** | `=this.Tipo` |
+>  **Ubicación** | `VIEW[{Ubicacion}][text(renderMarkdown)]` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
+> **Tipo** | `VIEW[{Tipo}][text(renderMarkdown)]` |
 > **Población** | `=this.Poblacion` |
-> **Temática** | `=this.Tematica` |
-> **Terreno** | `=this.Terreno`|
+> **Temática** | `VIEW[{Rangos}][text(renderMarkdown)]` |
+> **Terreno** | `VIEW[{Terreno}][text(renderMarkdown)]`|
 > ###### Política
 >  |
 > ---|---|
-> **Lideres** | `=this.Lideres` |
-> **Tipo de gobierno** | `=this.Gobierno` |
-> **Defensas** | `=this.Defensas` |
-> **Religiones** | `=this.Religiones` |
-> **Prosperidad** | `=this.Prosperidad` |
+> **Lideres** | `VIEW[{Lideres}][text(renderMarkdown)]` |
+> **Tipo de gobierno** | `VIEW[{Gobierno}][text(renderMarkdown)]` |
+> **Defensas** | `VIEW[{Defensas}][text(renderMarkdown)]` |
+> **Religiones** | `VIEW[{Religiones}][text(renderMarkdown)]` |
+> **Prosperidad** | `VIEW[{Prosperidad}][text(renderMarkdown)]` |
+>   ## NPCs
+>   ```dataview
+table without ID  file.link AS Nombre, Raza
+FROM #NPC
+WHERE  contains(Ubicacion, [[]])
+SORT file.name ASC
+>```
+>   ## Facciones
+> ```dataview
+table without ID  file.link AS Nombre
+FROM #Faccion
+WHERE  contains(Ubicacion, [[]])
+SORT file.Tipo ASC
 
 # 🔍 A simple vista
 
@@ -116,14 +129,14 @@ FROM #Lugar
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
 
-> [!metadata|groups]+ Facciones
+> [!facciones|facciones]+ Facciones
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Tipo, Influencia
 FROM #Faccion
 WHERE  contains(Ubicacion, [[]])
 SORT file.name ASC
 
-> [!metadata|characters]+ NPCs
+> [!characters|characters]+ NPCs
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, join(Oficios, ", ") AS "Oficios", Alienamiento
 FROM #NPC

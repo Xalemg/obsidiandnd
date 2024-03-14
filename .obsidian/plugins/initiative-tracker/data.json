@@ -86,9 +86,9 @@
   ],
   "unconsciousId": "Unconscious",
   "version": [
-    12,
-    4,
-    5
+    13,
+    0,
+    1
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
@@ -105,7 +105,7 @@
     "logFile": "",
     "rollHP": false
   },
-  "condense": false,
+  "condense": true,
   "clamp": true,
   "autoStatus": true,
   "beginnerTips": true,
@@ -130,9 +130,167 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": true,
-    "showXP": true,
-    "sidebarIcon": true
+    "showParty": false,
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "Huge",
+            "Medium",
+            "Large",
+            "Tiny",
+            "Small",
+            "Gargantuan"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "aberration",
+            "monstrosity",
+            "humanoid",
+            "plant",
+            "giant",
+            "fiend",
+            "fey",
+            "undead",
+            "dragon",
+            "ooze",
+            "elemental",
+            "construct",
+            "beast",
+            "celestial",
+            {
+              "choose": [
+                "celestial",
+                "fiend"
+              ]
+            }
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "chaotic evil",
+            "unaligned",
+            "neutral good",
+            "any alignment",
+            "lawful evil",
+            "neutral evil",
+            "neutral",
+            "chaotic neutral",
+            "chaotic good",
+            "lawful good",
+            "lawful neutral",
+            "neutral (law/chaos axis) chaotic good neutral (good/evil axis) evil",
+            null,
+            "lawful neutral (law/chaos axis) chaotic evil",
+            "lawful neutral (law/chaos axis) chaotic neutral (good/evil axis) evil",
+            "lawful neutral (law/chaos axis) chaotic good",
+            "chaotic good neutral (good/evil axis) evil",
+            "neutral good (50%) or neutral evil (50%)",
+            "chaotic good or chaotic neutral",
+            "lawful neutral or lawful evil",
+            "chaotic good (75%) or neutral evil (25%)",
+            "lawful good neutral (good/evil axis) evil",
+            "neutral good or neutral evil",
+            "neutral or neutral (law/chaos axis) neutral (good/evil axis) neutral",
+            "any alignment (As Its Deity)",
+            "as the eidolon's alignment",
+            "chaotic evil or chaotic good",
+            "lawful",
+            "neutral evil (50%) or lawful evil (50%)",
+            "any alignment (As Its Creator Deity)"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
   "rollPlayerInitiatives": 0
 }

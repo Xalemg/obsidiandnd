@@ -11,7 +11,7 @@ fileClass: Facciones
 > **Localizaciones** | `=link(this.localizaciones)` |
 > **Religión asociada** | `=link(this.associatedreligion)` |
 > **Alineamiento** | `=this.alineamiento` |
-> **Influencia** | `=this.influencia` |
+> **Influencia** | `VIEW[{Influencia}][text(renderMarkdown)]` |
 > **Tipo** | `=this.tipo` |
 
 > >Cita
@@ -19,7 +19,7 @@ fileClass: Facciones
 > [!metadata|overview]+ A simple vista
 TBD
 
-> [!metadata|characters]+ Miembros
+> [!characters|characters]+ Miembros
 > [[👨‍👩‍👧‍👦 NPC Database| 📝Add New NPC]]
 > ```dataview
 table join(link(Rango), ", ")  AS Rango, join(Occupation, ", ") AS "Occupation(s)", join(link(AssociatedGroup), ", ") AS "Group(s)", join(link(AssociatedReligion), ", ") AS "Religion(es)"

@@ -21,14 +21,14 @@ Ubicaciones:
 > ###### Info
 >  |
 > ---|---|
-> **Dominio** | `=this.Dominio` |
-> **Rango Deidad** | `=this.RangoDeidad` |
-> **Alineamiento** | `=this.Alineamiento` |
-> **Estado** | `=this.Estado` |
+> **Dominio** | `VIEW[{Dominio}][text(renderMarkdown)]` |
+> **Rango Deidad** | `VIEW[{RangoDeidad}][text(renderMarkdown)]` |
+> **Alineamiento** | `VIEW[{Alineamiento}][text(renderMarkdown)]` |
+> **Estado** | `VIEW[{Estado}][text(renderMarkdown)]` |
 > **Prohibido** | `=this.=this.Simbolo
-> **Alias** |`=this.aliases` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
 > **Simbolo Sagrado** | `INPUT[inlineList:Simbolo]` |
-> **Sequito** | `=this.Sequito` |
+> **Sequito** | `VIEW[{Sequito}][text(renderMarkdown)]` |
 # 🔍 A simple vista
 
 #TBD
@@ -51,7 +51,7 @@ SORT file.name ASC
 
 > [!metadata|characters]+ Seguidores
 > ```dataview
-table without ID file.name AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
+table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
 FROM #NPC
 WHERE  contains(Facciones, [[]])
 SORT file.name ASC

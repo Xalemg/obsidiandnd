@@ -4,7 +4,6 @@
   "dataview",
   "new-tab-default-page",
   "obsidian-dice-roller",
-  "obsidian-leaflet-plugin",
   "obsidian-style-settings",
   "various-complements",
   "settings-search",
@@ -23,9 +22,14 @@
   "folder-notes",
   "obsidian42-brat",
   "calendarium",
-  "note-gallery",
   "obsidian-meta-bind-plugin",
-  "obsidian-git",
   "obsidian-show-file-path",
-  "obsidian-minimal-settings"
+  "obsidian-snippet-downloader",
+  "obsidian-leaflet-plugin",
+  "file-explorer-note-count",
+  "obsidian-admonition",
+  "custom-font-loader",
+  "webpage-html-export",
+  "automatic-table-of-contents",
+  "obsidian-git"
 ]

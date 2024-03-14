@@ -25,10 +25,10 @@ Mundo:
 > ###### Información basica
 >  |
 > ---|---|
->  **Ubicación** | `=this.Ubicacion` |
-> **Alias** |`=this.aliases` |
-> **Tipo** | `=this.Tipo` |
-> **Temática** | `=this.Tematica` |
+>  **Ubicación** | `VIEW[{Ubicacion}][text(renderMarkdown)]` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
+> **Tipo** | `VIEW[{Tipo}][text(renderMarkdown)]` |
+> **Temática** | `VIEW[{Tematica}][text(renderMarkdown)]` |
 
 # 🔍 A simple vista
 Gignatesca Catedral con forma de martillo. Hace a los vio andantes sentirse pequeños. Parece tener varias plantas y esta decorado con distintas vidrieras con escenas de la [[Corona de Altalos#📜 Historia| Historia de Altalos]] de un martillo gigante se encuentra incrustado en el centro de la catedral. Catedral del Martillo
@@ -43,7 +43,7 @@ El mayor edificio de rezo de Tyr. Aquí se producen los juicios mas importantes 
 
 
 
-> [!metadata|characters]+ NPCs
+> [!characters|characters]+ NPCs
 > ```dataview
 table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, join(Oficios, ", ") AS "Oficios", Alienamiento
 FROM #NPC

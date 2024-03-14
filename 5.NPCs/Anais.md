@@ -31,23 +31,23 @@ tags:
 >  |
 > ---|---|
 > **Raza** | `=this.Raza` |
-> **Sexo** | `=this.Sexo` |
+> **Sexo** | `VIEW[{Sexo}][text(renderMarkdown)]` |
 > **Age** | `=this.Edad` |
-> **Alineamiento** | `=this.Alineamiento` |
-> **Estado** | `=this.Estado` |
->  **💭Ideal** | `=this.Ideal` |
->  **🔗Vinculo** | `=this.Vinculo` |
->  **🌀Defecto** | `=this.Defecto` |
+> **Alineamiento** | `VIEW[{Alineamiento}][text(renderMarkdown)]` |
+> **Estado** | `VIEW[{Estado}][text(renderMarkdown)]` |
+>  **💭Ideal** | `VIEW[{Ideal}][text(renderMarkdown)]` |
+>  **🔗Vinculo** | `VIEW[{Vinculo}][text(renderMarkdown)]` |
+>  **🌀Defecto** | `VIEW[{Defecto}][text(renderMarkdown)]` |
 >  **🎭 Interpretacion** | `=this.Interpretacion` |
 > ###### Info
 >  |
 > ---|---|
-> **Alias** |`=this.aliases` |
-> **Oficios** | `=this.Oficios` |
-> **Facciones** | `=this.Facciones` |
-> **Rango faccion** |  `=this.Rango` |
-> **Religiones** | `=this.Religiones` |
-> **Ubicaciones** | `=this.Ubicacion` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
+> **Oficios** | `VIEW[{Oficios}][text(renderMarkdown)]` |
+> **Facciones** | `VIEW[{Facciones}][text(renderMarkdown)]` |
+> **Rango faccion** |  `VIEW[{Rango}][text(renderMarkdown)]` |
+> **Religiones** | `VIEW[{Religiones}][text(renderMarkdown)]` |
+> **Ubicaciones** | `VIEW[{Ubicacion}][text(renderMarkdown)]` |
 
 # 🔍 A simple vista
 Reflexiva

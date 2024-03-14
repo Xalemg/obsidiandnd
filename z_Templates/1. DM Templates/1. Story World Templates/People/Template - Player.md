@@ -14,7 +14,7 @@
 > ###### Info
 > Type |  Stat |
 > ---|---|
-> **Aliases** | `=this.aliases` |
+> **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
 > **Occupations** | `=this.occupation` |
 > **Groups** | `=link(this.AssociatedGroup)` |
 > **Religions** | `=link(this.AssociatedReligion)` |

@@ -4,24 +4,24 @@ icon: ![[z_Assets/Misc/PlaceholderImage.png
 ---
 
 > [!infobox| background-black ]++
-> `=this.Ubicacion`
+> `VIEW[{Ubicacion}][text(renderMarkdown)]`
 > ###### Bio
 >  |
 > ---|---|
-> **Raza** | `=this.Raza` |
-> **Sexo** | `=this.Sexo` |
-> **Age** | `=this.Edad` |
-> **Alignment** | `=this.Alineamiento` |
-> **Estado** | `=this.Estado` |
+> **Raza** | `VIEW[{Raza}][text(renderMarkdown)]` |
+> **Sexo** | `VIEW[{Sexo}][text(renderMarkdown)]` |
+> **Age** | `VIEW[{Edad}][text(renderMarkdown)]` |
+> **Alignment** | `VIEW[{Alineamiento}][text(renderMarkdown)]` |
+> **Estado** | `VIEW[{Estado}][text(renderMarkdown)]` |
 > ###### Info
 >  |
 > ---|---|
-> **Alias** |`=this.aliases` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
 > **Oficios** | `INPUT[inlineList:Oficios]` |
-> **Facciones** | `=this.Facciones` |
+> **Facciones** | `VIEW[{Facciones}][text(renderMarkdown)]` |
 > **Rango faccion** |  `=this.Rango` |
 > **Religiones** | `=this.Religiones` |
-> Ubicaciones | `=this.Ubicacion` |
+> Ubicaciones | `VIEW[{Ubicacion}][text(renderMarkdown)]` |
 
 > [!metadata|overview]+ A simple vista 
 `INPUT[editor:overview]`

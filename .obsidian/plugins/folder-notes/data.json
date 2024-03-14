@@ -111,6 +111,5 @@
   },
   "hideCollapsingIcon": false,
   "tabManagerEnabled": true,
-  "ignoreAttachmentFolder": true,
-  "allowWhitespaceCollapsing": false
+  "ignoreAttachmentFolder": true
 }

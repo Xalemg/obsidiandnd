@@ -28,7 +28,7 @@ overview:
 >  |
 > ---|---|
 >  **Ubicación** | `=link(this.location)` |
-> **Alias** | `=this.aliases` |
+> **Alias** | `VIEW[{aliases}][text(renderMarkdown)]` |
 > **Tipo** | `=this.type` |
 > **Población** | `=this.population` |
 > **Temática** | `=this.theme` |
@@ -96,7 +96,7 @@ table join(aliases, ", ") AS Aliases, join(type, ", ") AS Types
 WHERE econtains(Location, this.file.name) AND contains(NoteIcon, "Group")
 SORT file.name ASC
 
-> [!metadata|characters]+ NPCs
+> [!characters|characters]+ NPCs
 > [[👨‍👩‍👧‍👦 NPC Database| 📝Add New NPC]]
 > ```dataview
 table join(aliases, ", ") AS Aliases, join(occupation, ", ") AS "Occupations", join(link(associatedgroup), ", ") AS "Groups"

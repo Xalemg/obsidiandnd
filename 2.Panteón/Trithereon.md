@@ -20,14 +20,14 @@ Simbolo:
 > ###### Info
 >  |
 > ---|---|
-> **Dominio** | `=this.Dominio` |
-> **Rango Deidad** | `=this.RangoDeidad` |
-> **Alineamiento** | `=this.Alineamiento` |
-> **Estado** | `=this.Estado` |
-> **Prohibido** | `=this.Prohibido` |
-> **Alias** |`=this.aliases` |
-> **Simbolo Sagrado** | `=this.Simbolo` |
-> **Sequito** | `=this.Sequito` |
+> **Dominio** | `VIEW[{Dominio}][text(renderMarkdown)]` |
+> **Rango Deidad** | `VIEW[{RangoDeidad}][text(renderMarkdown)]` |
+> **Alineamiento** | `VIEW[{Alineamiento}][text(renderMarkdown)]` |
+> **Estado** | `VIEW[{Estado}][text(renderMarkdown)]` |
+> **Prohibido** | `VIEW[{Prohibido}][text(renderMarkdown)]` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
+> **Simbolo Sagrado** | `VIEW[{Simbolo}][text(renderMarkdown)]` |
+> **Sequito** | `VIEW[{Sequito}][text(renderMarkdown)]` |
 # 🔍 A simple vista
 
 Trithereon es el dios de la libertad y la rebeldía. Se caracteriza por las 3 almas que le representan y que siempre lleva consigo, su espada la Lengua de la Libertad, su lanza, Krelestro y el Bastón de la Retribución, su cetro.
@@ -55,7 +55,7 @@ SORT file.name ASC
 
 > [!metadata|characters]+ Seguidores
 > ```dataview
-table without ID file.name AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
+table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
 FROM #NPC
 WHERE  contains(Facciones, [[]])
 SORT file.name ASC

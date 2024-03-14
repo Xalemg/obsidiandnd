@@ -44,3 +44,5 @@ Centaurios (Centaurs)
 Minotauros (Minotaurs)
 Humano
 Enano
+Dragon
+Draconido

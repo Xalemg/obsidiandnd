@@ -1,0 +1,6 @@
+{
+  "font": "none",
+  "force_mode": true,
+  "custom_css_mode": true,
+  "custom_css": ":root * {\n\t\t--font-default:  'Bookinsanity Remake';\n\t\t--default-font:  'Bookinsanity Remake';\n\t\t--font-family-editor:  'Bookinsanity Remake';\n                --font-family: 'Bookinsanity Remake' !important;\n\t\t--font-monospace-default: none,\n\t\t--font-interface-override: none,\n\t\t--font-text-override:  'Bookinsanity Remake',\n\t\t--font-monospace-override: none,\t\n\t}\n"
+}

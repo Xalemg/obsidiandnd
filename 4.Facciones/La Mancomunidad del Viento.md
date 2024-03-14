@@ -24,13 +24,13 @@ Lider:
 > ###### Información basica
 >  |
 > ---|---|
->  **Ubicaciones** | `=this.Ubicacion` |
-> **Alias** |`=this.aliases` |
-> **Tipo** | `=this.Tipo` |
-> **Alineamiento** | `=this.Alineamiento` |
-> **Lideres** | `=this.Lideres` |
-> **Rangos** | ``=this.Rangos`` |
-> **Influencia** | `=this.Influencia` |
+>  **Ubicaciones** | `VIEW[{Ubicacion}][text(renderMarkdown)]` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
+> **Tipo** | `VIEW[{Tipo}][text(renderMarkdown)]` |
+> **Alineamiento** | `VIEW[{Alineamiento}][text(renderMarkdown)]` |
+> **Lideres** | `VIEW[{Lideres}][text(renderMarkdown)]` |
+> **Rangos** | `VIEW[{Rangos}][text(renderMarkdown)]` |
+> **Influencia** | `VIEW[{Influencia}][text(renderMarkdown)]` |
 
 
 
@@ -58,7 +58,7 @@ El nacimiento de [[La Mancomunidad del Viento]] fue uno de los eventos más impo
 
 #TBD
 
-> [!metadata|characters]+ Miembros
+> [!characters|characters]+ Miembros
 > ```dataview
 table without ID file.link as Nombre,  join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
 WHERE Faccion = this.file.name AND "#NPC"

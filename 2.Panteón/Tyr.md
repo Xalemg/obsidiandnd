@@ -20,13 +20,13 @@ RangoDeidad: Deidad Principal
 > ###### Info
 >  |
 > ---|---|
-> **Dominio** | `=this.Dominio` |
-> **Rango Deidad** | `=this.RangoDeidad` |
-> **Alineamiento** | `=this.Alineamiento` |
-> **Prohibido** | `=this.Prohibido` |
-> **Alias** |`=this.aliases` |
-> **Simbolo Sagrado** | `=this.Simbolo` |
-> **Sequito** | `=this.Sequito` |
+> **Dominio** | `VIEW[{Dominio}][text(renderMarkdown)]` |
+> **Rango Deidad** | `VIEW[{RangoDeidad}][text(renderMarkdown)]` |
+> **Alineamiento** | `VIEW[{Alineamiento}][text(renderMarkdown)]` |
+> **Prohibido** | `VIEW[{Prohibido}][text(renderMarkdown)]` |
+> **Alias** |`VIEW[{aliases}][text(renderMarkdown)]` |
+> **Simbolo Sagrado** | `VIEW[{Simbolo}][text(renderMarkdown)]` |
+> **Sequito** | `VIEW[{Sequito}][text(renderMarkdown)]` |
 # 🔍 A simple vista
 ![[Tyr.jpg | left portrait]]
 Se ocupaba principalmente del castigo de los malhechores y de la promoción general de la ley y el bien en el mundo. Tyr odiaba la duplicidad, el engaño, el incumplimiento de las normas y la destrucción gratuita. Asimismo, odiaba las mentiras y la ruptura de los juramentos, y le repugnaban las personas que ganaban dinero con tales cosas. Por su parte, nunca rompería una promesa.
@@ -49,7 +49,7 @@ SORT file.name ASC
 
 > [!metadata|characters]+ Seguidores
 > ```dataview
-table without ID file.name AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
+table without ID file.link AS Nombre, join(aliases, ", ") AS Aliases, Rango, join(Oficios, ", ") AS "Oficios"
 FROM #NPC
 WHERE  contains(Facciones, [[]])
 SORT file.name ASC

@@ -6,7 +6,7 @@
     {
       "id": "ID_fbd88a383ac8",
       "name": "Shamaliano",
-      "description": null,
+      "description": "Calendario que toma como referencia la fundación de la Mancomunidad del viento",
       "static": {
         "firstWeekDay": 0,
         "overflow": false,
@@ -170,9 +170,9 @@
         "incrementDay": false
       },
       "current": {
-        "year": 783,
+        "day": 11,
         "month": 0,
-        "day": 7
+        "year": 783
       },
       "events": [],
       "categories": [],
@@ -182,7 +182,8 @@
       ],
       "supportInlineEvents": false,
       "inlineEventTag": "#inline-events",
-      "showIntercalarySeparately": true
+      "showIntercalarySeparately": true,
+      "dateFormat": "DD-mm-YYYY"
     }
   ],
   "configDirectory": null,
@@ -190,22 +191,26 @@
   "dateFormat": "YYYY-MM-DD",
   "debug": false,
   "defaultCalendar": "ID_fbd88a383ac8",
-  "deletedCalendars": [],
   "eventFrontmatter": false,
-  "eventPreview": false,
+  "eventPreview": true,
   "exit": {
     "saving": false,
     "event": false,
     "calendar": false
   },
-  "inlineEventsTag": null,
-  "parseDates": false,
+  "inlineEventsTag": "#inline-events",
+  "parseDates": true,
   "syncBehavior": "Always",
-  "paths": [],
+  "paths": [
+    [
+      "/",
+      "ID_fbd88a383ac8"
+    ]
+  ],
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0,
-    "beta": 30
+    "patch": 10,
+    "beta": null
   }
 }

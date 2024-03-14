@@ -6,7 +6,7 @@
 > ###### Info
 >  |
 > ---|---|
-> **Aliases** | `=this.aliases` |
+> **Aliases** | `VIEW[{aliases}][text(renderMarkdown)]` |
 > **Type** | `=this.type` |
 > **Owner(s)** | `=this.owners` |
 > **Staff** | `=this.staff` |
