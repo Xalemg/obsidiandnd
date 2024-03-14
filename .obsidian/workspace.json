@@ -331,12 +331,13 @@
               "type": "markdown",
               "state": {
                 "file": "z_Templates/Plantilla- Asentamiento.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -402,7 +403,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Islas Shamal.md",
+                "file": "z_Templates/Plantilla- Asentamiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -419,7 +420,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Islas Shamal.md",
+                "file": "z_Templates/Plantilla- Asentamiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -442,7 +443,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Islas Shamal.md"
+                "file": "z_Templates/Plantilla- Asentamiento.md"
               }
             }
           },
@@ -536,12 +537,12 @@
       "obsidian-5e-statblocks:Open Creature Pane": false
     }
   },
-  "active": "f283af7ee43d08c2",
+  "active": "03fc0a37d7676df5",
   "lastOpenFiles": [
-    "3.Lugares/Isla de Altalos.md",
-    "3.Lugares/Islas Shamal.md",
-    "z_Templates/Plantilla- Asentamiento.md",
     "z_Templates/Plantilla- Punto de Interes.md",
+    "3.Lugares/Islas Shamal.md",
+    "3.Lugares/Isla de Altalos.md",
+    "z_Templates/Plantilla- Asentamiento.md",
     "z_Templates/Plantilla- Mazmorra.md",
     "z_Templates/Plantilla- Lugares.md",
     "8.Notas varias/Fragmentos de Dataview.md",
