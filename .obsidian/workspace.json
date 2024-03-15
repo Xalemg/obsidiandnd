@@ -545,8 +545,8 @@
       "templater-obsidian:Templater": false,
       "webpage-html-export:Export Vault to HTML": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "85b46c35a16eb8b5",
