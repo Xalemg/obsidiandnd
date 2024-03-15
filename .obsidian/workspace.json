@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "10. Sesiones/10. Sesiones.md",
                 "mode": "preview",
                 "source": false
               }
@@ -415,7 +415,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "10. Sesiones/10. Sesiones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -432,7 +432,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5.NPCs/Lisa.md",
+                "file": "10. Sesiones/10. Sesiones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -455,7 +455,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5.NPCs/Lisa.md"
+                "file": "10. Sesiones/10. Sesiones.md"
               }
             }
           },
@@ -551,6 +551,7 @@
   },
   "active": "ca1e2218225d727a",
   "lastOpenFiles": [
+    "5.NPCs/Lisa.md",
     "5.NPCs/5.NPCs.md",
     "⭐Hub.md",
     "10. Sesiones/El legado de plata (Sesión 2) .md",
@@ -576,7 +577,6 @@
     "9.Puntos de interes/La pocima del heroe.md",
     "9.Puntos de interes/Fortaleza de Norias.md",
     "4.Facciones/Familia de Norias.md",
-    "4.Facciones/Corona de Altalos.md",
     "z_Assets/NPCs/Kuma.png",
     "z_Assets/Arte/El desencadenamiento de Tyr.jpg",
     "z_Assets/Arte/El desencadenamiento de Tyr.webp",
