@@ -22,7 +22,7 @@ Defensas:
 Religion: 
 cssclasses: []
 ---
-> [!infobox| background-black ]+
+> [!infobox|n-th background-black ]+
 `VIEW[{icon}][text(renderMarkdown)]`
 > ###### Información basica
 >  |

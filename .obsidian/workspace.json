@@ -8,348 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f283af7ee43d08c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Lugares/Islas Shamal.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca1e2218225d727a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Sesiones/10. Sesiones.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e62382c5032cb340",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [
-                [
-                  {
-                    "image": null,
-                    "name": "Young White Dragon",
-                    "source": [
-                      "Monster Manual",
-                      "The Rise of Tiamat",
-                      "Tales from the Yawning Portal",
-                      "Dragon of Icespire Peak",
-                      "Icewind Dale: Rime of the Frostmaiden",
-                      "LK",
-                      "ToFW",
-                      "BMT"
-                    ],
-                    "type": "dragon",
-                    "size": "Large",
-                    "alignment": "chaotic evil",
-                    "hp": 133,
-                    "hit_dice": "14d10 + 56",
-                    "ac": 17,
-                    "speed": "40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.",
-                    "stats": [
-                      18,
-                      10,
-                      18,
-                      6,
-                      11,
-                      12
-                    ],
-                    "damage_immunities": "cold",
-                    "damage_resistances": "",
-                    "damage_vulnerabilities": "",
-                    "condition_immunities": "",
-                    "saves": [
-                      {
-                        "dexterity": "3"
-                      },
-                      {
-                        "constitution": "7"
-                      },
-                      {
-                        "wisdom": "3"
-                      },
-                      {
-                        "charisma": "4"
-                      }
-                    ],
-                    "skillsaves": [
-                      {
-                        "perception": "6"
-                      },
-                      {
-                        "stealth": "3"
-                      }
-                    ],
-                    "senses": "blindsight 30 ft., darkvision 120 ft., passive Perception 16",
-                    "languages": "Common, Draconic",
-                    "cr": "6",
-                    "traits": [
-                      {
-                        "name": "Ice Walk",
-                        "desc": "The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra movement."
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Multiattack",
-                        "desc": "The dragon makes three attacks: one with its bite and two with its claws."
-                      },
-                      {
-                        "name": "Bite",
-                        "desc": "Melee Weapon Attack +7 to hit, reach 10 ft., one target. 15 (2d10 + 4) piercing damage plus 4 (1d8) cold damage."
-                      },
-                      {
-                        "name": "Claw",
-                        "desc": "Melee Weapon Attack +7 to hit, reach 5 ft., one target. 11 (2d6 + 4) slashing damage."
-                      },
-                      {
-                        "name": "Cold Breath (Recharge 5-6)",
-                        "desc": "The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a 15 Constitution saving throw, taking 45 (10d8) cold damage on a failed save, or half as much damage on a successful one."
-                      }
-                    ],
-                    "bonus_actions": [],
-                    "reactions": [],
-                    "legendary_actions": [],
-                    "mythic_actions": [],
-                    "spells": [],
-                    "spellsNotes": ""
-                  },
-                  1
-                ],
-                [
-                  {
-                    "image": null,
-                    "name": "Icewind Kobold",
-                    "source": [
-                      "Icewind Dale: Rime of the Frostmaiden"
-                    ],
-                    "type": "humanoid",
-                    "subtype": "kobold",
-                    "size": "Small",
-                    "alignment": "any alignment",
-                    "hp": 9,
-                    "hit_dice": "2d6 + 2",
-                    "ac": 14,
-                    "speed": "30 ft., climb 20 ft.",
-                    "stats": [
-                      7,
-                      15,
-                      12,
-                      8,
-                      8,
-                      8
-                    ],
-                    "damage_immunities": "",
-                    "damage_resistances": "",
-                    "damage_vulnerabilities": "",
-                    "condition_immunities": "",
-                    "saves": [
-                      {
-                        "dexterity": "4"
-                      },
-                      {
-                        "constitution": "3"
-                      }
-                    ],
-                    "skillsaves": [
-                      {
-                        "perception": "1"
-                      },
-                      {
-                        "stealth": "4"
-                      },
-                      {
-                        "survival": "1"
-                      }
-                    ],
-                    "senses": "darkvision 60 ft., passive Perception 11",
-                    "languages": "Common, Draconic",
-                    "cr": "1/8",
-                    "traits": [
-                      {
-                        "name": "Pack Tactics",
-                        "desc": "The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated."
-                      },
-                      {
-                        "name": "Sunlight Sensitivity",
-                        "desc": "While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight."
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Dagger",
-                        "desc": "Melee / Ranged Weapon Attack +4 to hit, reach 5 ft. or range 20/60 ft., one target. 4 (1d4 + 2) piercing damage."
-                      },
-                      {
-                        "name": "Javelin",
-                        "desc": "Melee / Ranged Weapon Attack +0 to hit, reach 5 ft. or range 30/120 ft., one target. 1 (1d6 - 2) piercing damage."
-                      }
-                    ],
-                    "bonus_actions": [],
-                    "reactions": [],
-                    "legendary_actions": [],
-                    "mythic_actions": [],
-                    "spells": [],
-                    "spellsNotes": ""
-                  },
-                  17
-                ],
-                [
-                  {
-                    "image": null,
-                    "name": "Transmuter Wizard",
-                    "source": [
-                      "MPMM",
-                      "Volo's Guide to Monsters"
-                    ],
-                    "type": "humanoid",
-                    "size": "Medium",
-                    "alignment": "any alignment",
-                    "hp": 49,
-                    "hit_dice": "11d8",
-                    "ac": 12,
-                    "speed": "30 ft.",
-                    "stats": [
-                      9,
-                      14,
-                      11,
-                      17,
-                      12,
-                      11
-                    ],
-                    "damage_immunities": "",
-                    "damage_resistances": "",
-                    "damage_vulnerabilities": "",
-                    "condition_immunities": "",
-                    "saves": [
-                      {
-                        "intelligence": "6"
-                      },
-                      {
-                        "wisdom": "4"
-                      }
-                    ],
-                    "skillsaves": [
-                      {
-                        "arcana": "6"
-                      },
-                      {
-                        "history": "6"
-                      }
-                    ],
-                    "senses": "passive Perception 11",
-                    "languages": "any four languages",
-                    "cr": "5",
-                    "traits": [
-                      {
-                        "name": "Transmuter's Stone",
-                        "desc": "The transmuter carries a magic stone it crafted. The stone grants it one of the following benefits while bearing the stone; the transmuter chooses the benefit at the end of each long rest:"
-                      },
-                      {
-                        "name": "Darkvision",
-                        "desc": "The transmuter has {@sense darkvision} out to a range of 60 feet."
-                      },
-                      {
-                        "name": "Resilience",
-                        "desc": "The transmuter has proficiency in Constitution saving throws. "
-                      },
-                      {
-                        "name": "Resistance",
-                        "desc": "Resistance. The transmuter has resistance to acid, cold, fire, lightning, or thunder damage (transmuter's choice whenever choosing this benefit)."
-                      },
-                      {
-                        "name": "Speed",
-                        "desc": "The transmuter's walking speed is increased by 10 feet."
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Multiattack",
-                        "desc": "The transmuter makes three Arcane Burst attacks."
-                      },
-                      {
-                        "name": "Arcane Burst",
-                        "desc": "{@atk ms,rs} +6 to hit, reach 5 ft. or range 120 ft., one target. 19 (3d10 + 3) acid damage."
-                      }
-                    ],
-                    "bonus_actions": [
-                      {
-                        "name": "Transmute (Recharge 4-6)",
-                        "desc": "The transmuter casts alter self or changes the benefit of Transmuter's Stone if bearing the stone."
-                      }
-                    ],
-                    "reactions": [],
-                    "legendary_actions": [],
-                    "mythic_actions": [],
-                    "spells": [
-                      "The transmuter casts one of the following spells, using Intelligence as the spellcasting ability (spell save 14):",
-                      {
-                        "At will": "light, message, prestidigitation"
-                      },
-                      {
-                        "2/day each": "fireball, hold person, knock, mage armor, polymorph, slow"
-                      },
-                      {
-                        "1/day each": "telekinesis"
-                      }
-                    ],
-                    "spellsNotes": ""
-                  },
-                  1
-                ]
-              ]
-            }
-          },
-          {
-            "id": "5abdf622957b2f49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5.NPCs/5.NPCs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99572378f4fed1d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10. Sesiones/Sesión 3 El Legado de plata (2024-02-29).md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "85b46c35a16eb8b5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "⭐Hub.md",
                 "mode": "preview",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f283af7ee43d08c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5.NPCs/Emir Sander.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95d245a53a18fe0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Sesiones/Sesión 4 El Legado de plata (2024-03-18).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec49644892a5fc07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.Puntos de interes/Palacio de Altalos.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -378,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#NPC",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -399,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 315.5
   },
   "right": {
     "id": "cc70ceb331cfaefc",
@@ -408,6 +117,7 @@
       {
         "id": "66e141e4c5c2be88",
         "type": "tabs",
+        "dimension": 70.55888223552894,
         "children": [
           {
             "id": "785ab9631e1f7755",
@@ -415,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10. Sesiones/10. Sesiones.md",
+                "file": "10. Sesiones/Sesión 4 El Legado de plata (2024-03-18).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -432,9 +142,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10. Sesiones/10. Sesiones.md",
+                "file": "10. Sesiones/Sesión 4 El Legado de plata (2024-03-18).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b4290b2a206ded4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10. Sesiones/Sesión 4 El Legado de plata (2024-03-18).md"
               }
             }
           },
@@ -447,30 +167,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "2b4290b2a206ded4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "10. Sesiones/10. Sesiones.md"
-              }
-            }
-          },
-          {
-            "id": "f5f23bb565a59332",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.Campañas/0.Campañas.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
             }
           },
           {
@@ -494,41 +190,48 @@
             }
           },
           {
-            "id": "7ed509b569c7924c",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
             "id": "1acd5a6b282b8852",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 7
-      },
-      {
-        "id": "05c6e941dadb8659",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "71d4a587d370b4d9",
+            "id": "8004b3360b8d55a2",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-creature-view",
+              "type": "DICE_ROLLER_VIEW",
               "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "3fc71f5b2031cab9",
+        "type": "tabs",
+        "dimension": 29.44111776447106,
+        "children": [
+          {
+            "id": "f5f23bb565a59332",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Campañas/0.Campañas.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -544,39 +247,39 @@
       "obsidian42-brat:BRAT": false,
       "templater-obsidian:Templater": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature Pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ca1e2218225d727a",
+  "active": "95d245a53a18fe0d",
   "lastOpenFiles": [
-    "5.NPCs/Lisa.md",
-    "5.NPCs/5.NPCs.md",
     "⭐Hub.md",
-    "10. Sesiones/El legado de plata (Sesión 2) .md",
+    "9.Puntos de interes/Palacio de Altalos.md",
+    "0.Campañas/Grupos/Grupos.md",
+    "3.Lugares/Crestafria.md",
+    "0.Campañas/0.Campañas.md",
+    "10. Sesiones/Sesión 4 El Legado de plata (2024-03-18).md",
+    "5.NPCs/Emir Sander.md",
+    "3.Lugares/Islas Shamal.md",
+    "3.Lugares/Puerto Kalabor.md",
+    "3.Lugares/Cueva del regalo.md",
     "10. Sesiones/Sesión 3 El Legado de plata (2024-02-29).md",
+    "5.NPCs/Rufus.md",
+    "5.NPCs/5.NPCs.md",
+    "4.Facciones/La Mancomunidad del Viento.md",
+    "10. Sesiones/10. Sesiones.md",
+    "5.NPCs/Lisa.md",
+    "10. Sesiones/El legado de plata (Sesión 2) .md",
     "10. Sesiones/El legado de plata (Sesión 1).md",
     "3.Lugares/3.Lugares.md",
     "0.Campañas/Personajes/Personajes.md",
     "z_Templates/Plantilla- Tienda o Servicio.md",
     "z_Templates/Plantilla - Sesión.md",
-    "3.Lugares/Islas Shamal.md",
     "z_Templates/Plantilla- Punto de Interes.md",
     "z_Templates/Plantilla- Mazmorra.md",
     "z_Templates/Plantilla- Lugares.md",
     "z_Templates/Plantilla- Asentamiento.md",
-    "3.Lugares/Isla de Altalos.md",
-    "8.Notas varias/Fragmentos de Dataview.md",
-    "9.Puntos de interes/Los coros de la redención.md",
-    "9.Puntos de interes/9.Puntos de interes.md",
-    "3.Lugares/Aretries.md",
-    "5.NPCs/Giselda.md",
-    "9.Puntos de interes/Torre de Crestafria.md",
-    "3.Lugares/Crestafria.md",
-    "9.Puntos de interes/La pocima del heroe.md",
-    "9.Puntos de interes/Fortaleza de Norias.md",
-    "4.Facciones/Familia de Norias.md",
     "z_Assets/NPCs/Kuma.png",
     "z_Assets/Arte/El desencadenamiento de Tyr.jpg",
     "z_Assets/Arte/El desencadenamiento de Tyr.webp",

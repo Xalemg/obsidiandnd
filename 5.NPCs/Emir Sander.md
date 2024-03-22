@@ -4,9 +4,10 @@ tags:
 icon: "![[Emir Snader.webp]]"
 Ideal: ""
 fileClass: NPC
-Raza:
-  - Humanos (Humans)
-Ubicacion: "[[Puerto Kalabor]]"
+Raza: Humano
+Ubicacion:
+  - "[[Puerto Kalabor]]"
+  - "[[Islas Shamal]]"
 Religiones:
   - "[[Mystra]]"
 Estado: Vivo
