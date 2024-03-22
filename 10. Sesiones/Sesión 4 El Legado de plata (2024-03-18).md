@@ -20,7 +20,7 @@ Informacion relevante:
 > [!Info]-
 > - [x] Reflexionar sobre los PJs y en cosas que les involucren con la sesión 
 > - [ ] Elegir un comienzo de sesión impresionante
-> - [ ] Describir la información básica
+> - [ ] Describir las revelaciones claves
 > - [ ] Pensar en las escenas probables 
 > - [ ] Preparar Lugares fantasticos 
 > - [ ] Revisar Facciones importantes 
