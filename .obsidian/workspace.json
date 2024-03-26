@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18855729b20f949d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Lugares/Crestafria.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Palacio de Altalos.md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Palacio de Altalos.md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Palacio de Altalos.md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -228,12 +240,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ec49644892a5fc07",
+  "active": "18855729b20f949d",
   "lastOpenFiles": [
     "⭐Hub.md",
+    "9.Puntos de interes/Palacio de Altalos.md",
     "5.NPCs/Emir Sander.md",
     "10. Sesiones/Sesión 4 El Legado de plata (2024-03-18).md",
-    "9.Puntos de interes/Palacio de Altalos.md",
     "0.Campañas/Grupos/Grupos.md",
     "3.Lugares/Crestafria.md",
     "0.Campañas/0.Campañas.md",
