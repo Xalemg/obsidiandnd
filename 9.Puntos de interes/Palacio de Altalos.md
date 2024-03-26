@@ -8,7 +8,8 @@ icon: "![[PlaceholderImage.png]]"
 Tematica: 
 Tipo: 
 Prosperidad: Medio
-Defensas: 
+Defensas:
+  - La guardia real y gran numeros de magos de la torre de crestafria defienden el palacio
 Ubicacion: "[[Crestafria]]"
 Mundo:
   - Aretries
