@@ -9,7 +9,7 @@ Tematica:
 Tipo: 
 Prosperidad: Medio
 Defensas: 
-Ubicacion: 
+Ubicacion: "[[Crestafria]]"
 Mundo:
   - Aretries
 ---
