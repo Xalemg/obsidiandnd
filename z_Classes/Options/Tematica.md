@@ -22,3 +22,4 @@ Desolación
 Historia
 Congelacion
 Liberación
+Rebeldía

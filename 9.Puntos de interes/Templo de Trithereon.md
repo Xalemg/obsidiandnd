@@ -5,11 +5,15 @@ tags:
   - "#Lugar"
 aliases: 
 icon: "![[PlaceholderImage.png]]"
-Tematica: 
-Tipo: 
+Tematica:
+  - Liberación
+  - Rebeldía
+  - Religiosa
+Tipo: Templo
 Prosperidad: Medio
-Defensas: 
-Ubicacion: 
+Defensas:
+  - Clerigos armados
+Ubicacion: "[[Crestafria]]"
 Mundo:
   - Aretries
 ---
