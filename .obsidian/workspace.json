@@ -40,7 +40,7 @@
               "type": "markdown",
               "state": {
                 "file": "9.Puntos de interes/Templo de Trithereon.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -58,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "9.Puntos de interes/Templo de Trithereon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
+                "file": "9.Puntos de interes/Templo de Trithereon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.Lugares/Crestafria.md"
+                "file": "9.Puntos de interes/Templo de Trithereon.md"
               }
             }
           },
@@ -252,11 +252,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ec49644892a5fc07",
+  "active": "18855729b20f949d",
   "lastOpenFiles": [
-    "9.Puntos de interes/Palacio de Altalos.md",
-    "9.Puntos de interes/Templo de Trithereon.md",
     "3.Lugares/Crestafria.md",
+    "9.Puntos de interes/Templo de Trithereon.md",
+    "9.Puntos de interes/Palacio de Altalos.md",
     "z_Assets/Arte/Templo de Trithereon.png",
     "2.Panteón/Trithereon.md",
     "0.Campañas/0.Campañas.md",
