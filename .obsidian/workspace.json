@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Panteón/Trithereon.md",
+                "file": "9.Puntos de interes/Templo de Trithereon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Panteón/Trithereon.md",
+                "file": "9.Puntos de interes/Templo de Trithereon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Panteón/Trithereon.md"
+                "file": "9.Puntos de interes/Templo de Trithereon.md"
               }
             }
           },
@@ -264,8 +264,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4871aabffec0d2c0",
+  "active": "6ee1e2d35f004184",
   "lastOpenFiles": [
+    "2.Panteón/Trithereon.md",
     "9.Puntos de interes/Templo de Trithereon.md",
     "0.Campañas/0.Campañas.md",
     "3.Lugares/Crestafria.md",
@@ -291,7 +292,6 @@
     "z_Templates/Plantilla - Sesión.md",
     "z_Templates/Plantilla- Punto de Interes.md",
     "z_Templates/Plantilla- Mazmorra.md",
-    "z_Templates/Plantilla- Lugares.md",
     "z_Assets/NPCs/Kuma.png",
     "z_Assets/Arte/El desencadenamiento de Tyr.jpg",
     "z_Assets/Arte/El desencadenamiento de Tyr.webp",
