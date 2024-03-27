@@ -21,3 +21,4 @@ Superación
 Desolación
 Historia
 Congelacion
+Liberación

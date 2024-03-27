@@ -53,7 +53,7 @@ La entrada del templo está flanqueada por estatuas de feroces guerreros con ros
 
 Al entrar en el templo, nos recibe un vasto espacio abierto bañado por una cálida luz dorada. Las paredes están adornadas con estandartes y tapices con símbolos de rebelión: puños cerrados, cadenas rotas y llamas rugientes. En el aire se oyen cánticos y tambores que reflejan el espíritu de rebeldía que impregna el templo.
 
-En el centro de la cámara principal se alza un gran altar, tallado en piedra y adornado con ofrendas de armas, símbolos de libertad y de resistencia. Detrás del altar se eleva una estatua sw [[Trithereon]] , representado como un poderoso guerrero que blande una espada de fuego, con una alabarda a la .
+En el centro de la cámara principal se alza un gran altar, tallado en piedra y adornado con ofrendas de armas, símbolos de libertad y de resistencia. Detrás del altar se eleva una estatua de [[Trithereon]] , representado como un poderoso guerrero que blande una espada de fuego, un baculo y guarda una alabarda a su espalda.
 
 A medida que se avanza, se descubren pequeñas alcobas y cámaras dedicadas a diversos aspectos de la rebelión y la libertad: salas de estrategia donde se trazan planes de batalla, bibliotecas repletas de volúmenes de literatura revolucionaria y campos de entrenamiento donde los guerreros perfeccionan sus habilidades como preparación para la lucha contra la tiranía.
 
