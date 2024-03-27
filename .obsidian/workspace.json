@@ -52,7 +52,7 @@
               "type": "markdown",
               "state": {
                 "file": "9.Puntos de interes/Templo de Trithereon.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -266,6 +266,7 @@
   },
   "active": "6ee1e2d35f004184",
   "lastOpenFiles": [
+    "z_Assets/Arte/Templo de Trithereon.png",
     "2.Panteón/Trithereon.md",
     "9.Puntos de interes/Templo de Trithereon.md",
     "0.Campañas/0.Campañas.md",
@@ -291,7 +292,6 @@
     "z_Templates/Plantilla- Tienda o Servicio.md",
     "z_Templates/Plantilla - Sesión.md",
     "z_Templates/Plantilla- Punto de Interes.md",
-    "z_Templates/Plantilla- Mazmorra.md",
     "z_Assets/NPCs/Kuma.png",
     "z_Assets/Arte/El desencadenamiento de Tyr.jpg",
     "z_Assets/Arte/El desencadenamiento de Tyr.webp",

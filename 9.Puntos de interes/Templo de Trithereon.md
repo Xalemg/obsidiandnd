@@ -4,7 +4,7 @@ tags:
   - "#PuntoDeInteres"
   - "#Lugar"
 aliases: 
-icon: "![[PlaceholderImage.png]]"
+icon: "[[Templo de Trithereon.png]]"
 Tematica:
   - Liberación
   - Rebeldía
