@@ -44,9 +44,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ee1e2d35f004184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9.Puntos de interes/Templo de Trithereon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "9.Puntos de interes/Templo de Trithereon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.Campañas/0.Campañas.md",
+                "file": "9.Puntos de interes/Templo de Trithereon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.Campañas/0.Campañas.md"
+                "file": "9.Puntos de interes/Templo de Trithereon.md"
               }
             }
           },
@@ -240,11 +252,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f5f23bb565a59332",
+  "active": "6ee1e2d35f004184",
   "lastOpenFiles": [
+    "0.Campañas/0.Campañas.md",
+    "9.Puntos de interes/Templo de Trithereon.md",
     "3.Lugares/Crestafria.md",
     "3.Lugares/Islas Shamal.md",
-    "0.Campañas/0.Campañas.md",
     "⭐Hub.md",
     "9.Puntos de interes/Palacio de Altalos.md",
     "5.NPCs/Emir Sander.md",
@@ -267,7 +280,6 @@
     "z_Templates/Plantilla- Punto de Interes.md",
     "z_Templates/Plantilla- Mazmorra.md",
     "z_Templates/Plantilla- Lugares.md",
-    "z_Templates/Plantilla- Asentamiento.md",
     "z_Assets/NPCs/Kuma.png",
     "z_Assets/Arte/El desencadenamiento de Tyr.jpg",
     "z_Assets/Arte/El desencadenamiento de Tyr.webp",
