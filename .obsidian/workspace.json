@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9.Puntos de interes/Palacio de Altalos.md",
+                "file": "3.Lugares/Crestafria.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,20 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Lugares/Crestafria.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ee1e2d35f004184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "9.Puntos de interes/Templo de Trithereon.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -70,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9.Puntos de interes/Templo de Trithereon.md",
+                "file": "3.Lugares/Crestafria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9.Puntos de interes/Templo de Trithereon.md",
+                "file": "3.Lugares/Crestafria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9.Puntos de interes/Templo de Trithereon.md"
+                "file": "3.Lugares/Crestafria.md"
               }
             }
           },
@@ -264,16 +252,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6ee1e2d35f004184",
+  "active": "ec49644892a5fc07",
   "lastOpenFiles": [
+    "9.Puntos de interes/Palacio de Altalos.md",
+    "9.Puntos de interes/Templo de Trithereon.md",
+    "3.Lugares/Crestafria.md",
     "z_Assets/Arte/Templo de Trithereon.png",
     "2.Panteón/Trithereon.md",
-    "9.Puntos de interes/Templo de Trithereon.md",
     "0.Campañas/0.Campañas.md",
-    "3.Lugares/Crestafria.md",
     "3.Lugares/Islas Shamal.md",
     "⭐Hub.md",
-    "9.Puntos de interes/Palacio de Altalos.md",
     "5.NPCs/Emir Sander.md",
     "10. Sesiones/Sesión 4 El Legado de plata (2024-03-18).md",
     "0.Campañas/Grupos/Grupos.md",
@@ -303,7 +291,6 @@
     "z_Assets/NPCs/Gathrulam dragon blanco.jpg",
     "z_Assets/NPCs/Gathrulam dragon blanco.jpg.crdownload",
     "z_Assets/Arte/Calles Crestafria.webp",
-    "z_Assets/Arte/El espinazo.jpg",
     "z_Assets/Arte/wp6983089-anime-winter-mountain-wallpapers.jpg.crdownload",
     "z_Assets/Emblemas/gath igeo (1).png.crdownload",
     "z_Assets/Mapas/La cueva del sabio.png.crdownload",
