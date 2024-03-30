@@ -1,6 +1,43 @@
 {
-  "players": [],
-  "parties": [],
+  "players": [
+    {
+      "name": "Don Juan",
+      "level": 5,
+      "player": true
+    },
+    {
+      "name": "Eester",
+      "level": 5,
+      "player": true
+    },
+    {
+      "name": "Ollie",
+      "level": 5,
+      "player": true
+    },
+    {
+      "name": "Tita Ruya",
+      "level": 5,
+      "player": true
+    },
+    {
+      "name": "Eldritch",
+      "level": 5,
+      "player": true
+    }
+  ],
+  "parties": [
+    {
+      "name": "Strahd",
+      "players": [
+        "Don Juan",
+        "Eester",
+        "Ollie",
+        "Tita Ruya",
+        "Eldritch"
+      ]
+    }
+  ],
   "defaultParty": null,
   "statuses": [
     {
@@ -385,8 +422,8 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": true,
-    "showXP": true,
+    "showParty": false,
+    "showXP": false,
     "sidebarIcon": true,
     "headers": [
       {
