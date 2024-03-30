@@ -175,7 +175,13 @@
         "year": 783
       },
       "events": [],
-      "categories": [],
+      "categories": [
+        {
+          "id": "ID_295aa908fb38",
+          "color": "#3a4fc4",
+          "name": "Sesion"
+        }
+      ],
       "autoParse": false,
       "path": [
         "/"
@@ -209,8 +215,8 @@
   ],
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 10,
+    "minor": 1,
+    "patch": 0,
     "beta": null
   }
 }
